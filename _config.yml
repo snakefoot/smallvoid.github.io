@@ -1,0 +1,40 @@
+plugins:
+ - jekyll-archives
+ - jekyll-feed
+ - jekyll-paginate
+ - jekyll-seo-tag
+ - jekyll-sitemap
+
+# Site settings
+title: Smallvoid.com
+name: Smallvoid.com
+description: Smallvoid.com
+#url: http://smallvoid.com/
+baseurl: /smallvoid.github.io
+#baseurl: /
+github: true
+
+# Theme settings
+markdown: kramdown
+remote_theme: aterenin/minima-reboot
+
+header_pages:
+ - /about.md
+ - /articles.md
+ - /links.md
+rss: rss
+paginate: 5
+paginate_path: '/page/:num/'
+
+exclude:
+  - .gitignore
+  - README.md
+  - GemFile
+
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    tag: tag
+  permalinks:
+    tag: '/tag/:name/'

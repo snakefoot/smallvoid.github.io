@@ -1,1 +1,1 @@
-# smallvoid.github.io
+# smallvoid.com
