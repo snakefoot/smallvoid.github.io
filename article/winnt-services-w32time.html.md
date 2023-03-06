@@ -24,7 +24,8 @@ tags:
 
  Makes it possible to synchronize the computer clock with another system using the Network Time Protocol (NPT) on TCPIP port 123 (UDP).  
   
- Note in WinXP it will automatically try to synchronize with an Internet Time Server. To configure this synchronization double click the clock on the taskbar and select the Internet Time-tab. > net time /?  
+ Note in WinXP it will automatically try to synchronize with an Internet Time Server. To configure this synchronization double click the clock on the taskbar and select the Internet Time-tab.
+ > net time /?  
 >   
 >  Note NET TIME uses the [IPC$](/article/winnt-ipc-share.html) to synchronize time, thus the remote machine need to have the Server service (File and Printer Sharing) activated.
 

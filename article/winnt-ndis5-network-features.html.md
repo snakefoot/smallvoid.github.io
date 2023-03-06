@@ -27,7 +27,8 @@ Windows will detect if the network hardware has capabilities for offloading of t
 - **TCP/IP segmentation** - Also known as TCP Large Send where Windows delivers a large message to the NIC and it is responsible for chopping up the message according to network [MTU](/article/tcpip-mtu-size.html). This feature is not enabled by default, and Microsoft sees this as an experimental feature.
 - **Internet Protocol Security (IPSec) Encryption Ciphers and Message Digests** - Provides encryption of the packets sent/received at the hardware level.
  
- Checksum offloading should not be activated if one of the following features are turned on: - Windows Firewall
+ Checksum offloading should not be activated if one of the following features are turned on:
+ - Windows Firewall
  
  Note to disable the offloading of processor tasks to the network adapter:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters\]  

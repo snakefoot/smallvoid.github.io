@@ -29,7 +29,8 @@ tags:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Audiosrv\]  
 >  DependOnService = "..."
 
- Note another way to disable this service is to change the limit CPU resources that should be guaranteed for low-priority tasks. > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows NT \\CurrentVersion \\Multimedia \\SystemProfile\]  
+ Note another way to disable this service is to change the limit CPU resources that should be guaranteed for low-priority tasks.
+> \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows NT \\CurrentVersion \\Multimedia \\SystemProfile\]  
 >  SystemResponsiveness = 20 (10-100%, 100 disables MMCSS)  
 >   
 >  Vista Default = 20%, W2K8 Default = 100%.

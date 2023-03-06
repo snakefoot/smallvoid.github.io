@@ -30,7 +30,8 @@ Many programs are able to handle input parameters, which one can specify when la
   
  Note there also exists the input parameter %0, which is actually the batch-filename it self.  
   
- Note one can also use the SHIFT command incase the input parameter doesn't have to be in a certain order. SHIFT moves the parameter one to the left so %1 disappears, %2 becomes %1, %3 becomes %2 and etc. This behavior can be useful when having a batch file which receives an undefined order or amount of parameters. > :PARSELOOP  
+ Note one can also use the SHIFT command incase the input parameter doesn't have to be in a certain order. SHIFT moves the parameter one to the left so %1 disappears, %2 becomes %1, %3 becomes %2 and etc. This behavior can be useful when having a batch file which receives an undefined order or amount of parameters.
+> :PARSELOOP  
 >  IF "%1"=="" GOTO ENDPARSE  
 >  IF "%1"=="DEBUG" SET BUILD=DEBUG  
 >  IF "%1"=="RELEASE" SET BUILD=RELEASE  

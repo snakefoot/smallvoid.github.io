@@ -25,7 +25,8 @@ tags:
   
  Note this service should not be confused with [Windows Live Messenger](http://messenger.live.com/) (Replaces [Windows Messenger](http://messenger.microsoft.com/) and [MSN Messenger](http://messenger.msn.com/)). Disabling this service will not affect the operation of these Instant Messaging (IM) applications.  
   
- Note the service might not start in the following situations: - If the network bindings between protocols and network adapter are screwed. Uninstall and reinstall the protocols and check the bindings.
+ Note the service might not start in the following situations:
+- If the network bindings between protocols and network adapter are screwed. Uninstall and reinstall the protocols and check the bindings.
 - If the service detects another computer with the same name, can be caused by not being registered properly in the WINS, DNS server
 - If there is a mismatch between binaries, can be fixed by reinstalling the service pack
  

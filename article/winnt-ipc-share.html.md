@@ -37,7 +37,8 @@ The IPC$ is a [hidden share](/article/hidden-file-shares.html) maintained by the
 >   
 >  Incorrect password or unknown username for:*
 
- <a name="net_use"></a> Note it is possible to access the IPC$ share of a server by using a different credentials, than those used when logging on the client machine. (Even if needing to use a domain-user to access a server from outside the domain). > net use q: \\\\10.0.0.2\\c$ \[password\] /user:\[domain\\\]username
+ <a name="net_use"></a> Note it is possible to access the IPC$ share of a server by using a different credentials, than those used when logging on the client machine. (Even if needing to use a domain-user to access a server from outside the domain).
+ > net use q: \\\\10.0.0.2\\c$ \[password\] /user:\[domain\\\]username
 
  Note to block access to Remote Procedure Call (RPC), then one should ensure that the firewall blocks the following network ports: - TCP Port 135 - RPC Endpoint Mapper
 - UDP Port 137 - Netbios

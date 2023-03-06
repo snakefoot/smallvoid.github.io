@@ -29,7 +29,8 @@ Windows Vista includes a new Boot Manager (BootMgr) that replaces the old [NT Lo
 > 
 > - **\[id\]** - Is optional and specifies the GUID of the boot entry. If not specified then it will use the active GUID. To see all ids run this command **BCDEdit /enum**.
 
- List of some of the different datatype configuration switches available. More Info [MS MSDN](http://msdn2.microsoft.com/en-us/library/aa906211.aspx "BCD Boot Options Reference"): - **bootlog** - Yes / No  
+ List of some of the different datatype configuration switches available. More Info [MS MSDN](http://msdn2.microsoft.com/en-us/library/aa906211.aspx "BCD Boot Options Reference"):
+- **bootlog** - Yes / No  
    Enables the system initialization log.
 - **hal** - filename  
    Use a different [Hardware Abstraction Layer](/article/winnt-hardware-abstraction-layer.html) (HAL). The HAL file must reside in the %SystemRoot%\\system32 directory and conform to the 8.3 format. Useful if wanting switch between multi- and single-processor HAL.

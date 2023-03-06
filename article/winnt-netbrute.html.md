@@ -19,6 +19,7 @@ post_format: []
 tags:
     - 'port-scanner,network-diagnostic'
 ---
-[Netbrute](http://www.rawlogic.com/netbrute/) ([mirror](http://smallvoid.orgfree.com/?file=nbrute10.zip)) includes the following abilities: - NetBrute - Scans the network and display computers which announce themselves on the network with their accounts and shares (even [hidden](/article/hidden-file-shares.html)).
+[Netbrute](http://www.rawlogic.com/netbrute/) ([mirror](http://smallvoid.orgfree.com/?file=nbrute10.zip)) includes the following abilities:
+- NetBrute - Scans the network and display computers which announce themselves on the network with their accounts and shares (even [hidden](/article/hidden-file-shares.html)).
 - PortScan - Scans for listening TCP ports.
 - WebBrute - Can perform a dictionary attack a HTTP Authenticated web site.

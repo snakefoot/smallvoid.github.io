@@ -42,7 +42,7 @@ The [NT Loader](/article/winnt-update-boot-manager.html) (NTLDR) is part of the 
  More Info [MS KB320397](http://support.microsoft.com/kb/320397 "You receive an "NTLDR is missing" error message when you start your computer [Q320397]")  
   
  Note if the NT Loader (Ntldr) have become compressed, then it will fail because all features of NTFS is not available during booting and give the error "NTLDR is compressed". To decompress the Ntldr use the [Recovery Console](/article/winnt-recovery-console.html) and execute these two commands:
-1. > CD \\
-2. > ATTRIB -C NTLDR
+ > CD \\
+ > ATTRIB -C NTLDR
  
  Credits [ComputerHope.com](http://www.computerhope.com/issues/ch000465.htm)

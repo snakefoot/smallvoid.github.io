@@ -69,7 +69,8 @@ Remote Desktop Client (RDC) is installed by default on WinXP, but it will also r
 >  More Info [MS KB304304](http://support.microsoft.com/kb/304304 "Configuring the Remote Desktop Client to Connect to a Specific Port [Q304304]")
 
  Note it is possible to make a local printer available in a remote session:
-1. Click Start -&gt; Run.. > mstsc.exe
+1. Click Start -&gt; Run..
+   > mstsc.exe
 2. Click **Options** in the Remote Desktop Connection dialog box.
 3. Click the **Local Resources** tab.
 4. Click **Printers** in the Local Devices box.

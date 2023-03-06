@@ -62,7 +62,8 @@ The Recovery Console is a command prompt environment that is useful for emergenc
 
  Instead of having to find the Windows install CD every time the Recovery Console is needed, then one can install the Recovery Console on the computer. This is also useful if the computer cannot boot from a CD-ROM.  
   
- Inside Windows run the following command (X: is your CD-Drive containing the Windows CD-ROM) > X:\\i386\\winnt32.exe /cmdcons
+ Inside Windows run the following command (X: is your CD-Drive containing the Windows CD-ROM)
+ > X:\\i386\\winnt32.exe /cmdcons
 
  Note when having installed the Recovery Console on the computer, then it becomes part of the standard boot menu. It is possible to [install extra drivers to the Recovery Console](/article/recovery-console-drivers.html), so one doesn't need extra floppies to load disk controller drivers (Also useful if there is no floppy drive in the computer).  
   

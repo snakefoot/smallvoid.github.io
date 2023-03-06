@@ -26,7 +26,8 @@ It is possible to change some of the text shown on **System Properties**, which 
 
 1. Go to the folder **%Windir%\\System**
 2. Create a new text file and name it **OemInfo.ini**
-3. Edit the new text file and insert the following lines (Modify them as you wish) > \[general\]  
+3. Edit the new text file and insert the following lines (Modify them as you wish)
+  > \[general\]  
   >  Manufacturer=Dell  
   >  Model=XPS200s  
   >   

@@ -17,8 +17,9 @@ tags:
 ---
 ##### Description:
 
- It provides two services (TCPIP Port 88): - **Authentication Service**: Issues Ticket-Granting Tickets (TGTs) to allow connection to the "Ticket-Granting Service" in a trusted domain.
-- **Ticket-Granting Service (TGS)**: Issues tickets for making connections to computers in the local domain for clients having a TGT.
+ It provides two services (TCPIP Port 88):
+ - **Authentication Service**: Issues Ticket-Granting Tickets (TGTs) to allow connection to the "Ticket-Granting Service" in a trusted domain.
+ - **Ticket-Granting Service (TGS)**: Issues tickets for making connections to computers in the local domain for clients having a TGT.
  
  More Info [MS KB235529](http://support.microsoft.com/kb/235529 "Kerberos Support on Windows 2000-Based Server Clusters [Q235529]")  
  More Info [MS KB262177](http://support.microsoft.com/kb/262177 "HOW TO: Enable Kerberos Event Logging [Q262177]")  

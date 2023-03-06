@@ -49,7 +49,8 @@ When using a network, one is sending and receiving packets. On large networks li
 - To test favorite homepage, ping the homepage address. Ex.
   > PING www.google.com -f -l 1472
  
- To configure the MTU in Windows: - [Windows 2000, XP, 2003, Vista using registry](/article/winnt-tcpip-mtu.html) or [Windows Vista using Netsh](/article/vista-tcpip-mtu.html)
+ To configure the MTU in Windows:
+- [Windows 2000, XP, 2003, Vista using registry](/article/winnt-tcpip-mtu.html) or [Windows Vista using Netsh](/article/vista-tcpip-mtu.html)
 - [Windows 95, 98, Me using Registry](/article/win9x-tcpip-mtu.html)
 - [Windows NT4 using Registry](/article/winnt4-tcpip-mtu.html)
  

@@ -27,7 +27,8 @@ Windows XP Home has been crippled by Microsoft, so it is not capable of joining 
 4. Change the Workgroup name to the name of the Windows-domain (Not the domain-server name).
 5. **My Network Places** should now contain the shares available in the domain, and it is possible to map a network drive to a share within the Windows domain.
  
- Note one can also access shares and printers without needing to change workgroup. When doing a **Map Network Drive...**, then make sure to include the domain-name when specifying the remote share, and the user must be specified as "username@domain-name". > \\\\server-name.domain-name\\c$
+ Note one can also access shares and printers without needing to change workgroup. When doing a **Map Network Drive...**, then make sure to include the domain-name when specifying the remote share, and the user must be specified as "username@domain-name".
+ > \\\\server-name.domain-name\\c$
 
  Note even if XP Home can access shares on the Windows domain, then it doesn't become member of the domain along with the benefits of [group policies](/article/winnt-group-policy-registry.html) and central user management. If the domain password policy causes the password to expire, then it is not possible to change the password from XP Home.  
   

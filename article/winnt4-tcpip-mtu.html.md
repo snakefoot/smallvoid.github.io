@@ -25,11 +25,13 @@ The default [Max Transfer Unit (MTU) size](/article/tcpip-mtu-size.html) for eth
 - Adapter MTU (Go to the Services-key and do a search for "TCPIP" to find the different adapters using TCPIP)
   > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\{Adapter-Name} \\Parameters \\Tcpip\]  
   >  MTU = 1500
-- Point-To-Point Protocol (PPP) MTU (WinNT4 SP4+) > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet\\Services \\NdisWan \\Parameters\]  
+- Point-To-Point Protocol (PPP) MTU (WinNT4 SP4+)
+  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet\\Services \\NdisWan \\Parameters\]  
   >  IPMTU = 1500  
   >   
   >  More Info [MS KB183229](http://support.microsoft.com/kb/183229 "RAS Uses Fixed TCP/IP MTU Size [Q183229]")
-- Virtual Private Network (VPN) Tunnel MTU (WinNT4 SP4+) > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet\\Services \\NdisWan \\Parameters\]  
+- Virtual Private Network (VPN) Tunnel MTU (WinNT4 SP4+)
+  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet\\Services \\NdisWan \\Parameters\]  
   >  TunnelMTU= 1400  
   >   
   >  More Info [MS KB183229](http://support.microsoft.com/kb/183229 "RAS Uses Fixed TCP/IP MTU Size [Q183229]")

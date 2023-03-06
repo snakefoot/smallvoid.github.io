@@ -26,7 +26,8 @@ After an incorrect/improper shutdown, then Windows will perform a CHKDSK of the 
 
 > Chkdsk cannot run because the volume is in use by another process. Would you like to schedule this volume to be checked the next time the system restarts? (Y/N)
 
- When booting the CHKDSK is not started before a timer has expired, allowing the user to avoid running CHKDSK at boot. > *To skip disk checking, press any key within 10 seconds.*
+ When booting the CHKDSK is not started before a timer has expired, allowing the user to avoid running CHKDSK at boot.
+ > *To skip disk checking, press any key within 10 seconds.*
 
  The timer is in seconds and can be controlled with this DWORD :  
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Session Manager\]  

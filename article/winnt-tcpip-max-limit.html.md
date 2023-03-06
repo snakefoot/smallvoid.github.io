@@ -84,7 +84,8 @@ To keep the TCP/IP stack from taking all resources on the computer, there are di
   
  Note even if having optimized Windows to handle many concurrent connections, then connections might still be refused when reaching a certain limit, in case a NAT-Router/Firewall is placed infront of it, which is unable to handle so many concurrent connections.  
   
- Note if having activated [SYN-Attack-Protection](http://support.microsoft.com/kb/324270 "How to harden the TCP/IP stack against denial of service attacks in Windows Server 2003 [Q324270]") (Enabled by default in Win2k3 SP1) or installed WinXP SP2, a limit is introduced on how many connection attempts (half-open) one can make simultaneously (XP SP2 &amp; Vista = 10; Vista SP2 = no limit). This will keep worms like [blaster](/article/winnt-blaster-rpc-exploit.html) and [sasser](/article/winnt-sasser-lsa-exploit.html) from spreading too fast, but it will also limit other applications that creates many new connections simultaneously (Like P2P). > *EventID 4226: TCP/IP has reached the security limit imposed on the number of concurrent TCP connect attempts*  
+ Note if having activated [SYN-Attack-Protection](http://support.microsoft.com/kb/324270 "How to harden the TCP/IP stack against denial of service attacks in Windows Server 2003 [Q324270]") (Enabled by default in Win2k3 SP1) or installed WinXP SP2, a limit is introduced on how many connection attempts (half-open) one can make simultaneously (XP SP2 &amp; Vista = 10; Vista SP2 = no limit). This will keep worms like [blaster](/article/winnt-blaster-rpc-exploit.html) and [sasser](/article/winnt-sasser-lsa-exploit.html) from spreading too fast, but it will also limit other applications that creates many new connections simultaneously (Like P2P).
+> *EventID 4226: TCP/IP has reached the security limit imposed on the number of concurrent TCP connect attempts*  
 >   
 >  More Info [www.LvlLord.de](http://www.lvllord.de/)  
 >   

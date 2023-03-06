@@ -31,11 +31,13 @@ If you for reason have gotten a boot-sector virus on your hands, then the virus 
  
  Credits [Computer Knowlegde](http://www.cknow.com/vtutor/FDISKMBR.html)  
   
- But if one still dare to try it. : - Make sure you are not running any programs at start up, as they might also be infected.
+ But if one still dare to try it:
+- Make sure you are not running any programs at start up, as they might also be infected.
   > move C:\\autoexec.bat C:\\autoexec.old  
   > move C:\\config.sys C:\\config.old
 - If using MS DOS 7 (Win9x), make sure to press F8 so you don't enter Windows, but boot into Clean DOS
-- Then use FDISK to rewrite the master boot record > FDISK /MBR
+- Then use FDISK to rewrite the master boot record
+  > FDISK /MBR
 - Reboot right after and now you should have loaded DOS without having the virus loaded to memory. Thus allowing you to start the antivirus program and remove the virus completely.
  
  Another solution is to delete the infected partition using FDISK and create it again. Though with the side effect that you will loose all data on that partition.  

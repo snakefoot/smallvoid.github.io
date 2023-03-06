@@ -24,7 +24,8 @@ tags:
  When having problems with a service wrapper, then it is usually caused by one or more of the services running within the context of the service wrapper.  
 ##### Which service wrappers exist ?
 
- Some of the common service wrappers, which can be seen in the Task Manager: - **Services.exe** : Services Control Manager for system services.
+ Some of the common service wrappers, which can be seen in the Task Manager:
+- **Services.exe** : Services Control Manager for system services.
 - **Lsass.exe** : Local Security Authority SubSystem for security services. More Info [MS KB308356](http://support.microsoft.com/kb/308356 "Memory Usage by the Lsass.exe Process on Windows 2000-Based and Windows Server 2000-Based Domain Controllers [Q308356]")
 - **Svchost.exe** : Service Host for loading dynamic-link libraries (DLL) as a services
 - **Dllhost.exe** : DCOM DLL Host Process (Aka. COM Surrogate)supports DLL based COM objects. (Replaces Mtx.exe)
@@ -35,17 +36,21 @@ tags:
  
 ##### Why does the service wrappers request access to the Internet ?
 
- When a service inside a service wrapper needs to access the network, then has to go through the service wrapper, so the service wrapper becomes the one trying to get access. Therefore one should be careful before using a firewall to block network access for a service wrapper. Usually one can see what service that wants access, by looking at the port number: - [DNS Client](/article/winnt-services-dnscache.html) (Port 53)
+ When a service inside a service wrapper needs to access the network, then has to go through the service wrapper, so the service wrapper becomes the one trying to get access. Therefore one should be careful before using a firewall to block network access for a service wrapper. Usually one can see what service that wants access, by looking at the port number:
+- [DNS Client](/article/winnt-services-dnscache.html) (Port 53)
 - [DHCP Client](/article/winnt-services-dhcp.html) (Port 67)
 - [Windows Time](/article/winnt-services-w32time.html) (Port 123)
 - [SSDP Discovery Service](/article/winnt-services-ssdpsrv.html) (Port 1900/5000)
  
  Note if using a software firewall and gives access for a service wrapper, then it means that all services within the service wrapper is given access, unless specifying a rule where only a certain port number is allowed for the service wrapper.  
   
- Note to see the processes along with the port numbers used: - **WinXP** (Will show open ports and the process-id they belong to) > netstat -ano  
+ Note to see the processes along with the port numbers used:
+- **WinXP** (Will show open ports and the process-id they belong to)
+  > netstat -ano  
   >   
   >  Note to convert the process-id to a process-name use TList/Tasklist (See below), and if the process is a service wrapper then one can also see the services running within the service wrapper.
-- **WinXP SP2** (Will show open ports and the process-name and component they belong to) > netstat -b
+- **WinXP SP2** (Will show open ports and the process-name and component they belong to)
+  > netstat -b
 - **CurrPorts** by [Nirsoft](http://nirsoft.mirrorz.com/) is a GUI version of netstat that works with WinNT/2k/XP
  
  More Info [MS KB832017](http://support.microsoft.com/kb/832017 "Port Requirements for the Microsoft Windows Server System [Q832017]")  
@@ -53,7 +58,8 @@ tags:
  
 ##### How to see the services currently loaded by the wrapper ?
 
- The Task Manager will only show the wrapper process itself and not the actual services. Instead use this command to see what services are hidding behind the process names: - Vista: 
+ The Task Manager will only show the wrapper process itself and not the actual services. Instead use this command to see what services are hidding behind the process names:
+- Vista: 
   - Open the Task Manager (Hold down the keys CTRL + ALT + ESC) and right-click the service-wrapper proces and select "Go to Service(s)"
 - WinXP:
   > Tasklist /SVC
@@ -91,7 +97,8 @@ tags:
 
 ##### Why is the service wrapper using 100 percent of the CPU ?
 
- This is not normal behavior and is usually caused by a malfunctioning service running inside the service wrapper. To diagnose what service is causing the trouble: - Look in the Event Log for error messages, and if error messages are present then use them as starting point.
+ This is not normal behavior and is usually caused by a malfunctioning service running inside the service wrapper. To diagnose what service is causing the trouble:
+- Look in the Event Log for error messages, and if error messages are present then use them as starting point.
 - If no error messages then one can try to use the Windows Task Manager to find the service-wrapper causing the trouble, and then use the technique described above for discovering what services resides inside the service-wrapper. 
   - Some trojans, spyware, malware software tries to hide themselves by using executable name of a service wrapper. Make sure the system is not infected.
 - If no clear evidence of what service is causing the trouble, try to close down each service in the service wrapper one by one and see when the problem goes away (be careful with critical services). Another way is to move each service out in its own service wrapper by using the method described above.

@@ -20,7 +20,8 @@ If already having older PowerToys installed remember to uninstall those before i
 - [Microsoft PowerToys for Windows XP](http://www.microsoft.com/windowsxp/downloads/powertoys/xppowertoys.mspx)
 - [Microsoft PowerToys for Windows XP Media Center Edition](http://www.microsoft.com/windowsxp/downloads/powertoys/mcepowertoys.mspx)
  
- Some of the exciting toys included: - **ClearType Tuner** : Improve the clarity of fonts rendered using Clear Type anti aliasing.
+ Some of the exciting toys included:
+- **ClearType Tuner** : Improve the clarity of fonts rendered using Clear Type anti aliasing.
 - **Super-Fast User Switcher** : Allows switching between users without having to go through the Logon screen.
 - **Open Command Window Here** : Adds an "Open Command Window Here" context menu option on file system folders, giving you a quick way to open a command window (cmd.exe) pointing at the selected folder.
 - **Alt-Tab Replacement** : Makes it easier to switch between multiple sessions of an application. One sees the icon of the application window switching to and gets a preview of the page.

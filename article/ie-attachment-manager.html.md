@@ -30,7 +30,6 @@ Windows XP SP2 includes a new feature called Attachment Manager, which adds a se
  When opening a file with an ADS that says it is from the Internet zone, then the Attachment Execution Services (AES) is activated. It recognizes the following 3 categories of files:
 
 - High Risk - Will block the file from being opened, when the file is from the restricted-zone:
-
   > *Windows Security Warning:  
   >   
   >  Windows found that this file is potentially harmful. To help protect your computer, Windows has blocked access to this file.*
@@ -64,7 +63,8 @@ Windows XP SP2 includes a new feature called Attachment Manager, which adds a se
  There are different [group policies](/article/winnt-group-policy-registry.html), which can be used to configure the attachment manager, which can be found here:
   > User Configuration \\Administrative Templates \\Windows Components \\Attachment Manager
 
-- **Default risk level for file attachments** - This controls how to treat files that are zone-marked and not found in the built-in lists of known filetypes. By default it treats unknown file as "Moderate Risk".
+- **Default risk level for file attachments**
+- This controls how to treat files that are zone-marked and not found in the built-in lists of known filetypes. By default it treats unknown file as "Moderate Risk".
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\Associations\]  
   >  DefaultFileTypeRisk = 6151 (High = 6150, Moderate = 6151, Low = 6152)
 - **Do not preserve zone information in file attachments** - This controls whether the Attachment Manager should zone-mark files downloaded from the Internet. By default zone-marking is enabled.

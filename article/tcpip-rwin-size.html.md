@@ -52,10 +52,11 @@ tags:
 
 ##### How to find the optimal receive window size with PING?
 
- To use the PING (Packet InterNet Groper) tool to find the optimal RWIN Size, ping your ISP with the [Max Transfer Unit(MTU) size](/article/tcpip-mtu-size.html) (The -28 is because of the IP- and ICMP-Header which the PING tool adds.) > PING www.tiscali.dk -f -l &lt;MTU-28&gt; -n 10
+ To use the PING (Packet InterNet Groper) tool to find the optimal RWIN Size, ping your ISP with the [Max Transfer Unit(MTU) size](/article/tcpip-mtu-size.html) (The -28 is because of the IP- and ICMP-Header which the PING tool adds.)
+ > PING www.tiscali.dk -f -l &lt;MTU-28&gt; -n 10
 
- Then insert the values of your connection in this calculation :  
-> Bandwidth(kbps) / 8 \* Average Latency(MiliSec) = RWIN Size(Bytes)
+ Then insert the values of your connection in this calculation  
+ > Bandwidth(kbps) / 8 \* Average Latency(MiliSec) = RWIN Size(Bytes)
 
  Then round up the RWIN Size to a multiple of the Maximum Segment Size (MSS) which is equal the MTU Size subtracted the size of IP Header (20 Bytes) and TCP Header (20 bytes + ? bytes depending of options like timestamp being enabled). So if your MTU Size is 1500 then your MSS is usually 1460 (1448 if timestamp is enabled).  
   

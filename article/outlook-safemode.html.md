@@ -33,7 +33,8 @@ When Outlook fails to start because it crashes or stops/freezes at the splash sc
  Note if Outlook has a slow startup or performs slowly (but can start), then one can try to activate the builtin repair tool. It can be found under **Tools** and **Detect &amp; Repair**. Also consider to check if having installed Outlook addins that are causing problems (Antivirus addins can also malfunction). If loading local mail archives that are broken can also cause bad performance. More Info [MS KB291957](http://support.microsoft.com/kb/291957 "OL2000: How to Force the Detect and Repair Tool to Run in Outlook 2000")  
   
  Note if the safemode option solves the problem with actually starting Outlook, then renaming the following files should enable starting Outlook without safemode (Search the computer for the files): 
-- Views.dat (Stores views associated with the Integrated File Management component) > Outlook.exe /CleanViews
+- Views.dat (Stores views associated with the Integrated File Management component)
+  > Outlook.exe /CleanViews
 - Outcmd.dat (Stores menu style settings)
 - Extend.dat (Cache for extension registry entries - More info [MS KB286408](http://support.microsoft.com/kb/286408 "Description of Outlook and Exchange client extensions [Q286408]"))
 - Frmcache.dat (Cache for default and custom forms - More info [MS KB290806](http://support.microsoft.com/kb/290806 "Description of Outlook 2002 forms cache [Q290806]"))

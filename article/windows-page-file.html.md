@@ -51,7 +51,8 @@ When using Windows NT operating systems, then the best configuration for the pag
   - Windows 2000/NT4 - "MEM Usage" and "Memory Usage History".
   - Windows Vista - Doesn't show any graph and the commit charge value have been renamed to "Page File - Value1 / Value2", where Value1 is the commit charge and Value2 is the actual pagefile size.
  
- Unless doing full memory dump analysis, then the pagefile should only work as a buffer in the situation where the commit charge becomes higher than the available RAM. There is no golden rule for how to calculate the size of the pagefile, but here is one from Microsoft: 1. Set your pagefile to be system managed
+ Unless doing full memory dump analysis, then the pagefile should only work as a buffer in the situation where the commit charge becomes higher than the available RAM. There is no golden rule for how to calculate the size of the pagefile, but here is one from Microsoft:
+1. Set your pagefile to be system managed
 2. Use your computer like you normally do by running your favorite applications and games
 3. After using the computer a few hours then check the page file peak usage. [WinXP-2K\_Pagefile.zip](http://billsway.com/notes_public/WinXP_Tweaks) contains a VB Script that can display the current size of the pagefile, but also the peak size. 
   - Minimum page file should be 1.7 times the page file peak size.
@@ -124,26 +125,31 @@ When using Windows NT operating systems, then the best configuration for the pag
  More Info [MS KB314482](http://support.microsoft.com/kb/314482 "How to configure paging files for optimization and recovery in Windows XP [Q314482]")  
 ##### How to configure the page file properties in Windows
 
- To setup pagefile in Win9x [MS KB259184](http://support.microsoft.com/kb/259184 "How to Increase the Memory Capability of Your Computer [Q259184]"): 1. Start Button -&gt; Settings -&gt; Control Panel -&gt; System -&gt; Performance tab -&gt; Virtual Memory.
+ To setup pagefile in Win9x [MS KB259184](http://support.microsoft.com/kb/259184 "How to Increase the Memory Capability of Your Computer [Q259184]"):
+1. Start Button -&gt; Settings -&gt; Control Panel -&gt; System -&gt; Performance tab -&gt; Virtual Memory.
 2. Select "Let me specify my own virtual memory settings".
 3. Set minimum and maximum size.
  
- To setup pagefile in WinNT [MS KB123747](http://support.microsoft.com/kb/123747 "Moving the Windows Default Paging and Spool File [Q123747]"): 1. Start Button -&gt; Settings -&gt; Control Panel -&gt; System -&gt; Performance tab.
+ To setup pagefile in WinNT [MS KB123747](http://support.microsoft.com/kb/123747 "Moving the Windows Default Paging and Spool File [Q123747]"):
+1. Start Button -&gt; Settings -&gt; Control Panel -&gt; System -&gt; Performance tab.
 2. Under "Virtual Memory" press the "Change..." button.
 3. Check "Let me specify my own Virtual Memory Settings".
 4. Set initial and maximum size.
  
- To setup pagefile in Win2k [MS KB123747](http://support.microsoft.com/kb/123747 "Moving the Windows Default Paging and Spool File [Q123747]"): 1. Start Button -&gt; Settings -&gt; Control Panel -&gt; System -&gt; Advanced tab.
+ To setup pagefile in Win2k [MS KB123747](http://support.microsoft.com/kb/123747 "Moving the Windows Default Paging and Spool File [Q123747]"):
+1. Start Button -&gt; Settings -&gt; Control Panel -&gt; System -&gt; Advanced tab.
 2. Under "Performance" press "Performance Options..." button.
 3. Under "Virtual Memory" press "Change..." button.
 4. Set initial and maximum size.
  
- To setup pagefile in WinXP [MS KB307886](http://support.microsoft.com/kb/307886 "HOW TO: Move the Paging File in Windows XP [Q307886]"): 1. Start Button -&gt; Control Panel -&gt; Performance and Maintenance -&gt; System -&gt; Advanced tab.
+ To setup pagefile in WinXP [MS KB307886](http://support.microsoft.com/kb/307886 "HOW TO: Move the Paging File in Windows XP [Q307886]"):
+1. Start Button -&gt; Control Panel -&gt; Performance and Maintenance -&gt; System -&gt; Advanced tab.
 2. Under the "Performance" section press "Settings" button.
 3. Under the "Virtual Memory" section press the "Change..." button.
 4. Set initial and maximum size (or just select "System Managed Size").
  
- To setup pagefile in Vista [WindowsHelp](http://windowshelp.microsoft.com/Windows/en-US/help/596fb57f-cc9d-4ac5-a813-5c0830e9156a1033.mspx "Get maximum performance from Windows Vista"): 1. Start Button -&gt; Control Panel -&gt; System-applet -&gt; Advanced System Setting-task -&gt; Advanced-tab -&gt; Performance Settings...-button -&gt; Advanced-tab -&gt; Virtual Memory Change...-button (phew).
+ To setup pagefile in Vista [WindowsHelp](http://windowshelp.microsoft.com/Windows/en-US/help/596fb57f-cc9d-4ac5-a813-5c0830e9156a1033.mspx "Get maximum performance from Windows Vista"):
+1. Start Button -&gt; Control Panel -&gt; System-applet -&gt; Advanced System Setting-task -&gt; Advanced-tab -&gt; Performance Settings...-button -&gt; Advanced-tab -&gt; Virtual Memory Change...-button (phew).
 2. Untick "Automatically manage paging file size for all drives"
 3. Set initial and maximum size (or just tick "Automatically manage paging file size for all drives" back again, and leave it be).
  

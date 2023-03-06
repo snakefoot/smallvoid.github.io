@@ -69,8 +69,9 @@ Windows Explorer has the same FTP and HTTP capabilities as [Internet Explorer](/
 
 ##### Microsoft Hotfixes for WebDAV on Windows
 
- Microsoft have released an update to the Web Folders component, which fixes several issues with WebDAV folders. More Info [MS KB907306](http://www.microsoft.com/downloads/details.aspx?FamilyId=17C36612-632E-4C04-9382-987622ED1D64). - The latest version of the Web Folders update (2.0) doesn't support Windows 98, Me or 2000. Instead one should use version 11.0.6715.15 [Download Webfldrs-KB892211-ENU.exe](http://smallvoid.orgfree.com/?file=Webfldrs-KB892211-ENU.exe.zip).
-- Windows Vista SP1 (and older) has a known bug where it cannot access sub-folder unless it has read-access to the parent folders. More Info [MS KB942392](http://support.microsoft.com/kb/942392 "On a Windows Vista-based computer, you cannot access certain directories on a WebDAV server")
+ Microsoft have released an update to the Web Folders component, which fixes several issues with WebDAV folders. More Info [MS KB907306](http://www.microsoft.com/downloads/details.aspx?FamilyId=17C36612-632E-4C04-9382-987622ED1D64).
+ - The latest version of the Web Folders update (2.0) doesn't support Windows 98, Me or 2000. Instead one should use version 11.0.6715.15 [Download Webfldrs-KB892211-ENU.exe](http://smallvoid.orgfree.com/?file=Webfldrs-KB892211-ENU.exe.zip).
+ - Windows Vista SP1 (and older) has a known bug where it cannot access sub-folder unless it has read-access to the parent folders. More Info [MS KB942392](http://support.microsoft.com/kb/942392 "On a Windows Vista-based computer, you cannot access certain directories on a WebDAV server")
  
  More Info [MS KB287402](http://support.microsoft.com/kb/287402 "Troubleshooting Web Folders") (Troubleshooting Web Folders)  
  More Info [Lists WebDAV clients in MS Office (and their bugs)](http://greenbytes.de/tech/webdav/webfolder-client-list.html "Web Folder Client (MSDAIPP.DLL) Versions and Issues List")  

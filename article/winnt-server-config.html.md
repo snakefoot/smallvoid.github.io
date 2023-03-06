@@ -28,7 +28,8 @@ The <a href="">Server Service</a> enables the the computer to act as a file and 
   2. Right-click the "Local Area Connection" and select properties
   3. Select "File and Printer Sharing for Microsoft Networks" and press properties
  
- The different configurations to choose between: - Minimize Memory Used
+ The different configurations to choose between:
+- Minimize Memory Used
 - Balance
 - Maximize Throughput for File Sharing (Will also enable [LargeSystemCache](/article/winnt-system-cache.html))
 - Maximize Throughput for Network Applications

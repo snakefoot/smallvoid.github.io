@@ -50,6 +50,7 @@ When using hibernation a snapshot is made of the RAM and saved to the file **C:\
   
  Note if entering hibernation through CTRL+ALT+DEL in WinXP, then when resuming the shell is not restored because the explorer.exe is not in memory when hiberfil.sys is created. To prevent this behavior disable [Use the Welcome Screen](/article/winxp-welcome-screen.html). More Info [MS KB833161](http://support.microsoft.com/kb/833161 "Windows Explorer Does Not Start After Resuming From Hibernation [Q833161]")  
   
- Note in WinXP SP1 and Win2k3 a command line tool was released that presents more Power Management options than the "Power Options"-applet in the Control Panel. > powercfg /?  
+ Note in WinXP SP1 and Win2k3 a command line tool was released that presents more Power Management options than the "Power Options"-applet in the Control Panel.
+ > powercfg /?  
 >   
 >  More Info [MS KB324347](http://support.microsoft.com/kb/324347 "How to Use Powercfg.exe in Windows Server 2003 [Q324347]")

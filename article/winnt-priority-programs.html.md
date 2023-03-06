@@ -24,7 +24,8 @@ WinNT is able to give different amount of CPU time to each program dependent on 
 
 > Start "StartHigh" /HIGH C:\\Q3\\Quake3.exe
 
- It can also be used to launch certain background applications (SETI, Folding, Grid etc.) with low priority, so they cannot take CPU time from other applications. > Start "StartLow" /LOW C:\\Ud\_Agent\\Ud.exe
+ It can also be used to launch certain background applications (SETI, Folding, Grid etc.) with low priority, so they cannot take CPU time from other applications.
+ > Start "StartLow" /LOW C:\\Ud\_Agent\\Ud.exe
 
  To see the possible startup options run:
  > Start /?
@@ -35,7 +36,8 @@ WinNT is able to give different amount of CPU time to each program dependent on 
  Note instead of making a batch file for every application to launch it with a certain priority, then one can send an application into a certain priority by creating a batch file High.bat with the following contents and save it in the SentTo-Folder:
  > Start "StartHigh" /High "%1"
 
- Note one can also add a new item "Start High Priority" to the context menu, so when right clicking an exe-file, one have the option to launch the exe-file with a certain priority. > REGEDIT4  
+ Note one can also add a new item "Start High Priority" to the context menu, so when right clicking an exe-file, one have the option to launch the exe-file with a certain priority.
+> REGEDIT4  
 >   
 >  \[HKEY\_CLASSES\_ROOT\\exefile\\shell\\StartHigh\]  
 >  @="Start &amp;High Priority"  

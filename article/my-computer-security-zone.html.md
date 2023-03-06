@@ -30,7 +30,8 @@ Internet Explorer supports several security zones, which allows one to restrict 
 - Restricted sites
 - My Computer
  
- The "My Computer" security zone allows by default the web page and the scripts within the web page to have full access to the computer. The "My Computer" security zone is not shown along with the other zones in the Internet Explorer options, but it can be configured to be shown. > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\InternetSettings \\Zones \\0\]  
+ The "My Computer" security zone allows by default the web page and the scripts within the web page to have full access to the computer. The "My Computer" security zone is not shown along with the other zones in the Internet Explorer options, but it can be configured to be shown.
+> \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\InternetSettings \\Zones \\0\]  
 >  Flags = 1 (Default Decimal = 33)
 
  Note before making any changes to the "My Computer" security zone, then one should make a backup of the registry settings, as the Internet Explorer is tightly integrated with Windows Explorer.  

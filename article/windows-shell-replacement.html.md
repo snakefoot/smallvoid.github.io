@@ -26,7 +26,7 @@ Tired of the restrictions in the standard Windows shell, then it might be intere
 
 - [Classic Shell](http://classicshell.sourceforge.net/) - Brings back the Windows XP classic startup menu in Windows Vista/7. More Info [CodeProject.com](http://www.codeproject.com/KB/shell/classicshell.aspx)
 - [GeoShell](http://www.geoshell.com/) - Windows 95, 98, NT4, 2000 and XP
-- [ Emerge Desktop](http://emergedesktop.org/) - Windows 2000 and XP
+- [Emerge Desktop](http://emergedesktop.org/) - Windows 2000 and XP
 - [BB4Win](http://www.bb4win.org/) - Windows 95, 98, 2000 and XP
 - [SharpE - Sharp Environment](http://www.sharpe-shell.org/ "sourceforge.net/projects/sharpe") - Windows 2000 and XP
 - [LiteStep](http://indiestep.sourceforge.net/) - Windows 95, 98, NT4, 2000 and XP 

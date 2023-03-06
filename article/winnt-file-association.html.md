@@ -22,7 +22,8 @@ Windows XP introduced a new features for configuring the file association for un
 - Use the Web service to find the appropriate program
 - Select the program from a list
  
- The Web service redirects one to ex. <http://shell.windows.com/fileassoc/0409/xml/redir.asp?Ext=rar>, which presents different options for opening the file. One might get annoyed by this extra dialog, and it is possible to disable it. > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer\]  
+ The Web service redirects one to ex. <http://shell.windows.com/fileassoc/0409/xml/redir.asp?Ext=rar>, which presents different options for opening the file. One might get annoyed by this extra dialog, and it is possible to disable it.
+> \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer\]  
 >  InternetOpenWith = 0  
 >   
 >  \[HKEY\_LOCAL\_MACHINE \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\System\]  

@@ -27,7 +27,8 @@ WinXP introduced the Windows Product Activation (WPA) which is made to prevent c
   
  Note that you can't use this file to Activate other computers, unless they are almost identical to the computer which was Activated.  
   
- Note it is possible to do quick reinstall on top of the existing installation, without loosing any setting (Even the activation). This is done by running this command from the WinXP CD (X:) > X:\\i386\\Winnt32 /unattend
+ Note it is possible to do quick reinstall on top of the existing installation, without loosing any setting (Even the activation). This is done by running this command from the WinXP CD (X:)
+ > X:\\i386\\Winnt32 /unattend
 
  Note if using System Restore to go back to a Restore Point, which was before Windows was activated, then the Activation is lost, though one can try to Restore the backup created by [System Restore](/article/winnt-services-srservice.html).  
   

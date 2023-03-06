@@ -28,8 +28,9 @@ There is a builtin scanner that crawls/scans/searches the network and any shares
 - If using DUN or VPN connection
 - If the scanner is disabled.
  
- The scanner saves its findings here (If more than 7 days old then they are deleted) > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Netcrawl \\Shares\]  
->  \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Netcrawl \\Printers\]
+ The scanner saves its findings here (If more than 7 days old then they are deleted)
+> \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Netcrawl \\Shares\]  
+> \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Netcrawl \\Printers\]
 
  To disable the automatic scanning:
 1. Open **Control Panel**

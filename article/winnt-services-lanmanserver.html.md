@@ -25,7 +25,8 @@ tags:
 
  The Server service provides Server Message Block (SMB) service, which enables sharing of your local resources to the network (such as printer and files). It also enables named pipe communication between applications running on other computers and your computer, which is used for RPC.  
   
- Stopping this service results in: - Disables sharing of files and printers on your computer with other computers on the network.
+ Stopping this service results in:
+- Disables sharing of files and printers on your computer with other computers on the network.
 - Disables the computer from handling RPC requests.
 - Disables named pipes communication with other machines.
 - IIS User Manager will not be able to get access to the machine.

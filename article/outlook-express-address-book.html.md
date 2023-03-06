@@ -48,7 +48,8 @@ tags:
  More Info [MS KB156828](http://support.microsoft.com/kb/156828 "How to Change the Location of the Windows Address Book [Q156828]")  
 ##### Sharing contacts between Outlook Express and Outlook:
 
- It is possible to make Outlook Express uses the Outlook Contact folder as Address Book instead of the WAB file. The Outlook contacts are stored in the [.PST file](/article/outlook-backup-personal-folders.html). > \[HKEY\_CURRENT\_USER \\SOFTWARE \\Microsoft \\Wab \\Wab4\]  
+ It is possible to make Outlook Express uses the Outlook Contact folder as Address Book instead of the WAB file. The Outlook contacts are stored in the [.PST file](/article/outlook-backup-personal-folders.html).
+> \[HKEY\_CURRENT\_USER \\SOFTWARE \\Microsoft \\Wab \\Wab4\]  
 >  UseOutlook = 1 (1 = Outlook Express will start Outlook and use its Contact folder)  
 >   
 >  More Info [MS KB269777](http://support.microsoft.com/kb/269777 "OLEXP: Error Message: Address Book Failed to Load [Q269777]")

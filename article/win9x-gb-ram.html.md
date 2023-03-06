@@ -26,7 +26,8 @@ Windows 95 / 98 / Me has a limitation for how much memory they can handle, actua
 - Take out your memory and only use 512 Mbyte.
 - Limit the [VCACHE](/article/win9x-disk-cache.html) to a maximum of 512 MByte. As it is not able to configure itself properly with large amount of memory available.
 - Limit the available memory for Windows to use to 768 MByte.  
-   Do this by editing the C:\\Windows\\System.ini and add this setting to the \[386enh\] section. > \[386enh\]  
+   Do this by editing the C:\\Windows\\System.ini and add this setting to the \[386enh\] section.
+  > \[386enh\]  
   >  MaxPhysPage=40000
  
  More Info [MS KB304943](http://support.microsoft.com/kb/304943 "Computer May Reboot Continuously with More Than 1.5 GB of RAM [Q304943]")  

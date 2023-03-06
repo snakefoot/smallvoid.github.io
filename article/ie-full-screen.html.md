@@ -35,7 +35,8 @@ Internet Explorer (IE) remembers its position and size when being closed down. I
   3. Press **Ok**-button
    
  Note links that opens a new IE instance will not be maximized.
- - Changing registry key for IE to startup in full screen like when have pressed F11 (Toolbars in a single line). > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Internet Explorer \\Main\]  
+ - Changing registry key for IE to startup in full screen like when have pressed F11 (Toolbars in a single line).
+  > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Internet Explorer \\Main\]  
   >  Fullscreen = "yes" (Default = "no")
   
    Note links that opens a new IE instance will not be full screen.  

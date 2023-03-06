@@ -25,7 +25,8 @@ The temporary directory is specified by two [environment variables](/article/env
 >  SET TEMP=D:\\TEMP  
 >  SET TMP=D:\\TEMP
 
- Note the temporary directory is a location where files often are created and deleted. Some times it can be useful to move the temporary directory to another location. - The partition holding the temporary directory is low on free space.
+ Note the temporary directory is a location where files often are created and deleted. Some times it can be useful to move the temporary directory to another location.
+- The partition holding the temporary directory is low on free space.
 - File fragmentation introduced by the temporary directory is better placed on another partition.
 - There exist another partition which is much faster.
  

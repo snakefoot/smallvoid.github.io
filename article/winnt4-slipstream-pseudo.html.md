@@ -18,7 +18,8 @@ tags:
 ---
 The slipstreaming of service packs is not available with WinNT4, as it was first introduced with Win2k. But it is still possible to do some tricks:
 
-- Update these files on the install-image with files from the service pack (SP4+), as it will enable AGP support, remove 8gb limitation etc. > atapi.sys  
+- Update these files on the install-image with files from the service pack (SP4+), as it will enable AGP support, remove 8gb limitation etc.
+  > atapi.sys  
   >  fastfat.sys  
   >  gdi32.dll  
   >  hal.dll  

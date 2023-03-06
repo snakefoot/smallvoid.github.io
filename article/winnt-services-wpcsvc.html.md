@@ -20,7 +20,8 @@ tags:
 
  This service enables Windows Parental Controls on the system. If this service is not running, Parental controls will not work.  
   
- Parental control enables functions like: - Restrict what games/programs that can be started.
+ Parental control enables functions like:
+- Restrict what games/programs that can be started.
 - Restrict what websites that can be visited.
 - Enforce time limits for how many hours a day the computer can be used.
 - Monitor activity report of what the computer was used for.

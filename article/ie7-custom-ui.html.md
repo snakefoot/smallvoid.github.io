@@ -41,7 +41,8 @@ Internet Explorer 7 includes many changes to the user interface, but it is possi
 
 ##### Remove the command-bar entirely:
 
- Will disable Favorites, Feeds and History. > \[HKEY\_CURRENT\_USER \\Software \\Policies \\Microsoft \\Internet Explorer \\Toolbars \\Restrictions\]  
+ Will disable Favorites, Feeds and History:
+> \[HKEY\_CURRENT\_USER \\Software \\Policies \\Microsoft \\Internet Explorer \\Toolbars \\Restrictions\]  
 >  NoCommandBar = 1
 
  Credits [Winhelponline.com](http://www.winhelponline.com/)

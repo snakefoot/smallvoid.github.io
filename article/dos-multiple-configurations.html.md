@@ -72,7 +72,8 @@ MS DOS 6.0 introduced the ability to specify multiple configurations in the Conf
 >   
 >  :EXIT
 
- It is possible to extend menu-system in the config.sys with **SUBMENU**, which enables sub-menus. One can also use **MENUDEFAULT** to specify the default menu item and how long it should wait before it picks the default. > \[MENU\]  
+ It is possible to extend menu-system in the config.sys with **SUBMENU**, which enables sub-menus. One can also use **MENUDEFAULT** to specify the default menu item and how long it should wait before it picks the default.
+> \[MENU\]  
 >  MENUITEM=DOS, DOS with CD-ROM  
 >  MENUITEM=WIN, Windows  
 >   

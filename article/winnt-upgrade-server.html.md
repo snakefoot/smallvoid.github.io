@@ -20,7 +20,8 @@ tags:
 ---
 [O'reilley](http://www.oreilly.com/news/differences_nt.html "Differences Between NT Server and Workstation Are Minimal") has described that Mark Russinovich created an utility called NTTune, which could change a Windows NT4 Workstation into a Windows NT4 Server edition. This was possible because there is almost no difference between the two editions. NTTune was never released to the public, but the details of the changes was.  
   
- Later others have followed the foot steps of Mark Russinovich and have created their own utilities that makes the same changes as NTTune: - [NTSwitch](http://smallvoid.orgfree.com/?file=ntswitch.zip) by [3am](http://www.03am.com/).
+ Later others have followed the foot steps of Mark Russinovich and have created their own utilities that makes the same changes as NTTune:
+- [NTSwitch](http://smallvoid.orgfree.com/?file=ntswitch.zip) by [3am](http://www.03am.com/).
 - [TweakNT](http://smallvoid.orgfree.com/?file=tweaknt.zip)
   - Do not convert to Tablet PC (TabPC) or Media Center (MCE) if running corporate edition of XP (If having done so anyway, then it can be reverted by booting into safemode and running TweakNT again).
  

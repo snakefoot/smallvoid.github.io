@@ -33,7 +33,8 @@ Speed up the start menu by configuring the delay before a folder in the Start Me
 > \[HKEY\_LOCAL\_MACHINE\\ Software\\ Microsoft\\ Windows\\ CurrentVersion\\ explorer \\Advanced\]  
 >  StartMenuScrollPrograms = "false" (Default="true")
 
- Configure whether to use Personalized Menus and hide programs not often used (WinMe/2k/Xp) > Win2k: Start Menu -&gt; Settings -&gt; Taskbar &amp; Start Menu -&gt; Untick "Use Personalized Menus"  
+ Configure whether to use Personalized Menus and hide programs not often used (WinMe/2k/Xp)
+> Win2k: Start Menu -&gt; Settings -&gt; Taskbar &amp; Start Menu -&gt; Untick "Use Personalized Menus"  
 >   
 >  \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Advanced\]  
 >  IntelliMenus = "No" ("Yes"=Enabled, "No"=Disabled)

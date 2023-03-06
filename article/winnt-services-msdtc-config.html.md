@@ -39,7 +39,8 @@ tags:
 
 ##### Reset Recovery Log
 
- [Distributed Transaction Coordinator](/article/winnt-services-msdtc.html) (MSDTC) uses the following log file for storing transaction-related recovery information along with all other MS DTC recovery information (WinNT4 also uses Dtcxatm.log). > %SystemRoot%\\system32\\DTCLog\\MSDTC.LOG
+ [Distributed Transaction Coordinator](/article/winnt-services-msdtc.html) (MSDTC) uses the following log file for storing transaction-related recovery information along with all other MS DTC recovery information (WinNT4 also uses Dtcxatm.log).
+ > %SystemRoot%\\system32\\DTCLog\\MSDTC.LOG
 
  If the location of the log file is faulty (non existing or no permission) or the MSDTC.LOG is corrupted, then it will keep the service from starting and give errors like:
 > *Event ID : 7024  
