@@ -66,6 +66,7 @@ Windows Vista includes a new Boot Manager (BootMgr) that replaces the old [NT Lo
  More Info [WHDC - BCDEdit Commands for Boot Environment](http://www.microsoft.com/whdc/system/platform/firmware/bcdedit_reff.mspx "BCDedit_reff.doc")  
  More Info [Mapping of Boot.ini settings to BCDedit datatypes](http://msdn2.microsoft.com/en-us/library/aa362689.aspx "Mapping Boot Options to Elements")  
   
- There are GUI wrappers around the BCDedit so one doesn't have to fiddle with the command line to change the boot manager configuration. Makes it easy to change the display order, rename entries or change timeout: - Msconfig
+ There are GUI wrappers around the BCDedit so one doesn't have to fiddle with the command line to change the boot manager configuration. Makes it easy to change the display order, rename entries or change timeout:
+- Msconfig
 - [VistaBootPro](http://www.vistabootpro.org/ "PROnetworks") (Requires .NET)
 - [EasyBCD](http://neosmart.net/dl.php?id=1) (Requires .NET)

@@ -29,7 +29,7 @@ Performance counters are enabled by default to allow applications such as [Perfo
 >  More Info [MS KB266416](http://support.microsoft.com/kb/266416 "How to Troubleshoot WinMgmt-Based Performance Counter Errors [Q266416]")
 
  There is a PhysicalDisk object, which allows monitoring of physical disks and logical drives. Windows 2000 monitors the physical disks by default, and it can be turned off by running this command and perform a reboot:
-> DISKPERF -N  
+>  DISKPERF -N  
 >   
 >  To turn it on again run this command:  
 >   

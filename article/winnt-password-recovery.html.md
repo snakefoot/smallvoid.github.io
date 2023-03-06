@@ -34,7 +34,8 @@ tags:
 - [NTAccess](http://www.mirider.com/ntaccess.html)
 - [LostPassword.com](http://www.lostpassword.com/)
  
- There also exists tools for extracting the password hashes (the calculated value based on the password) from the local or a remote system, and tools for turning the calculated value into a password using bruteforce and dictionaries. - [Ophcrack](http://sourceforge.net/projects/ophcrack/)
+ There also exists tools for extracting the password hashes (the calculated value based on the password) from the local or a remote system, and tools for turning the calculated value into a password using bruteforce and dictionaries.
+- [Ophcrack](http://sourceforge.net/projects/ophcrack/)
 - [John the Ripper](http://www.openwall.com/john/)
 - [Pwdump2](http://www.bindview.com/Services/razor/Utilities/Windows/pwdump2_readme.cfm)
 - [Pwdump3](http://www.openwall.com/passwords/microsoft-windows-nt-2000-xp-2003)

@@ -20,7 +20,8 @@ The **User Accounts**-applet in the Control Panel for WinXP Home is rather limit
 
 > control userpasswords2
 
- This applet allows one to: - Configure [Automatic Login](/article/winnt-automatic-logon.html) by removing check from "User must enter a user name and password to use this computer".
+ This applet allows one to:
+- Configure [Automatic Login](/article/winnt-automatic-logon.html) by removing check from "User must enter a user name and password to use this computer".
 - Change password on the "hidden" Administrator account.
 - Delete/Modify "hidden"/"disappeared" user accounts.
 - Enforce the requirement of pressing CTRL + ALT + DEL before login can be performed.

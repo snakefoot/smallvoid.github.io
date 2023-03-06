@@ -22,7 +22,8 @@ tags:
 ---
 ##### Description:
 
- DHCP(Dynamic Host Configuration Protocol) is used to store network configuration at a central place (DHCP Server). The DHCP client will automatically contact the DHCP server (Port 67) and acquire what network configuration it should use. - Client IP-Address
+ DHCP(Dynamic Host Configuration Protocol) is used to store network configuration at a central place (DHCP Server). The DHCP client will automatically contact the DHCP server (Port 67) and acquire what network configuration it should use:
+- Client IP-Address
 - Gateway IP-Address
 - Primary &amp; Secondary DNS Server IP-Addresses
  

@@ -55,7 +55,8 @@ The BOOT.INI file is placed in the root of the system drive ex. C:\\BOOT.INI (On
 - **/WIN95DOS** - Loads bootsec.w40 - for triple booting WinNT/9x/DOS. More Info [MS KB157992](http://support.microsoft.com/kb/157992 "How to Triple Boot to Windows NT, Windows 95/98, and MS-DOS (MS KB157992) [Q157992]")
 - **/YEAR=year** - Tells WinNT to ignore the system year in the BIOS but use the year given. (Only available on WinNT SP4 and beyond)
  
- Starting switches for Win2k and beyond: - **/BOOTLOG** - Will create a log %SystemRoot%\\NTBTLOG.TXT specifying what modules and drivers are loaded during boot.
+ Starting switches for Win2k and beyond:
+- **/BOOTLOG** - Will create a log %SystemRoot%\\NTBTLOG.TXT specifying what modules and drivers are loaded during boot.
 - **/FASTDETECT** - Tells Ntdetect.com to Skips enumeration of parallel and serial devices. More Info [MS KB227991](http://support.microsoft.com/kb/227991 "Bus Mouse Does Not Function with /Fastdetect Switch in Boot.ini File [Q227991]")
 - **/INTAFFINITY** - In a multiprocessor environment it will direct the HAL (HALMPS.DLL) only to give interrupts to the highest numbered processor.
 - **/MAXPROCSPERCLUSTER=** - In a multiprocessor environment it will direct the HAL (HALMPS.DLL) to create clusters of CPUs to make several CPUs act together as a single CPU. Default is 0 and max is 4.
@@ -76,7 +77,8 @@ The BOOT.INI file is placed in the root of the system drive ex. C:\\BOOT.INI (On
     >  AlternateShell = ""
   - **dsrepair** - Directory Services Repair mode is used when wanting to restore the Active Directory on a domain controller from a backup medium you present. It can also be used if wanting to measure the correct size of the Active Directory Database. It can also be used if wanting to defrag the Ntds.dit using Ntdsutil.exe. More Info [MS KB229602](http://support.microsoft.com/kb/229602 "Defragmentation of the Active Directory Database [Q229602]"), [MS KB816120](http://support.microsoft.com/kb/816120 "HOW TO: Use Ntdsutil to Manage Active Directory Files from the Command Line in Windows Server 2003 [Q816120]")
  
- Starting switches for WinXP/Win2k3 and beyond: - <a name="BOOTLOGO"></a>**/BOOTLOGO** - When combined with /NOGUIBOOT then it will load the optional bootlogo file boot.bmp(640x480 16 color) located in the Windows-directory.
+ Starting switches for WinXP/Win2k3 and beyond:
+- <a name="BOOTLOGO"></a>**/BOOTLOGO** - When combined with /NOGUIBOOT then it will load the optional bootlogo file boot.bmp(640x480 16 color) located in the Windows-directory.
 - <a name="BOOT_INI_USERVA"></a>**/USERVA** - Enables fine tuning of how the user- and [kernel-memory area](/article/winnt-kernel-memory.html) is divided. Used in combination with [/3GB](#BOOT_INI_3GB). More Info [MS KB316739](http://support.microsoft.com/kb/316739 "How to Use the /USERVA Switch in the Boot.ini File to Tune /3GB Configurations [Q316739]")
 - **/REDIRECT** - Enables Emergency Management Services (EMS)
 - **/CHANNEL** - Enables debugging using a 1394 port

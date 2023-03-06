@@ -22,7 +22,8 @@ tags:
 ---
 ##### Description:
 
- The service offers: - Routing service of LAN-to-LAN, LAN-to-WAN, virtual private network (VPN) and network address translation (NAT).  
+ The service offers:
+- Routing service of LAN-to-LAN, LAN-to-WAN, virtual private network (VPN) and network address translation (NAT).  
    The routing possibilities of RRAS is more advanced than those provided by [Internet Connection Sharing](/article/winnt-services-sharedaccess.html) (Both using the same NAT module)
 - Filtering according to filter rules which can be configured by tools like [NetSh](/article/winnt-netsh.html) and Routemon(WinNT4)
 - Remote access via dial-up(PPP) and [VPN connections](/article/winnt-vpn.html). Related [Configure PPP/VPN MTU Size](/article/winnt-tcpip-mtu.html)

@@ -45,21 +45,21 @@ The Windows file protection(WFP) is made to avoid overwriting DLLs with older ve
 - **You can momentarily disable it through the registry by changing this DWORD :**
   > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows NT\\ CurrentVersion \\Winlogon\]  
   >  SFCDisable=1 (Default=0)
-  
-   Note these other HEX values are possible :  
-   0 - Enabled  
-   1 - Disable will prompt at next boot to enable  
-   2 - Disabled for next boot only, no prompt for enable  
-   4 - Enabled with popups disabled(Server)  
-   0xffffff9d - Disable completely (Only Works with Win2k SP1 and below)
+  >
+  > Note these other HEX values are possible :  
+  > 0 - Enabled  
+  > 1 - Disable will prompt at next boot to enable  
+  > 2 - Disabled for next boot only, no prompt for enable  
+  > 4 - Enabled with popups disabled(Server)  
+  > 0xffffff9d - Disable completely (Only Works with Win2k SP1 and below)
 - **You can increase it's scans by changing this DWORD:**
   > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows NT\\ CurrentVersion \\Winlogon\]  
   >  SFCScan=1 (Default=0)
-  
-   Note these values are possible :  
-   0 - Do not scan at every boot  
-   1 - Scan protected files at every boot  
-   2 - Scan protected files once
+  >
+  > Note these values are possible :  
+  > 0 - Do not scan at every boot  
+  > 1 - Scan protected files at every boot  
+  > 2 - Scan protected files once
 - **You can increase/limit the space used for the backup, through this DWORD:**
   > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows NT\\ CurrentVersion \\Winlogon\]  
   >  SFCQuota=0xffffffff

@@ -27,9 +27,10 @@ Windows Vista introduces the Windows Recovery Environment (Windows RE or WinRE),
 4. Select the Vista installation to repair and click "Next" and it will launch WinRE 
   - The "Load Drivers" button will open a mini Windows Explorer, which can be used to search for drivers in case they are needed to access disk drives or other components. This mini Explorer is also very handy to perform file copy/move operations and change file-attributes.
  
- The following options are available in WinRE: - **Startup Repair** - It will repair the boot manager files and restore critical files required for booting Windows Vista.  
-    
-   After attempting to repair the system it will display a Startup Repair diagnosis and repair log with the different Test Performed and the probably root cause.
+ The following options are available in WinRE:
+ - **Startup Repair** - It will repair the boot manager files and restore critical files required for booting Windows Vista.  
+ 
+ After attempting to repair the system it will display a Startup Repair diagnosis and repair log with the different Test Performed and the probably root cause.
 - **System Restore** - Windows Vista automatically performs daily backups of system critical files and also before installation of drivers and applications. These backups are called system restore points, and this option makes it possible to restore the system state before the moment it started to fail.
 - **Windows Complete PC Restore** - If having performed a backup of the entire system, then this option can be used to restore that backup.
 - **Windows Memory Diagnostic Tool** - Memory modules can be sensitive to things like working with other memory modules, system-bus frequencies, motherboard models, overclocking etc. When the memory modules fails to work properly then the computer will become unstable especially when under load. More Info [Windows Help](http://windowshelp.microsoft.com/Windows/en-US/Help/4edd5f80-def2-4d32-965c-116d49fb98721033.mspx "How do I know if my computer has a memory problem?")

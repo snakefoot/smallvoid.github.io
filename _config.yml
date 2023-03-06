@@ -9,10 +9,10 @@ plugins:
 title: Smallvoid.com
 name: Smallvoid.com
 description: Smallvoid.com
-#url: http://smallvoid.com/
-baseurl: /smallvoid.github.io
-#baseurl: /
-github: true
+url: http://smallvoid.com/
+#baseurl: /smallvoid.github.io
+baseurl: /
+#github: true
 
 # Theme settings
 markdown: kramdown

@@ -21,7 +21,8 @@ tags:
 ---
 ##### Description:
 
- Local Security Authority (LSA) for the system (The actual service name is only used for historical reasons). The LSA handles all authentication before a user is allowed to access a resource, which can be done in several ways: - [NTLM - LM, NTLM and NTLMv2](/article/windows-password-encryption.html)
+ Local Security Authority (LSA) for the system (The actual service name is only used for historical reasons). The LSA handles all authentication before a user is allowed to access a resource, which can be done in several ways:
+- [NTLM - LM, NTLM and NTLMv2](/article/windows-password-encryption.html)
 - Kerberos
 - SChannel - SSL &amp; TLS
 - Digest

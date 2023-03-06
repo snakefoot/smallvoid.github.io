@@ -43,14 +43,16 @@ Web-based Distributed Authoring and Versioning (WebDAV) is an extension to the H
 4. Click the blue link "Connect using a **different username**" to specify a different user account and password, than the Windows user account.
 5. Click **Finish** to create the new drive letter.
  
- Note there is an update available for Windows XP/Vista for better support of WebDAV folders (Will be part of XP SP3 and Vista SP1). More Info [MS KB907306](http://support.microsoft.com/kb/907306 "Description of the Software Update for Web Folders: May 18, 2007"). - The latest version of the Web Folders update (2.0) doesn't support Windows 98, Me or 2000. Instead one should use version 11.0.6715.15 [Download Webfldrs-KB892211-ENU.exe](http://smallvoid.orgfree.com/?file=Webfldrs-KB892211-ENU.exe.zip).
+ Note there is an update available for Windows XP/Vista for better support of WebDAV folders (Will be part of XP SP3 and Vista SP1). More Info [MS KB907306](http://support.microsoft.com/kb/907306 "Description of the Software Update for Web Folders: May 18, 2007").
+- The latest version of the Web Folders update (2.0) doesn't support Windows 98, Me or 2000. Instead one should use version 11.0.6715.15 [Download Webfldrs-KB892211-ENU.exe](http://smallvoid.orgfree.com/?file=Webfldrs-KB892211-ENU.exe.zip).
 - Windows Vista SP1 (and older) has a known bug where it cannot access sub-folder unless it has read-access to the parent folders. More Info [MS KB942392](http://support.microsoft.com/kb/942392 "On a Windows Vista-based computer, you cannot access certain directories on a WebDAV server")
  
  Note if using Windows 2000 or earlier, then one must use a 3rd party [utility to map a WebDAV folder as a network drive](/article/ftp-map-network-drive.html).  
   
  Note MS Office (2000+) includes its own WebDAV client which supports file locking and SSL, but will only work when accessing files through the office applications (Excel, Word, etc.). More Info [MS KB838028](http://support.microsoft.com/kb/838028 "How documents are opened from a Web site in Office 2003")  
   
- Note to setup a WebDAV server for the clients to connect to, then one can use [IIS](http://support.microsoft.com/kb/323470 "How to create a secure WebDAV publishing directory [Q323470]") or try one of these freeware servers: - [Apache](http://httpd.apache.org/)
+ Note to setup a WebDAV server for the clients to connect to, then one can use [IIS](http://support.microsoft.com/kb/323470 "How to create a secure WebDAV publishing directory [Q323470]") or try one of these freeware servers:
+- [Apache](http://httpd.apache.org/)
 - [LightTPD](http://wlmp.dtech.hu/index.php?lang=en)
  
  More Info [Lists WebDAV clients in MS Office (and their bugs)](http://greenbytes.de/tech/webdav/webfolder-client-list.html "Web Folder Client (MSDAIPP.DLL) Versions and Issues List")  

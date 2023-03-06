@@ -31,7 +31,7 @@ Windows Vista changes the behavior of the [DHCP Client](/article/winnt-services-
  > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters \\Interfaces \\{GUID}\]  
  >  DhcpConnForceBroadcastFlag = 0 (Default = 1)  
  >  
->> More Info [MS KB928233](http://support.microsoft.com/kb/928233 "Windows Vista cannot obtain an IP address from certain routers or from certain non-Microsoft DHCP servers")
+ > More Info [MS KB928233](http://support.microsoft.com/kb/928233 "Windows Vista cannot obtain an IP address from certain routers or from certain non-Microsoft DHCP servers")
 
  More Info [MS KB932134](http://support.microsoft.com/kb/932134 "An outdated network router may not function correctly when you use it together with new networking features in Windows Vista") (Online tool to test network router)
  

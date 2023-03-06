@@ -26,7 +26,8 @@ Microsoft provides a simple firewall in Windows XP that protects from incoming t
 - [How to configure the Windows Firewall feature in Windows XP Service Pack 2 (MS KB875356)](http://support.microsoft.com/kb/875356)
 - [Troubleshooting Windows Firewall settings in Windows XP Service Pack 2 (MS KB875357)](http://support.microsoft.com/kb/875357)
  
- Technet articles for XP and XP with Service Pack 1: - [Description of the Windows XP Internet Connection Firewall (MS KB320855)](http://support.microsoft.com/kb/320855)
+ Technet articles for XP and XP with Service Pack 1:
+- [Description of the Windows XP Internet Connection Firewall (MS KB320855)](http://support.microsoft.com/kb/320855)
 - [Description of a Personal Firewall (MS KB321050)](http://support.microsoft.com/kb/321050)
 - [HOW TO: Enable or Disable Internet Connection Firewall in Windows XP (MS KB283673)](http://support.microsoft.com/kb/283673)
 - [HOW TO: Determine Which Program Uses or Blocks Specific Transmission Control Protocol Ports in Windows (MS KB281336)](http://support.microsoft.com/kb/281336)
