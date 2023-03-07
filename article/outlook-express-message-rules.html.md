@@ -45,7 +45,7 @@ It is possible in Outlook Express(OE) to use rules, to automatically sort and fi
  Sometimes spam is sent out with no proper from email address, to make sure you can't reply back or easily report them. To filter away such mails create rule "Where the From line contains people" and let the people be "@". Then while still in the window where you add people press the "Options..." and negate the expression os it becomes "Where the From line does not contain". Then "Move it to specified Folder" (Junk).  
 ##### Remove spam which uses your own email address as source address:
 
- Sometimes spammers don't have the imagination to create a dummy address and uses your email address both as sender and receiver. To filter away such mails create rule "Where the From line contains people" and let people be your own email address ex. "sweaty1@hotmail.com". Then "Move it to specified Folder" (Junk).  
+ Sometimes spammers don't have the imagination to create a dummy address and uses your email address both as sender and receiver. To filter away such mails create rule "Where the From line contains people" and let people be your own email address ex. "john.doe@hotmail.com". Then "Move it to specified Folder" (Junk).  
 ##### Remove spam which comes from certain domain/email:
 
  This can be done by creating a rule which contains domains/emails addresses which are sending you spam often and move them to a junk folder. Or more drastically block certain domains/email addresses and have the emails from those addresses deleted at once.  
