@@ -1,5 +1,4 @@
 plugins:
- - jekyll-archives
  - jekyll-feed
  - jekyll-paginate
  - jekyll-seo-tag
@@ -30,11 +29,3 @@ exclude:
   - .gitignore
   - README.md
   - GemFile
-
-jekyll-archives:
-  enabled:
-    - tags
-  layouts:
-    tag: tag
-  permalinks:
-    tag: '/tag/:name/'
