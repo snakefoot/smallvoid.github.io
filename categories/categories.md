@@ -1,19 +1,8 @@
 ---
-title: Articles
-date: '2006-11-14T23:28:05+01:00'
-status: publish
-permalink: /articles/
-author: Snakefoot
-excerpt: ''
-type: page
-id: 3
-description:
-    - 'Sitemap of the posted articles and their categories.'
-tags:
-    - ''
+title: Categories
+permalink: /categories/
+layout: page
 ---
-
-Browse articles by [Categories](/categories/) or [Tags](/tags/)
 
 <div class="category-list">
 {% assign sorted_categories = site.categories | sort %}

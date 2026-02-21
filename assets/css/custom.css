@@ -1,0 +1,117 @@
+/* Tag Cloud Styles */
+.tag-cloud {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  text-align: center;
+  line-height: 2.5;
+}
+
+.tag-cloud-item {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.3rem 0.8rem;
+  background-color: #e9ecef;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #495057;
+  transition: all 0.3s ease;
+}
+
+.tag-cloud-item:hover {
+  background-color: #007bff;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.tag-cloud-item.tag-small {
+  font-size: 0.9rem;
+}
+
+.tag-cloud-item.tag-medium {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.tag-cloud-item.tag-large {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.tag-count {
+  font-size: 0.85em;
+  opacity: 0.7;
+}
+
+/* Tag and Category List Styles */
+.tag-list, .category-list {
+  margin-top: 3rem;
+}
+
+.tag-group, .category-group {
+  margin-bottom: 2.5rem;
+  border-left: 3px solid #007bff;
+  padding-left: 1rem;
+}
+
+.tag-group-title, .category-group-title {
+  color: #007bff;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  scroll-margin-top: 80px;
+}
+
+.category-count {
+  font-size: 0.9em;
+  color: #6c757d;
+  font-weight: normal;
+}
+
+.tag-posts, .category-posts {
+  list-style: none;
+  padding-left: 0;
+}
+
+.tag-posts li, .category-posts li {
+  margin-bottom: 0.5rem;
+  padding: 0.3rem 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.tag-posts li:last-child, .category-posts li:last-child {
+  border-bottom: none;
+}
+
+.post-date {
+  color: #6c757d;
+  font-size: 0.9em;
+  float: right;
+}
+
+/* Post Meta Styles */
+.post-meta-tags, .post-meta-categories {
+  margin: 1rem 0;
+}
+
+.post-meta-tags a, .post-meta-categories a {
+  display: inline-block;
+  margin: 0.2rem 0.3rem 0.2rem 0;
+  padding: 0.2rem 0.6rem;
+  background-color: #e9ecef;
+  border-radius: 3px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  color: #495057;
+}
+
+.post-meta-tags a:hover, .post-meta-categories a:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.post-meta-tags a::before {
+  content: "#";
+  opacity: 0.6;
+}

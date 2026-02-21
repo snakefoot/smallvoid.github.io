@@ -20,6 +20,8 @@ remote_theme: aterenin/minima-reboot
 header_pages:
  - about/about.md
  - articles/articles.md
+ - categories/categories.md
+ - tags/tags.md
  - links/links.md
 rss: rss
 paginate: 5
