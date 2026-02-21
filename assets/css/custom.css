@@ -115,3 +115,163 @@
   content: "#";
   opacity: 0.6;
 }
+
+/* Article Category Grid */
+.articles-category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.article-category-card {
+  padding: 1.5rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #007bff;
+  transition: all 0.3s ease;
+}
+
+.article-category-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  background-color: #e9ecef;
+}
+
+.article-category-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.article-category-card h3 a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.article-category-card h3 a:hover {
+  color: #0056b3;
+}
+
+.article-category-card .category-count {
+  color: #6c757d;
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+}
+
+.article-category-card .category-preview {
+  font-size: 0.85rem;
+  color: #495057;
+  line-height: 1.5;
+  margin-top: 1rem;
+  font-style: italic;
+}
+
+/* Individual Category Page */
+.category-page {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.category-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #007bff;
+}
+
+.category-header h1 {
+  color: #007bff;
+  margin-bottom: 0.5rem;
+}
+
+.category-description {
+  color: #6c757d;
+  font-size: 1.1rem;
+}
+
+.category-posts-list {
+  margin: 2rem 0;
+}
+
+.post-item {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.post-item:last-child {
+  border-bottom: none;
+}
+
+.post-item-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+}
+
+.post-item-title a {
+  text-decoration: none;
+  color: #212529;
+}
+
+.post-item-title a:hover {
+  color: #007bff;
+}
+
+.post-item-meta {
+  color: #6c757d;
+}
+
+.post-excerpt {
+  margin-top: 0.5rem;
+  color: #495057;
+  line-height: 1.6;
+}
+
+.category-navigation {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.btn-back {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-back:hover {
+  background-color: #0056b3;
+  color: white;
+}
+
+/* Category Generator Page */
+.category-generator {
+  margin: 2rem 0;
+}
+
+.category-template {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #28a745;
+}
+
+.category-template h3 {
+  margin-top: 0;
+  color: #28a745;
+}
+
+.category-template pre {
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 4px;
+  overflow-x: auto;
+}
+
+.category-template code {
+  font-family: 'Courier New', monospace;
+  font-size: 0.9rem;
+}
+

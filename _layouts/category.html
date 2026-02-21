@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="category-page">
+  <header class="category-header">
+    <h1>{{ page.category_name }}</h1>
+    {% assign category_posts = site.categories[page.category_name] %}
+    <p class="category-description">{{ category_posts | size }} articles in this category</p>
+  </header>
+
+  <div class="category-posts-list">
+    {% for post in category_posts %}
+    <article class="post-item">
+      <h3 class="post-item-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h3>
+      <div class="post-item-meta">
+        <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+        {% if post.excerpt %}
+        <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+
+  <div class="category-navigation">
+    <a href="{{ site.baseurl }}/categories/" class="btn-back">← Back to all categories</a>
+  </div>
+</div>

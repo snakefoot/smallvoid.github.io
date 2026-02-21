@@ -15,23 +15,25 @@ tags:
 
 Browse articles by [Categories](/categories/) or [Tags](/tags/)
 
-<div class="category-list">
+## Article Categories
+
+<div class="articles-category-grid">
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
   {% assign category_name = category | first %}
   {% assign category_posts = category | last %}
-  <div class="category-group">
-    <h3 class="category-group-title" id="{{ category_name | slugify }}">
-      {{ category_name }} <span class="category-count">({{ category_posts | size }})</span>
+  {% assign category_slug = category_name | slugify %}
+  <div class="article-category-card">
+    <h3>
+      <a href="{{ site.baseurl }}/category/{{ category_slug }}/">{{ category_name }}</a>
     </h3>
-    <ul class="category-posts">
-    {% for post in category_posts %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-      </li>
-    {% endfor %}
-    </ul>
+    <p class="category-count">{{ category_posts | size }} articles</p>
+    <p class="category-preview">
+      {% for post in category_posts limit:3 %}
+        {{ post.title }}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+      {% if category_posts.size > 3 %}...{% endif %}
+    </p>
   </div>
 {% endfor %}
 </div>

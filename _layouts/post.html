@@ -1,0 +1,74 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%b %-d, %Y" }}
+      </time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {% endif %}
+    </p>
+    
+    {% if page.category or page.categories %}
+    <div class="post-meta-categories">
+      <strong>Categories:</strong>
+      {% if page.category %}
+        {% for cat in page.category %}
+          <a href="{{ site.baseurl }}/categories/#{{ cat | slugify }}">{{ cat }}</a>
+        {% endfor %}
+      {% endif %}
+      {% if page.categories %}
+        {% for cat in page.categories %}
+          <a href="{{ site.baseurl }}/categories/#{{ cat | slugify }}">{{ cat }}</a>
+        {% endfor %}
+      {% endif %}
+    </div>
+    {% endif %}
+    
+    {% if page.tag or page.tags %}
+    <div class="post-meta-tags">
+      <strong>Tags:</strong>
+      {% assign all_tags = "" | split: "" %}
+      {% if page.tag %}
+        {% assign all_tags = all_tags | concat: page.tag %}
+      {% endif %}
+      {% if page.tags %}
+        {% if page.tags.first %}
+          {% for tag in page.tags %}
+            {% unless tag == "" %}
+              {% assign all_tags = all_tags | push: tag %}
+            {% endunless %}
+          {% endfor %}
+        {% else %}
+          {% assign tag_string = page.tags | split: "," %}
+          {% for tag in tag_string %}
+            {% assign trimmed_tag = tag | strip %}
+            {% unless trimmed_tag == "" %}
+              {% assign all_tags = all_tags | push: trimmed_tag %}
+            {% endunless %}
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+      {% assign unique_tags = all_tags | uniq | sort %}
+      {% for tag in unique_tags %}
+        <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
