@@ -10,11 +10,11 @@ description:
     - 'Sitemap of the posted articles and their categories.'
 ---
 
-{% raw %}<h1>{{ page.title | escape }}</h1>
+<h1>{{ page.title | escape }}</h1>
 
 {% assign versions = "windows-95,windows-98,windows-me,windows-nt4,windows-2000,windows-2003,windows-xp,windows-vista,windows-7-win7,windows-8-win8,windows-10-win10,windows-11-win11" | split: "," %}
 
-{% raw %}{% for version in versions %}
+{% for version in versions %}
   {% assign version_total = 0 %}
   {% assign categories = "" | split: "," %}
   {% assign prefix = version | append: "-" %}
@@ -40,10 +40,7 @@ description:
   {% endfor %}
 
   {% if version_total > 0 %}
-    <h2>
-      {{ version | replace: "-", " " | capitalize }}
-      ({{ version_total }} articles)
-    </h2>
+    <h2>{{ version | replace: "-", " " | capitalize }} ({{ version_total }} articles)</h2>
 
     {% assign categories = categories | sort %}
 
@@ -68,4 +65,4 @@ description:
       {% endfor %}
     </ul>
   {% endif %}
-{% endfor %}{% endraw %}
+{% endfor %}
