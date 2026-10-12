@@ -7,9 +7,6 @@ layout: default
 {% assign group_name = path_parts.last | remove: ".md" %}
 {% assign category_filter = version | append: "-" | append: group_name %}
 
-<p>Page path: {{ page.path }}</p>
-<p>Derived category: {{ category_filter }}</p>
-
 <h1>{{ page.title | escape }}</h1>
 
 <ul class="article-list">
