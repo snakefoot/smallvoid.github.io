@@ -10,14 +10,27 @@ description:
     - 'Sitemap of the posted articles and their categories.'
 ---
 
-<h1>{{ page.title | escape }}</h1>
+<h2>Debug: Article categories</h2>
+
+<p>Total posts found: {{ site.posts.size }}</p>
+
+{% for post in site.posts %}
+  <h3>{{ post.title | escape }}</h3>
+  <p>Path: {{ post.path }}</p>
+  <p>Categories:</p>
+  <ul>
+    {% for category in post.categories %}
+      <li>{{ category | escape }}</li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 {% assign versions = "windows-95,windows-98,windows-me,windows-nt4,windows-2000,windows-2003,windows-xp,windows-vista,windows-7-win7,windows-8-win8,windows-10-win10,windows-11-win11" | split: "," %}
 
 {% for version in versions %}
+  {% assign prefix = version | append: "-" %}
   {% assign version_total = 0 %}
   {% assign categories = "" | split: "," %}
-  {% assign prefix = version | append: "-" %}
 
   {% for post in site.posts %}
     {% assign has_version = false %}
