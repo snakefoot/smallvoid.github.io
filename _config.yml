@@ -13,7 +13,7 @@ url: http://smallvoid.com
 baseurl: ""
 #github: true
 collections:
-  _articles:
+  articles:
     output: true
 
 # Theme settings
