@@ -1,104 +1,36 @@
+---
 layout: default
 ---
 
-<h1>{{ page.title | escape }}</h1>
+{% raw %}{% assign path_parts = page.path | split: "/" %}
+{% assign version = path_parts[1] %}
+{% assign group_name = path_parts.last | remove: ".md" %}
+{% assign category_filter = version | append: "-" | append: group_name %}
 
-{% if page.description %}
-<p>{{ page.description | escape }}</p>
-{% endif %}
+<main class="article-group">
 
-<ul class="article-list">
+    <h1>{{ page.title | escape }}</h1>
+
     {% assign articles = site.posts | sort: "title" %}
 
-    {% for post in articles %}
-    {% assign matches = true %}
+    <ul class="article-list">
+        {% for post in articles %}
+        {% if post.categories contains category_filter %}
+        <li>
+            <article>
+                <h2>
+                    <a href="{{ post.url | relative_url }}">
+                        {{ post.title | escape }}
+                    </a>
+                </h2>
 
-    {% if page.version_filter %}
-    {% unless post.versions contains page.version_filter %}
-    {% assign matches = false %}
-    {% endunless %}
-    {% endif %}
-
-    {% if page.category_filter %}
-    {% unless post.categories contains page.category_filter %}
-    {% assign matches = false %}
-    {% endunless %}
-    {% endif %}
-
-    {% if matches %}
-    <li>
-        <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-        </a>
-        {% if post.excerpt %}
-        <p>{{ post.excerpt | strip_html | escape }}</p>
+                {% if post.excerpt %}
+                <p>{{ post.excerpt | strip_html | escape }}</p>
+                {% endif %}
+            </article>
+        </li>
         {% endif %}
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
+        {% endfor %}
+    </ul>
 
-This layout:
-
-    Displays the page title and optional description.
-
-    Filters by Windows version, category, or both.
-
-    Lists matching posts alphabetically by title.
-
-    Uses the same logic for every group-page.
-
-The default layout assumes you have a _layouts/default.html layout. If your theme provides the default layout, you can generally use that instead.
-3. Thin group-pages
-
-Now each group-page only needs front matter.
-
-For windows/winxp.md:
-yaml
-
----
-layout: article-group
-title: Windows XP
-permalink: /windows/winxp/
-description: Articles relevant to Windows XP.
-version_filter: WinXP
----
-
-For windows/winxp-performance.md:
-yaml
-
----
-layout: article-group
-title: Windows XP Performance
-permalink: /windows/winxp/performance/
-description: Performance tweaks and optimizations for Windows XP.
-version_filter: WinXP
-category_filter: Tweak/Performance
----
-
-For windows/performance.md:
-yaml
-
----
-layout: article-group
-title: All Performance Articles
-permalink: /windows/performance/
-category_filter: Tweak/Performance
----
-
-That's it. You can create as many group-pages as you want without copying the filtering logic.
-4. One important detail about categories
-
-If your article front matter uses:
-yaml
-
-categories:
-  - Tweak/Performance
-
-make sure that post.categories contains the exact value Tweak/Performance in your build. The filter uses exact matching, so Tweak and Performance as separate entries would behave differently.
-
-Also, this approach does not automatically create the group-pages. It makes each page thin, but you still create the Markdown files for each group. That's a useful trade-off for standard GitHub Pages because it avoids custom plugins.
-GitHub
-+1
-
-For a site with dozens of Windows versions and topics, this is still manageable. If you eventually want every combination generated automatically, you can move to a custom GitHub Actions build later without changing the article metadata or the general layout design.
+</main>{% endraw %}

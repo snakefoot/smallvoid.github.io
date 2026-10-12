@@ -7,13 +7,13 @@ excerpt: 'Assign specific drive letters for removable drives.'
 type: post
 id: 113
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-xp-tips
+    - windows-2003-tips
+    - windows-2000-tips
+    - windows-nt4-tips
+    - windows-me-tips
+    - windows-98-tips
+    - windows-95-tips
 tags:
     - cdrom-drive
     - drive-letter
