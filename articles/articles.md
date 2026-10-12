@@ -12,9 +12,9 @@ description:
 
 <h2>Debug: Article categories</h2>
 
-<p>Total posts found: {{ site.posts.size }}</p>
+<p>Total articles found: {{ site.articles.size }}</p>
 
-{% for post in site.posts %}
+{% for post in site.articles %}
   <h3>{{ post.title | escape }}</h3>
   <p>Path: {{ post.path }}</p>
   <p>Categories:</p>
@@ -32,7 +32,7 @@ description:
   {% assign version_total = 0 %}
   {% assign categories = "" | split: "," %}
 
-  {% for post in site.posts %}
+  {% for post in site.articles %}
     {% assign has_version = false %}
 
     {% for category in post.categories %}
@@ -61,7 +61,7 @@ description:
       {% for category in categories %}
         {% assign category_total = 0 %}
 
-        {% for post in site.posts %}
+        {% for post in site.articles %}
           {% if post.categories contains category %}
             {% assign category_total = category_total | plus: 1 %}
           {% endif %}

@@ -8,10 +8,13 @@ plugins:
 title: Smallvoid.com
 name: Smallvoid.com
 description: Smallvoid.com
-url: http://smallvoid.com/
+url: http://smallvoid.com
 #baseurl: /smallvoid.github.io
-baseurl: /
+baseurl: ""
 #github: true
+collections:
+  _articles:
+    output: true
 
 # Theme settings
 markdown: kramdown

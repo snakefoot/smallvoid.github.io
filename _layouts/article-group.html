@@ -13,7 +13,7 @@ layout: default
 <h1>{{ page.title | escape }}</h1>
 
 <ul class="article-list">
-    {% assign articles = site.posts | sort: "title" %}
+    {% assign articles = site.articles | sort: "title" %}
     {% for post in articles %}
     {% if post.categories contains category_filter %}
     <li>
