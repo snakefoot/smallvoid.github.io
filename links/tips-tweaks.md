@@ -8,8 +8,6 @@ type: page
 id: 14
 description:
     - 'The origin of all the tweaks on this site.'
-tags:
-    - ''
 ---
 
 ### BIOS

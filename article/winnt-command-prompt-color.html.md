@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'How to change the text color and background color in the command prompt.'
 type: post
 id: 24
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - visual-style
-post_format: []
 tags:
     - visual-style
 ---

@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to configure the MS-DOS subsystem using Autoexec.nt and Config.nt.'
 type: post
 id: 23
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - dos-emulator
     - subsystem
-post_format: []
-tags:
-    - 'subsystem,dos-emulator'
 ---
 CONFIG.SYS and AUTOEXEC.BAT are files essential to DOS. They also exist in Windows NT but they are called CONFIG.NT and AUTOEXEC.NT and reside in C:\\WINNT\\SYSTEM32.  
   

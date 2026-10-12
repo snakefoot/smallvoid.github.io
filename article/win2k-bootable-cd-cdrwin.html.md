@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Using CDRWIN to make a bootable install cd for Windows 2000.'
 type: post
 id: 481
-category:
+categories:
     - 'Install CD'
-tag:
+tags:
     - bootdisk
-post_format: []
 tags:
     - bootdisk
 ---

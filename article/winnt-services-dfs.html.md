@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Distributed File System service.'
 type: post
 id: 537
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - distributed-file-system
-post_format: []
 tags:
     - distributed-file-system
 ---

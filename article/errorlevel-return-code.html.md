@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'How to check the ERRORLEVEL variable to get the return code of a program.'
 type: post
 id: 64
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
     - errorlevel
     - return-code
-post_format: []
-tags:
-    - 'errorlevel,return-code,batch-file'
 ---
 When running a command line program from a [batch file](/article/batch-file.html), then the program will end with a return code, which usually specifies whether the program succeeded. One can catch the return code and use it in the batch file.
 

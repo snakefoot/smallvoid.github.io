@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description of the different issues that can arise when converting from FAT16 and FAT32 partitions to NTFS.'
 type: post
 id: 293
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - fat16
     - fat32
     - file-system
     - ntfs
-post_format: []
-tags:
-    - 'ntfs,file-system,fat16,fat32'
 ---
 To convert a partition open a command prompt and run this command where x is the drive-letter of the existing partition you want to convert:
 

@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Presentation Foundation Font Cache service.'
 type: post
 id: 726
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - font
     - WPF
-post_format: []
-tags:
-    - 'WPF,font'
 ---
 ##### Description:
 

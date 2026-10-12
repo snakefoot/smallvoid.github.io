@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Windows Explorer will automatically request extended file information when trying to open a file on a network share.'
 type: post
 id: 444
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - network-performance
     - network-share
-post_format: []
-tags:
-    - 'network-share,network-performance'
 ---
 When opening a file over a network, then besides requesting the file contents, then it also request extended details about the file and the share it resides upon. This gives extra traffic and can increase the time it takes to open a file (Especially if on slow network connections like VPN over DialUp).  
   

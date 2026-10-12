@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Credential Manager Service (VaultSvc).'
 type: post
 id: 827
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

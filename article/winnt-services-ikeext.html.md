@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the IKE and AuthIP IPsec Keying Modules service.'
 type: post
 id: 674
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - ipsec
     - VPN
-post_format: []
-tags:
-    - 'VPN,ipsec'
 ---
 ##### Description:
 

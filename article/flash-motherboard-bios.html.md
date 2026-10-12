@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description of different alternative ways for recovering from a bad BIOS flash.'
 type: post
 id: 272
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
@@ -14,13 +14,10 @@ category:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - BIOS
     - motherboard
     - system-recovery
-post_format: []
-tags:
-    - 'motherboard,bios,system-recovery'
 ---
 Before going down this road, then please make sure that the BIOS hasn't stopped working because of a [bad cmos or hardware conflict](/article/repair-motherboard-bios.html).
 

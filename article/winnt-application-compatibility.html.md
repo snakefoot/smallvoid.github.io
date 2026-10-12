@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Show the "Compatibility"-tab when selecting Properties for a shortcut.'
 type: post
 id: 389
-category:
+categories:
     - Tips
-tag:
+tags:
     - application-compatibility
-post_format: []
 tags:
     - application-compatibility
 ---

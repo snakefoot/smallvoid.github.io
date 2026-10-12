@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Application Layer Gateway service.'
 type: post
 id: 522
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - internet-connection-sharing
     - network-router
-post_format: []
-tags:
-    - 'internet-connection-sharing,network-router'
 ---
 ##### Description:
 

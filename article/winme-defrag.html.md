@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'The disk defragmenter in Windows Me is faster than the one released with Windows 95 and 98.'
 type: post
 id: 224
-category:
+categories:
     - Utilities
     - Utilities
-tag:
+tags:
     - defrag
-post_format: []
 tags:
     - defrag
 ---

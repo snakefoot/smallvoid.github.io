@@ -6,13 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Intersite Messaging service.'
 type: post
 id: 554
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 ##### Description:
 

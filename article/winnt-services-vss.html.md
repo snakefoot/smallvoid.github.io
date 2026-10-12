@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Volume Shadow Copy service.'
 type: post
 id: 614
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - backup
     - ntbackup
     - volume-shadow-copy
-post_format: []
-tags:
-    - 'backup,volume-shadow-copy,ntbackup'
 ---
 ##### Description:
 

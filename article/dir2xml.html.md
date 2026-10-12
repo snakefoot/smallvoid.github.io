@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Directory listing in XML using VBScript.'
 type: post
 id: 643
-category:
+categories:
     - Uncategorized
-tag:
+tags:
     - dir2xml
     - directory
     - vbscript
-post_format: []
-tags:
-    - 'dir2xml,directory,vbscript'
 ---
 ##### Introduction
 

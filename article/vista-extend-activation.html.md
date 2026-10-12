@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Windows Vista Software Licensing Manager makes it possible to extend the period before activation is needed.'
 type: post
 id: 650
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - activation-period
     - software-license-manager
     - windows-product-activation
-post_format: []
-tags:
-    - 'activation-period,windows-product-activation,software-license-manager'
 ---
 Windows Vista has like Windows XP a 30 day activation period, and if not able to perform the Windows Product Activation within the period then it is crippled to only boot in safemode.  
   

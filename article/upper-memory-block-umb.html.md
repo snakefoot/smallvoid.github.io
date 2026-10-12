@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Description of the Upper Memory Block (UMB) and how to open access to it with Emm386.exe.'
 type: post
 id: 40
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - conventional-memory
     - emm386
     - high-memory-area
     - himem-sys
     - upper-memory-area
     - upper-memory-block
-post_format: []
-tags:
-    - 'high-memory-area,upper-memory-block,upper-memory-area,conventional-memory,himem-sys,emm386'
 ---
 To get access to the Upper Memory Block (UMB) which is allocated from the upper memory area (UMA) one have to load the Expanded Memory Manager EMM386.EXE. The UMA covers 384 KByte and is placed just above the 640 Kbyte conventional memory. The UMB cannot occupy the entire UMA as other things resides there.  
   

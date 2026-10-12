@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Changing printer drivers in Windows NT can cause problems, and can require that the old drivers are remove manually first.'
 type: post
 id: 467
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - drivers
     - printer
-post_format: []
-tags:
-    - 'printer,drivers'
 ---
 If a printer driver haven't been installed properly then it can keep the [Printer Spooler](/article/winnt-services-spooler.html) from starting properly, or cause error messages like:
 

@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'The install files for Internet Explorer can be downloaded to perform offline installation.'
 type: post
 id: 313
-category:
+categories:
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - install
-post_format: []
 tags:
     - install
 ---

@@ -6,8 +6,6 @@ author: Snakefoot
 excerpt: ''
 type: page
 id: 6
-tags:
-    - ''
 ---
 Know a good website that should be added ? then sent the link to [sweaty1@hotmail.com](mailto:sweaty1@hotmail.com?subject=Link%20Suggestion "Snakefoot")
 

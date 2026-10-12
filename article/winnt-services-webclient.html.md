@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the WebClient service.'
 type: post
 id: 615
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - webdav
-post_format: []
 tags:
     - webdav
 ---

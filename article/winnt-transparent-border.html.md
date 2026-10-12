@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to disable blurring of windows in the background, and get full clear glass transparency.'
 type: post
 id: 819
-category:
+categories:
     - Desktop
-tag:
+tags:
     - aero
-post_format: []
 tags:
     - aero
 ---

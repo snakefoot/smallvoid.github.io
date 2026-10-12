@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Change whether it should use the Internet to determine what application to use for opening a file of an unknown type.'
 type: post
 id: 411
-category:
+categories:
     - Desktop
     - Desktop
-tag:
+tags:
     - file-association
     - unknown-file
-post_format: []
-tags:
-    - 'file-association,unknown-file'
 ---
 Windows XP introduced a new features for configuring the file association for unknown file types. When trying to open a file which Windows doesn't recognize, then it will present you with two options:
 

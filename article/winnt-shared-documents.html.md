@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'The shared documents folder allows multiple users to exchange documents, pictures and other files on the same computer.'
 type: post
 id: 406
-category:
+categories:
     - Desktop
-tag:
+tags:
     - shared-documents
-post_format: []
 tags:
     - shared-documents
 ---

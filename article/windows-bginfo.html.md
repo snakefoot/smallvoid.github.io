@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Utility that can generate a wallpaper, which includes the computer system details.'
 type: post
 id: 297
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -14,12 +14,9 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - bginfo
     - wallpaper
-post_format: []
-tags:
-    - 'bginfo,wallpaper'
 ---
 [BgInfo](http://technet.microsoft.com/en-us/sysinternals/bb897557.aspx) is a smart little tool which can modify the wallpaper of Windows, so it contains the system specifications of the computer.  
 - Host name

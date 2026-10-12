@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the WWAN AutoConfig Service.'
 type: post
 id: 815
-category:
+categories:
     - 'Services Guide'
-tag:
+tags:
     - GSM
-post_format: []
 tags:
     - GSM
 ---

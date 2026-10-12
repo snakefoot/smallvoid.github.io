@@ -8,8 +8,6 @@ type: page
 id: 19
 description:
     - 'Internet Relay Chat (IRC) is a place to meet people from all over the world.'
-tags:
-    - ''
 ---
 
 ### XDCC Search Engines

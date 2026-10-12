@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'There are several security issues one should take care of when having a network connection.'
 type: post
 id: 308
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,9 +14,8 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - network-security
-post_format: []
 tags:
     - network-security
 ---

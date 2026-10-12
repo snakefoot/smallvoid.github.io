@@ -6,10 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the System Restore service.'
 type: post
 id: 601
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

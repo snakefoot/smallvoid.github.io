@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Utility for creating group policy ADM files from registry files.'
 type: post
 id: 38
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - group-policy
     - registry
-post_format: []
-tags:
-    - 'group-policy,registry'
 ---
 Free utility that allows one to create custom .ADM files with registry entries, that can be used with the group policy editor (GPE). It is required that this extension is installed on all clients that should apply the registry entries.  
   

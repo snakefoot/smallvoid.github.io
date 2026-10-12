@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Logical Disk Manager service.'
 type: post
 id: 559
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - dynamic-disks
     - ntfs
-post_format: []
-tags:
-    - 'dynamic-disks,ntfs'
 ---
 ##### Description:
 

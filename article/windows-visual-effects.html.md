@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Speed up the Windows experience by disabling unneeded visual effects.'
 type: post
 id: 230
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -14,13 +14,10 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - clear-type
     - font
     - visual-style
-post_format: []
-tags:
-    - 'visual-style,font,clear-type'
 ---
 Microsoft keeps adding new visual gadgets to the desktop to make the Windows experience more pleasant, each of them tapping the performance of the computer. Microsoft have over the years made attempts to assure that Windows doesn't enable more gadgets than the computer can handle.  
   

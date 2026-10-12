@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Allows one to load device drivers from the command prompt instead of using the config.sys.'
 type: post
 id: 79
-category:
+categories:
     - Utilities
-tag:
+tags:
     - cdrom-drive
     - device-driver
-post_format: []
-tags:
-    - 'device-driver,cdrom-drive'
 ---
 [Dynaload](http://smallvoid.orgfree.com/?file=dynaload.zip) was released with PC-DOS 7.0 by IBM. It can load device drivers (sys-files like your cd-rom driver) into memory from the command prompt, without requiring a reboot.  
   

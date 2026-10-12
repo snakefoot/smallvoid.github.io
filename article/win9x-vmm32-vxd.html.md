@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'VMM32.VXD is an archive of VXD files, and some have reported improved speed by extracting the VXD files.'
 type: post
 id: 96
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - conventional-memory
     - upper-memory-block
     - vmm32-vxd
-post_format: []
-tags:
-    - 'vmm32-vxd,upper-memory-block,conventional-memory'
 ---
 The Windows\\system\\VMM32.VXD is a compressed file which contains a set of VxD (Virtual device Driver). The set of VxD-files are selected specifically for your machine so you shouldn't use the VMM32.VXD from a different computer.  
   

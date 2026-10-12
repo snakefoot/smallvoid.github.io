@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Procedure Call Locator service.'
 type: post
 id: 582
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
@@ -14,9 +14,8 @@ category:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - remote-procedure-call
-post_format: []
 tags:
     - remote-procedure-call
 ---

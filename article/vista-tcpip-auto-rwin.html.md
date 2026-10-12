@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Not all network routers supports the tcpip receive window scaling flag used by Windows Vista.'
 type: post
 id: 436
-category:
+categories:
     - Network
     - Network
-tag:
+tags:
     - lan
     - netsh
     - network-performance
     - rwin
     - tcpip
     - wan
-post_format: []
-tags:
-    - 'rwin,lan,wan,tcpip,network-performance,netsh'
 ---
 The network protocol stack has been rewritten in Windows Vista, so it will be even better at adapting to high performance network connections. It is no longer possible to specify a custom size for the [TCP/IP Receive Window (RWIN)](/article/tcpip-rwin-size.html) with the new auto tuning feature (Unless the application it self uses **SO\_RCVBUF**).  
   

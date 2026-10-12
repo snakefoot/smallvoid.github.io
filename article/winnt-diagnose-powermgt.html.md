@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Diagnose what is preventing your computer from entering sleep mode, or wakes it prematurely.'
 type: post
 id: 821
-category:
+categories:
     - Tips
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - power-management
-post_format: []
 tags:
     - power-management
 ---

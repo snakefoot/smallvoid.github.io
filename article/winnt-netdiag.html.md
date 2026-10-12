@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'NetDiag is a command line utility created by Microsoft that can be used diagnose network problems between two computers.'
 type: post
 id: 508
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - network-diagnostic
-post_format: []
 tags:
     - network-diagnostic
 ---

@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Applications optimized to run on single CPU systems, will perform worse on multi CPU systems.'
 type: post
 id: 826
-category:
+categories:
     - Tips
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - cpu
     - dos-emulator
     - process-scheduler
-post_format: []
-tags:
-    - 'process-scheduler,dos-emulator,cpu'
 ---
 Microsoft Windows NT has supported multiple CPU's from the beginning, and the process scheduler can switch the execution of applications from one CPU to another incase a CPU becomes overloaded. But many older applications are optimized for a single core operation and actually performs slower (or crashes) if Microsoft Windows is allowed to switch the application between CPU's.  
   

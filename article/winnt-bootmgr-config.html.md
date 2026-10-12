@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description of the Boot Configuration Data (BCD) used to store the configuration of the boot manager.'
 type: post
 id: 755
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - boot-manager
-post_format: []
 tags:
     - boot-manager
 ---

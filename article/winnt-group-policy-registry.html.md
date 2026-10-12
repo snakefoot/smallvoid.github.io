@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to use the group policy editor for easy editing of registry settings.'
 type: post
 id: 37
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - group-policy
     - regedit
-post_format: []
-tags:
-    - 'group-policy,regedit'
 ---
 The Group Policies have been created to enable administrators of corporate networks to easily configure settings for a vast collection of computers and users. To start the **Group Policy Editor** (GPE) run this command (WinXP Home doesn't have this):
 

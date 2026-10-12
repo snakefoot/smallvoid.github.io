@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Using PING to test the network connection and calculating the best TCP/IP receive window.'
 type: post
 id: 188
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,7 +14,7 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - lan
     - max-transfer-unit
     - network-performance
@@ -22,9 +22,6 @@ tag:
     - rwin
     - tcpip
     - wan
-post_format: []
-tags:
-    - 'rwin,max-transfer-unit,lan,wan,tcpip,ping,network-performance'
 ---
 ##### What problem does the receive window solve?
 

@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Disabling the browser helper objects can be useful when troubleshooting Internet Explorer.'
 type: post
 id: 327
-category:
+categories:
     - 'Internet Explorer (IE7)'
     - 'Internet Explorer (IE8)'
     - 'Internet Explorer (IE9)'
-tag:
+tags:
     - command-line-switches
     - ie-plugin
     - safemode
-post_format: []
-tags:
-    - 'plugins,addons,safemode,command-line-switches'
 ---
 Internet Explorer (IE) 7/8/9/10 allows the use of Browser Helper Objects (BHO's), which can be used to extend Internet Explorer with additional features. BSO's are loaded when IE starts, so if a BHO cannot start, then IE might not be able to load properly.  
   

@@ -8,8 +8,6 @@ type: page
 id: 10
 description:
     - 'Software worth checking out.'
-tags:
-    - ''
 ---
 
 ### Music Software

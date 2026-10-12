@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description of the special switch for MEM to diagnose conventional memory usage, and how to put it in a batch file.'
 type: post
 id: 53
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
     - conventional-memory
     - device-driver
     - terminate-stay-resident
-post_format: []
-tags:
-    - 'conventional-memory,terminate-stay-resident,device-driver,batch-file'
 ---
 Many times when wanting to run a DOS game/program, then one gets the error message: "Not enough conventional memory to run". To solve this error one first have to find out what is currently occupying the memory, and then consider what [drivers to load in high memory](/article/load-drivers-high-memory.html) or remove from memory.  
   

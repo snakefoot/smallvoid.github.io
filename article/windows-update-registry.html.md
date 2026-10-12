@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to add and remove registry entries from the Windows registry using .reg files'
 type: post
 id: 241
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,12 +14,9 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - regedit
     - registry
-post_format: []
-tags:
-    - 'registry,regedit'
 ---
 The Registry Editor (Regedit) in Windows is by default associated with registry files having the ".reg" file extension. And when double-clicking such a .reg file, then the registry editor will apply the registry entries specified in the .reg file.  
   

@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Configure the bit rate of the predefined quality levels for mp3 encoding in Media Player 8.'
 type: post
 id: 280
-category:
+categories:
     - Tips
-tag:
+tags:
     - media-player
     - mp3
-post_format: []
-tags:
-    - 'media-player,mp3'
 ---
 Media Player 8 has predefined levels for the encoding quality of mp3 files.  
   

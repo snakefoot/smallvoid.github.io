@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to backup the state of having performed Windows Product Activation.'
 type: post
 id: 394
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - windows-product-activation
-post_format: []
 tags:
     - windows-product-activation
 ---

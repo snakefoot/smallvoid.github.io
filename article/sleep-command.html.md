@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to create your own sleep / wait command, which be used in other batch files.'
 type: post
 id: 66
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
     - choice
     - ping
     - sleep
-post_format: []
-tags:
-    - 'sleep,batch-file,choice,ping'
 ---
 It can be useful in [batch files](/article/batch-file.html) to have the ability to perform a wait operation for a certain time period. Ex. if polling for a certain event (like a file being created by another program), or if having to perform an action with a certain period of time in between. There is no sleep or wait operation available in DOS, but you can create your own version.  
   

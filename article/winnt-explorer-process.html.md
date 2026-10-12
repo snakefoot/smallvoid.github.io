@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Prevent that all Windows Explorer instances crashes just because one gets a fatal error.'
 type: post
 id: 374
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - windows-explorer
-post_format: []
 tags:
     - windows-explorer
 ---

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'How to use a different font in the command prompt than Lucida Console and Raster Fonts.'
 type: post
 id: 733
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - font
     - true-type
     - visual-style
-post_format: []
-tags:
-    - 'font,true-type,visual-style'
 ---
 The command prompt font can be changed with the following steps:
 

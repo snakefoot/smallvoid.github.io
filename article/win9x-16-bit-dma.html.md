@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'How to configure the size of the pre-allocated DMA buffer for use by 16 bit applications.'
 type: post
 id: 97
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - dma
-post_format: []
 tags:
     - dma
 ---

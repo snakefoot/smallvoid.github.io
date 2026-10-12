@@ -6,16 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Access Auto Connection Manager service.'
 type: post
 id: 577
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - dialup-modem
-post_format: []
 tags:
     - dialup-modem
 ---

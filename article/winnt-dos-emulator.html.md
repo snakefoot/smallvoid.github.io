@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'DOS box extensions for Windows NT to play the old DOS games one love so dearly.'
 type: post
 id: 494
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - dos-emulator
     - dos-subsystem
-post_format: []
-tags:
-    - 'dos-emulator,dos-subsystem'
 ---
 Windows NT includes a [MS-DOS subsystem](/article/winnt-autoexec-config.html) to execute 16 bit programs (and games). This subsystem is rather limited in functionality and compatibility, so if one tries to execute a DOS program in Windows NT then it will most likely fail.
 

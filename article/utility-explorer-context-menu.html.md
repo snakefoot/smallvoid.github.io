@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Utilities that makes it easier to modify the Windows Explorer context menu for the different filetypes.'
 type: post
 id: 119
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -14,14 +14,11 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - context-menu
     - file-association
     - file-type
     - windows-explorer
-post_format: []
-tags:
-    - 'context-menu,file-association,file-type,windows-explorer'
 ---
 Windows Explorer already has an interface for customizing the file associations for the different file types. See [Customize the right-click menu in Windows Explorer](/article/explorer-context-menu.html).  
  The default Windows Explorer file type editor is rather limited (especially in Vista/Win7 where you can't change the behavior of the edit or play context menu options). Instead one can consider a 3rd party file association editor, that allows editing of even special file types like All Files, Unknown Files, Drives etc.

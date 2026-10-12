@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Windows NT4 does not support slip streaming, but it is possible to make a few changes.'
 type: post
 id: 488
-category:
+categories:
     - 'Install CD'
-tag:
+tags:
     - slipstream
     - windows-install
-post_format: []
-tags:
-    - 'slipstream,windows-install'
 ---
 The slipstreaming of service packs is not available with WinNT4, as it was first introduced with Win2k. But it is still possible to do some tricks:
 

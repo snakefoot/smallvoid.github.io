@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Extensible Authentication Protocol service.'
 type: post
 id: 669
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - network-access-protection
     - VPN
     - wifi
     - wireless-network
     - wlan
-post_format: []
-tags:
-    - 'wireless-network,VPN,network-access-protection,wifi,wlan'
 ---
 ##### Description:
 

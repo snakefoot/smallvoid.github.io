@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How temporary files cause file fragmentation and different RAM disk options.'
 type: post
 id: 235
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -14,12 +14,9 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - defrag
     - ram-disk
-post_format: []
-tags:
-    - 'ram-disk,defrag'
 ---
 Directories containing temporary files usually see a lot of file operations, and besides causing an overhead for the HDD performing the operations, then it also increases the chance of [file fragmentation](/article/defrag-hard-disk-partition.html). Therefore it is worth to consider where to place such temporary files.  
   

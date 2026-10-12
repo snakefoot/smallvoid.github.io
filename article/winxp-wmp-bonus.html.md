@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Microsoft have created several extensions to its Windows Media Player for Windows XP.'
 type: post
 id: 503
-category:
+categories:
     - Utilities
-tag:
+tags:
     - windows-media-player
-post_format: []
 tags:
     - windows-media-player
 ---

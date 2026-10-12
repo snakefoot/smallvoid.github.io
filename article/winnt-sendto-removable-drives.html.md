@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Configure whether it should display removable drives like Floppy, DVD and Network drives in the Send To context menu.'
 type: post
 id: 647
-category:
+categories:
     - Desktop
-tag:
+tags:
     - context-menu
     - network-drive
     - removable-storage-devices
     - sendto
     - windows-explorer
-post_format: []
-tags:
-    - 'sendto,removable-storage-devices,network-drive,context-menu,windows-explorer'
 ---
 Windows Vista extends the Send To menu with ability to show the drive-letters of the different removable drives installed (Along with mapped network drives).
 

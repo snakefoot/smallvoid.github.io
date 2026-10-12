@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the NET Logon service.'
 type: post
 id: 563
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
@@ -14,9 +14,8 @@ category:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - windows-domain
-post_format: []
 tags:
     - windows-domain
 ---

@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'The ability to store favorite locations in the registry can be quite useful.'
 type: post
 id: 281
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - regedit
-post_format: []
 tags:
     - regedit
 ---

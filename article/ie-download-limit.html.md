@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'The HTTP 1.1 specification dictates that a browser should only be allowed to have two simultaneous download connections.'
 type: post
 id: 309
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
     - 'Internet Explorer (IE7)'
-tag:
+tags:
     - download
     - network-performance
-post_format: []
-tags:
-    - 'download,network-performance'
 ---
 When doing downloads with IE and you want to download several files it is a pain that you can only do 2(HTTP 1.1) or 4(HTTP 1.0) at a time. The registry thing below will fix that:
 

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Describes the benefits and the costs of using multiple partitions.'
 type: post
 id: 72
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -15,15 +15,12 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - fat16
     - fat32
     - fdisk
     - ntfs
     - partition
-post_format: []
-tags:
-    - 'fat16,fat32,ntfs,partition,fdisk'
 ---
 Disk partitioning is a personal thing, and every person have their favorite setup. But here are the reasons for me to use several partitions.  
   

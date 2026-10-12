@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'How to use the services management snapin to configure the state of the Windows services.'
 type: post
 id: 629
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - windows-services
-post_format: []
 tags:
     - windows-services
 ---

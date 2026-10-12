@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Windows includes text services to handle speech and handwritting recognition that can cause conflicts with other applications.'
 type: post
 id: 377
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - handwriting-recognition
     - ms-office
     - speech-recognition
-post_format: []
-tags:
-    - 'handwriting-recognition,speech-recognition,ms-office'
 ---
 It is possible to control applications through a speech interface, which can be conveniently for some. Microsoft have included this feature in Windows XP along with Office XP/2003, but if you don't use this feature then it is recommended to disable it. The speech recognition needs to make hooks into all applications to forward the commands from the speech interface to the applications, and many times this causes conflicts with the applications.  
   

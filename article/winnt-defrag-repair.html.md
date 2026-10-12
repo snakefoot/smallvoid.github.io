@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'The disk defragmenter will fail to load if it not registered properly, or if the services it depends on are disabled.'
 type: post
 id: 476
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - defrag
-post_format: []
 tags:
     - defrag
 ---

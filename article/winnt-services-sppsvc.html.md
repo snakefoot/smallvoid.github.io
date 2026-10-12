@@ -6,10 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Software Protection service.'
 type: post
 id: 816
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

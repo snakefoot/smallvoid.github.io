@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'How to configure Windows to use DMA for IDE ATA hard drives.'
 type: post
 id: 372
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - ATA
     - disk-performance
     - dma
     - hard-disk-drive
     - IDE
     - PIO
-post_format: []
-tags:
-    - 'PIO,dma,IDE,ATA,hard-disk-drive,disk-performance'
 ---
 To get the best performance of your IDE hard disk, then one should make sure that [DMA transfer mode](/article/troubleshoot-hdd-dma.html) is enabled.  
   

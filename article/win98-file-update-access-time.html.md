@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Lower the disk activity by disabling the updating of when a file was last accessed.'
 type: post
 id: 100
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - file-access-time
     - file-system
-post_format: []
-tags:
-    - 'file-access-time,disk-performance'
 ---
 When a file is opened then the last access timestamp for the file is updated. This timestamp can be useful for applications that detects, whether certain files have been used recently. If not using such applications, then one might consider disabling the updating of this timestamp, to make file operations quicker.  
   

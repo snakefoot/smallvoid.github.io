@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Outlook Express Address Book stores the addresses in a WAB file, which one can backup and restore.'
 type: post
 id: 261
-category:
+categories:
     - 'Outlook Express'
-tag:
+tags:
     - address-book
     - backup
-post_format: []
-tags:
-    - 'address-book,backup'
 ---
 ##### Backup email addresses in Outlook Express(OE) 5:
 

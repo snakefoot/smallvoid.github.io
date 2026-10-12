@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Configuring how the wallpaper should be displayed using registry settings.'
 type: post
 id: 294
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - background-picture
     - wallpaper
-post_format: []
-tags:
-    - 'wallpaper,background-picture'
 ---
 For some unknown reason one is not able to do stretch without installing an addon. Now you can do it without an addon.  
   

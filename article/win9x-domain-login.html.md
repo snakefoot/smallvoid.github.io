@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Forcing the user to provide credentials before being allowed to use Windows 9x.'
 type: post
 id: 215
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - user-account
     - windows-domain
     - windows-login
-post_format: []
-tags:
-    - 'user-account,windows-login,windows-domain'
 ---
 Clear the username of the previous logged on user, so it is not displayed to the next user (Will disable [Automatic Login](/article/win9x-automatic-login.html)):
 

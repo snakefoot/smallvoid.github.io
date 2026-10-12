@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Mount a file folder as a drive-letter, like a shortcut to make it easier to access the folder.'
 type: post
 id: 748
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -15,14 +15,11 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - command-line-switches
     - drive-mount
     - subst
     - user-account-protection
-post_format: []
-tags:
-    - 'drive-mount,subst,user-account-protection,command-line-switches'
 ---
 It can be useful to map a very deep nested folder as a drive letter, so it is easier to access by Windows Explorer along with all other applications. The command line utility **subst.exe** provides this functionality:
 

@@ -6,21 +6,18 @@ author: Snakefoot
 excerpt: 'How to create different profiles for cleaning up the hard disk.'
 type: post
 id: 124
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - cleanup-tool
     - compress
     - free-disk-space
     - scheduled-task
     - temporary-files
-post_format: []
-tags:
-    - 'cleanup-tool,compress,temporary-files,scheduled-task,free-disk-space'
 ---
 The Clean Up tool was introduced with Win98 to automate the procedure of cleaning up unnecessary temporary files. It is mainly for people who is having a hard time figuring out what they have on their drives. It has been updated in WinMe/2k/XP, where it is possible to setup different Clean Up profiles.  
   

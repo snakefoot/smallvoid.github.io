@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description of different causes and solutions to hard disk performance problems.'
 type: post
 id: 198
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -14,14 +14,11 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - ATA
     - disk-performance
     - hard-disk-drive
     - IDE
-post_format: []
-tags:
-    - 'hard-disk-drive,IDE,ATA,disk-performance'
 ---
 The most important thing for good IDE hard disk performance is to enable DMA transfer. There are different interfaces available when attaching a hard disk, cdrom- or dvd-drive. The most simple interface is Programmed Input/Output (PIO), which provides good compatibility, but the PIO interface is a slow and it requires a lot of CPU time when accessing a hard disk. Direct Memory Access (DMA) is a fast interface, which isn't CPU bound but it requires that both the harddisk and motherboard supports DMA.  
   

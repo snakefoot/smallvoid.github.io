@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Utilities for offline editing of the password files to change the password, or perform recovery of the lost password.'
 type: post
 id: 256
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - password
     - password-recovery
-post_format: []
-tags:
-    - 'password-recovery,password'
 ---
 [Offline NT Password Editor](http://home.eunet.no/~pnordahl/ntpasswd/) is a freeware utility that can change the password of the Administrator account. Useful when having lost the password for a machine or just gotten ones hands on a machine where no one knows the password.  
   

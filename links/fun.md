@@ -8,8 +8,6 @@ type: page
 id: 15
 description:
     - 'Gives you a good laugh, and a break from the real world.'
-tags:
-    - ''
 ---
 Fun
 ---

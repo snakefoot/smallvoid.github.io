@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Configure the perfect Windows installation before actually installing.'
 type: post
 id: 652
-category:
+categories:
     - 'Install CD'
-tag:
+tags:
     - free-disk-space
     - slipstream
     - vlite
     - windows-install
-post_format: []
-tags:
-    - 'vlite,slipstream,windows-install,free-disk-space'
 ---
 [vLite](http://www.vlite.net/) allows one to add and remove windows components from the install image, so they are not included when actually deployed.
 - Component removal

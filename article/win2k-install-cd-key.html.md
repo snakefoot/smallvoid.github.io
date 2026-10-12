@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'By changing the license on the install cd, then one don''t have to supply a cd-key during install.'
 type: post
 id: 485
-category:
+categories:
     - 'Install CD'
-tag:
+tags:
     - cd-key
-post_format: []
 tags:
     - cd-key
 ---

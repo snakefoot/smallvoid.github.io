@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description of how Windows services are hosted within the same process.'
 type: post
 id: 632
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - windows-services
-post_format: []
 tags:
     - windows-services
 ---

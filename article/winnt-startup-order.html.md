@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Description of where and in what order programs are loaded at startup.'
 type: post
 id: 184
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-time
     - group-policy
     - scheduled-task
-post_format: []
-tags:
-    - 'boot-time,group-policy,scheduled-task'
 ---
 The order of which applications are loaded and where they are loaded from:
 

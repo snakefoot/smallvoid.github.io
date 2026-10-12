@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Improve the precision and smoothness of your ps/2 device by increasing the sample rate.'
 type: post
 id: 36
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - mouse
     - ps2
     - refresh-rate
     - sample-rate
-post_format: []
-tags:
-    - 'ps2,mouse,refresh-rate,sample-rate'
 ---
 The computer mouse have a certain DPI(Dot Per Inch)/CPI(Count Per Inch), which describes how precise it is at detecting changes in the position (Ex. 800 DPI). Every time the mouse detects a change in position, then it reports the new position to the computer using the port it is attached to (Serial/PS2/USB). The computer checks the mouse-port at a certain interval (refresh-rate), and processes the reports the mouse have made since the last check. If the refresh-rate is too low (&lt;100 Hz), then it can give feeling of having a jerky mouse.  
   

@@ -6,15 +6,14 @@ author: Snakefoot
 excerpt: 'It is possible to open a command prompt during the GUI part of the Windows install.'
 type: post
 id: 477
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - windows-install
-post_format: []
 tags:
     - windows-install
 ---

@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'How to configure the fast shutdown feature in Windows 98.'
 type: post
 id: 106
-category:
+categories:
     - Tips
-tag:
+tags:
     - reboot
     - restart
     - shutdown
-post_format: []
-tags:
-    - 'reboot,restart,shutdown'
 ---
 With Windows 98 a new feature came which makes the shutdown/restart quicker.
 

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Microsoft Windows can speed up the launch of application by prefetching the data the application usually request at startup.'
 type: post
 id: 366
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - defrag
     - logical-prefetcher
     - task-scheduler
-post_format: []
-tags:
-    - 'logical-prefetcher,defrag,task-scheduler'
 ---
 Windows XP includes a new enhancement to the memory management. It is called the Logical Prefetcher and it can make boot time and application start time faster. The Logical Prefetcher records disk usage in certain scenarios (Bootup and Application start), and when the same scenario reappear, it loads all the data needed for that scenario from disk to memory, before the data is requested.  
   

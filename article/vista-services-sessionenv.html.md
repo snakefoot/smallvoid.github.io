@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Terminal Services Configuration service (TSCS).'
 type: post
 id: 705
-category:
+categories:
     - 'Services Guide'
-tag:
+tags:
     - remote-desktop
-post_format: []
 tags:
     - remote-desktop
 ---

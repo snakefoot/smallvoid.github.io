@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Change how multiple instances of the same application should be grouped together.'
 type: post
 id: 409
-category:
+categories:
     - Desktop
-tag:
+tags:
     - task-grouping
     - taskbar
-post_format: []
-tags:
-    - 'task-grouping,taskbar'
 ---
 A new feature in Windows XP is the ability to group several instances of the same application as one task icon. This keeps the taskbar from getting all cluttered when working with several applications. It also helps in the situations where Internet Explorer is scripted by a malicious site to start a zillion instances of itself making it easy to close all down. But if used to having 3-4 Internet Explorers or Notepads running at a time without wanting them to be grouped together then one can get annoyed.  
   

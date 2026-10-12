@@ -6,22 +6,19 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Task Scheduler service.'
 type: post
 id: 590
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - bootvis
     - logical-prefetcher
     - scheduled-task
     - system-restore
     - task-scheduler
-post_format: []
-tags:
-    - 'logical-prefetcher,bootvis,system-restore,task-scheduler,scheduled-task'
 ---
 ##### Description:
 

@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Network List Service.'
 type: post
 id: 684
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

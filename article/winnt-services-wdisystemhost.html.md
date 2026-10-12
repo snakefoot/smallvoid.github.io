@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Diagnostic System Host service.'
 type: post
 id: 667
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

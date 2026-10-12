@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'The shutdown event tracker forces the user to give a reason for restarting the computer.'
 type: post
 id: 401
-category:
+categories:
     - Tips
     - Tips
-tag:
+tags:
     - event-log
-post_format: []
 tags:
     - event-log
 ---

@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Parental Controls service.'
 type: post
 id: 687
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - parental-control
-post_format: []
 tags:
     - parental-control
 ---

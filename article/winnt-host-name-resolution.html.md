@@ -6,12 +6,12 @@ author: Snakefoot
 excerpt: 'Configure the priority of how it should lookup the physical network address of a computer.'
 type: post
 id: 219
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - dns
     - host-name
     - hosts-file
@@ -19,9 +19,6 @@ tag:
     - netbios
     - tcpip
     - wins
-post_format: []
-tags:
-    - 'host-name,name-resolution,netbios,dns,wins,tcpip,hosts-file'
 ---
 One can change the HOST resolution order for whether it should use NetBIOS or DNS first:
 

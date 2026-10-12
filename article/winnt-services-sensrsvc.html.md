@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Adaptive Brightness service.'
 type: post
 id: 794
-category:
+categories:
     - 'Services Guide'
-tag:
+tags:
     - power-management
-post_format: []
 tags:
     - power-management
 ---

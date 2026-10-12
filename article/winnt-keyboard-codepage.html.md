@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to change the codepage for the command prompt.'
 type: post
 id: 22
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - codepage
     - keyboard
-post_format: []
-tags:
-    - 'keyboard,codepage'
 ---
 If you have problems using the keyboard in programs run from the command line (cmd.exe), then you might need to change your codepage, so it fits with your national settings.  
   

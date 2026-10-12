@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Microsoft created the tool bootvis for driver developers to see how their driver behaves during bootup.'
 type: post
 id: 499
-category:
+categories:
     - Utilities
-tag:
+tags:
     - boot-time
     - bootvis
     - logical-prefetcher
-post_format: []
-tags:
-    - 'bootvis,logical-prefetcher,boot-time'
 ---
 [XP Boot Visualizer](http://www.microsoft.com/whdc/hwdev/platform/performance/fastboot/bootvis.mspx) ([Download mirror](http://smallvoid.orgfree.com/?file=bootvis.zip "Bootvis ver. 1.3.37.0 (Without helpfile)")) can monitor what devices are loaded during boot, which is useful for troubleshooting slow booting. It is also able to rearrange the loading of devices to make the bootup faster, though WinXP is already doing this [optimization automatically](/article/winnt-logical-prefetcher.html) every now and then.
 - Start BootVis

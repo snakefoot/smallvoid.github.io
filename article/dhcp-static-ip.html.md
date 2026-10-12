@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description of how to configure a computer network without a DHCP server.'
 type: post
 id: 140
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,15 +14,12 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - boot-time
     - default-gateway
     - dhcp
     - network-router
     - tcpip
-post_format: []
-tags:
-    - 'tcpip,dhcp,network-router,default-gateway,boot-time'
 ---
 Windows configures by default all network adapters to use the network protocol TCP/IP and to use a DHCP server to assign an IP address. The TCP/IP protocol requires that each computer in the computer network has an unique IP address, and the DHCP server is able to make sure this happens.  
   

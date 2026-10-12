@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to rewrite the master boot record with fdisk to disable a boot-sector virus.'
 type: post
 id: 61
-category:
+categories:
     - Tips
-tag:
+tags:
     - boot-sector
     - fdisk
     - master-boot-record
     - mbr
     - virus
-post_format: []
-tags:
-    - 'fdisk,master-boot-record,mbr,boot-sector,virus'
 ---
 If you for reason have gotten a boot-sector virus on your hands, then the virus is loaded when booting and the antivirus program won't start.  
   

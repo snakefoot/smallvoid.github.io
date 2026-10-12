@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'By not caching negative DNS lookups then one will quickly recover in case a domain is unregistered and registered again.'
 type: post
 id: 433
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - address-resolution-protocol
     - dns
     - name-resolution
-post_format: []
-tags:
-    - 'dns,address-resolution-protocol,name-resolution'
 ---
 When accessing a domain like www.google.com it first has to convert the domain to an IP Address. This [domain resolution](/article/windows-host-name-resolution.html) is performed by sending the domain to a DNS server which replies back with the IP Address. This conversion can be seen when pinging a domain.  
   

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Configuring the TCPIP stack to increase the amount of concurrent connections in Windows 95 / 98 / Me.'
 type: post
 id: 192
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - network-performance
     - tcpip
-post_format: []
-tags:
-    - 'tcpip,network-performance'
 ---
 There is built in a limit for how many simultaneous connections can be made by Windows. This limit can constraining when running a server like MySQL, FTP, HTTP, FileSharing etc. This limit can be changed in the registry with this STRING value:
 

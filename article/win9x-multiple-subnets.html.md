@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to configure a network adapter to be part of multiple subnets.'
 type: post
 id: 202
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - subnet
     - tcpip
-post_format: []
-tags:
-    - 'tcpip,subnet'
 ---
 If wanting to part of several subnets using only one network adapter, then one is not able to do it through the GUI.  
   

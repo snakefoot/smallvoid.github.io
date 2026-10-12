@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Hidden Control Panel applet that includes more options for account management.'
 type: post
 id: 153
-category:
+categories:
     - 'User Security'
-tag:
+tags:
     - crippled
     - user-account
-post_format: []
-tags:
-    - 'user-account,crippled'
 ---
 The **User Accounts**-applet in the Control Panel for WinXP Home is rather limited, but it is possible to get access to a more advanced User Accounts-applet with this command (Similar to WinXP Pro's "control userwords2"):
 

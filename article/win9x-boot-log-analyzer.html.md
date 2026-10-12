@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Utility which scans the bootlog.txt and displays the time it took to load each driver.'
 type: post
 id: 137
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - boot-log-analyzer
     - boot-time
     - bootlog-txt
-post_format: []
-tags:
-    - 'boot-log-analyzer,bootlog-txt,boot-time'
 ---
 [Boot Log Analyzer](http://www.vision4.dial.pipex.com/) (BLA) ([Mirror](http://smallvoid.orgfree.com/?file=bla123.zip)) can be used if having problems with slow booting. It can help troubleshoot what devices or drivers are causing trouble. Besides showing failing devices, then it can also show how long it take to initialize a certain device or driver.  
   

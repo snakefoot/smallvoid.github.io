@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Control how and when Automatic Updates (AU) should contact the Windows Update services.'
 type: post
 id: 524
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - automatic-updates
     - 'Windows Update'
-post_format: []
-tags:
-    - 'windows-update,automatic-updates'
 ---
 [Automatic Updates (AU)](/article/winnt-services-wuauserv.html) uses the following settings as current configuration (Applied when service is started):'
 - **Monitor the status of Automatic Updates:**

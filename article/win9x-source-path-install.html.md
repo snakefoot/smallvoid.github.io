@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Configure the path to the location of the install files whether on CD-ROM or HDD.'
 type: post
 id: 158
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - cdrom-drive
     - hard-disk-drive
     - install-path
-post_format: []
-tags:
-    - 'hard-disk-drive,cdrom-drive,install-path'
 ---
 The hard disk have become so big, that the Windows install CD can easily fit on the hard disk. This is rather convenient as one doesn't have to worry about finding the install CD every time one touches the Windows install, or getting the install CD scratched by having it lying around all the time.  
   

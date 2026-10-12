@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Smart Card Helper service.'
 type: post
 id: 597
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - smart-card
-post_format: []
 tags:
     - smart-card
 ---

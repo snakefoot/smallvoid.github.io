@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the PNRP Machine Name Publication Service.'
 type: post
 id: 693
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - netPeerTcpBinding
     - PNRP
-post_format: []
-tags:
-    - 'PNRP,netPeerTcpBinding'
 ---
 ##### Description:
 

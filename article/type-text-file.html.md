@@ -6,12 +6,9 @@ author: Snakefoot
 excerpt: 'How to use the TYPE command to perform file manipulation on text files.'
 type: post
 id: 67
-category:
+categories:
     - Tips
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 TYPE is a command that can output the contents of a text file. The output of TYPE can then be used to modify other files, which can be used in [batch files](/article/batch-file.html).  
   

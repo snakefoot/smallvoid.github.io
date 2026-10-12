@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Description of the registry keys used for configuring the TCP/IP stack in Windows 95 / 98 / Me.'
 type: post
 id: 190
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - lan
     - max-transfer-unit
     - network-performance
     - rwin
     - tcpip
     - wan
-post_format: []
-tags:
-    - 'tcpip,lan,wan,rwin,max-transfer-unit,network-performance'
 ---
 It is recommended to read [how to configure TCPIP for optimal performance](/article/windows-tcpip-settings.html) before changing any of the registry settings specified here, as there exists utilities that are much easier to use than the registry editor when configuring the TCPIP stack.  
   

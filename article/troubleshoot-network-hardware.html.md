@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description of different causes and solutions to network problems.'
 type: post
 id: 197
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,7 +14,7 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - dialup-modem
     - internet
     - lan
@@ -25,9 +25,6 @@ tag:
     - network-switch
     - tcpip
     - wan
-post_format: []
-tags:
-    - 'lan,wan,internet,tcpip,network-switch,network-router,dialup-modem,network-performance,network-diagnostic,network-interface-card'
 ---
 Several factors can affect the performance or the connectivity of a network:
 

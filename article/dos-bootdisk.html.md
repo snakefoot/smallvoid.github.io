@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'The bootdisk can be used to install or repair the operating system on the computer.'
 type: post
 id: 83
-category:
+categories:
     - Utilities
-tag:
+tags:
     - bootdisk
     - cdrom-drive
     - floppy-disk
-post_format: []
-tags:
-    - 'bootdisk,floppy-disk,cdrom-drive'
 ---
 The DOS bootdisk allows you to startup a machine with no operating system installed (or a non-working operating system). It can be used to install a new operating system or repair the existing operating system. It can also be used when needing to upgrade firmware or BIOS ex. on the motherboard.  
   

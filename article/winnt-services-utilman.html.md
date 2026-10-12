@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Utility Manager service.'
 type: post
 id: 612
-category:
+categories:
     - 'Services Guide'
-tag:
+tags:
     - accessibility-tools
-post_format: []
 tags:
     - accessibility-tools
 ---

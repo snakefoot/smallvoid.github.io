@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Using PING to test the network connection and finding the best TCP/IP max transfer unit (MTU).'
 type: post
 id: 189
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,15 +14,12 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - lan
     - max-transfer-unit
     - network-performance
     - ping
     - wan
-post_format: []
-tags:
-    - 'max-transfer-unit,lan,wan,ping,network-performance'
 ---
 When using a network, one is sending and receiving packets. On large networks like the Internet, which is a collection of small networks, the packets is passing through routers, which connects these small networks together.  
   

@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Tablet PC Input Service.'
 type: post
 id: 704
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

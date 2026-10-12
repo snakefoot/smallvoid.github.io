@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the BitLocker Drive Encryption Service.'
 type: post
 id: 796
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - bitlocker
     - encryption
     - file-system
-post_format: []
-tags:
-    - 'bitlocker,encryption'
 ---
 ##### Description:
 

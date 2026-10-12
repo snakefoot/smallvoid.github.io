@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Superfetch service.'
 type: post
 id: 703
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - disk-performance
     - file-cache
     - logical-prefetcher
-post_format: []
-tags:
-    - 'logical-prefetcher,file-cache,disk-performance'
 ---
 ##### Description:
 

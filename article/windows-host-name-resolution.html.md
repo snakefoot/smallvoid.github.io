@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description of the different ways Windows can convert a logical network name to a physical address.'
 type: post
 id: 217
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,7 +14,7 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - dns
     - hosts-file
     - lmhosts
@@ -22,9 +22,6 @@ tag:
     - netbios
     - tcpip
     - wins
-post_format: []
-tags:
-    - 'name-resolution,netbios,dns,wins,hosts-file,tcpip,netbios,lmhosts'
 ---
 In a computer-network each computer have a unique physical address, but the physical address can be difficult to use, so instead one gives each computer a name (logical address). This introduces the problem of converting the logical address to the physical address, also called host name resolution. There are different methods available to perform this resolution:
 

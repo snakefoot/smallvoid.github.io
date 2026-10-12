@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to enable the Welcome Screen and specify what users to display at logon.'
 type: post
 id: 155
-category:
+categories:
     - 'User Security'
-tag:
+tags:
     - welcome-screen
-post_format: []
 tags:
     - welcome-screen
 ---

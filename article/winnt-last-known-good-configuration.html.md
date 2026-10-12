@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'The Last Known Good Configuration makes it possible to rollback to the previous good state of the system registry hive.'
 type: post
 id: 257
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - last-known-good-configuration
     - system-recovery
-post_format: []
-tags:
-    - 'last-known-good-configuration,system-recovery'
 ---
 There is performed a backup of the system configuration, after each successful login. This name of this backup is Last Known Good Configuration (LKGC). It is possible to make use of the LKGC during the startup of Windows (Press F8). This enables one to recover from different situations where Windows cannot boot:
 

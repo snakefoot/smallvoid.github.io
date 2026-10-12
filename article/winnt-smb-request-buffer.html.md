@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Increasing the request buffer size can improve file sharing performance on high latency networks.'
 type: post
 id: 439
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - microsoft-network
     - network-performance
-post_format: []
-tags:
-    - 'network-performance,microsoft-network'
 ---
 The Server service creates a request buffer for each smb session, the client will not attempt to send more requests than the server request buffer can hold. If working on a high latency network then it can increase file server performance if it has a large request buffer, but it will then use more non-paged pool memory for each smb session.  
   

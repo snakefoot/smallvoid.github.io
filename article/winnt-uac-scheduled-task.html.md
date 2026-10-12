@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Launch application with administrator rights without the User Account Protection popup dialog.'
 type: post
 id: 774
-category:
+categories:
     - 'User Security'
-tag:
+tags:
     - scheduled-task
     - user-account-control
-post_format: []
-tags:
-    - 'user-account-control,scheduled-task'
 ---
 Windows Vista [User Account Protection](/article/winnt-user-account-protection.html) has proven itself as being very effective against malware and their likes.  
   

@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Possible solutions when Outlook doesn''t recieve instant email notifications from the Exchange server.'
 type: post
 id: 339
-category:
+categories:
     - Outlook
-tag:
+tags:
     - email-notification
-post_format: []
 tags:
     - email-notification
 ---

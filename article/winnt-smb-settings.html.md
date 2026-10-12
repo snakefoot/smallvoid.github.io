@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Prepare the file servers to handle a higher loads and allow the clients to make more requests.'
 type: post
 id: 440
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - microsoft-network
     - network-performance
-post_format: []
-tags:
-    - 'network-performance,microsoft-network'
 ---
 MaxCmds specifies the maximum outstanding network requests for the client to the server, which is used when negotiating a Server Message Block (SMB) connection with a server.
 

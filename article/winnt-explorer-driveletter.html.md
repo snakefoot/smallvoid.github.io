@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Control in what order the drive letter and label should be shown in My Computer.'
 type: post
 id: 414
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - visual-style
     - windows-explorer
-post_format: []
-tags:
-    - 'windows-explorer,visual-style'
 ---
 My Computer displays by default the drive-letters like this (Where "System" is the partition label):
 

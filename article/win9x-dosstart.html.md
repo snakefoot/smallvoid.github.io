@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Load DOS drivers when leaving Windows, instead of loading them before Windows starts.'
 type: post
 id: 160
-category:
+categories:
     - Tips
     - Tips
-tag: []
-post_format: []
+tags: []
 ---
 When performing an exit to DOS, by pressing the **Start**-button and selects the **Shutdown...**-option to **Restart the computer in MS-DOS mode**, then it checks the properties of a special file called **Exit to DOS.pif**:
 

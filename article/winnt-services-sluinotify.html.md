@@ -6,12 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the SL UI Notification Service.'
 type: post
 id: 699
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 ##### Description:
 

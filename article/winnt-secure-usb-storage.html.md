@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'USB makes it easy to attach a storage device and steal valuable data from a computer.'
 type: post
 id: 456
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - removable-storage-devices
     - usb
     - usb-stick
-post_format: []
-tags:
-    - 'usb,usb-stick,removable-storage-devices'
 ---
 The ability to use USB stick and HDD makes it easy to transfer files from one computer to another. By default it is possible for any user to attach such an USB storage device and start transfering data.  
   

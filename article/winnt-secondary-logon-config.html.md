@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to use the Secondary Logon service to start an application with different user credentials.'
 type: post
 id: 589
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - runas
     - scheduled-task
-post_format: []
-tags:
-    - 'runas,scheduled-task'
 ---
 [Secondary Logon](/article/winnt-services-seclogon.html) can be hidden from the GUI, so one doesn't see the option "Run as different user" when starting a program with this DWORD value:
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows \\CurrentVersion \\Policies \\Explorer\]  

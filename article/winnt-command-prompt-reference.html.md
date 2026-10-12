@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'The command prompt can be used to configure almost anything, and be used to create advanced batch jobs for trivial tasks.'
 type: post
 id: 458
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag: []
-post_format: []
+tags: []
 ---
 Lists of the different commands available in Windows NT Command Prompt console:
 

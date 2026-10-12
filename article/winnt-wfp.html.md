@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Windows File Protection is able to keep the system files intact when overwritten.'
 type: post
 id: 248
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - system-file-protection
-post_format: []
 tags:
     - system-file-protection
 ---

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Extend the right-click context-menu of a folder to open a command prompt.'
 type: post
 id: 121
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - 'Command Prompt'
     - context-menu
     - windows-explorer
-post_format: []
-tags:
-    - 'context-menu,windows-explorer,command-prompt'
 ---
 One can extend the context menu when right-clicking a folder in Windows Explorer, with the option to open a command prompt in that directory. Instead of just opening the command prompt and manually changing to the wanted directory.
 

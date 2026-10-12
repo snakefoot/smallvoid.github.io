@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Changing the color of the desktop shown before a user has logged in.'
 type: post
 id: 300
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,12 +14,9 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - visual-style
     - windows-login
-post_format: []
-tags:
-    - 'windows-login,visual-style'
 ---
 If you have become tired of the standard color on you background at login then this might be the thing for you.  
   

@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Quality Windows Audio Video Experience service.'
 type: post
 id: 697
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

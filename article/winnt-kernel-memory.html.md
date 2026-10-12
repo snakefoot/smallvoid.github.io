@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'How the kernel memory area is divided into the different page pools.'
 type: post
 id: 264
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - kernel
     - memory-manager
     - page-pool
-post_format: []
-tags:
-    - 'kernel,page-pool,memory-manager'
 ---
 The 32 bit Windows can address 4 GB memory, which for each process it divided into a 2 GB user area and a 2 GB kernel area. The 2 GB kernel area is shared between all the processes. These two areas are also called virtual user address range and virtual system address range.  
   

@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'When posting to a newsgroup, then a header is also sent which contains of who actual sent the news post.'
 type: post
 id: 334
-category:
+categories:
     - 'Outlook Express'
-tag:
+tags:
     - news-groups
-post_format: []
 tags:
     - news-groups
 ---

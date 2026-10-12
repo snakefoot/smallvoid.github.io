@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Display Desktop icons with all possible colors.'
 type: post
 id: 169
-category:
+categories:
     - Desktop
-tag:
+tags:
     - icon
     - plus-pack
-post_format: []
-tags:
-    - 'plus-pack,icon'
 ---
 Windows 95 Plus! pack includes the ability to enable "Show icons using all possible colors". This makes the icons on the desktop much prettier as they are painted with more colors.  
   

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Avoid having to use a floppy disk when installing Windows NT on a machine with unsupported disk controller.'
 type: post
 id: 484
-category:
+categories:
     - 'Install CD'
     - 'Install CD'
     - 'Install CD'
     - 'Install CD'
-tag:
+tags:
     - slipstream
     - unattended-install
     - windows-install
-post_format: []
-tags:
-    - 'slipstream,windows-install,unattended-install'
 ---
 When installing Windows NT on a drive connected to a 3rd party controller, which Windows NT doesn't recognize, then one have to press F6 and supply drivers on a floppy unless wanting a [BSOD with INACCESSIBLE\_BOOT\_DEVICE](/article/winnt-inaccessible-boot-device.html).  
   

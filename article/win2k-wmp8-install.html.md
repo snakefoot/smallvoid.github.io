@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Media Player 8 was included with Windows XP and never released as a standalone package.'
 type: post
 id: 500
-category:
+categories:
     - Utilities
-tag:
+tags:
     - windows-media-player
-post_format: []
 tags:
     - windows-media-player
 ---

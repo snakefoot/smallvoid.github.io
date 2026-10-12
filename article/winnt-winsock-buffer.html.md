@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Most Windows applications uses Winsock to perform TCPIP communication, and many of these applications uses the default send- and receive-buffer size, which by default isn''t adapted to the available network connection.'
 type: post
 id: 326
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - network-performance
     - rwin
     - send-window
     - tcpip
     - winsock
-post_format: []
-tags:
-    - 'winsock,send-window,rwin,network-performance,tcpip'
 ---
 Usually when reading about TCPIP there is only mentioned one [Receive Window](/article/tcpip-rwin-size.html) for a connection, which is used to control congestion created by network latency.  
   

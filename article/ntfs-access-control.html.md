@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Using access control lists to improve the security for NTFS partitions.'
 type: post
 id: 150
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - access-control-list
     - ntfs
-post_format: []
-tags:
-    - 'ntfs,access-control-list'
 ---
 NTFS partitions have the capability of handling access control lists (ACL) for the folders/directories on the partition. This can be used to control who is allowed to get access to certain folders.  
   

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Assign specific drive letters for removable drives.'
 type: post
 id: 113
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,16 +14,13 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - cdrom-drive
     - drive-letter
     - dvd-drive
     - removable-storage-devices
     - usb
     - usb-stick
-post_format: []
-tags:
-    - 'cdrom-drive,dvd-drive,usb,usb-stick,drive-letter,removable-storage-devices'
 ---
 It is quite important that the drive letter for the CD Drives remains static, as many applications and games installed from a CD Drive expects to find its files on the same drive letter as when they were installed.  
  In Win9x/Me the drive letter for the CD Drives are by default assigned dynamically, so if a HDD partition is added or removed, then the drive letter for the CD Drives will change.  

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Holding down the SHIFT key during Windows startup will stop applications from loading.'
 type: post
 id: 183
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
@@ -14,13 +14,10 @@ category:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-time
     - msconfig
     - system-recovery
-post_format: []
-tags:
-    - 'msconfig,boot-time,system-recovery'
 ---
 During startup Microsoft Windows checks several "hidden" places for whether it should launch any 3rd party applications. Certain applications have a tendency to place themselves in one of these places, so they are automatically started when Windows is started.  
   

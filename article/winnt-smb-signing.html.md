@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to increase the security of the Microsoft network by enabling SMB signing.'
 type: post
 id: 212
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - microsoft-network
     - network-performance
     - smb-signing
-post_format: []
-tags:
-    - 'microsoft-network,smb-signing,network-performance'
 ---
 It is possible to configure WinNT SP3+ to increase the network security by enabling SMB signing, though enabling it will cause a performance hit because the security requires extra processing.  
   

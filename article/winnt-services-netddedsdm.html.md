@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Network DDE DSDM service.'
 type: post
 id: 567
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - network-dde
-post_format: []
 tags:
     - network-dde
 ---

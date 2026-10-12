@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Change which network redirector to use first when looking for a resource on the network.'
 type: post
 id: 419
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - distributed-file-system
     - network-redirector
     - novell-network
-post_format: []
-tags:
-    - 'network-redirector,novell-network,distributed-file-system'
 ---
 The following happens when an application requests a network resource using the Uniform Naming Convention (UNC):
 

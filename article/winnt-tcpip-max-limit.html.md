@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Windows is configured by default to handle 1000 to 2000 concurrent tcpip connections.'
 type: post
 id: 434
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - crippled
     - ephemeral
     - tcpip
-post_format: []
-tags:
-    - 'tcpip,ephemeral,crippled'
 ---
 To keep the TCP/IP stack from taking all resources on the computer, there are different parameters that control how many connections it can handle. If running applications that are constantly opening and closing connections (P2P), or are providing a service which many tries to connect to at the same time (Web-server like IIS), then one can improve the performance of these applications by changing the restriction limits.  
   

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to change the color of the BSOD to make it easier to read or just for fun.'
 type: post
 id: 135
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,12 +14,9 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - blue-screen-of-death
     - visual-style
-post_format: []
-tags:
-    - 'blue-screen-of-death,visual-style'
 ---
 If visually impaired, then the Blue Screen of Death (BSOD) can be difficult to read with its white text on blue background. It is possible to change the color of the BSOD by adding these lines to the **386enh**-section of the **System.ini**-file in the Windows-folder:
 

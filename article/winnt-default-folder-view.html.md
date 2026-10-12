@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'How to configure the Windows Explorer to display all folders the same way.'
 type: post
 id: 766
-category:
+categories:
     - Desktop
-tag:
+tags:
     - custom-folders
     - visual-style
     - windows-explorer
-post_format: []
-tags:
-    - 'windows-explorer,custom-folders,visual-style'
 ---
 To configure all folders to display the files the same way:
 

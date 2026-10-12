@@ -6,15 +6,14 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Installer service.'
 type: post
 id: 618
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - microsoft-installer-package
-post_format: []
 tags:
     - microsoft-installer-package
 ---

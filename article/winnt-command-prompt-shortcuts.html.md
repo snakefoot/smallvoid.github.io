@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'The command prompt allows one to use shortcut keys for easier navigation.'
 type: post
 id: 459
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - keyboard
     - shortcut-keys
-post_format: []
-tags:
-    - 'shortcut-keys,keyboard'
 ---
 When having started a command prompt (cmd.exe) console window, then one can use the following function keys:
 

@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Qfecheck is a command line utility by Microsoft to list installed hotfixes.'
 type: post
 id: 492
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - hotfix
-post_format: []
 tags:
     - hotfix
 ---

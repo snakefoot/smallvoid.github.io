@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'The system event log can contain information, which can be used compromise the security.'
 type: post
 id: 452
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - event-log
     - guest-account
     - user-account
-post_format: []
-tags:
-    - 'event-log,guest-account,user-account'
 ---
 Guests are by default allowed to access the Event Logs of a machine(Even over the network). The are 3 event logs on a machine Application-, Security- and System-EventLog.  
   

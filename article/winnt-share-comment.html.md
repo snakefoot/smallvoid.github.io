@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Control in what order the share name and share comment should be shown in My Network Places.'
 type: post
 id: 415
-category:
+categories:
     - Desktop
-tag:
+tags:
     - network-places
     - visual-style
-post_format: []
-tags:
-    - 'network-places,visual-style'
 ---
 Windows XP displays by default shares from other computers the following way:
 

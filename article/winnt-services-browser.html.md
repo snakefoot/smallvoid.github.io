@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Computer Browser service.'
 type: post
 id: 528
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
@@ -14,12 +14,9 @@ category:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - master-browser
     - microsoft-network
-post_format: []
-tags:
-    - 'master-browser,microsoft-network'
 ---
 ##### Description:
 

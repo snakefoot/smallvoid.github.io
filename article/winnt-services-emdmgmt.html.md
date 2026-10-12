@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the ReadyBoost service.'
 type: post
 id: 698
-category:
+categories:
     - 'Services Guide'
-tag:
+tags:
     - disk-performance
     - file-cache
     - usb
     - usb-stick
-post_format: []
-tags:
-    - 'file-cache,usb,usb-stick,disk-performance'
 ---
 ##### Description:
 

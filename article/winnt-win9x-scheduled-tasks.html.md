@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'When accessing the shares of a Win9x machine, then time is spend on checking for scheduled tasks.'
 type: post
 id: 441
-category:
+categories:
     - Network
-tag:
+tags:
     - network-performance
     - network-share
     - scheduled-task
-post_format: []
-tags:
-    - 'scheduled-task,network-share,network-performance'
 ---
 Accessing Win9x/Me shares can be slow, this can be caused by remotely checking for scheduled tasks and printers on the Win9x/Me machine.  
   

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'A boot manager can help with running multiple operating systems on the same machine.'
 type: post
 id: 86
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -16,12 +16,9 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - boot-manager
     - boot-sector
-post_format: []
-tags:
-    - 'boot-manager,boot-sector'
 ---
 It possible to install several operating systems on the same machine. This requires a boot manager which is able to handle the different boot sectors used by each operating system. The boot sectors can be handled in two ways:
 

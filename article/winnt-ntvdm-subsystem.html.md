@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'For security measures then one should consider disabling the ability to launch the 16 bit subsystem.'
 type: post
 id: 825
-category:
+categories:
     - Tips
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - dos-emulator
     - subsystem
-post_format: []
-tags:
-    - 'subsystem,dos-emulator'
 ---
 A great advantage of Microsoft Windows is that old software usually continue to work even if upgrading to the next version of Microsoft Windows.  
   

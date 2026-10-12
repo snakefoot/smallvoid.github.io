@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'The Microsoft Installer (MSI) Package file is a compressed archive, which can be decompressed.'
 type: post
 id: 289
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,12 +14,9 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - command-line-switches
     - microsoft-installer-package
-post_format: []
-tags:
-    - 'microsoft-installer-package,command-line-switches'
 ---
 Usually it is possible to use ones favorite compression utility to treat a Microsoft Installer Package (MSI) like it was a normal archive. Though sometimes it doesn't work, but then one can use the Windows Installer Tool (Msiexec.exe) to extract the files from the MSI package. It can open a MSI package in "Administrator" installation mode, where it can extract the files without performing the install.  
   

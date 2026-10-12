@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'How to repair a broken COM+ catalog and reinstall COM+ services.'
 type: post
 id: 530
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag: []
-post_format: []
+tags: []
 ---
 [COM+ Event System](/article/winnt-services-eventsystem.html) will fail to operate if it not having the proper [access rights](/article/ntfs-access-control.html) (Everyone:Read, System:Full, Adminstrators:Full) to the COM+ Catalog (%windir%\\Registration), and will generate the following errors in the Event Log:
 > *Event ID: 4609  

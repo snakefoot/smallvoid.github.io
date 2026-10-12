@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Bypass the restriction of not being able to use the Aero interface on Windows Vista Home Basic.'
 type: post
 id: 653
-category:
+categories:
     - Desktop
-tag:
+tags:
     - aero
     - crippled
     - window-transparency
-post_format: []
-tags:
-    - 'aero,crippled,window-transparency'
 ---
 Windows Vista Home Basic has been crippled by Microsoft to not support Aero, but will instead use "Windows Vista Basic" or "Windows Vista Standard" appearance. By changing a few registry settings, then it is possible to configure the Desktop Windows Manager (DWM) to enable the Aero Interface like in Home Premium.
 

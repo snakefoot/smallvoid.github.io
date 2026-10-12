@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Setting up a computer network, and steps for troubleshooting errors in the computer network.'
 type: post
 id: 142
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,14 +14,11 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - lan
     - microsoft-network
     - network-diagnostic
     - network-interface-card
-post_format: []
-tags:
-    - 'lan,microsoft-network,network-diagnostic,network-interface-card'
 ---
 The recipe is quite simple to create a home network to share files between computers:
 

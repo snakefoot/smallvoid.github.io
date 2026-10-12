@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Adding own actions to the context menu when right clicking a file in Windows Explorer.'
 type: post
 id: 116
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,15 +14,12 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - context-menu
     - drive-mount
     - file-association
     - file-type
     - windows-explorer
-post_format: []
-tags:
-    - 'file-type,file-association,drive-mount,context-menu,windows-explorer'
 ---
 Windows creates by default several actions for the different file-types (JPG,TXT,HTM,etc.) that it knows. These actions are shown in the context-menu when right clicking a file (or folder), and depending of the file-type a different set of actions are available.  
   

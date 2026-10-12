@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to configure the size of the Temporary Internet Files cache.'
 type: post
 id: 132
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - cache
     - free-disk-space
     - temporary-internet-files
-post_format: []
-tags:
-    - 'temporary-internet-files,cache,free-disk-space'
 ---
 Both Internet Explorer and Outlook Express can have trouble with a large Temporary Internet File cache (Index.dat). Leading to problems in loading web pages and sending emails with large attachments.
 

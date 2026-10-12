@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'The splash screen can be useful to see if an application is actually starting, but it can also be disabled.'
 type: post
 id: 329
-category:
+categories:
     - 'Outlook Express'
     - 'Windows Mail (Vista)'
-tag:
+tags:
     - splash-screen
-post_format: []
 tags:
     - splash-screen
 ---

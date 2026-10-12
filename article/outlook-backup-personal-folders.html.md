@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Outlook stores the addresses and emails in a PST file, which one can backup and restore.'
 type: post
 id: 262
-category:
+categories:
     - Outlook
-tag:
+tags:
     - backup
     - personal-folders
-post_format: []
-tags:
-    - 'personal-folders,backup'
 ---
 The personal folders file (.pst) contains all local Outlook folders, such as Calendar, Inbox, Contacts, Tasks, Sent Items, Outbox, Deleted Items, and user-created folders.  
   

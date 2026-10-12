@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Media Center Extender Service.'
 type: post
 id: 720
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - media-center
-post_format: []
 tags:
     - media-center
 ---

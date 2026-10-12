@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'QChain is created by Microsoft and allows several hotfixes to be chained together in a single install.'
 type: post
 id: 495
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - hotfix
     - 'Windows Update'
-post_format: []
-tags:
-    - 'hotfix,windows-update'
 ---
 [QChain](http://www.microsoft.com/downloads/details.aspx?amp;displaylang=en&familyid=3C64D889-74F1-490B-A2FB-F15671A3B60C) makes it possible to install several hotfixes without needing to reboot after each hotfix. Useful when doing a reinstall of everything.
 > \\Q123456\_w2k\_sp2\_x86.exe -z -m  

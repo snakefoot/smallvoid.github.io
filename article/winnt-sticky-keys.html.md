@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Sticky keys is an accessibility features, that can be activated with a shortcut key (often by accident when inside a game).'
 type: post
 id: 400
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - accessibility-tools
     - shortcut-keys
     - sticky-keys
-post_format: []
-tags:
-    - 'sticky-keys,accessibility-tools,shortcut-keys'
 ---
 It is possible to control the computer even if not having both hands available by using the accessibility features. Sticky keys is one part of this collection of features and allows Windows to help to hold down several keys on the keyboard. By pressing SHIFT several (5) times in a row then the Sticky Keys configuration is presented. One cannot remove/disable sticky keys completely, but only disable the hotkey activation of sticky keys.  
   

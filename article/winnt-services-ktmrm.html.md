@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the KtmRm for Distributed Transaction Coordinator service.'
 type: post
 id: 677
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

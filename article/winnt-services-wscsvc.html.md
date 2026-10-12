@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Security Center service (WSCSVC).'
 type: post
 id: 592
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - network-access-protection
-post_format: []
 tags:
     - network-access-protection
 ---

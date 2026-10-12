@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Enabling automatic login so one doesn''t have to type username and password at every boot.'
 type: post
 id: 214
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - automatic-login
     - user-account
     - user-profile
     - windows-login
-post_format: []
-tags:
-    - 'automatic-login,user-profile,user-account,windows-login'
 ---
 It is possible to have several user profiles in Win9x. This gives the possibility for each user to have their own personal settings for Desktop, Start Menu, Favorites, My Documents, etc. By standard there is only a single user profile, which is automatically logged in.  
   

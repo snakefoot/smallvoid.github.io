@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Windows XP firewall log can be used to monitor those who are trying to access the computer.'
 type: post
 id: 513
-category:
+categories:
     - Utilities
-tag:
+tags:
     - firewall
     - security
-post_format: []
-tags:
-    - 'firewall,security'
 ---
 The following utilities can be used to read the log created by the firewall builtin Windows XP:
 

@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Troubleshoot and repair Automatic Updates when it fails to perform Windows Update.'
 type: post
 id: 734
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - automatic-updates
     - 'Windows Update'
-post_format: []
-tags:
-    - 'automatic-updates,windows-update'
 ---
 ##### Automatic Updates uses 100% CPU
 

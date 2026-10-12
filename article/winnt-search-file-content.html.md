@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Configure Windows Search index filters to perform indexing of document and spreadsheets using IFilters.'
 type: post
 id: 785
-category:
+categories:
     - Tips
     - Tips
-tag:
+tags:
     - file-search
     - indexing-service
-post_format: []
-tags:
-    - 'file-search,indexing-service'
 ---
 Microsoft Windows Search will by default index all file-names and their properties, but it also has support for searching the contents of files.  
   

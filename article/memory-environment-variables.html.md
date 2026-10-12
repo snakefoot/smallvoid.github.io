@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'How to increase the memory available for environment variables at the expense of conventional memory.'
 type: post
 id: 57
-category:
+categories:
     - Tips
-tag:
+tags:
     - conventional-memory
     - environment-variables
-post_format: []
-tags:
-    - 'environment-variables,conventional-memory'
 ---
 The memory available for [environment variables](/article/environment-variables.html) is limited. If requesting memory beyond the limit the following error is given:
 

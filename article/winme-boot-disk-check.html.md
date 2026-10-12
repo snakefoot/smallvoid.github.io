@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Windows Me will perform a scandisk after an improper shutdown when Windows has started up.'
 type: post
 id: 175
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - hard-disk-drive
     - scandisk
-post_format: []
-tags:
-    - 'scandisk,hard-disk-drive'
 ---
 If Windows Me has experienced an improper/incorrect shutdown, then it will check the hard disk to correct any errors caused by the premature shutdown.  
   

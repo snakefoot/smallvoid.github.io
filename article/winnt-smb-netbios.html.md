@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'How to configure which port number to use for Netbios communcations.'
 type: post
 id: 148
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - dns
     - microsoft-network
     - netbios
-post_format: []
-tags:
-    - 'netbios,microsoft-network,dns'
 ---
 With Windows 2000 the first move away from Netbios was made. Instead DNS should be used for name resolution and SMB Direct Hosting at TCPIP port 445 for requests instead of port 139.  
   

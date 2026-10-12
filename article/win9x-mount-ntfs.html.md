@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'NTFS device driver for accessing NTFS partitions inside Windows 9x.'
 type: post
 id: 222
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - drive-mount
     - ntfs
     - partition
-post_format: []
-tags:
-    - 'ntfs,partition,drive-mount'
 ---
 Microsoft Windows 95 / 98 / Me doesn't have native support for NTFS partitions, but there exists different file system drivers, which allows one to mount an NTFS partitions and access it like a normal FAT16 / FAT32 partition.
 

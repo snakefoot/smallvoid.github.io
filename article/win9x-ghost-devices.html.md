@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description of ghost devices and how they can be removed in safemode.'
 type: post
 id: 138
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-time
     - device-manager
     - drivers
     - ghost-devices
     - hardware
-post_format: []
-tags:
-    - 'ghost-devices,device-manager,hardware,drivers,boot-time'
 ---
 Sometimes Win9x gets confused by some hardware which causes it to have duplicate registration of the same device, or still have ghost devices registered which are no longer in the machine. Ghost Devices can cause slow boot and other erratic behavior because Windows tries to communicate with a device which isn't there.  
   

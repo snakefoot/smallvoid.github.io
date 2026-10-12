@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'How to configure Himem.sys so it will not perform memory testing.'
 type: post
 id: 45
-category:
+categories:
     - Tips
-tag:
+tags:
     - himem-sys
     - memory-testing
-post_format: []
-tags:
-    - 'himem-sys,memory-testing'
 ---
 Edit CONFIG.SYS and insert/update this line to disable the memory testing:
 

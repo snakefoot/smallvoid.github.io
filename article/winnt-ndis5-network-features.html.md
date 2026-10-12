@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Windows can activate NDIS 5 network hardware features for offloading the system processor.'
 type: post
 id: 758
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - network-interface-card
     - network-performance
     - tcpip
     - tcpip-offload
-post_format: []
-tags:
-    - 'tcpip-offload,network-performance,tcpip,network-interface-card'
 ---
 Windows will detect if the network hardware has capabilities for offloading of the tasks required to maintain the TCP/IP stack.
 

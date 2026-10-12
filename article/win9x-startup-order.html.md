@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description of where and in what order programs are loaded at startup.'
 type: post
 id: 181
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-time
     - msconfig
-post_format: []
-tags:
-    - 'boot-time,msconfig'
 ---
 The order of which applications are loaded and where they are loaded from:
 

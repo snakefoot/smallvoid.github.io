@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Folder Options can be extended to easily configure other settings in Windows.'
 type: post
 id: 286
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,12 +14,9 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - folder-options
     - windows-explorer
-post_format: []
-tags:
-    - 'folder-options,windows-explorer'
 ---
 One can configure several options here:
 

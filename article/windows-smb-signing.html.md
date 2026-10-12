@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How the security features in SMB signing can protect the network.'
 type: post
 id: 208
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
@@ -15,13 +15,10 @@ category:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - microsoft-network
     - network-performance
     - smb-signing
-post_format: []
-tags:
-    - 'microsoft-network,smb-signing,network-performance'
 ---
 The Server Message Block (SMB) protocol was developed jointly by Microsoft, IBM and Intel. SMB is used for providing and obtaining network file services, making it possible to copy files between networked computers. Security issues can arise if in a network with untrusted clients:
 

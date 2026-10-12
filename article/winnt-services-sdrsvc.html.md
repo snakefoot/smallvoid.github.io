@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Backup service.'
 type: post
 id: 711
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - backup
-post_format: []
 tags:
     - backup
 ---

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to increase the amount of memory the NTFS filesystem can use for file operations.'
 type: post
 id: 378
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - file-system
     - ntfs
-post_format: []
-tags:
-    - 'ntfs,disk-performance'
 ---
 The NTFS file system have a limited pool of kernel-buffers (lookaside list), which are used when doing file operations ex. a larger read-ahead cache. If there are so many file operations (read/write files), that all the buffers are used up, then it will block for new file operations until an active one have completed.  
   

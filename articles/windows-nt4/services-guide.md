@@ -8,8 +8,6 @@ type: page
 id: 3
 description:
     - 'How to tweak the services in Windows NT4, with description of what services are unnecessary and can be disabled for security and performance.'
-tags:
-    - ''
 ---
 
 ##### Windows NT4 Services Guide

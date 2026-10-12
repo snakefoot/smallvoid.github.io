@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Increase the winsock send buffer to make file uploading faster (Ex. file attachments in webmail).'
 type: post
 id: 325
-category:
+categories:
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - network-performance
     - send-window
     - tcpip
     - upload
     - winsock
-post_format: []
-tags:
-    - 'tcpip,winsock,upload,send-window,network-performance'
 ---
 Internet Explorer (IE) is able to upload files using the HTTP feature. By default IE uses a send buffer of 8 KBytes, which equals to about 80 KBytes per sec (KBps). It is possible to increase the size of the [winsock send buffer](/article/winnt-winsock-buffer.html), to speed up the uploading of larger files (ex. attaching files in web-mail).  
   

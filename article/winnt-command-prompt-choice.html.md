@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Allow user interaction in command prompt scripts using environment variables.'
 type: post
 id: 462
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - batch-file
     - environment-variables
     - user-input
-post_format: []
-tags:
-    - 'environment-variables,user-input,batch-file'
 ---
 It can be useful sometimes to provide the user with a [choice](/article/choice-user-input.html) when running batch file from the command prompt (cmd.exe). This can be done with this command that prompts the user for input from the console and saves it in an [environment variable](/article/winnt-environment-variables.html):
 

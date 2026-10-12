@@ -6,13 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Keberos Key Distribution Center service.'
 type: post
 id: 557
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 ##### Description:
 

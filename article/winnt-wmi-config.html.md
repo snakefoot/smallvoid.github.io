@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description of how to repair the Windows Management Instrumentation (WMI) repository.'
 type: post
 id: 620
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - wmi
-post_format: []
 tags:
     - wmi
 ---

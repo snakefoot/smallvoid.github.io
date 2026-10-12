@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'How to make a DOS bootdisk on a USB pen drive.'
 type: post
 id: 762
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - BIOS
     - bootdisk
     - system-recovery
     - usb
     - usb-stick
-post_format: []
-tags:
-    - 'usb,usb-stick,bootdisk,bios,system-recovery'
 ---
 It is possible to boot from a USB pen- / stick- / flash- / thumb-drive, which can be useful for different things:
 

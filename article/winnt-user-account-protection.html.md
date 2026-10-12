@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'User Account Control (UAC) makes sure that daily tasks are not performed with administrator privileges.'
 type: post
 id: 455
-category:
+categories:
     - 'User Security'
-tag:
+tags:
     - user-account-control
-post_format: []
 tags:
     - user-account-control
 ---

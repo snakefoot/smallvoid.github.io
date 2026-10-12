@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'SysInternals has created a FAT32 driver that allow one to mount and access FAT32 partitions.'
 type: post
 id: 490
-category:
+categories:
     - Utilities
-tag:
+tags:
     - drive-mount
     - fat32
     - partition
-post_format: []
-tags:
-    - 'fat32,partition,drive-mount'
 ---
 Windows NT 4.0 doesn't have native FAT32 support, but with [FAT32NT](http://www.sysinternals.com/Utilities/Fat32.html) it is possible to mount and get access to your FAT32 partitions.  
   

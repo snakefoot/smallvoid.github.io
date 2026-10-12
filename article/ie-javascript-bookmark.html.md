@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Special javascript bookmarks makes it possible to execute scripts on the web page currently being viewed.'
 type: post
 id: 314
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - favorites
     - java-script
-post_format: []
-tags:
-    - 'java-script,favorites'
 ---
 It is possible to create special javascript links and place them in Favorites/Bookmarks to help out when browsing the Internet. The Javascript gives the ability of making the links dynamic.  
   

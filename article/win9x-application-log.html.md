@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Save resources by disabling the Task Monitor and avoid the logging of every application startup.'
 type: post
 id: 102
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - defrag
     - task-monitor
-post_format: []
-tags:
-    - 'task-monitor,defrag'
 ---
 Windows 98 introduced a new feature for optimizing the startup of applications called the Task Monitor. The Task Monitor monitors the file operations of all applications during their startup phase. The Disk Defragmenter then uses the logs created from monitoring the applications, to group the files (DLL's etc.) used by the application together, so the file operations will be faster next time the application starts.  
   

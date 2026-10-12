@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'How to configure memory size of the file cache for faster file operations.'
 type: post
 id: 265
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - file-cache
     - file-system
-post_format: []
-tags:
-    - 'file-system,file-cache,disk-performance'
 ---
 Windows has a file caching mechanism which is tightly integrated with the memory manager. It helps disk performance by keeping the most recent files in memory, whether is is EXE or DLL files loaded by the memory manager or data files loaded by the running applications.  
   

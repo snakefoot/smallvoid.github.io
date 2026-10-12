@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Cryptographic services.'
 type: post
 id: 532
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Steps for finding what hardware devices that is causing problems.'
 type: post
 id: 267
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
@@ -14,14 +14,11 @@ category:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - drivers
     - event-log
     - hardware
     - system-recovery
-post_format: []
-tags:
-    - 'hardware,drivers,event-log,system-recovery'
 ---
 If the computer crashes, reboots, restarts, freezes, hangs, acts slow or is jerky, try the following checkpoints one by one to see if it makes the software/hardware problem go away:
 

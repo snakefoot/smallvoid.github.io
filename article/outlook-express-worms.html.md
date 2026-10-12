@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Outlook Express can be used by malicious worms and virus to spread themselves using malformed HTML emails.'
 type: post
 id: 330
-category:
+categories:
     - 'Outlook Express'
-tag:
+tags:
     - virus
     - worms
-post_format: []
-tags:
-    - 'worms,virus'
 ---
 Many worm vira makes use of OE to email the vira to everyone in the address book. Instead of using HTML as the default email format, then change it to use Plain Text.  
   

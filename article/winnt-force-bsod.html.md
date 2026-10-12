@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Using a special keyboard shortcut to create a blue screen of death with memory dump.'
 type: post
 id: 388
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - blue-screen-of-death
     - keyboard
     - memory-dump
     - shortcut-keys
-post_format: []
-tags:
-    - 'blue-screen-of-death,memory-dump,keyboard,shortcut-keys'
 ---
 It is possible to force a Blue Screen of Death (BSOD) if this is needed. It can be useful when testing the recovery abilities of your 3rd party application or cluster service.  
   

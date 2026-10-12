@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Configure whether the num-lock, caps-lock or scroll-lock keys should be turned on or off at startup.'
 type: post
 id: 387
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - keyboard
     - numlock
     - windows-login
-post_format: []
-tags:
-    - 'numlock,keyboard,windows-login'
 ---
 It is possible to configure whether Numlock should be enabled after logging in. The activation is controlled by setting this registry STRING value:
 

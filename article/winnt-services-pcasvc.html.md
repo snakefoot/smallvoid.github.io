@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Program Compatibility Assistant Service.'
 type: post
 id: 696
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - application-compatibility
     - user-account-protection
-post_format: []
-tags:
-    - 'application-compatibility,user-account-protection'
 ---
 ##### Description:
 

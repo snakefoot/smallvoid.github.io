@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Netmeeting Remote Desktop Sharing service.'
 type: post
 id: 564
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - netmeeting
     - remote-desktop
-post_format: []
-tags:
-    - 'netmeeting,remote-desktop'
 ---
 ##### Description:
 

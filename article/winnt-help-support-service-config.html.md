@@ -6,13 +6,10 @@ author: Snakefoot
 excerpt: 'How to reinstall the Help and Support service if it fails to function properly.'
 type: post
 id: 548
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 If having problems with the [Help and Support service](/article/winnt-services-helpsvc.html), then one can try repair it:
 

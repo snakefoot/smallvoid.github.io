@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Configure how the TCP/IP should respond when multiple network adapters are installed.'
 type: post
 id: 200
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - network-interface-card
     - network-load-balancing
     - tcpip
-post_format: []
-tags:
-    - 'network-load-balancing,tcpip,network-interface-card'
 ---
 It is possible to have the OS to balance the network load for the computer when having several Network Adapters.  
   

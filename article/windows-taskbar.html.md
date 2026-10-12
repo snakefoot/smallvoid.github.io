@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Changing the behavior and visual appearance of the task bar.'
 type: post
 id: 304
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,14 +14,11 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - Desktop
     - quick-launch
     - taskbar
     - windows-explorer
-post_format: []
-tags:
-    - 'taskbar,windows-explorer,desktop,quick-launch'
 ---
 Disable the arrow with "Click here to begin" in Win95/NT4:
 

@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Extend the login dialog with the option to shutdown the computer without having given credentials.'
 type: post
 id: 457
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - windows-login
-post_format: []
 tags:
     - windows-login
 ---

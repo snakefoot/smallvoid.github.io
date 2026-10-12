@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Bootpart makes it easy to create the perfect multi-boot setup using the Windows NT boot manager.'
 type: post
 id: 496
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - boot-manager
     - dual-boot
     - partition
-post_format: []
-tags:
-    - 'boot-manager,partition,dual-boot'
 ---
 This is a really cool utility which is able to take the image of the boot sector of any partition and save it in a file. It also can restore the bootsector of the WinNT partition if it has been overwritten.  
   

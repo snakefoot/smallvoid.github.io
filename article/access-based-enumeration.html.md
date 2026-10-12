@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Windows 2003 addon which hides folders within a share, that the user cannot access anyway.'
 type: post
 id: 151
-category:
+categories:
     - Utilities
-tag:
+tags:
     - access-control-list
     - ntfs
-post_format: []
-tags:
-    - 'access-control-list,ntfs'
 ---
 Windows 2003 Service Pack 1 includes a new feature called Access-based Enumeration. When making a file share one can use this feature to specify that it should only list files the user has [permission to access](/article/ntfs-access-control.html). Instead of listing all files and folders and give the user access denied message, when the user tries to access a file/folder without the proper permissions.  
   

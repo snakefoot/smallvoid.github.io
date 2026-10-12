@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Protected Storage service.'
 type: post
 id: 575
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - encryption
     - password
-post_format: []
-tags:
-    - 'password,encryption'
 ---
 ##### Description:
 

@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'The lookup cache for network files makes it faster to reopen a file placed on a remote share.'
 type: post
 id: 447
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - file-cache
     - network-performance
     - network-share
-post_format: []
-tags:
-    - 'file-cache,network-share,network-performance'
 ---
 When requesting a file on the network, the request is handled by the [MUP](/article/winnt-network-priority.html), and depending on configuration, then the request is passed to the Microsoft Network SMB Redirector (MrxSmb).  
  The SMB Redirector keeps a cache of recent accessed files, but by default it only caches short-filenames. If frequently accessing the same network files (Like ex. a database), then performance can be improved by using 8.3 short-filenames. Another solution is to configure the SMB redirector to cache long-filenames.

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Create a cd-rom-, dvd- or usb-drive which Windows can boot from.'
 type: post
 id: 396
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - bootdisk
     - preinstallation-environment
     - system-recovery
-post_format: []
-tags:
-    - 'bootdisk,preinstallation-environment,system-recovery'
 ---
 Microsoft Windows Preinstallation Environment ([Windows PE](http://www.microsoft.com/whdc/system/winpreinst/WindowsPE_over.mspx "Windows Preinstallation Environment Overview")) is a Windows version capable of booting directly from a CD, DVD or USB drive. This allows one to create a very powerful recovery tool, which can contain almost any repair utility one could wish for. Making it possible to create your own Emergency Recovery Console utility like the [Microsoft Diagnostics and Recovery Toolset (DART)](http://www.microsoft.com/en-us/windows/enterprise/products-and-technologies/mdop/dart.aspx "Formerly known as ERD Commander").  
   

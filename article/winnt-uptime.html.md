@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Uptime is a command line utility by Microsoft for displaying the time since the last reboot.'
 type: post
 id: 506
-category:
+categories:
     - Utilities
     - Utilities
-tag:
+tags:
     - uptime
-post_format: []
 tags:
     - uptime
 ---

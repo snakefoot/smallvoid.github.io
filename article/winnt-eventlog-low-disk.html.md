@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Change the treshold of when to report that a disk is near its capacity.'
 type: post
 id: 382
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - event-log
     - hard-disk-drive
-post_format: []
-tags:
-    - 'event-log,hard-disk-drive'
 ---
 The System Event Log will display the following warning when less than 10% disk space is free:
 

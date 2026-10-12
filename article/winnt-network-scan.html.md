@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'The network crawler will automatically create shortcuts to the network shares and printers found on the netwok in My Network Places.'
 type: post
 id: 413
-category:
+categories:
     - 'File Sharing'
-tag:
+tags:
     - network-places
-post_format: []
 tags:
     - network-places
 ---

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Microsoft Windows 7 no longer have the classic logon screen, which has been replaced by the Welcome Screen.'
 type: post
 id: 822
-category:
+categories:
     - Tips
-tag:
+tags:
     - branding
     - login-screen
     - welcome-screen
     - windows-login
-post_format: []
-tags:
-    - 'windows-login,welcome-screen,login-screen,branding'
 ---
 Windows 7 no longer supports the classic logon screen, that is available in WinXP. Windows 7 provides a welcome screen, where one can select between the available user accounts.  
   

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Microsoft security update MS05-026 blocks for viewing compressed HTML (CHM) files placed on a network drive.'
 type: post
 id: 290
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - compressed-html
     - ie-security
-post_format: []
-tags:
-    - 'compressed-html,ie-security'
 ---
 Microsoft have released a patch to fix a vulnerability in HTML Help ([MS05-026 (896358)](http://support.microsoft.com/kb/896358 "MS05-026: A vulnerability in HTML Help could allow remote code execution")). This patch disables the ability to view Compressed HTML (CHM) files placed on a remote computer, and one will get the following error message:
 

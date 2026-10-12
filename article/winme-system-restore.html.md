@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Details of how System Restore works in Windows Me and how to configure it.'
 type: post
 id: 107
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - restore-point
     - system-file-protection
     - system-restore
-post_format: []
-tags:
-    - 'system-restore,restore-point,system-file-protection'
 ---
 System Restore makes it possible to go back to a previous known good configuration (Before one self or an application screwed up the system). System Restore saves the the current Windows configuration in a restore point, and if any accident should occur, then one can return to the saved restore point. Restore Points are automatically created regularly at certain events, so a recent Restore Point is always available.  
   

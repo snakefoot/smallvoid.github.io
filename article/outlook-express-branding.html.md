@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to put the company name in the title of the Outlook Express application.'
 type: post
 id: 328
-category:
+categories:
     - 'Outlook Express'
-tag:
+tags:
     - branding
-post_format: []
 tags:
     - branding
 ---

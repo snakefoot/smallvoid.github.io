@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Internet Explorer is restricted to not run scripts when viewing local webpages.'
 type: post
 id: 324
-category:
+categories:
     - 'Internet Explorer (IE6)'
     - 'Internet Explorer (IE7)'
     - 'Internet Explorer (IE8)'
-tag:
+tags:
     - security-zone
     - trusted-sites
-post_format: []
-tags:
-    - 'security-zone,trusted-sites'
 ---
 Internet Explorer 6 in Windows XP SP2 includes extra security, which blocks javascript and vbscript in web-pages placed on the local drive. This security is also activated when opening a XML file placed on the local drive:
 

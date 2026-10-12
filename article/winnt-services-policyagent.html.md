@@ -6,21 +6,18 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the IPSEC services.'
 type: post
 id: 555
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - firewall
     - ipsec
     - l2tp
     - VPN
-post_format: []
-tags:
-    - 'ipsec,VPN,l2tp,firewall'
 ---
 ##### Description:
 

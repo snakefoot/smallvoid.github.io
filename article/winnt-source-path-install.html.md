@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Configure the path to the location of the install files whether on CD-ROM or HDD.'
 type: post
 id: 249
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag: []
-post_format: []
+tags: []
 ---
 When installing new components then it uses the following registry keys to find the Install-CD:
 

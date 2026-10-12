@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Activating the insecure guest account for easy file sharing.'
 type: post
 id: 149
-category:
+categories:
     - 'File Sharing'
-tag:
+tags:
     - guest-account
-post_format: []
 tags:
     - guest-account
 ---

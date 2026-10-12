@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Open access to USB devices in Windows NT4 by installing these USB drivers.'
 type: post
 id: 491
-category:
+categories:
     - Utilities
-tag:
+tags:
     - removable-storage-devices
     - usb
-post_format: []
-tags:
-    - 'usb,removable-storage-devices'
 ---
 Windows NT 4.0 doesn't have native USB support, but with these free [USB drivers](http://us.geocities.com/mypublic99/ "Woodhead") it is possible to use USB-keyboard, -mice, -flash disk with that old horse of an operating system.
 

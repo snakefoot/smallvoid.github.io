@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Extend the right-click context-menu of a folder to open a DOS command prompt.'
 type: post
 id: 120
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - 'Command Prompt'
     - context-menu
     - windows-explorer
-post_format: []
-tags:
-    - 'context-menu,windows-explorer,command-prompt'
 ---
 If you want to open a command prompt anywhere without manually needing to move to the right directory. Just need to right click the directory.
 

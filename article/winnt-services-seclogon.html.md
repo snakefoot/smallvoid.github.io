@@ -6,16 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Secondary Logon service.'
 type: post
 id: 588
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - runas
-post_format: []
 tags:
     - runas
 ---

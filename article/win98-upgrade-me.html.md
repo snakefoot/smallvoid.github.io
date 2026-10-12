@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Update Windows 98 using the install files from Windows Me.'
 type: post
 id: 348
-category:
+categories:
     - Utilities
-tag:
+tags:
     - 'Windows Update'
-post_format: []
 tags:
     - windows-update
 ---

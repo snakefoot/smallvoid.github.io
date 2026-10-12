@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to configure the page algorithm, so it will not perform paging when the system is idle.'
 type: post
 id: 94
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - page-algorithm
     - page-file
     - swap-file
-post_format: []
-tags:
-    - 'page-algorithm,swap-file,page-file'
 ---
 Windows 98 introduced a new feature called PageFile\_Call\_Async\_Manager. It will detect when there is little system activity, and then start to unload pages from the physical memory (RAM) and write them to the swap file on the hard disk. This can be useful if having limited memory, as this feature will increase the chance that there is RAM enough for the applications running.  
   

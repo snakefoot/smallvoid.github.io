@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Utility that can enhance any window with the transparent glass effect.'
 type: post
 id: 343
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - window-transparency
-post_format: []
 tags:
     - window-transparency
 ---

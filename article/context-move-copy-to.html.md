@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Add "Copy To Folder..." and "Move To Folder..." when right-clicking a file.'
 type: post
 id: 117
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,13 +14,10 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - context-menu
     - file-copy
     - windows-explorer
-post_format: []
-tags:
-    - 'context-menu,file-copy,windows-explorer'
 ---
 In Windows Explorer one can select a file and then go to the **Edit**-menu and select **Copy To Folder...** or **Move To Folder...**. This allows one to copy/move the file without needing to open another Windows Explorer or leave the current directory.  
   

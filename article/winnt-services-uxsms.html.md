@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Desktop Window Manager Session Manager service.'
 type: post
 id: 664
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - aero
-post_format: []
 tags:
     - aero
 ---

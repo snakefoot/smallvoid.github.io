@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to reset the transaction log for the Distributed Transaction Coordinator (MSDTC) and reinstall MSDTC.'
 type: post
 id: 541
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - msdtc
     - reinstall
-post_format: []
-tags:
-    - 'msdtc,reinstall'
 ---
 ##### Reinstall MSDTC
 

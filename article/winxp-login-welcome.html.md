@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Changing the visual styles of the login and shutdown screens.'
 type: post
 id: 156
-category:
+categories:
     - Desktop
-tag:
+tags:
     - welcome-screen
     - windows-login
-post_format: []
-tags:
-    - 'windows-login,welcome-screen'
 ---
 When using the Welcome Screen then there are different ways to change its appearence. For example one can use a picture/icon to identify each account. To add different pictures than the ones provided by Microsoft, place the new pictures (48x48 pixels, gif,bmp,jpg) in this folder:
 

@@ -6,16 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Workstation service.'
 type: post
 id: 627
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - microsoft-network
-post_format: []
 tags:
     - microsoft-network
 ---

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Portable Media Serial Number service.'
 type: post
 id: 625
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - drm
     - windows-media-player
-post_format: []
-tags:
-    - 'windows-media-player,drm'
 ---
 ##### Description:
 

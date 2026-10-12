@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Base Filtering Engine (BFE) service.'
 type: post
 id: 660
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - firewall
     - ipsec
-post_format: []
-tags:
-    - 'firewall,ipsec'
 ---
 ##### Description:
 

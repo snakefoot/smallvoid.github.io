@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Outlook Express can be configured to perform certain actions when an email is received, which is expressed in message rules.'
 type: post
 id: 332
-category:
+categories:
     - 'Outlook Express'
-tag:
+tags:
     - message-rules
     - spam
-post_format: []
-tags:
-    - 'message-rules,spam'
 ---
 It is possible in Outlook Express(OE) to use rules, to automatically sort and filter your email. To configure rules in OE one has go to the menu and select "Tools" -&gt; "Message Rules" -&gt; "Mail..."
 

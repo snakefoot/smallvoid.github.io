@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Internet Explorer can be locked down so only trusted websites can activate ActiveX and use cookies for tracking.'
 type: post
 id: 283
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - activex
     - cookies
     - security-zone
     - trusted-sites
-post_format: []
-tags:
-    - 'trusted-sites,security-zone,activex,cookies'
 ---
 Microsoft loves to makes sure everything is easy for the end user, and they loves when people uses the Microsoft invented ActiveX.  
   

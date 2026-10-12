@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Control what should happen when a shortcut is detected as being broken.'
 type: post
 id: 32
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - link-shortcut
     - link-tracking
     - ntfs
-post_format: []
-tags:
-    - 'ntfs,link-shortcut,link-tracking'
 ---
 A shortcut contains the location of the target file, if the target file cannot be found when using the shortcut, then Win2k/WinXP automatically tries to find the target file and update the shortcut with the new file-location (If it finds the file).  
   

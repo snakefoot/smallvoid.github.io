@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Driver Verifier can be used to stress device drivers and can detect if the drivers performs illegal operations.'
 type: post
 id: 471
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - blue-screen-of-death
     - driver-verifier
-post_format: []
-tags:
-    - 'driver-verifier,blue-screen-of-death'
 ---
 The Driver Verifier Manager is a tool created by Microsoft to diagnostic installed drivers, and is used by Windows Hardware Quality Labs (WHQL). The tool tests how drivers handles certain "extreme" situations with limited resources (Ex. low memory) or failing function calls.  
   

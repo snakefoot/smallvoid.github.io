@@ -6,10 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Special Administration Console Helper service.'
 type: post
 id: 598
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

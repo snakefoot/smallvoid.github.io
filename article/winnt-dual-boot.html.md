@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Dual booting several versions of Windows can be useful if running software which is locked to certain version of Windows.'
 type: post
 id: 464
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-manager
     - dual-boot
-post_format: []
-tags:
-    - 'dual-boot,boot-manager'
 ---
 By default when installing Windows NT on top of an existing Windows operating system, then Windows NT will adjust its boot manger during the install to include the previous operating system.  
   

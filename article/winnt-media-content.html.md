@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Change whether it should extract file details for media files and display thumbnail preview.'
 type: post
 id: 410
-category:
+categories:
     - Desktop
-tag:
+tags:
     - thumbnail
     - windows-media-player
-post_format: []
-tags:
-    - 'thumbnail,windows-media-player'
 ---
 Microsoft has extended the ability of the Explorer to also act as a picture viewer, music player and media player. These user friendly media shell extensions can be nice if NOT using the Classic desktop, but they also introduce some side effects (Even if using Classic desktop):
 

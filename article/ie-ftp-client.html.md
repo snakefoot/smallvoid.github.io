@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Internet Explorer can be used for simple FTP browsing.'
 type: post
 id: 315
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
     - 'Internet Explorer (IE7)'
-tag:
+tags:
     - download
     - ftp
     - ftp-client
-post_format: []
-tags:
-    - 'ftp-client,ftp,download'
 ---
 Internet Explorer isn't very obvious in how one should connect to non-public FTP's.  
  If the FTP server requires an account name and password or is using a different port number than the default, then one cannot just write the address for the FTP.  

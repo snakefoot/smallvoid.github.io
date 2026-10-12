@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'The Run... option in the Start Menu can be launched using a shortcut.'
 type: post
 id: 307
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,9 +14,8 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - start-menu
-post_format: []
 tags:
     - start-menu
 ---

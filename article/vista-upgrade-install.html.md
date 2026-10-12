@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Installing Windows Vista without needing to install an older version of Windows first.'
 type: post
 id: 735
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - windows-install
-post_format: []
 tags:
     - windows-install
 ---

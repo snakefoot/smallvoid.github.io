@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'ClearType font smoothing can improve how text is displayed in Windows XP.'
 type: post
 id: 505
-category:
+categories:
     - Utilities
-tag:
+tags:
     - cleartype
     - font
-post_format: []
-tags:
-    - 'cleartype,font'
 ---
 [ClearType Tuner](http://www.microsoft.com/typography/cleartype/tuner/Step1.aspx) will enable [ClearType smoothing of fonts](http://www.microsoft.com/windowsxp/using/setup/learnmore/cleartype.mspx), which can improve the readability of text on LCD and CRT monitors considerably.  
   

@@ -6,10 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the SPP Notification Service.'
 type: post
 id: 810
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

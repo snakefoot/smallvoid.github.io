@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Acrobat Reader can be quite slow to open PDF files in Internet Explorer.'
 type: post
 id: 319
-category:
+categories:
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - acrobat-reader
     - ie-plugin
     - pdf
-post_format: []
-tags:
-    - 'acrobat-reader,plugins'
 ---
 [Acrobat Reader](http://www.adobe.com/support/downloads/) have become necessary when wanting to read articles on the Internet. Acrobat Reader ver. 5 and 6 can be slow to startup because it has to load several plugins, but it is possible to make these plugins optional and only load the plugins when the document requires them. The slow startup has been fixed with Acrobat Reader ver. 7, but sadly enough that version cannot be used with Win9x.  
   

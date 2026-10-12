@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Increase the speed of the network connection by changing the TCP/IP settings.'
 type: post
 id: 187
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,16 +14,13 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - lan
     - max-transfer-unit
     - network-performance
     - rwin
     - tcpip
     - wan
-post_format: []
-tags:
-    - 'tcpip,rwin,max-transfer-unit,lan,wan,network-performance'
 ---
 Description of what TCP/IP settings to configure for better performance and quality connection. These settings are configured through the Windows registry, but there also exist utilities to easily configure these settings:
 

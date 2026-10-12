@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to configure whether Windows 95 / 98 / Me should participate in the master browser election.'
 type: post
 id: 203
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - master-browser
     - microsoft-network
-post_format: []
-tags:
-    - 'master-browser,microsoft-network'
 ---
 When having "File and Print Sharing..." installed then Win9x/Me will try to participate in the master browser election. This behavior is controlled with the following values :
 

@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'How to use the diskcopy command to copy floppy disks using only one floppy drive.'
 type: post
 id: 59
-category:
+categories:
     - Tips
-tag:
+tags:
     - diskcopy
     - floppy-disk
-post_format: []
-tags:
-    - 'diskcopy,floppy-disk'
 ---
 It is possible to perform a disk copy from one floppy disk to another with the following command:
 

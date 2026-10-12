@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the QoS RSVP service.'
 type: post
 id: 576
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - quality-of-service
-post_format: []
 tags:
     - quality-of-service
 ---

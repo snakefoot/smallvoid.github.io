@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Utilities for modifying the boot files to access real mode DOS in WinMe.'
 type: post
 id: 223
-category:
+categories:
     - Utilities
-tag:
+tags:
     - real-mode
     - utility
-post_format: []
-tags:
-    - 'real-mode,utility'
 ---
 Windows Me blocks access to real mode DOS, which for some can be a limitation they cannot live with.  
   

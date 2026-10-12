@@ -6,16 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Plug and Play service.'
 type: post
 id: 572
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - plug-and-play
-post_format: []
 tags:
     - plug-and-play
 ---

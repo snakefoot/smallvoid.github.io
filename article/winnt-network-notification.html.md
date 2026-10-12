@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Windows Explorer sends a Change Notification request to the remote server when mapping a network share.'
 type: post
 id: 443
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - network-performance
     - network-share
-post_format: []
-tags:
-    - 'network-share,network-performance'
 ---
 When mapping a network share as a network drive, then Windows Explorer tells the remote server, that it should be notified by any changes made on the network share. If a file changes on the network share, then each Workstation registered as having that shared mapped as a network drive will get a SMB notification about the change. If many users are updating files on the network share, then it will cause a lot of traffic (bad for slow connections like VPN or dialup) and can make the tree-view in the File Explorer flicker.  
   

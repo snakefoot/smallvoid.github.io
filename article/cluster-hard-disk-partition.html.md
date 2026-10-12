@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to change the cluster size of a partition with description of the different filesystems and their limitations.'
 type: post
 id: 131
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -14,7 +14,7 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - allocation-unit
     - cluster-size
     - disk-performance
@@ -25,9 +25,6 @@ tag:
     - hard-disk-drive
     - ntfs
     - partition
-post_format: []
-tags:
-    - 'cluster-size,allocation-unit,hard-disk-drive,partition,disk-performance,file-system,ntfs,fat32,fat16,exFAT'
 ---
 The physical HDD is divided into sectors, which is the smallest unit of storage possible. The sector-size is defined during the low-level format performed by the HDD-manufacture (Standard 512 Bytes).  
  When formatting a HDD-partition it is divided into clusters with a certain cluster-size. A cluster is a group of sectors and can can only be occupied by one file, so if having a 10 KByte file and a 4 KByte cluster-size, the file would occupy 3 clusters and 12 KByte space. This would create a so called "slack" of 2 KByte.  

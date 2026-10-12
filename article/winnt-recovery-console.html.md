@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Recovery Console can be useful when performing system recovery.'
 type: post
 id: 250
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - recovery-console
     - system-recovery
-post_format: []
-tags:
-    - 'recovery-console,system-recovery'
 ---
 The Recovery Console is a command prompt environment that is useful for emergency repair of the normal Windows installation (Like creating the Emergency Recover Disks). One can access the recovery console by booting from a Windows 2000/XP install CD-ROM:
 

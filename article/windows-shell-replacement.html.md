@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Alternative window shells that to change the desktop experience.'
 type: post
 id: 345
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -14,12 +14,9 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - windows-explorer
     - windows-shell
-post_format: []
-tags:
-    - 'windows-shell,windows-explorer'
 ---
 Tired of the restrictions in the standard Windows shell, then it might be interesting to try out an alternative desktop shell.
 

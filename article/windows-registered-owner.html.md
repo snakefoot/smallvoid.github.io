@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to change the name and company registered as owner of the Windows installation.'
 type: post
 id: 276
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,10 +14,7 @@ category:
     - Tips
     - Tips
     - Tips
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 Some times when installing Games and Applications then you get requested to verify that your name and company are correct. The default name and company presented to you each time is set during the installation.  
   

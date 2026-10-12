@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Shortcuts can be created to most of the special folders available in Windows Explorer.'
 type: post
 id: 274
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,9 +14,8 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - windows-explorer
-post_format: []
 tags:
     - windows-explorer
 ---

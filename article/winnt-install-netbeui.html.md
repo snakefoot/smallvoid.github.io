@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'How to install the NetBEUI protocol eventhough no longer a supported network protocol.'
 type: post
 id: 432
-category:
+categories:
     - Network
     - Network
-tag:
+tags:
     - netbeui
     - network-protocol
-post_format: []
-tags:
-    - 'network-protocol,netbeui'
 ---
 Microsoft has stopped the support for the NetBEUI (NetBIOS Extended User Interface) protocol with the release of Windows XP / 2003. Though you can still find the needed files (Nbf.sys &amp; Netnbf.inf) on your WinXP CD-ROM (DriveLetter-X):
 

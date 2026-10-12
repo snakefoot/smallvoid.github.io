@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Microsoft have created many utilities for management of the Windows NT operating system.'
 type: post
 id: 493
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - administration-tools
     - resource-kit
     - support-tools
-post_format: []
-tags:
-    - 'resource-kit,support-tools,administration-tools'
 ---
 Microsoft provides several small and useful utilities for monitoring and configuring the Microsoft Windows operating system. Microsoft usually release these utilities in packages called Support Tools or Resource Kits.  
   

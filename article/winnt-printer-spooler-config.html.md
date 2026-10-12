@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to configure the priority and logging level of the Printer Spooler service.'
 type: post
 id: 574
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - print-spooler
     - printer
-post_format: []
-tags:
-    - 'printer,print-spooler'
 ---
 [Print Spooler](/article/winnt-services-spooler.html) service is required to print documents or to install printers. If the service is not started, then it will instead give an error message (The usual solution is to start the service or clear the [spool directory](/article/winnt-print-spool-folder.html) or [reinstall printer drivers](/article/winnt-reinstall-printer-driver.html)):
 > *Printer operation cannot continue due to lack of resources. The print subsystem is unavailable  

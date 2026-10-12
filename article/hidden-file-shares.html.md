@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Hiding a file-share by changing the name.'
 type: post
 id: 143
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
@@ -14,12 +14,9 @@ category:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - microsoft-network
     - network-share
-post_format: []
-tags:
-    - 'network-share,microsoft-network'
 ---
 It is possible to create shares which aren't visible to people browsing the network. To make a hidden share, just add a $ in the end of name for the share:
 

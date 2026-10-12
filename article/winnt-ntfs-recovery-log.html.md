@@ -6,21 +6,18 @@ author: Snakefoot
 excerpt: 'How to change the size of the NTFS transaction log to handle peak loads.'
 type: post
 id: 33
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - chkdsk
     - disk-performance
     - file-system
     - ntfs
     - recovery-log
     - transactionel
-post_format: []
-tags:
-    - 'chkdsk,file-system,recovery-log,transactionel,ntfs,disk-performance'
 ---
 The Windows NT File System (NTFS) uses transaction logging to ensure recoverability, thus making it a journal filesystem. When a user updates a file the Log File Service records all operations in a Recovery Log ($LogFile), so it can redo or undo the entire transaction in case of error. After a system crash (due to power failure or other cause), an analysis is performed of the damage and it is determined what operations to redo and undo according to the last check point.  
   

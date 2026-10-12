@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to block Setver.exe from loading to save conventional memory.'
 type: post
 id: 91
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - conventional-memory
     - setver
-post_format: []
-tags:
-    - 'setver,conventional-memory'
 ---
 Windows 9x loads Himem.sys and Ifshlp.sys automatically eventhough they are not specified in the Config.sys. But it also loads SETVER.EXE, which is actually never needed and takes up conventional memory.  
   

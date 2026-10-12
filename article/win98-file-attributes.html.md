@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Display the file attributes in the detail view of Windows Explorer for Windows 98 Second Edition.'
 type: post
 id: 168
-category:
+categories:
     - Desktop
-tag:
+tags:
     - windows-explorer
-post_format: []
 tags:
     - windows-explorer
 ---

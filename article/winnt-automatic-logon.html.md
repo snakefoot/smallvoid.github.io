@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Enabling automatic login so one doesn''t have to type username and password at every boot.'
 type: post
 id: 154
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - automatic-login
     - user-account
     - welcome-screen
     - windows-domain
     - windows-login
-post_format: []
-tags:
-    - 'automatic-login,user-account,windows-login,windows-domain,welcome-screen'
 ---
 It is possible to make the logon automatically, which is very convenient when using a [strong password to avoid network attacks](/article/winnt-secure-admin.html) but still wants to have easy physical access to the machine.  
   

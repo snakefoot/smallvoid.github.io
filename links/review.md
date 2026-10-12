@@ -8,8 +8,6 @@ type: page
 id: 8
 description:
     - 'Testing of hardware, games, movies and music.'
-tags:
-    - ''
 ---
 
 ### Hardware

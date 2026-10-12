@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'List of the different settings available in Msdos.sys.'
 type: post
 id: 136
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - bootmenu
     - msdos-sys
-post_format: []
-tags:
-    - 'msdos-sys,bootmenu'
 ---
 The Msdos.sys file is located in the root of the system partition (Usually C:), and contains settings that control the startup of Windows 9x. The Msdos.sys is a standard text-file, which can be edited using Notepad.  
   

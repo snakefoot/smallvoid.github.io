@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Application Information Service (AIS).'
 type: post
 id: 659
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - user-account-control
-post_format: []
 tags:
     - user-account-control
 ---

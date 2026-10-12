@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Smart Card Removal Policy service.'
 type: post
 id: 700
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - smart-card
-post_format: []
 tags:
     - smart-card
 ---

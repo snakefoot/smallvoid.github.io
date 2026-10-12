@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Performance Logs &amp; Alerts service.'
 type: post
 id: 691
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - performance-counters
     - performance-monitor
-post_format: []
-tags:
-    - 'performance-monitor,performance-counters'
 ---
 ##### Description:
 

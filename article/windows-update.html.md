@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description of how Microsoft Windows requires constant updating to get the best performance.'
 type: post
 id: 228
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -14,12 +14,9 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - hotfix
     - 'Windows Update'
-post_format: []
-tags:
-    - 'windows-update,hotfix'
 ---
 Microsoft is not only famous for making software, Microsoft is also famous for making a lot of patches and updates. There are different types of updates:
 

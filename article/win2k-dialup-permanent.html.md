@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to use the dialup modem when turning it on after Windows startup.'
 type: post
 id: 424
-category:
+categories:
     - Network
-tag:
+tags:
     - dialup-modem
-post_format: []
 tags:
     - dialup-modem
 ---

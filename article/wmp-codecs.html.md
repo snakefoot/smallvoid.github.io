@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Windows Media Video (WMV) and Windows Media Audio (WMA) codecs for Media Player 6.4 and 7.1'
 type: post
 id: 356
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - codecs
     - windows-media-player
     - wma
     - wmv
-post_format: []
-tags:
-    - 'windows-media-player,codecs,wmv,wma'
 ---
 Microsoft Media Player (WMP) has been upgraded frequently and with each upgrade new versions the Windows Media Video (WMV) and Windows Media Audio (WMA) codecs are updated. The codecs supports better compression and better image/sound quality. It is possible to play video and audio files encoded in these new media formats on the older versions of the Media Player by installing a codec package.  
   

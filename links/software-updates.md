@@ -8,8 +8,6 @@ type: page
 id: 11
 description:
     - 'Windows Update, Driver Updates.'
-tags:
-    - ''
 ---
 Software Updates
 ----------------

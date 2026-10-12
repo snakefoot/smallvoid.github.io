@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Encrypting File System (EFS) service.'
 type: post
 id: 800
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - encryption
     - file-system
     - ntfs
-post_format: []
 tags:
     - encryption
 ---

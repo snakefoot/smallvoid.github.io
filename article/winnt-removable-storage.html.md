@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Restrict access to removable storage devices to prevent misuse of them by an intruder.'
 type: post
 id: 655
-category:
+categories:
     - 'User Security'
-tag:
+tags:
     - access-control-list
     - removable-storage-devices
     - usb
     - usb-stick
     - user-account
-post_format: []
-tags:
-    - 'usb,usb-stick,access-control-list,removable-storage-devices,user-account'
 ---
 Microsoft Windows Vista enhances the access control to removable storage devices to include:
 

@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Extending the right click context menu in Internet Explorer with different useful actions.'
 type: post
 id: 321
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - context-menu
-post_format: []
 tags:
     - context-menu
 ---

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to give the foreground application higher priority, so it will not be disturbed by background processes.'
 type: post
 id: 95
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - process-priority
     - process-scheduler
-post_format: []
-tags:
-    - 'process-priority,process-scheduler'
 ---
 Windows 9x gives by default all applications equal priority. One can configure Windows to give the application in the foreground higher priority, so it will not be disturbed by background applications.  
   

@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Microsoft iSCSI Initiator Service.'
 type: post
 id: 680
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - iscsi
-post_format: []
 tags:
     - iscsi
 ---

@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Kernel toys are small utilities created by Microsoft to make life easier.'
 type: post
 id: 220
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - powertoys
-post_format: []
 tags:
     - powertoys
 ---

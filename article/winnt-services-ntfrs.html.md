@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the File Replication service.'
 type: post
 id: 536
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - distributed-file-system
     - file-synchronization
-post_format: []
-tags:
-    - 'distributed-file-system,file-synchronization'
 ---
 ##### Description:
 

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to use the keyboard key "Print Screen" to make a screen dump.'
 type: post
 id: 237
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -16,9 +16,8 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - screendump
-post_format: []
 tags:
     - screendump
 ---

@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Image Acquisition service.'
 type: post
 id: 617
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - TWAIN
-post_format: []
 tags:
     - TWAIN
 ---

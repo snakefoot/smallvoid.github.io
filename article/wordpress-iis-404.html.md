@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Creating a custom 404 page for WordPress running on IIS.'
 type: post
 id: 770
-category:
+categories:
     - Uncategorized
-tag:
+tags:
     - iis
     - wordpress
-post_format: []
-tags:
-    - 'wordpress,iis'
 ---
 Microsoft Internet Information Server (IIS) supports PHP and MySQL, and therefore it can also run Wordpress. Wordpress prefers Apache as its web-server, which one will notice when trying to use pretty permalinks or other "advanced" features. See [Making Wordpress 2.0 run on IIS](/article/wordpress2-iis.html)  
   

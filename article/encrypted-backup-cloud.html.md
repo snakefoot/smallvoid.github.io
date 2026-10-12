@@ -6,15 +6,14 @@ author: Snakefoot
 excerpt: 'Create removable encrypted hard-disk-image, and use that for Windows Backup.'
 type: post
 id: 5291
-category:
+categories:
     - Tips
-tag:
+tags:
     - backup
     - bitlocker
     - encryption
     - file-system
     - hard-disk-drive
-post_format: []
 ---
 When making a backup and giving it to stranger, then it is good idea to encrypt the backup.  
   

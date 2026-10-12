@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Changing the Max Transfer Unit (MTU) to avoid packet fragmentation and connection loss.'
 type: post
 id: 656
-category:
+categories:
     - Network
     - Network
-tag:
+tags:
     - max-transfer-unit
     - netsh
     - tcpip
-post_format: []
-tags:
-    - 'max-transfer-unit,tcpip,netsh'
 ---
 The default [Max Transfer Unit (MTU) size](/article/tcpip-mtu-size.html) for ethernet is 1500 bytes, if using a network with a different MTU size, then one should make sure to configure MTU in Windows to avoid packet fragmentation or connection loss.  
   

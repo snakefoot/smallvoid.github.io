@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Desktop Services.'
 type: post
 id: 807
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - remote-desktop
-post_format: []
 tags:
     - remote-desktop
 ---

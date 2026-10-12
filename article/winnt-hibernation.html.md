@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Hibernation requires a file as big as the size of the physical memory, which it dumps the contents of the memory to hibernate.'
 type: post
 id: 397
-category:
+categories:
     - Tips
     - Tips
-tag:
+tags:
     - free-disk-space
     - hibernation
     - power-management
-post_format: []
-tags:
-    - 'hibernation,power-management,free-disk-space'
 ---
 When using hibernation a snapshot is made of the RAM and saved to the file **C:\\Hiberfil.sys** and the machine is shut down. When restarting again the RAM is restored from the file and is in the same state as before the shutdown. This features can give quick shutdown and restart capabilities (Dependent on HDD speed), but with the expense of used disk space by the file containing the snapshot (Same size as RAM installed)  
   

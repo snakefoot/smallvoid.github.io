@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Event Collector service.'
 type: post
 id: 718
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - event-log
-post_format: []
 tags:
     - event-log
 ---

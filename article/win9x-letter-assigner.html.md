@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Utility that allows one to change drive-letter assignments for hard disk partitions.'
 type: post
 id: 114
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - drive-letter
     - partition
-post_format: []
-tags:
-    - 'drive-letter,partition'
 ---
 [Letter Assigner](http://www.v72735.f2s.com/LetAssig/ "Vadin Burtyansky") (Download [mirror of LetAssig.zip](http://smallvoid.orgfree.com/?file=letassig.zip "Letter Assigner v1.2.0 by Vadim Burtyansky")) makes it possible to assign specific drive letter to any partition.  
   

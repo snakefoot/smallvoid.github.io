@@ -6,12 +6,9 @@ author: Snakefoot
 excerpt: 'Change the install license by updating the install files for Windows XP.'
 type: post
 id: 486
-category:
+categories:
     - 'Install CD'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 There are 3 types of licenses :
 

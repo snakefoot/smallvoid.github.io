@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Peer Networking Grouping service.'
 type: post
 id: 689
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - netPeerTcpBinding
     - PNRP
-post_format: []
-tags:
-    - 'PNRP,netPeerTcpBinding'
 ---
 ##### Description:
 

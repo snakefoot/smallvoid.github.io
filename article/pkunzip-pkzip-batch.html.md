@@ -6,9 +6,9 @@ author: Snakefoot
 excerpt: 'How to wrap a batch file around the pkzip and pkunzip command line utiltities.'
 type: post
 id: 55
-category:
+categories:
     - Tips
-tag:
+tags:
     - backup
     - batch-file
     - compress
@@ -16,9 +16,6 @@ tag:
     - pkunzip
     - pkzip
     - restore
-post_format: []
-tags:
-    - 'pkzip,pkunzip,batch-file,backup,restore,compress,extract'
 ---
 [PKZIP and PKUNZIP](http://www.pkware.com/) command line utilities for handling zip files, are not the most intuitive. Instead of having to remember the proper command line parameters, for either compressing files into a zip file, or to extract the files again from a zip file, then one can put them in a [batch file](/article/batch-file.html).  
   

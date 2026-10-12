@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'How to get fdisk to create small FAT32 partitions with special parameter.'
 type: post
 id: 73
-category:
+categories:
     - Tips
-tag:
+tags:
     - fat32
     - fdisk
     - partition
-post_format: []
-tags:
-    - 'fat32,partition,fdisk'
 ---
 MS DOS 7.1 will not create FAT32 partitions that are less than 512 MByte. But if starting [Fdisk](/article/fdisk.html) with this parameter, then it can be done:
 

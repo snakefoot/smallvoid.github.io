@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'NetMeeting is an inter-message (IM) application by Microsoft which can create a virtual conference room for several users to chat and exchange documents.'
 type: post
 id: 468
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - netmeeting
     - uninstall
-post_format: []
-tags:
-    - 'netmeeting,uninstall'
 ---
 NetMeeting is installed no matter if you want it or not. It is possible to uninstall it with this command:
 

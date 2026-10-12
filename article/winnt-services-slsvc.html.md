@@ -6,10 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Software Licensing service.'
 type: post
 id: 702
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

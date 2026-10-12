@@ -6,16 +6,15 @@ author: Snakefoot
 excerpt: 'Possible steps for repairing Windows Update'
 type: post
 id: 244
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - 'Windows Update'
-post_format: []
 tags:
     - windows-update
 ---

@@ -8,8 +8,6 @@ type: page
 id: 13
 description:
     - 'Search Engines, Dictionaries, and Language translators.'
-tags:
-    - ''
 ---
 
 ### Web Search

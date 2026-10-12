@@ -6,21 +6,18 @@ author: Snakefoot
 excerpt: 'Protecting the Administrator account from unauthorized access.'
 type: post
 id: 152
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - administrator
     - group-policy
     - password
     - remote-access
     - user-account
     - windows-login
-post_format: []
-tags:
-    - 'administrator,password,remote-access,windows-login,user-account,group-policy'
 ---
 The Administrator account is the default account created during the install of Windows. It doesn't have different rights compared to other accounts that are part of the Administrators-group. The only difference is that the name of the account is known by many people.  
   

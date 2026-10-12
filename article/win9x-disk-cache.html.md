@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to configure the disk cache for faster file operations.'
 type: post
 id: 89
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - file-cache
     - hard-disk-drive
-post_format: []
-tags:
-    - 'file-cache,hard-disk-drive,disk-performance'
 ---
 To avoid accessing the HDD every time to read a file, it caches the most used files or at least the most used parts of the file. The RAM allocated for disk cache cannot be used by applications, so if having a limited amount of RAM one should consider the amount of memory used for disk caching.  
   

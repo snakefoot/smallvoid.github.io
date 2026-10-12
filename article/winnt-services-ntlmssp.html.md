@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the NT LM Security Support Provider service.'
 type: post
 id: 570
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - ntlm
     - ntlm2
-post_format: []
-tags:
-    - 'ntlm,ntlm2'
 ---
 ##### Description:
 

@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Boot.ini is used by the Boot Manager to determine the installed operating systems and what startup settings to use.'
 type: post
 id: 251
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-ini
     - boot-manager
-post_format: []
-tags:
-    - 'boot-ini,boot-manager'
 ---
 The BOOT.INI file is placed in the root of the system drive ex. C:\\BOOT.INI (One have to turn on "Show Hidden Files and folders" to see it). It is a standard text-file and can be edited with a text-editor like notepad.  
  The BOOT.INI tells the WinNT bootmanager what operating systems that are available, and what switches to use when starting a WinNT+ operating system.  

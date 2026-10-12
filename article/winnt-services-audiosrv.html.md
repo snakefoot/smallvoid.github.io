@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Audio service.'
 type: post
 id: 616
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

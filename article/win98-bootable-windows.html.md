@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Guides and file packages for creating a bootable CD-ROM, which Windows 98 can run from.'
 type: post
 id: 227
-category:
+categories:
     - Utilities
-tag:
+tags:
     - bootdisk
-post_format: []
 tags:
     - bootdisk
 ---

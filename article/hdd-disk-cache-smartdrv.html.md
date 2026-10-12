@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Description of how a disk cache will help HDD performance, and how to activate the smart drive disk cache.'
 type: post
 id: 44
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - autoexec-bat
     - disk-performance
     - file-cache
     - file-system
     - smartdrv
-post_format: []
-tags:
-    - 'file-system,file-cache,smartdrv,autoexec-bat,disk-performance'
 ---
 Smart Drive (SMARTDRV) is a disk cache driver, which creates a disk cache in the extended memory. When a program requests data from the HDD or CDROM the data is also copied to the disk cache, so if the program asks for the data again then it will not require to access the slow HDD or CDROM. When a program reads a file then it usually process it in small chunks. While the program is processing a single chunk, then the disk cache is able to read-ahead several small chunks of the file and have them ready in memory.  
   

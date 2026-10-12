@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Allow multiple downloads and better AJAX performance by increasing HTTP connection limit.'
 type: post
 id: 788
-category:
+categories:
     - 'Internet Explorer (IE8)'
     - 'Internet Explorer (IE9)'
-tag:
+tags:
     - ajax
     - download
     - network-performance
-post_format: []
-tags:
-    - 'network-performance,download,ajax'
 ---
 In Internet Explorer 7 and earlier, the maximum number of concurrent connections per host process to a single server via HTTP 1.1 is 2. For HTTP 1.0, the limit is 4. IE8 increases the HTTP 1.1 limit to 6.  
   

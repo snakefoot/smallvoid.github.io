@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'How to use the utility Netsh to reset or change the network configuration.'
 type: post
 id: 425
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - hardware-profile
     - netsh
     - tcpip
     - winsock
-post_format: []
-tags:
-    - 'netsh,hardware-profile,tcpip,winsock'
 ---
 If having a laptop which you use in different networks (Home, Work, Customer, etc.), then one can use NetShell to backup each network configuration and restore them again at will. NetShell replaces Routemon from WinNT4.  
   

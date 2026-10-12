@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Extend the level of informational messages during Windows startup and shutdown.'
 type: post
 id: 385
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - windows-login
-post_format: []
 tags:
     - windows-login
 ---

@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Changing Outlook Express to open emails in the Restricted Security zone to improve security.'
 type: post
 id: 284
-category:
+categories:
     - 'Outlook Express'
-tag:
+tags:
     - security-zone
-post_format: []
 tags:
     - security-zone
 ---

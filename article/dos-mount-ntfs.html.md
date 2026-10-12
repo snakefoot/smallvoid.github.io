@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Mounts NTFS partitions in DOS, so one can access the files.'
 type: post
 id: 77
-category:
+categories:
     - Utilities
-tag:
+tags:
     - bootdisk
     - drive-mount
     - ntfs
     - partition
-post_format: []
-tags:
-    - 'ntfs,bootdisk,drive-mount,partition'
 ---
 MS DOS doesn't recognize disk partitions formatted as NTFS, but one can load a device driver that enables one to access NTFS partitions from a DOS prompt.
 

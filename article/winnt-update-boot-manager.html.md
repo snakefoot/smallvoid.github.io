@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Windows XP boot manager is faster and can be used on Windows 2000.'
 type: post
 id: 474
-category:
+categories:
     - Utilities
     - Utilities
-tag:
+tags:
     - boot-manager
-post_format: []
 tags:
     - boot-manager
 ---

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'The hard disk performance is very dependent on the configuration of the disk cache.'
 type: post
 id: 340
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -15,13 +15,10 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - file-cache
     - hard-disk-drive
-post_format: []
-tags:
-    - 'hard-disk-drive,file-cache,disk-performance'
 ---
 The hard disk is extremely slow compared to physical memory (RAM), but provides lots of storage capacity. Disk caching can be used to speed up the harddisk performance. The disk cache uses RAM to provide quick access to frequently accessed data.  
   

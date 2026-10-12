@@ -8,8 +8,6 @@ type: page
 id: 18
 description:
     - 'Direct Download (DDL) and MP3 Web-sites with clients for downloading from these sites.'
-tags:
-    - ''
 ---
 
 ### File Downloaders

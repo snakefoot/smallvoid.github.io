@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Network connection status can be extended to also show errors besides bytes/packets received and sent.'
 type: post
 id: 427
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - lan
     - retransmission
     - wan
-post_format: []
-tags:
-    - 'retransmission,lan,wan'
 ---
 In the Connection Status dialog box on the general tab it is possible to see how many errors (Retransmissions) it has detected. This can be useful if lacking proper network monitoring tools.  
   

@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Display a warning when the when a hard disk is near its capacity'
 type: post
 id: 383
-category:
+categories:
     - Desktop
-tag:
+tags:
     - hard-disk-drive
     - taskbar
-post_format: []
-tags:
-    - 'taskbar,hard-disk-drive'
 ---
 You can control whether it should display warnings about low on hard disk space, with the following DWORD registry setting:
 

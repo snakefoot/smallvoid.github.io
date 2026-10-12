@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Using Adaptec Easy CD Creator 5.02d to make a bootable install cd for Windows 2000.'
 type: post
 id: 483
-category:
+categories:
     - 'Install CD'
-tag:
+tags:
     - bootdisk
-post_format: []
 tags:
     - bootdisk
 ---

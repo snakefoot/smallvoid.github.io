@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Management Instrumentation Driver Extensions service.'
 type: post
 id: 621
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - wmi
-post_format: []
 tags:
     - wmi
 ---

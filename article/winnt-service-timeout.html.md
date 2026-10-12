@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Change how long time to wait before a service is considered not responding and should be shut down.'
 type: post
 id: 381
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - windows-services
-post_format: []
 tags:
     - windows-services
 ---

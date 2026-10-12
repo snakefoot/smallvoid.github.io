@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Using Nero Burning Rom to make a bootable install cd for Windows 2000.'
 type: post
 id: 482
-category:
+categories:
     - 'Install CD'
-tag:
+tags:
     - bootdisk
-post_format: []
 tags:
     - bootdisk
 ---

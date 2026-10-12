@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the TPM Base Services.'
 type: post
 id: 708
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

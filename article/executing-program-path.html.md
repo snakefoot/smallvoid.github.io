@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Description of the PATH environment variable, and how to configure it.'
 type: post
 id: 52
-category:
+categories:
     - Tips
-tag:
+tags:
     - environment-variables
     - path
-post_format: []
-tags:
-    - 'path,environment-variables'
 ---
 When starting a program from the command line, then one is required to either change directory (ex. CD C:\\Game) to the location of the program, or specify the entire path when executing the program (ex. C:\\Game\\Fun.exe).  
   

@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'By changing the workgroup of Windows XP Home, then it is possible to get access to domain shares.'
 type: post
 id: 749
-category:
+categories:
     - 'File Sharing'
-tag:
+tags:
     - crippled
     - microsoft-network
     - windows-domain
-post_format: []
-tags:
-    - 'crippled,windows-domain,microsoft-network'
 ---
 Windows XP Home has been crippled by Microsoft, so it is not capable of joining a Windows Server domain. But one can still access domain shares even if not part of the domain (Like one always has been able to with the [net use](/article/winnt-ipc-share.html#net_use) command).  
   

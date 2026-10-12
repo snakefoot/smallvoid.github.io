@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Windows NT will perform a chkdsk at boot time after an improper shutdown.'
 type: post
 id: 186
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - chkdsk
     - file-system
     - hard-disk-drive
-post_format: []
-tags:
-    - 'chkdsk,hard-disk-drive'
 ---
 After an incorrect/improper shutdown, then Windows will perform a CHKDSK of the partitions marked with a dirty-bit at boot to ensure disk stability.  
  One can also force CHKDSK to run at next boot if running CHKDSK /F on a partition that is "locked". The partition becomes locked if applications have files open on the partition (Ex. using Windows Explorer to open a folder on the partition):

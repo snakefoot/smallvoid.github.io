@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to configure a keyboard shortcut as a hotkey to quickly start an application.'
 type: post
 id: 240
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -15,13 +15,10 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - keyboard
     - shortcut-keys
     - windows-key
-post_format: []
-tags:
-    - 'shortcut-keys,windows-key,keyboard'
 ---
 If you have an utility that you start frequently (Like the command prompt or regedit), then you might want to assign a shortcut-key for launching it.  
   

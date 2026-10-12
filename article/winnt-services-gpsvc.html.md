@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Group Policy Client service.'
 type: post
 id: 672
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - group-policy
-post_format: []
 tags:
     - group-policy
 ---

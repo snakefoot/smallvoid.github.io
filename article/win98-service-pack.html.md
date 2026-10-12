@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Microsoft Windows 98 updates put into a single package.'
 type: post
 id: 634
-category:
+categories:
     - Utilities
-tag:
+tags:
     - 'Windows Update'
-post_format: []
 tags:
     - windows-update
 ---

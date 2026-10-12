@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Description of the temporary directory, and how to change the location using environment variables.'
 type: post
 id: 50
-category:
+categories:
     - Tips
-tag:
+tags:
     - environment-variables
     - free-disk-space
     - temporary-directory
-post_format: []
-tags:
-    - 'temporary-directory,environment-variables,free-disk-space'
 ---
 The temporary directory is specified by two [environment variables](/article/environment-variables.html) called **TMP** and **TEMP**. When an application or [batch file](/article/batch-file.html) have to create an temporary file, then they can use one of these variables to get the path of the temporary directory.  
   

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Decide the CPU priority when starting an application.'
 type: post
 id: 30
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - cpu
     - process-priority
     - process-scheduler
-post_format: []
-tags:
-    - 'cpu,process-priority,process-scheduler'
 ---
 WinNT is able to give different amount of CPU time to each program dependent on their priority. This can be used to launch an application (Like a Game) in high priority so other applications will have a hard time stealing the CPU time:
 

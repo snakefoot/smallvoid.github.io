@@ -6,21 +6,18 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the DNS Client service.'
 type: post
 id: 542
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - dns
     - hosts-file
     - name-resolution
     - tcpip
-post_format: []
-tags:
-    - 'dns,name-resolution,tcpip,hosts-file'
 ---
 ##### Description:
 

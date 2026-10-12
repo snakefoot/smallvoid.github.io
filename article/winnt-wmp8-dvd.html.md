@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'To play DVD''s in Windows Media Player one needs to buy a license for the MPEG2 codec.'
 type: post
 id: 501
-category:
+categories:
     - Utilities
-tag:
+tags:
     - dvd-drive
     - mpeg2
     - windows-media-player
-post_format: []
-tags:
-    - 'windows-media-player,dvd-drive,mpeg2'
 ---
 [Media Player 8 - DVD Play](http://smallvoid.orgfree.com/?file=mp8_dvd.zip) enables you to play DVD (MPEG2 + AC3) in Media Player 8 (Actually CyberLink PowerDVD 3.0).  
   

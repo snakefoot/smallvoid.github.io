@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to use the Choice program to present a set of options the user can choose from.'
 type: post
 id: 65
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
     - choice
     - errorlevel
     - return-code
     - user-input
-post_format: []
-tags:
-    - 'choice,errorlevel,return-code,batch-file,user-input'
 ---
 MS DOS 6.0 introduced the program CHOICE, which can display a set of options and wait for the user to make a choice. When the user makes a selection the return code of CHOICE contains the selection, which can be accessed using [ERRORLEVEL](/article/errorlevel-return-code.html). This makes it possible to prompt the user for input from the command line in a [batch file](/article/batch-file.html) and react to it.
 

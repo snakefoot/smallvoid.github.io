@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Power Toys are small utilities created by Microsoft to make life easier.'
 type: post
 id: 118
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - compressed-folders
     - copy-path
     - file-copy
     - powertoys
     - sendto
-post_format: []
-tags:
-    - 'powertoys,copy-path,file-copy,compressed-folders,sendto'
 ---
 [Windows 95 Power Toys](http://www.microsoft.com/windows95/downloads/contents/wutoys/w95pwrtoysset/default.asp) by Microsoft ([Download Mirror of W95PowerToy.exe](http://download.microsoft.com/download/5/2/e/52e8fd68-e528-4995-abe2-5644583536e1/w95powertoy.exe)) is a bunch of utilities created for Win95/WinNT4. It contain several useful items:
 - TweakUI to configure your desktop ([Updated Tweak UI ver. 1.33](/article/windows-tweakui.html))

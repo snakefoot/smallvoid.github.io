@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Utilities to make even more customizations to the Windows XP user interface.'
 type: post
 id: 342
-category:
+categories:
     - Utilities
-tag:
+tags:
     - boot-screen
     - bootlogo
     - skins
     - visual-styles
     - welcome-screen
     - windows-login
-post_format: []
-tags:
-    - 'bootlogo,boot-screen,windows-login,visual-styles,skins,welcome-screen'
 ---
 Windows XP extends the visual customization with the ability to modify the boot screen, logon screen and the actual skinning of the desktop and the applications running. There are several tools available to enhance the XP appearance.
 

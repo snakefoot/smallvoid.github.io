@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Convert a FAT16 partition to FAT32 from DOS.'
 type: post
 id: 82
-category:
+categories:
     - Utilities
-tag:
+tags:
     - drive-converter
     - fat16
     - fat32
     - partition
-post_format: []
-tags:
-    - 'drive-converter,fat16,fat32,partition'
 ---
 [CVT](http://smallvoid.orgfree.com/?file=cvt.zip) is a command line tool which makes it possible to convert your FAT16 drive to FAT32.  
   

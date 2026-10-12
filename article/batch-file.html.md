@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to write a batch file with description of different commands available.'
 type: post
 id: 46
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
-post_format: []
 autometa:
     - ''
 tags:

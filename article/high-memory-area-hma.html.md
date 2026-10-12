@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Description of the High Memory Area (HMA), and how to open access to it with Himen.sys to free conventional memory.'
 type: post
 id: 39
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - config-sys
     - high-memory-area
     - himem-sys
-post_format: []
-tags:
-    - 'high-memory-area,himem-sys,config-sys'
 ---
 The High Memory Area (HMA) is the first 64 KByte after the first 1024 Kbyte (Conventional+UMA).
 

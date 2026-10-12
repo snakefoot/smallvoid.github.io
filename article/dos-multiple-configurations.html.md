@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to configure the config.sys and autoexec.bat to use multiple startup configurations.'
 type: post
 id: 56
-category:
+categories:
     - Tips
-tag:
+tags:
     - autoexec-bat
     - boot-time
     - config-sys
     - menu-config
-post_format: []
-tags:
-    - 'menu-config,autoexec-bat,config-sys,boot-time'
 ---
 MS DOS 6.0 introduced the ability to specify multiple configurations in the Config.sys and Autoexec.bat. This feature can be used for different situations:
 

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to reserve the upper memory block and load the dos enviroment in high memory to free conventional memory.'
 type: post
 id: 90
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - conventional-memory
     - upper-memory-block
-post_format: []
-tags:
-    - 'upper-memory-block,conventional-memory'
 ---
 By default Windows uses all the memory it can get its hands on including the [UMB](/article/upper-memory-block-umb.html). It is possible to force Windows not to use the UMB, so the DOS enviroment can be loaded in high memory and save conventional memory.  
   

@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'File recovery utility that supports FAT32 partitions.'
 type: post
 id: 80
-category:
+categories:
     - Utilities
-tag:
+tags:
     - fat16
     - fat32
     - file-recovery
     - norton
     - partition
-post_format: []
-tags:
-    - 'norton,fat32,fat16,partition,file-recovery'
 ---
 [Norton Unerase](http://smallvoid.orgfree.com/?file=unerase.zip) allows one to recover deleted files from a FAT32 partition, where the standard [Undelete](/article/old-dos-utilties.html) can only handle FAT16 partitions.  
   

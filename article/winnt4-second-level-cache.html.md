@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Windows has trouble with determining the size of the second level cache for older CPU''s.'
 type: post
 id: 27
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - cpu
     - cpu-cache
-post_format: []
-tags:
-    - 'cpu,cpu-cache'
 ---
 With older CPUs the HAL(Hardware Abstraction Layer) cannot detect the correct amount of 2nd level cache, which is the case with Pentium 1 using direct-mapped L2 cache (And sets it to default 256 KB).  
   

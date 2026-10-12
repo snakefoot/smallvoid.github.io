@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Disable legacy subsystems to prevent attackers from using these subsystems as base of attack.'
 type: post
 id: 371
-category:
+categories:
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - os2
     - posix
     - subsystem
-post_format: []
-tags:
-    - 'os2,posix,subsystem'
 ---
 Windows NT has support for several subsystems, the most common ones are DOS and 16 Bit Windows. It also has support for OS/2 1.0(No GUI), and it is regarded as a security issue to have the OS/2 and POSIX support enabled. Before disabling OS/2 support make sure that you are not using OS/2 dependent legacy applications or cross-platform executables with OS/2 support (Like HIEW).
 

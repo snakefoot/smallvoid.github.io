@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Shortcuts to network shares visited will automatically be added to My Network Places.'
 type: post
 id: 412
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - network-places
-post_format: []
 tags:
     - network-places
 ---

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Disk partitioning utility which is able handle hard disks larger than 64 GB.'
 type: post
 id: 81
-category:
+categories:
     - Utilities
-tag:
+tags:
     - fdisk
     - format
     - hard-disk-drive
     - partition
-post_format: []
-tags:
-    - 'fdisk,hard-disk-drive,format,partition'
 ---
 The FDISK delivered with MS-DOS 5 up to Win98 SE is not made to handle HDD beyond 64 GByte and shows the wrong size. To solve this Microsoft has released an updated version of [fdisk.exe](http://support.microsoft.com/kb/263044 "Fdisk Does Not Recognize Full Size of Hard Disks Larger than 64 GB [Q263044]") ([Download Mirror](http://smallvoid.orgfree.com/?file=fdisk.zip)).  
   

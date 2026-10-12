@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to configure Windows NT4 to use DMA for IDE ATA hard drives.'
 type: post
 id: 368
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - ATA
     - dma
     - hard-disk-drive
     - IDE
     - PIO
-post_format: []
-tags:
-    - 'IDE,hard-disk-drive,ATA,dma,PIO'
 ---
 To get the best performance of your IDE hard disk, then one should make sure that [DMA transfer mode](/article/troubleshoot-hdd-dma.html) is enabled. Windows NT4 SP4 will automatically enable DMA transfer mode, but it might cause problems with drives, which doesn't support DMA transfers like old HDD and CD-ROM drives.  
   

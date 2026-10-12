@@ -6,12 +6,9 @@ author: Snakefoot
 excerpt: 'Improve the performance of high speed I/O devices by allowing them to lock more memory for data transfers.'
 type: post
 id: 28
-category:
+categories:
     - 'Tweak Performance'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 There is a limit for how much memory the system can lock for I/O (Input/Output) operations. Increasing the limit might benefit applications or drivers, which are highly dependent on highspeed network or harddisk access, as it will allow a larger amount of outstanding I/O.  
   

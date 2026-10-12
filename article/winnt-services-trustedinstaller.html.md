@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Modules Installer service.'
 type: post
 id: 725
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - automatic-updates
     - 'Windows Update'
-post_format: []
-tags:
-    - 'windows-update,automatic-updates'
 ---
 ##### Description:
 

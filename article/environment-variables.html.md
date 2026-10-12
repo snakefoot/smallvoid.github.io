@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Description of environment variables and how to configure them.'
 type: post
 id: 48
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
     - environment-variables
-post_format: []
-tags:
-    - 'environment-variables,batch-file'
 ---
 In the DOS environment memory is reserved for user defined variables. Enviroment variables can be used for different things:
 

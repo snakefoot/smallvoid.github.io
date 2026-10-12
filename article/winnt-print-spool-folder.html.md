@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'When printing a document, then the document is spooled into a temporary directory and then sent to the printer.'
 type: post
 id: 384
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - free-disk-space
     - print-spooler
     - printer
-post_format: []
-tags:
-    - 'printer,print-spooler,free-disk-space'
 ---
 There can be different reasons for changing the directory for the [Print Spooler Service](/article/winnt-services-spooler.html) on a print server:
 

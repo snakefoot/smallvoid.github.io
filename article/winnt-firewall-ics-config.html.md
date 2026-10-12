@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to get a non-working Windows Firewall service started with a configuration reset.'
 type: post
 id: 630
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - firewall
-post_format: []
 tags:
     - firewall
 ---

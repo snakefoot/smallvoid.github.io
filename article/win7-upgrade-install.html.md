@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Install Windows 7 using only the upgrade DVD without needing to install it twice.'
 type: post
 id: 820
-category:
+categories:
     - Tips
-tag:
+tags:
     - windows-install
-post_format: []
 tags:
     - windows-install
 ---

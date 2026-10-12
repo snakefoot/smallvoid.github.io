@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Configure the Page Size Extension feature of the processor which is used to for activate large pages support.'
 type: post
 id: 466
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - AGP
     - AMD
     - blue-screen-of-death
     - cpu
     - page-size-extension
-post_format: []
-tags:
-    - 'page-size-extension,AMD,blue-screen-of-death,AGP,cpu'
 ---
 AMD Ahtlon XP processors combined with AGP display adapters can cause blue screen of death (BSOD) along with Windows locking up or freezes.  
   

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'How to solve access denied error when trying to map network printer to LPT1'
 type: post
 id: 818
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - dos-emulator
     - LPT1
     - printer
     - PRN
-post_format: []
-tags:
-    - 'printer,LPT1,dos-emulator,PRN'
 ---
 When wanting to print from old DOS programs, then one is required to attach a printer to LPT1 or LPT2.  
   

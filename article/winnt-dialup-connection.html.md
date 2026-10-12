@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Make dialup modem faster at etablishing a connection and with better connection speed.'
 type: post
 id: 423
-category:
+categories:
     - Network
     - Network
-tag:
+tags:
     - dialup-modem
     - flow-control
     - modem-compression
     - tcpip
     - winmodem
-post_format: []
-tags:
-    - 'dialup-modem,tcpip,flow-control,modem-compression,winmodem'
 ---
 Only use TCP/IP for the Internet connection (For performance and security):
 

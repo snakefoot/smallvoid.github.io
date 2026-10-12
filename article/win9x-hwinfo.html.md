@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Unlocking the hidden hardware diagnostic tool using a command line parameter.'
 type: post
 id: 159
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - hwinfo
-post_format: []
 tags:
     - hwinfo
 ---

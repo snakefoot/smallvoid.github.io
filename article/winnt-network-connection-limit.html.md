@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Windows Professional / Home edition includes limitation for not handling more than 10 SMB connections.'
 type: post
 id: 450
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - crippled
     - network-share
-post_format: []
-tags:
-    - 'network-share,crippled'
 ---
 Microsoft have created several limitations in the Workstation, Professional and Home edition of Windows, so they are crippled compared to the server-edition. This is to encourage users to buy the more expensive server license.  
   

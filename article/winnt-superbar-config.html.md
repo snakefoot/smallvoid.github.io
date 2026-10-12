@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Windows 7 introduces a new taskbar design (aka. superbar), that should make it easier to keep track of applications.'
 type: post
 id: 812
-category:
+categories:
     - Desktop
-tag:
+tags:
     - aero
     - taskbar
-post_format: []
-tags:
-    - 'taskbar,aero'
 ---
 ##### Control thumbnail preview
 

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Configure the perfect Windows installation before actually installing.'
 type: post
 id: 489
-category:
+categories:
     - 'Install CD'
     - 'Install CD'
     - 'Install CD'
-tag:
+tags:
     - free-disk-space
     - nlite
     - slipstream
     - windows-install
-post_format: []
-tags:
-    - 'nlite,slipstream,windows-install,free-disk-space'
 ---
 [nLite](http://www.nliteos.com/) allows one to add and remove windows components from the install image, so they are not included when actually deployed.
 - Service Pack Integration

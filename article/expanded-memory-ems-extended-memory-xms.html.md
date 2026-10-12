@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Description of the Expanded Memory Specification (EMS) and how to use Emm386.exe to emulate XMS as EMS.'
 type: post
 id: 41
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - config-sys
     - emm386
     - expanded-memory
     - extended-memory
     - himem-sys
-post_format: []
-tags:
-    - 'expanded-memory,extended-memory,himem-sys,emm386,config-sys'
 ---
 The Expanded Memory Manager EMM386.EXE can be configured to allocate the memory beyond the 1 MByte according to the expanded memory specification (EMS) instead of the eXtended memory Specification (XMS). This is useful when running games and programs that requires expanded memory.  
   

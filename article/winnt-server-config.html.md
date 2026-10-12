@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Adjust the memory usage of the server service according to the server role.'
 type: post
 id: 370
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - microsoft-network
     - network-performance
-post_format: []
-tags:
-    - 'network-performance,microsoft-network'
 ---
 The <a href="">Server Service</a> enables the the computer to act as a file and printer sharing server. Windows server edition will by default configure it self to maximize memory usage for the Server service to act like network file server. If server role is only to act as file server for 10 users or less, then one should consider trimming down the memory usage of the server service.  
   

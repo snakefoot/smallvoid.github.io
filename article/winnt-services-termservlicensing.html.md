@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Terminal Services Licensing service.'
 type: post
 id: 606
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - terminal-services
-post_format: []
 tags:
     - terminal-services
 ---

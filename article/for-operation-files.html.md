@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to use the FOR keyword to perform an operation on a collection of files that matches a wildcard.'
 type: post
 id: 70
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
-post_format: []
 tags:
     - batch-file
 ---

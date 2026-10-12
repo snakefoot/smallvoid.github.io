@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Deleting the password storage files to reset the Administrator password to recover system access.'
 type: post
 id: 255
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - administrator
     - password
     - password-recovery
     - sam-database
     - system-recovery
     - windows-login
-post_format: []
-tags:
-    - 'administrator,password-recovery,password,sam-database,windows-login,system-recovery'
 ---
 Different ways to recover a forgotten / lost password:
 

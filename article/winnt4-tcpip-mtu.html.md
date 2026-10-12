@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Changing the Max Transfer Unit (MTU) to avoid packet fragmentation and loss of VPN connection.'
 type: post
 id: 417
-category:
+categories:
     - Network
-tag:
+tags:
     - max-transfer-unit
     - tcpip
-post_format: []
-tags:
-    - 'tcpip,max-transfer-unit'
 ---
 The default [Max Transfer Unit (MTU) size](/article/tcpip-mtu-size.html) for ethernet is 1500 bytes, if using a network with a different MTU size, then one should make sure to configure MTU in Windows to avoid packet fragmentation and loss of VPN connections.  
   

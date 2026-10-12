@@ -6,16 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Time service.'
 type: post
 id: 622
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - time-server
-post_format: []
 tags:
     - time-server
 ---

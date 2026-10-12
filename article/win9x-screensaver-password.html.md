@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Getting past a password protected screensaver by inserting a cd-rom.'
 type: post
 id: 176
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - autorun
     - password
     - screensaver
     - windows-login
-post_format: []
-tags:
-    - 'screensaver,windows-login,password,autorun'
 ---
 Screensavers can be password protected, so when the screensaver has started it requires a password to stop the screensaver so one can use the computer.  
   

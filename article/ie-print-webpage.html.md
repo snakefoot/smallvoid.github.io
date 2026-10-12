@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Internet Explorer has the ability to print web-pages and can put a custom header and footer on the printed page.'
 type: post
 id: 323
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - footer
     - header
     - printer
-post_format: []
-tags:
-    - 'printer,header,footer'
 ---
 When printing web-pages from Internet Explorer (Ex. an online book), then Internet Explorer (IE) will insert its own header and footer on each page which doesn't always look good. Open the File-menu and select Page Setup to configure the way it is printed.  
   

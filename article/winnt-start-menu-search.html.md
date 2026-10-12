@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'The start menu search in Windows Vista will by default search all folders and files in My Documents folder.'
 type: post
 id: 648
-category:
+categories:
     - Desktop
-tag:
+tags:
     - desktop-search
     - file-search
-post_format: []
-tags:
-    - 'desktop-search,file-search'
 ---
 Windows Vista start-menu has the ability to search for start menu items. This is a lot faster than browsing through the different folders in the start-menu. By default it will search through many different locations to find files/documents that matches your search, which can slow down the search.  
   

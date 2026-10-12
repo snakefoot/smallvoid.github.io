@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Configure the default behavior to use notepad, when opening a file with unknown type.'
 type: post
 id: 115
-category:
+categories:
     - Desktop
     - Desktop
-tag:
+tags:
     - notepad
     - open-with
-post_format: []
-tags:
-    - 'open-with,notepad'
 ---
 By default when double clicking a file with an unknown filetype, then it starts with "Open with..". It is possible to change the default behavior to instead open the Notepad. One can still access the "Open with..." option by holding down the Shift-key and right-clicking the file.
 

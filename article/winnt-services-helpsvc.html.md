@@ -6,13 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Help and Support service.'
 type: post
 id: 547
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 ##### Description:
 

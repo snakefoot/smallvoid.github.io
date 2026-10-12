@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows CardSpace service.'
 type: post
 id: 712
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - windows-cardspace
-post_format: []
 tags:
     - windows-cardspace
 ---

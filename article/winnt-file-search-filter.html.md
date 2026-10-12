@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Change whether the file search assistant should look through only registered file types or all files.'
 type: post
 id: 407
-category:
+categories:
     - Desktop
     - Desktop
-tag:
+tags:
     - file-search
     - indexing-service
-post_format: []
-tags:
-    - 'file-search,indexing-service'
 ---
 Windows XP changes the filesearch functionality to only to look for registered files. This is done to make the search quicker and more userfriendly. But it can be annoying for users who are expecting that all files are searched.  
   

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Example of how to list shares and user accounts with anonymous access.'
 type: post
 id: 147
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - anonymous-access
     - null-session
     - user-account
-post_format: []
-tags:
-    - 'null-session,anonymous-access,user-account'
 ---
 It is possible to access the [IPC$ share](/article/winnt-ipc-share.html) with a null session, after that one can access information about the machine configuration.  
   

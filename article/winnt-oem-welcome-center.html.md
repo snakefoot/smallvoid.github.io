@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'The Welcome Center applet can be modified to display OEM name and logo.'
 type: post
 id: 771
-category:
+categories:
     - Desktop
-tag:
+tags:
     - branding
     - oem
     - welcome-center
-post_format: []
-tags:
-    - 'branding,oem,welcome-center'
 ---
 The Welcome Center is the Control Panel applet launched when starting Windows Vista for the first time. It contains links to different topics about the features available in Windows Vista.
 

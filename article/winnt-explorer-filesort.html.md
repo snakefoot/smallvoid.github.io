@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Windows Explorer file sorting can be changed from logical number compare to just one digit at a time.'
 type: post
 id: 408
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - file-sort
     - windows-explorer
-post_format: []
-tags:
-    - 'windows-explorer,file-sort'
 ---
 When sorting filenames containing numbers and underscore in Windows Explorer then it inspects the entire number:
 

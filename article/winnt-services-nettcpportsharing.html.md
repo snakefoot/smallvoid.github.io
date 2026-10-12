@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Net.Tcp Port Sharing Service.'
 type: post
 id: 682
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - WCF
-post_format: []
 tags:
     - WCF
 ---

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Steps for fixing a computer which cannot perform BIOS POST.'
 type: post
 id: 271
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
@@ -14,13 +14,10 @@ category:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - BIOS
     - motherboard
     - system-recovery
-post_format: []
-tags:
-    - 'motherboard,bios,system-recovery'
 ---
 If the computer BIOS (Basic Input Output System) cannot perform POST (Power On Self Test):
 

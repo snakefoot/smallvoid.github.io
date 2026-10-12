@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to create a wireless network between two computers without needing a wireless router.'
 type: post
 id: 828
-category:
+categories:
     - Network
-tag:
+tags:
     - hotspot
     - network-router
     - wifi
     - wireless-network
     - wlan
-post_format: []
-tags:
-    - 'wifi,network-router,hotspot,wireless-network,wlan'
 ---
 Windows 7 / 2008 introduces new wireless features that allows it to emulate a wireless hotspot, which other computers can connect to. This allows one to create a wireless network between two computers without actually needing a WIFI router.  
   

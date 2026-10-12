@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Optimize the boot time of Windows by using the DOS disk cache until the Windows disk cache takes over.'
 type: post
 id: 103
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - boot-time
     - disk-performance
     - file-cache
     - smartdrv
-post_format: []
-tags:
-    - 'smartdrv,file-cache,boot-time,disk-performance'
 ---
 It is possible to cut down on the time to boot Windows by loading a disk cache like [SmartDrv](/article/hdd-disk-cache-smartdrv.html). The good thing about SmartDrv is that it can be configured to use a minimal amount of memory when inside Windows.  
   

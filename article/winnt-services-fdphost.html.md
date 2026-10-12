@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Function Discovery Provider Host service.'
 type: post
 id: 670
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - homegroup
     - media-center
-post_format: []
-tags:
-    - 'media-center,homegroup'
 ---
 ##### Description:
 

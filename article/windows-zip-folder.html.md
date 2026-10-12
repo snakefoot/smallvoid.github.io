@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Extension for the Windows Explorer so zip files can be opened like a normal directory.'
 type: post
 id: 363
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - archive
     - compress
     - compressed-folders
     - extract
     - zip
-post_format: []
-tags:
-    - 'zip,extract,compress,compressed-folders,archive'
 ---
 [Compressed Folders](/article/windows-compressed-folders.html) is a shell extension for Windows Explorer that allows ZIP and CAB files to be opened like ordinary file folders.  
   

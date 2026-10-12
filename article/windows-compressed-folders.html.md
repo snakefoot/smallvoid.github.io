@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Open zip and cab files in Windows Explorer like they were normal directory with files.'
 type: post
 id: 402
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,16 +14,13 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - archive
     - cab
     - compress
     - compressed-folders
     - extract
     - zip
-post_format: []
-tags:
-    - 'compress,extract,zip,cab,archive,compressed-folders'
 ---
 Compressed folders is a shell extension for Windows Explorer, which makes it possible to open compressed files like they were ordinary folders in Windows Explorer. Currently zip- and cab-archives are capable of being opened like a compressed folder.
 

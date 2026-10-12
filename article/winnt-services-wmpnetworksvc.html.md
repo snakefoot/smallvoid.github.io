@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Media Player Network Sharing Service.'
 type: post
 id: 724
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - media-player
-post_format: []
 tags:
     - media-player
 ---

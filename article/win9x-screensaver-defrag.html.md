@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Keep the screensaver from starting when doing file defragmentation.'
 type: post
 id: 161
-category:
+categories:
     - Tips
     - Tips
-tag:
+tags:
     - defrag
     - screensaver
-post_format: []
-tags:
-    - 'defrag,screensaver'
 ---
 If the Screensaver starts running while performing a defrag of a HDD partition then the defrag will take forever.  
  So if one has fallen in love with the screensaver, but don't want the hazzle of turning it off before starting a defrag, then this can be a help.  

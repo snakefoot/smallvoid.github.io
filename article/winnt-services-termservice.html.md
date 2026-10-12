@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Terminal Services service.'
 type: post
 id: 605
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - fast-user-switching
     - remote-assistance
     - remote-desktop
     - terminal-services
-post_format: []
-tags:
-    - 'remote-desktop,remote-assistance,fast-user-switching,terminal-services'
 ---
 ##### Description:
 

@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How load drivers in the upper memory block to free conventional memory.'
 type: post
 id: 43
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - conventional-memory
     - device-driver
     - high-memory-area
     - terminate-stay-resident
     - upper-memory-block
-post_format: []
-tags:
-    - 'high-memory-area,conventional-memory,upper-memory-block,terminate-stay-resident,device-driver'
 ---
 If having opened access to the [Upper Memory Block (UMB)](/article/upper-memory-block-umb.html), then one can load CDROM-drivers and other Terminate and Stay Resident (TSR) programs like DOSKEY.EXE into the Upper Memory Block (UMB) to increase the available conventional memory.  
   

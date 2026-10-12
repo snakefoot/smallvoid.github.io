@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'The Recovery Console allows one to restore the registry as part of system recovery.'
 type: post
 id: 252
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - recovery-console
     - system-recovery
-post_format: []
-tags:
-    - 'system-recovery,recovery-console'
 ---
 The [Recovery Console](/article/winnt-recovery-console.html) allows one to copy and move files. It can be useful in the situation where the registry files have become faulty, making it impossible to boot Windows normally.  
   

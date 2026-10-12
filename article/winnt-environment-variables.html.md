@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description of the different types of environment variables in the Windows NT system.'
 type: post
 id: 269
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - environment-variables
-post_format: []
 tags:
     - environment-variables
 ---

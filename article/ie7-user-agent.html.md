@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Utility for changing the User Agent string for Internet Explorer 7.'
 type: post
 id: 646
-category:
+categories:
     - 'Internet Explorer (IE7)'
-tag:
+tags:
     - user-agent
-post_format: []
 tags:
     - user-agent
 ---

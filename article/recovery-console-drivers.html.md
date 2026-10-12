@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Modify the Recovery Console installation so it will load 3rd party drivers for your disk controller.'
 type: post
 id: 258
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - recovery-console
-post_format: []
 tags:
     - recovery-console
 ---

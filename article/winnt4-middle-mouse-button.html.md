@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to enable the 3rd mouse button, so it can be used in applications and games.'
 type: post
 id: 35
-category:
+categories:
     - Tips
-tag:
+tags:
     - mouse
-post_format: []
 tags:
     - mouse
 ---

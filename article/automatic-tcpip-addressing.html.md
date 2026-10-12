@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Details of how the Automatic Private IP Addressing (APIPA) takes over if no DHCP server is found.'
 type: post
 id: 141
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - APIPA
     - dhcp
     - tcpip
-post_format: []
-tags:
-    - 'APIPA,dhcp,tcpip'
 ---
 It can be a daunting task to [Setup a home network](/article/troubleshooting-network.html), because the default network configuration requires that a DCHP server is present on the network. Sometimes the ISP router/modem can act as DHCP server and provide the proper network configuration, but if this isn't the case then all computers end up with 0.0.0.0 / 0.0.0.0 as IP address and cannot connect to anything on the network.  
   

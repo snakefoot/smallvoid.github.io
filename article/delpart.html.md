@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Can delete a NTFS partition from DOS.'
 type: post
 id: 85
-category:
+categories:
     - Utilities
-tag:
+tags:
     - fdisk
     - ntfs
     - partition
-post_format: []
-tags:
-    - 'ntfs,partition,fdisk'
 ---
 [FDISK](/article/fdisk.html) is not completely compatible with NTFS partitions, which causes it to mess up when deleting non-primary NTFS partitions.
 > Cannot delete Extended DOS Partition while logical drives exist  

@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'The settings to configure mouse acceleration are hidden away but can still be changed.'
 type: post
 id: 399
-category:
+categories:
     - Tips
-tag:
+tags:
     - mouse
-post_format: []
 tags:
     - mouse
 ---

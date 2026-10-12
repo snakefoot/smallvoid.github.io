@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'How to change the Windows XP license by updating the install files, so it will accept a cd-key from a different license.'
 type: post
 id: 393
-category:
+categories:
     - 'Install CD'
-tag:
+tags:
     - cd-key
     - license
-post_format: []
-tags:
-    - 'license,cd-key'
 ---
 There are 3 types of licenses :
 

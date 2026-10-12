@@ -6,23 +6,20 @@ author: Snakefoot
 excerpt: 'Description of the nagle algorithm effects on the network throughput, and how to configure the delayed ACK.'
 type: post
 id: 213
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - delayed-ack
     - lan
     - nagle-algorithm
     - network-congestion
     - network-performance
     - tcpip
-post_format: []
-tags:
-    - 'nagle-algorithm,delayed-ack,tcpip,lan,network-congestion,network-performance'
 ---
 When a file is sent over the network the file is chopped up in small packets, which are then sent to the destination. The TCPIP protocol is a secure protocol and demands that each packet is acknowledged, so the receiver has to respond with a matching ACK packet. It is important for the sender not to flood the receiver and for the receiver not to flood the sender.  
   

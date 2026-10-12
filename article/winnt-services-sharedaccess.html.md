@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Internet Connection Sharing (ICS) service.'
 type: post
 id: 803
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - internet-connection-sharing
     - NAT
     - network-router
-post_format: []
-tags:
-    - 'internet-connection-sharing,NAT,network-router'
 ---
 ##### Description:
 

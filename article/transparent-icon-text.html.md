@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Fix the background color for the icon text, so it doesn''t ruin your favorite desktop wallpaper.'
 type: post
 id: 344
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - icon
     - visual-style
     - wallpaper
-post_format: []
-tags:
-    - 'icon,visual-style,wallpaper'
 ---
 Instead of making your windows transparent, then it makes the icon text background on your desktop transparent. Very useful when not wanting to ruin a nice wallpaper.
 

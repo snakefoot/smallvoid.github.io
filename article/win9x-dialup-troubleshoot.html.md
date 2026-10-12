@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Collection of Microsoft articles to help in troubleshooting dialup modem failures.'
 type: post
 id: 195
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - dialup-modem
     - hardware
-post_format: []
-tags:
-    - 'dialup-modem,hardware'
 ---
 Different articles provided by Microsoft:
 

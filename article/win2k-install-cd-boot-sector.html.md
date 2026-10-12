@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'When creating a bootable cd then one must provide a boot sector, which can be extracted from the original cd.'
 type: post
 id: 480
-category:
+categories:
     - 'Install CD'
-tag:
+tags:
     - boot-sector
     - slipstream
-post_format: []
-tags:
-    - 'boot-sector,slipstream'
 ---
 To extract the boot sector from the original Windows 2000 bootable cd with [Goldenhawk CDRWIN](http://www.goldenhawk.com/) :
 

@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to increase the limit of how many files a DOS program can have open.'
 type: post
 id: 98
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - file-handles
-post_format: []
 tags:
     - file-handles
 ---

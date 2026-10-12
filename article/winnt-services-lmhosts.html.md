@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the TCP/IP NetBIOS Helper service.'
 type: post
 id: 602
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - hosts-file
     - lmhosts
     - netbios
-post_format: []
-tags:
-    - 'netbios,lmhosts,hosts-file'
 ---
 ##### Description:
 

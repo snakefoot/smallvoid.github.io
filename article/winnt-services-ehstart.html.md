@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Media Center Service Launcher service.'
 type: post
 id: 723
-category:
+categories:
     - 'Services Guide'
-tag:
+tags:
     - media-center
-post_format: []
 tags:
     - media-center
 ---

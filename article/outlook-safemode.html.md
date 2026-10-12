@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Starting Outlook in safemode can be useful when troubleshooting Outlook.'
 type: post
 id: 336
-category:
+categories:
     - Outlook
-tag:
+tags:
     - command-line-switches
     - safemode
-post_format: []
-tags:
-    - 'safemode,command-line-switches'
 ---
 When Outlook fails to start because it crashes or stops/freezes at the splash screen, then one can try to run it in safemode where the following is disabled:
 

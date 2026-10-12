@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to use the "Send To" feature to perform often used file operations.'
 type: post
 id: 126
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,13 +14,10 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - context-menu
     - sendto
     - windows-explorer
-post_format: []
-tags:
-    - 'sendto,context-menu,windows-explorer'
 ---
 When right-clicking a file or folder in Windows Explorer, then the context-menu shows a "Send To"-option, which lists shortcuts to common actions that can take a file or folder as input.  
   

@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Portable Device Enumerator Service.'
 type: post
 id: 694
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - media-player
-post_format: []
 tags:
     - media-player
 ---

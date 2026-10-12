@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description of how router metric works, and how to use it to prioritise gateways and perform simple load balancing.'
 type: post
 id: 201
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,16 +14,13 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - automatic-metric
     - default-gateway
     - lan
     - network-load-balancing
     - tcpip
     - wan
-post_format: []
-tags:
-    - 'default-gateway,automatic-metric,network-load-balancing,tcpip,lan,wan'
 ---
 If you are able to connect to several gateways/routers to other networks, it is possible to prioritize in which order the gateways should be searched for a certain address.  
   

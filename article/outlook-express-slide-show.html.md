@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Outlook Express has can be used as a picture viewer.'
 type: post
 id: 335
-category:
+categories:
     - 'Outlook Express'
-tag:
+tags:
     - picture
     - slideshow
-post_format: []
-tags:
-    - 'picture,slideshow'
 ---
 There is a slideshow feature built into Outlook Express (OE) 4 and 5. By standard when images are attached, then OE both shows the images as attachment or if HTML mail show the image in their proper location, but OE also shows the images in a preview list in the bottom of the mail. To configure OE to show one picture at a time set this DWORD value:
 

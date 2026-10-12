@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How one can reload the HKEY\_CURRENT\_USER registry hive without needing a restart.'
 type: post
 id: 243
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,9 +14,8 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - windows-explorer
-post_format: []
 tags:
     - windows-explorer
 ---

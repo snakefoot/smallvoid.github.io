@@ -6,11 +6,11 @@ author: Snakefoot
 excerpt: 'How to configure Windows 9x to use DMA for IDE ATA hard drives.'
 type: post
 id: 87
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - ATA
     - cpu
     - disk-performance
@@ -18,9 +18,6 @@ tag:
     - hard-disk-drive
     - IDE
     - PIO
-post_format: []
-tags:
-    - 'IDE,ATA,PIO,dma,cpu,hard-disk-drive,disk-performance'
 ---
 To get the best performance of your IDE hard disk, then one should make sure that [DMA transfer mode](/article/troubleshoot-hdd-dma.html) is enabled. Windows 98 uses by default PIO-mode which is much slower than DMA mode.  
   

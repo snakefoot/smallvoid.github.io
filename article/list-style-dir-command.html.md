@@ -6,12 +6,9 @@ author: Snakefoot
 excerpt: 'How to change the listing of files and folders when using the dir command with an environment variable.'
 type: post
 id: 51
-category:
+categories:
     - Tips
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 DIR is an internal command recognized by the command prompt interpreter, and it displays the contents of directory (sub-folders and files). It is possible to format the output of the DIR command by setting an [environment variable](/article/environment-variables.html).  
   

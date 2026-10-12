@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Bluetooth Support Service.'
 type: post
 id: 797
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - bluetooth
-post_format: []
 tags:
     - bluetooth
 ---

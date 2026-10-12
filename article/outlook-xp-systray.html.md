@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Outlook can be minimized to the system tray so it will not be filling up on the taskbar.'
 type: post
 id: 333
-category:
+categories:
     - Outlook
-tag:
+tags:
     - system-tray
-post_format: []
 tags:
     - system-tray
 ---

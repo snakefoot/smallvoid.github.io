@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Configure whether to automatically launch application when inserting a CD or DVD disk.'
 type: post
 id: 112
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - autoplay
     - autorun
     - cdrom-drive
     - dvd-drive
-post_format: []
-tags:
-    - 'autorun,cdrom-drive,dvd-drive,autoplay'
 ---
 It is possible to Disable/Enable the Autorun for all the CDROM drives with this DWORD registry value:
 

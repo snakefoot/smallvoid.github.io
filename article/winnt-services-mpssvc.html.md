@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Firewall service.'
 type: post
 id: 719
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - firewall
-post_format: []
 tags:
     - firewall
 ---

@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the WMI Performance Adapter service.'
 type: post
 id: 626
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - wmi
-post_format: []
 tags:
     - wmi
 ---

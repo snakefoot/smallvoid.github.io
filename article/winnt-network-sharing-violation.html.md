@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Sharing violations on files placed on network shares are retried while they block immediately with local files.'
 type: post
 id: 445
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - network-share
     - sharing-violation
-post_format: []
-tags:
-    - 'network-share,sharing-violation'
 ---
 A sharing violation happens when one program requests exclusive access to a file (ex. to write to the file), while another program is already having the file open (ex. to read the file). When a sharing violation happens on a local file, then the request for write-access will fail at once.  
  When a sharing violation happens on a network file, then the [Server service](/article/winnt-services-lanmanserver.html) on the remote machine will detect the sharing violation, but instead of failing right away, then it retries to open the file with certain intervals.  

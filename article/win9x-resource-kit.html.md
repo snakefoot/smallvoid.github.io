@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Collection of small utilities created by Microsoft to make life easier.'
 type: post
 id: 221
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - resource-kit
-post_format: []
 tags:
     - resource-kit
 ---

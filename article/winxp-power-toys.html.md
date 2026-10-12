@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Power toys created by Microsoft to enhance Windows even more.'
 type: post
 id: 122
-category:
+categories:
     - Utilities
-tag:
+tags:
     - powertoys
-post_format: []
 tags:
     - powertoys
 ---

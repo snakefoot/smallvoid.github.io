@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Update the DirectX runtime after installing new drivers to prevent conflicts.'
 type: post
 id: 232
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -14,9 +14,8 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - directx
-post_format: []
 tags:
     - directx
 ---

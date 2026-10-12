@@ -6,15 +6,14 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Network Connections service.'
 type: post
 id: 565
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

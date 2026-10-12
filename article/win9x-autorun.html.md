@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Configure whether to automatically launch application when inserting a CD or DVD disk.'
 type: post
 id: 110
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - autorun
     - cdrom-drive
     - dvd-drive
-post_format: []
-tags:
-    - 'autorun,cdrom-drive,dvd-drive'
 ---
 It is possible to enable/disable the autorun for a CDROM drive through the device manager.
 

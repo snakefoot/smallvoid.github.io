@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Registry cleaner to remove entries from the registry.'
 type: post
 id: 354
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - regclean
     - registry
     - registry-cleaner
-post_format: []
-tags:
-    - 'regclean,registry,registry-cleaner'
 ---
 Microsoft released [Regclean](http://www.download.com/3000-2094-881470.html) to scan the registry for invalid keys and values and then deletes them from the registry. After the release Microsoft Office 2000 and XP then Microsoft discovered that Regclean was actually deleting correct keys used by these products, and since then it is no longer supported by Microsoft.  
   

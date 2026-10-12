@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the SNMP Trap service.'
 type: post
 id: 701
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - SNMP
-post_format: []
 tags:
     - SNMP
 ---

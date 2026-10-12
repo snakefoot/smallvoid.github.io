@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Outlook Express stores the emails in DBX files, which one can backup and restore.'
 type: post
 id: 260
-category:
+categories:
     - 'Outlook Express'
-tag:
+tags:
     - backup
-post_format: []
 tags:
     - backup
 ---

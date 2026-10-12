@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Useful DOS utilities available on the Windows 95 CD, which also can be downloaded.'
 type: post
 id: 74
-category:
+categories:
     - Utilities
-tag:
+tags:
     - conventional-memory
     - file-recovery
     - interlnk
     - memmaker
     - msback
     - olddos
-post_format: []
-tags:
-    - 'olddos,file-recovery,memmaker,interlnk,msback,conventional-memory'
 ---
 Windows 95 didn't include all DOS utilties in the default installation. Instead they were placed on the Windows 95 CD, so one could install them after installing Windows 95.  
   

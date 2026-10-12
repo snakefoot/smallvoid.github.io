@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'System Policies are useful when wanting to enforce a certain configuration or restriction on all computer and users in the domain.'
 type: post
 id: 310
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - system-policies
     - windows-domain
     - windows-login
-post_format: []
-tags:
-    - 'system-policies,windows-login,windows-domain'
 ---
 System Policies is an easy way to hide / lock options to keep the users from rendering the computer useless. The System Policies are configured a central place and are applied when the user logon to the network (They have been replaced with Group Policies).  
   

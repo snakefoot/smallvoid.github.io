@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to configure the location and size of the task scheduler log with all its events.'
 type: post
 id: 288
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,12 +14,9 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - scheduled-task
     - task-scheduler
-post_format: []
-tags:
-    - 'task-scheduler,scheduled-task'
 ---
 The graphical Task Scheduler has its own event log, which can be viewed like this:
 

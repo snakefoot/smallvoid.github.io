@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description of how the drivers and firmware for the computer hardware should be updated to get the best performance.'
 type: post
 id: 229
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -14,7 +14,7 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - BIOS
     - chipset
     - dialup-modem
@@ -22,9 +22,6 @@ tag:
     - firmware
     - hardware
     - motherboard
-post_format: []
-tags:
-    - 'hardware,firmware,motherboard,drivers,dialup-modem,chipset,bios'
 ---
 When hardware is released then it usually contains a lot of undiscovered bugs. These bugs are many times severe and causes crashes/slowdowns/malfunction at special circumstances. Over time these bugs are discovered and are usually solved with driver or firmware updates released by the manufactures.  
  To make sure the computer is stable and performing at its best, then it is a good idea to keep an eye out for driver and firmware updates made for your system.  

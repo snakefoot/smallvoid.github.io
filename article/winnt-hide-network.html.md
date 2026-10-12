@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'How to configure the computer not to announce itself on the Microsoft Network.'
 type: post
 id: 206
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - master-browser
     - microsoft-network
-post_format: []
-tags:
-    - 'microsoft-network,master-browser'
 ---
 Every 12 mins the [Server Service](/article/winnt-services-lanmanserver.html) will announce itself to the [Master Browser](/article/winnt-master-browser.html) on each protocol installed. If having a 1000 clients doing this on two protocols like the TCPIP- and Netbios-protocol, then it will lead to 10000 packets/hour.  
   

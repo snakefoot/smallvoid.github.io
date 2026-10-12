@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the ActiveX Installer (AxInstSV) service.'
 type: post
 id: 793
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - activex
     - group-policy
-post_format: []
-tags:
-    - 'activex,group-policy'
 ---
 ##### Description:
 

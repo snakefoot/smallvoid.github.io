@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Power Management support is not supported very well by Windows 9x and should be disabled.'
 type: post
 id: 99
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - power-management
-post_format: []
 tags:
     - power-management
 ---

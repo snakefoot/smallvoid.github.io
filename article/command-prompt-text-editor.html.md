@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to use the copy command to copy from the keyboard and into a text file.'
 type: post
 id: 63
-category:
+categories:
     - Tips
-tag:
+tags:
     - text-editor
-post_format: []
 tags:
     - text-editor
 ---

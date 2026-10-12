@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Different solutions for recovering a broken Windows installation.'
 type: post
 id: 395
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - automatic-system-recovery
     - last-known-good-configuration
     - recovery-console
     - system-file-checker
     - system-recovery
     - system-state
-post_format: []
-tags:
-    - 'system-file-checker,last-known-good-configuration,system-state,recovery-console,automatic-system-recovery,system-recovery'
 ---
 Microsoft Windows 2000/XP are able to run for a long time without starting to get serious quirks from changing hardware / software / user-settings (Compared to older versions of Windows).  
   

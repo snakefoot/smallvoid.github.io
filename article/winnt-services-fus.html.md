@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Fast User Switching Compatibility service.'
 type: post
 id: 545
-category:
+categories:
     - 'Services Guide'
-tag:
+tags:
     - fast-user-switching
     - terminal-services
     - welcome-screen
-post_format: []
-tags:
-    - 'fast-user-switching,welcome-screen,terminal-services'
 ---
 ##### Description:
 

@@ -6,21 +6,18 @@ author: Snakefoot
 excerpt: 'How to configure Internet Explorer, so it will empty its cache at program exit.'
 type: post
 id: 133
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
     - 'Internet Explorer (IE7)'
     - 'Internet Explorer (IE8)'
     - 'Internet Explorer (IE9)'
-tag:
+tags:
     - cache
     - cookies
     - privacy
     - temporary-internet-files
-post_format: []
-tags:
-    - 'temporary-internet-files,cookies,privacy,cache'
 ---
 It can be useful to empty the [Temporary Internet Files](/article/ie-temporary-internet-files.html) cache if wanting to save space for roaming profiles, or if in an environment where one don't want other people to see what pages one have been visiting.  
   

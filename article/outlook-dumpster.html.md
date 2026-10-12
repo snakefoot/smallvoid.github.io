@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'When deleting a mail in Outlook, then it can still be restored through the Exchange server.'
 type: post
 id: 338
-category:
+categories:
     - Outlook
-tag:
+tags:
     - dumpster
     - email
-post_format: []
-tags:
-    - 'dumpster,email'
 ---
 When using Outlook and you have deleted a message, then the Exchange-server will by default retain deleted items, so they are recoverable 7 days. To recover a mail select the "Deleted Items"-folder go to Tools, Recover Deleted Items.  
   

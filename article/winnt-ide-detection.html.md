@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Faster boot times by not spending time on detecting non-existing IDE devices.'
 type: post
 id: 375
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - ATA
     - boot-time
     - cdrom-drive
     - dvd-drive
     - hard-disk-drive
     - IDE
-post_format: []
-tags:
-    - 'IDE,ATA,hard-disk-drive,cdrom-drive,dvd-drive,boot-time'
 ---
 Every time Windows boots it will check the onboard controller if there is any drives attached. If you don't have the habit of swapping IDE units in and out or you have none installed at all, then you might want to disable the scanning for non-existing IDE units and get a faster bootup.
 

@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Utility that extends the confirmation dialog shown when an addon wants to use Outlook, with more details about the addon.'
 type: post
 id: 337
-category:
+categories:
     - Outlook
-tag:
+tags:
     - outlook-addons
-post_format: []
 tags:
     - outlook-addons
 ---

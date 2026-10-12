@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Uninterruptible Power Supply service.'
 type: post
 id: 609
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - power-management
     - uninterruptible-power-supply
-post_format: []
-tags:
-    - 'uninterruptible-power-supply,power-management'
 ---
 ##### Description:
 

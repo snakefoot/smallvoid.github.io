@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Make the dialup connection time faster by limiting the dialup protocols to only TCPIP.'
 type: post
 id: 194
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - dialup-modem
     - tcpip
-post_format: []
-tags:
-    - 'dialup-modem,tcpip'
 ---
 By standard when creating a modem connection in Win9x it is configured to log on to the ISP's network. This is not necessary and establishing the connection will be slow.  
   

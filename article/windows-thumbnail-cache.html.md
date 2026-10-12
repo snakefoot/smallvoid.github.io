@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Thumbnail View uses a cache to allow quicker viewing of folders with pictures, and one can change the quality of these thumbnails.'
 type: post
 id: 306
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - picture
     - thumbnail
     - thumbnail-cache
-post_format: []
-tags:
-    - 'thumbnail,picture,thumbnail-cache'
 ---
 The Thumbnail view was introduced with Windows 98 and allows one to easily overview a collection of pictures. This done by displaying a smaller version of the original image so it is possible to see several pictures on single screen. To optimize the thumbnail view a cache (Thumbs.db / ehThumbs.db) is made so all the pictures doesn't have to processed every time viewing the folder.  
   

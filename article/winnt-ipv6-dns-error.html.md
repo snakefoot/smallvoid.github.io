@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Before activating TCP/IP Version 6 then one should make sure that the DNS server is able to handle IPv6 properly.'
 type: post
 id: 435
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - dns
     - ipv6
     - lan
     - tcpip
     - wan
-post_format: []
-tags:
-    - 'ipv6,dns,tcpip,lan,wan'
 ---
 Internet Procotol ver. 6 (IPv6) contains many new improvements:
 

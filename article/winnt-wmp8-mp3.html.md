@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'To record audio as MP3 in Windows Media Player then one needs to buy a license for the MP3 codec.'
 type: post
 id: 502
-category:
+categories:
     - Utilities
-tag:
+tags:
     - mp3
     - windows-media-player
-post_format: []
-tags:
-    - 'windows-media-player,mp3'
 ---
 [MediaPlayer 8 - MP3 Record](http://smallvoid.orgfree.com/?file=mp8_mp3.zip) enables you to record MP3 in Media Player 8.  
   

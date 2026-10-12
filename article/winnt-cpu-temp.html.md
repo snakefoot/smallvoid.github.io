@@ -6,22 +6,19 @@ author: Snakefoot
 excerpt: 'CPU core temperature monitoring utilities, that can give alerts if things gets too hot.'
 type: post
 id: 350
-category:
+categories:
     - Troubleshoot
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - AMD
     - cpu
     - Intel
     - motherboard
     - performance-monitor
     - SMART
-post_format: []
-tags:
-    - 'performance-monitor,cpu,Intel,AMD,motherboard,SMART'
 ---
 When doing overclocking, then it is very important to monitor CPU temperature, Chipset Temperature, GPU temperature and fan-speeds. By default these details are not displayed by the Windows operating system, though these numbers can be retrieved from the motherboard.  
   

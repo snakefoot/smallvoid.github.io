@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'How the IPC$ share makes it possible for clients to access shares on the server.'
 type: post
 id: 146
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - anonymous-access
     - guest-account
     - inter-proces-communication
     - network-share
     - remote-procedure-call
-post_format: []
-tags:
-    - 'inter-proces-communication,remote-procedure-call,network-share,anonymous-access,guest-account'
 ---
 The IPC$ is a [hidden share](/article/hidden-file-shares.html) maintained by the [Server service](/article/winnt-services-lanmanserver.html) (Disabling the service will remove the share). The IPC$ share is used for Inter Proces Communication by using RPC (Remote Procedure Call), allowing the client to send different commands to the server:
 

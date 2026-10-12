@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Outlook Express message rules are stored in the Windows registry, which one can backup and restore.'
 type: post
 id: 331
-category:
+categories:
     - 'Outlook Express'
-tag:
+tags:
     - backup
     - message-rules
-post_format: []
-tags:
-    - 'message-rules,backup'
 ---
 To backup your rules in Outlook Express(OE) 5 you have to use regedit :
 

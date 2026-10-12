@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Opportunistic locking delivers good network performance but older implementations can lead to data loss.'
 type: post
 id: 446
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - network-share
     - opportunistic-locking
-post_format: []
-tags:
-    - 'opportunistic-locking,network-share'
 ---
 When accessing a file on the network, then the file operations are converted to network requests and replies. To minimize the amount of network request and replies it is best to read/write in large blocks (64K), but many applications only read/write a single byte at the time, thus generating a large amount of network traffic.  
   

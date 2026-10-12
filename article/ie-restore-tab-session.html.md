@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'How to restore the tab session in Internet Explorer 8.'
 type: post
 id: 791
-category:
+categories:
     - 'Internet Explorer (IE8)'
-tag:
+tags:
     - browsing-session
     - tab-session
-post_format: []
-tags:
-    - 'tab-session,browsing-session'
 ---
 When closing IE8, then it doesn't ask if one wants to restore the tab-session next time it starts (Like IE7 did with "Open these next time I use Internet Explorer" checkbox).  
   

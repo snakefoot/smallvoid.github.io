@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description of the low disk space warning and how to disable it.'
 type: post
 id: 123
-category:
+categories:
     - Tips
     - Tips
-tag:
+tags:
     - hard-disk-drive
-post_format: []
 tags:
     - hard-disk-drive
 ---

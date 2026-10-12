@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How the HOSTS file can be used to customize the host name resolution.'
 type: post
 id: 218
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,14 +14,11 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - dns
     - hosts-file
     - name-resolution
     - tcpip
-post_format: []
-tags:
-    - 'name-resolution,tcpip,dns,hosts-file'
 ---
 It is much easier to access the Internet when using domain-names like www.google.com, instead of needing to remember IP-addresses. The conversion of a domain-name to an IP-address is performed by the Domain Name System (DNS) and is also called [host name resolution](/article/windows-host-name-resolution.html). Your Internet Service Provider (ISP) is responsible for supplying the DNS.  
   

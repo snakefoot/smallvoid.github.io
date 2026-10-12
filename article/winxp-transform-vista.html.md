@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Give your good old Windows XP a visual facelift with the transformation pack.'
 type: post
 id: 349
-category:
+categories:
     - Utilities
-tag:
+tags:
     - themes
-post_format: []
 tags:
     - themes
 ---

@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'MSN Messenger is an application by Microsoft that allows one to chat with friends and family.'
 type: post
 id: 469
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - msn-messenger
-post_format: []
 tags:
     - msn-messenger
 ---

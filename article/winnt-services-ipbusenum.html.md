@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the PnP-X IP Bus Enumerator service.'
 type: post
 id: 692
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

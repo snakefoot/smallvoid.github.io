@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to configure Internet Connection Sharing to configure a gateway to the Internet for other computers.'
 type: post
 id: 199
-category:
+categories:
     - Network
     - Network
-tag:
+tags:
     - default-gateway
     - internet-connection-sharing
     - network-router
     - proxy
-post_format: []
-tags:
-    - 'internet-connection-sharing,default-gateway,proxy,network-router'
 ---
 Microsoft have created several articles to share a single Internet Connection between several computers.
 

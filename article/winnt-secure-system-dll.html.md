@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Protect against DLL injections to avoid performing malicous code.'
 type: post
 id: 453
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - code-injection
-post_format: []
 tags:
     - code-injection
 ---

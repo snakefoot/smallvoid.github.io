@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Compound TCP (CTCP) can improve the throughput for high bandwidth and high latency connections, by improving TCP slow start.'
 type: post
 id: 789
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - netsh
     - network-congestion
     - network-performance
     - rwin
     - tcpip
-post_format: []
-tags:
-    - 'rwin,network-congestion,tcpip,network-performance,netsh'
 ---
 Microsoft have implemented their own homemade congestion provider as an alternative to the standard TCP congestion provider. It is called Compound TCP (CTCP) and attempts to help certain connection types where TCP Slow Start takes forever:
 

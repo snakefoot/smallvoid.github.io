@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Tweakomatic will take over where group policies cannot handle it any longer.'
 type: post
 id: 515
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - group-policy
     - registry
     - wmi
-post_format: []
-tags:
-    - 'group-policy,registry,wmi'
 ---
 [Tweakomatic](http://www.microsoft.com/downloads/details.aspx?FamilyId=BD328D1E-6C01-4447-BD7C-C09646D722C8) is an utility that makes it easy to create scripts for retrieving and configuring the registry for computers using WMI. The utility has a predefined database of registry settings to retrieve or configure. The utility can be seen as complementary to [Group Policies](/article/winnt-group-policy-registry.html).  
   

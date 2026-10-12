@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Utilities for mounting a FTP folder as a mapped netwok drive.'
 type: post
 id: 737
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,15 +14,12 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - drive-mount
     - file-system
     - ftp
     - ftp-client
     - network-drive
-post_format: []
-tags:
-    - 'ftp,ftp-client,network-drive,file-system,drive-mount'
 ---
 Emulating a FTP server as a mapped network drive is not trivial, as the FTP server doesn't supply all the file system operations required by a network drive. Forexample to open a file placed on a FTP server, then the entire file has to be downloaded completely first, as FTP doesn't provide read and write locking capability. This can lead to funny behavior if background services (Anti-Virus, Movie-Preview) wants to scan the files on the network drive.  
   

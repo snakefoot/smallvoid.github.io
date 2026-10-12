@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Windows Messenger is an inter-message (IM) application created by Microsoft which is integrated into Microsoft Outlook.'
 type: post
 id: 470
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - free-disk-space
     - windows-messenger
-post_format: []
-tags:
-    - 'windows-messenger,free-disk-space'
 ---
 [Windows Messenger](http://messenger.microsoft.com/) (Msnmsgr.exe) is an instant messaging client, which is included by default with Windows XP. It is a different product than [MSN Messenger](/article/msn-messenger-settings.html), as Windows Messenger includes tight integration with Microsoft Exchange, Microsoft Outlook, Microsoft Outlook Express, and the [Remote Assistance feature](/article/winnt-remote-assistance.html), but both clients can connect to the MSN network. Now the Windows Messenger and MSN Messenger applications have been replaced by a single product called [Windows Live Messenger](http://messenger.live.com/).  
   

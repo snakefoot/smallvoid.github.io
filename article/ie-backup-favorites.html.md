@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Internet Explorer favorites are stored as lnk shortcuts and can be exported and imported as HTML.'
 type: post
 id: 263
-category:
+categories:
     - 'Internet Explorer (IE5)'
-tag:
+tags:
     - backup
     - favorites
-post_format: []
-tags:
-    - 'favorites,backup'
 ---
 To backup the favorite bookmarks in Internet Explorer(IE) 5:
 

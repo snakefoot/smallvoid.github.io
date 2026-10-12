@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Windows NT hardware abstraction layer can be changed if the motherboard doesn''t support the one chosen by default.'
 type: post
 id: 266
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - acpi
     - hardware-abstraction-layer
     - standard-pc
-post_format: []
-tags:
-    - 'acpi,standard-pc,hardware-abstraction-layer'
 ---
 Windows NT is able to use different Hardware Abstraction Layers (HAL). Two of them is Standard PC and ACPI PC, which has different ways of performing hardware resource management:
 

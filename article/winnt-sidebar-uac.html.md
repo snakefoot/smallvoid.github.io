@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Windows 7 sidebar will by default not allow applications that requires administrator rights.'
 type: post
 id: 813
-category:
+categories:
     - Tips
-tag:
+tags:
     - sidebar
     - user-account-control
-post_format: []
-tags:
-    - 'user-account-control,sidebar'
 ---
 If having disabled the security feature [UAC](/article/winnt-user-account-protection.html), then the sidebar and gadgets will stop working (not display).  
   

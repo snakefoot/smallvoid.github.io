@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Change which network protocol to use first when looking for a resource on the network.'
 type: post
 id: 420
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - netbeui
     - network-protocol
     - network-redirector
     - tcpip
-post_format: []
-tags:
-    - 'network-redirector,tcpip,netbeui,network-protocol'
 ---
 When a network service/redirector (Like Microsoft Network or Novell Network) needs to make a network request it has to use a protocol. To get the fastest responses one should assign the highest priority to the protocol (Like "TCPIP" or "NetBEUI"), which gives access to the majority of the wanted network resources. Another way is to unbind/disable/uninstall protocols, which are not necessary for accessing resources on that network.  
   

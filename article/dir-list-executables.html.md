@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to create a batch file that works like a dir command but only lists executables.'
 type: post
 id: 54
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
-post_format: []
 tags:
     - batch-file
 ---

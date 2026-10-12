@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Audit policies can be created to record unsuccessful logon attempts in the event log.'
 type: post
 id: 437
-category:
+categories:
     - 'User Security'
-tag:
+tags:
     - event-log
     - user-account
-post_format: []
-tags:
-    - 'user-account,event-log'
 ---
 It is possible to log unsuccessful logins to your machine, to detect if someone is trying to access your machine.  
   

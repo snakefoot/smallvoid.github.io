@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Use Windows Explorer to browse a remote internet server by adding it as a network place.'
 type: post
 id: 739
-category:
+categories:
     - Network
     - Network
     - Network
@@ -14,14 +14,11 @@ category:
     - Network
     - Network
     - Network
-tag:
+tags:
     - ftp
     - ftp-client
     - network-places
     - webdav
-post_format: []
-tags:
-    - 'webdav,ftp,ftp-client,network-places'
 ---
 Windows Explorer has the same FTP and HTTP capabilities as [Internet Explorer](/article/ie-ftp-client.html), so it is possible to add FTP and HTTP servers as Network Places. This allows one to access them like bookmarked Web Folders where one can easily upload and download files using the Windows Explorer.
 

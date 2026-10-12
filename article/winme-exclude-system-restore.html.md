@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to exclude a file so System Restore doesn''t monitor the file or perform backup.'
 type: post
 id: 108
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - system-restore
-post_format: []
 tags:
     - system-restore
 ---

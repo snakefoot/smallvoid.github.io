@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Changing the behavior and visual appearance of the Start Menu.'
 type: post
 id: 301
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,12 +14,9 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - start-menu
     - taskbar
-post_format: []
-tags:
-    - 'start-menu,taskbar'
 ---
 Speed up the start menu by configuring the delay before a folder in the Start Menu is shown:
 

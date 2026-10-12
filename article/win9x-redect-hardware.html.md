@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Make Windows 9x redetect all hardware in case one is migrating to a new computer.'
 type: post
 id: 139
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - device-manager
     - drivers
     - hardware
-post_format: []
-tags:
-    - 'hardware,drivers,device-manager'
 ---
 Win9x keeps track of all hardware in your machine, which can be seen in the Device Manager. Sometimes Win9x gets confused by all your hardware and starts to act strange. One can clear this confusion and hopefully it will solve any problems.  
   

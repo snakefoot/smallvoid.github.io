@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Enhance the file copy abilities of Windows Explorer'
 type: post
 id: 362
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -14,13 +14,10 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - file-copy
     - windows-explorer
     - windows-shell
-post_format: []
-tags:
-    - 'windows-explorer,windows-shell,file-copy'
 ---
 The file copy functionality in Windows Explorer lacks several things, especially when it comes to file copying over a local area network (LAN) using a wireless connection:
 

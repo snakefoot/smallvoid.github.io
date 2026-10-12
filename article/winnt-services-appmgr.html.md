@@ -6,12 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Server Manager service.'
 type: post
 id: 584
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 ##### Description:
 

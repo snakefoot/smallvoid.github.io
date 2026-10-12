@@ -6,15 +6,14 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Management Instrumentation service.'
 type: post
 id: 619
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - wmi
-post_format: []
 tags:
     - wmi
 ---

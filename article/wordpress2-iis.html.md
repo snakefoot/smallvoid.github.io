@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Required modifications for Wordpress 2 to make it work on IIS.'
 type: post
 id: 127
-category:
+categories:
     - Uncategorized
-tag:
+tags:
     - iis
     - wordpress
-post_format: []
-tags:
-    - 'wordpress,iis'
 ---
 Perform the following changes:  
   

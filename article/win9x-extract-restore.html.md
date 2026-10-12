@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'How use the extract utility for restoring a file from the Windows install CD.'
 type: post
 id: 180
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - backup
     - cab
     - command-line-switches
     - compress
     - extract
     - restore
-post_format: []
-tags:
-    - 'extract,restore,backup,compress,cab,command-line-switches'
 ---
 Example to restore kernel32.dll to C:\\Windows\\System from the cabs files in D:\\Install
 

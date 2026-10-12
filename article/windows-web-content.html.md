@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Active Desktop enables customization of folders like they were web pages.'
 type: post
 id: 305
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - active-desktop
     - custom-folders
     - visual-style
-post_format: []
-tags:
-    - 'custom-folders,active-desktop,visual-style'
 ---
 Active Desktop has a feature called Web Content or Web View that allows one to customize the look of file folders. One can configure a file folder to have a preview pane, which shows certain file details when a file in the folder is selected (If a picture-file it can show the image).  
   

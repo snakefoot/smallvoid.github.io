@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description of the ECHO command and the possible ways to make output.'
 type: post
 id: 60
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
-post_format: []
 tags:
     - batch-file
 ---

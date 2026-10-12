@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Schtasks.exe from Windows XP that have been modified so it can be used in Windows 2000.'
 type: post
 id: 507
-category:
+categories:
     - Utilities
-tag:
+tags:
     - scheduled-task
     - task-scheduler
-post_format: []
-tags:
-    - 'task-scheduler,scheduled-task'
 ---
 [Modified Schtasks.exe](http://smallvoid.orgfree.com/?file=schtasks.zip) from Windows XP Build 2600 that can used on Windows 2000. The AT.EXE in Win2k does not support task created in the GUI configuration of the [Task Scheduler](/article/winnt-services-schedule.html), but Schtasks.exe in WinXP does.  
   

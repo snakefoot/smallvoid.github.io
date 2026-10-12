@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'By re-activating Windows XP then one gets the option to change the cd-key.'
 type: post
 id: 392
-category:
+categories:
     - Tips
-tag:
+tags:
     - cd-key
     - windows-product-activation
-post_format: []
-tags:
-    - 'cd-key,windows-product-activation'
 ---
 It is possible to change the WinXP CD Key without reinstalling completely.
 

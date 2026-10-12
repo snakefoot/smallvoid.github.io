@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Utilities for extracting the the cd-key from the registry database.'
 type: post
 id: 163
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -14,9 +14,8 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - cd-key
-post_format: []
 tags:
     - cd-key
 ---

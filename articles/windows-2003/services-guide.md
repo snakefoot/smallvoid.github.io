@@ -8,8 +8,6 @@ type: page
 id: 3
 description:
     - 'How to tweak the services in Windows 2003, with description of what services are unnecessary and can be disabled for security and performance.'
-tags:
-    - ''
 ---
 
 ##### Windows 2003 Services Guide

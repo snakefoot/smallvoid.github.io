@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'The thumbnail cache allows the Windows Explorer to show preview of pictures, but also makes the browsing slower.'
 type: post
 id: 745
-category:
+categories:
     - Desktop
-tag:
+tags:
     - custom-folders
     - thumbnail-cache
     - windows-explorer
-post_format: []
-tags:
-    - 'windows-explorer,custom-folders,thumbnail-cache'
 ---
 Windows Vista changes how cached thumb nails are stored. Instead of having [Thumbs.db files](/article/windows-thumbnail-cache.html) shattered all over the hard disk, then a central database is used instead, which is located here (files are prefixed thumbcache\_????.db):
 

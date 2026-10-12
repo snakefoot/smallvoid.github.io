@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'How to configure the Windows XP firewall rules for incoming connections.'
 type: post
 id: 429
-category:
+categories:
     - Network
-tag:
+tags:
     - firewall
     - internet
     - port-forwarding
-post_format: []
-tags:
-    - 'firewall,internet,port-forwarding'
 ---
 Microsoft provides a simple firewall in Windows XP that protects from incoming traffic, but it will not block for outgoing traffic maybe caused by a virus that have taken over the computer. Windows XP SP2 includes an updated firewall, which still doesn't block for outgoing traffic, but it gives a better interface for controlling incoming traffic (File Sharing, Games, etc.)  
   

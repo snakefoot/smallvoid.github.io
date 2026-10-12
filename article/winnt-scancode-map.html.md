@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'How to use the scancode map to modify the keyboard layout and disable the Windows-key.'
 type: post
 id: 380
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - keyboard
     - scancode-map
     - shortcut-keys
     - windows-key
-post_format: []
-tags:
-    - 'scancode-map,shortcut-keys,windows-key,keyboard'
 ---
 It is possible to change the behavior of the different keys on the keyboard by changing the scancode map. This can be used to disable the Windows-key so one is not thrown out of your favorite game, when by accident have pressed the wrong key.  
   

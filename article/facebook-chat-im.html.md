@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: ''
 type: post
 id: 840
-category:
+categories:
     - Tips
-tag:
+tags:
     - facebook
     - miranda-im
-post_format: []
-tags:
-    - 'facebook,miranda-im'
 ---
 [Facebook chat](https://www.facebook.com/sitetour/chat.php) with two step verification requires a password and then a login token. This is not supported by most application, as they will only use the password.  
   

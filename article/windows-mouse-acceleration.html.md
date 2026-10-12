@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Mouse is accelerated when moved in a single movement to make the Windows nagivation easier.'
 type: post
 id: 279
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,12 +14,9 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - mouse
     - mouse-acceleration
-post_format: []
-tags:
-    - 'mouse,mouse-acceleration'
 ---
 If not satisfied with the possibilities of the Mouse-Applet in the Control Panel, then one can configure the acceleration with these DWORD registry values :
 

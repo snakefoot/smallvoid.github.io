@@ -6,10 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Biometric Service.'
 type: post
 id: 814
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

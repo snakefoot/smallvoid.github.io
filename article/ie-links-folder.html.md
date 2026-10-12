@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Deleting the Links folder from the Internet Explorer bookmarks.'
 type: post
 id: 320
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - favorites
-post_format: []
 tags:
     - favorites
 ---

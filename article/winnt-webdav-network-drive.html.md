@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Mount a Web Folder as a mapped network drive with help from the Webclient service.'
 type: post
 id: 738
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - drive-mount
     - network-drive
     - webdav
-post_format: []
-tags:
-    - 'webdav,network-drive,drive-mount'
 ---
 Web-based Distributed Authoring and Versioning (WebDAV) is an extension to the HTTP protocol, which makes it possible to manage files on a remote Web-Server. WebDAV is preferred when clients has to connect through an insecure network (like the Internet) to reach the remote server, as the remote server can be protected by a firewall and only leaving the HTTP port open and allows SSL instead of using VPN.  
   

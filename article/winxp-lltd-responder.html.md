@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'The LLTD protocol makes it easier to get an overview of the available network devices and their configuration.'
 type: post
 id: 651
-category:
+categories:
     - Network
-tag:
+tags:
     - link-layer-topology-discovery
     - lltd
     - network-topology
-post_format: []
-tags:
-    - 'network-topology,link-layer-topology-discovery,lltd'
 ---
 [Link Layer Topology Discovery (LLTD) Responder](http://go.microsoft.com/fwlink/?LinkId=70582) is a network protocol extension for Windows XP. Windows Vista has the ability to create a map of the entire computer network by using the LLTD protocol, but it will fail with devices that doesn't support this protocol. Windows XP will by default not appear on the network map, but if applying this update then it will.  
   

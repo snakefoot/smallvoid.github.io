@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'List of the available command line switches for defrag.'
 type: post
 id: 129
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - command-line-switches
     - defrag
-post_format: []
-tags:
-    - 'defrag,command-line-switches'
 ---
 If you want to schedule the defrag of your HDD, then these command line switches are available.  
   

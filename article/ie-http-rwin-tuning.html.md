@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Configure TCPIP receive window auto-tuning for HTTP connections for faster download.'
 type: post
 id: 772
-category:
+categories:
     - 'Internet Explorer (IE7)'
     - Network
-tag:
+tags:
     - network-performance
     - rwin
     - tcpip
-post_format: []
-tags:
-    - 'tcpip,rwin,network-performance'
 ---
 Windows Vista enables [TCP Receive Window Auto-Tuning](/article/vista-tcpip-auto-rwin.html) for all non HTTP traffic.  
   

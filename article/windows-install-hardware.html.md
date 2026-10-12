@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Troubleshooting what is causing Windows not to install properly.'
 type: post
 id: 239
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
@@ -14,12 +14,9 @@ category:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - drivers
     - hardware
-post_format: []
-tags:
-    - 'hardware,drivers'
 ---
 If Windows fails to install or just messes up the configuration of the installed hardware, then it can be a good idea to unplug/turn-off non-essential hardware like:
 

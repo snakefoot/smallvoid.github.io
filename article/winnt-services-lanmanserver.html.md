@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Server service.'
 type: post
 id: 593
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
@@ -14,9 +14,8 @@ category:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - microsoft-network
-post_format: []
 tags:
     - microsoft-network
 ---

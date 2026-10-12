@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Change when an application is considered as deadlocked and should be terminated.'
 type: post
 id: 278
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
@@ -14,8 +14,7 @@ category:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag: []
-post_format: []
+tags: []
 ---
 It is possible to control how quickly windows automatically should end applications.  
   

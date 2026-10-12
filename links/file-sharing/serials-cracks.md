@@ -8,8 +8,6 @@ type: page
 id: 20
 description:
     - 'Release the full potential of your favorite software.'
-tags:
-    - ''
 ---
 
 ### Crack Search Engines

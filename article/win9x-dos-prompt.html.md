@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Using a batch file to configure the DOS prompt when starting it from the Windows desktop.'
 type: post
 id: 134
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - 'MS DOS'
-post_format: []
 tags:
     - ms-dos
 ---

@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Different utilities available to keep file fragmentation at a low level, and maintain good hard disk performance.'
 type: post
 id: 367
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - defrag
     - disk-performance
     - file-system
     - hard-disk-drive
     - ntfs
-post_format: []
-tags:
-    - 'defrag,ntfs,hard-disk-drive,disk-performance'
 ---
 The Windows NT Filesystem (NTFS) generates less [file fragmentation](/article/defrag-hard-disk-partition.html) compared to FAT16/FAT32. File fragmentation still occurs, but one doesn't have to defrag so often.  
   

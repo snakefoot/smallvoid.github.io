@@ -8,8 +8,6 @@ type: page
 id: 3
 description:
     - 'How to tweak the services in Windows 7, with description of what services are unnecessary and can be disabled for security and performance.'
-tags:
-    - ''
 ---
 
 ##### Windows 7 Services Guide

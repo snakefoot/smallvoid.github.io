@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Microsoft articles on how to offer and receive and remote assistance requests to perform remote desktop control.'
 type: post
 id: 431
-category:
+categories:
     - Network
-tag:
+tags:
     - remote-assistance
     - remote-desktop
     - terminal-services
-post_format: []
-tags:
-    - 'remote-assistance,terminal-services,remote-desktop'
 ---
 Microsoft has created the following articles for Windows XP:
 

@@ -8,8 +8,6 @@ type: page
 id: 3
 description:
     - 'Sitemap of the posted articles and their categories.'
-tags:
-    - ''
 ---
 
 Browse articles by [Categories](/categories/) or [Tags](/tags/)

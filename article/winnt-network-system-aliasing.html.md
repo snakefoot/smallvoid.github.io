@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Disabling system aliasing can free resources but will disable mounting and reparse points'
 type: post
 id: 448
-category:
+categories:
     - 'File Sharing'
-tag:
+tags:
     - network-share
     - system-aliasing
-post_format: []
-tags:
-    - 'network-share,system-aliasing'
 ---
 Aliasing is a feature that is included with Windows Server 2003. This feature lets multiple long file names or multiple short file names refer to the same file (Used for mounting- and reparse-points). Disabling file system aliasing can improve performance as it will increase the available cache size for the server service:
 

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Internet Explorer can switch been active ftp and passive ftp mode.'
 type: post
 id: 316
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
     - 'Internet Explorer (IE7)'
-tag:
+tags:
     - ftp
     - ftp-client
     - passive-ftp
-post_format: []
-tags:
-    - 'ftp-client,passive-ftp,ftp'
 ---
 Internet Explorer has an option to enable passive FTP mode. The active FTP connection is created with the following steps:
 

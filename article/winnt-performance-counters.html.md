@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'How to activate performance counters for the different performance objects in Windows NT.'
 type: post
 id: 373
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - performance-counters
-post_format: []
 tags:
     - performance-counters
 ---

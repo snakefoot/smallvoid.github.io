@@ -6,12 +6,12 @@ author: Snakefoot
 excerpt: 'When deleting a partition then only the boot sector is modified, so by restoring the boot sector, then one will restore the partition.'
 type: post
 id: 473
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-sector
     - fat32
     - file-recovery
@@ -21,9 +21,6 @@ tag:
     - partition
     - partition-recovery
     - system-recovery
-post_format: []
-tags:
-    - 'boot-sector,partition,hard-disk-drive,partition-recovery,file-recovery,system-recovery'
 ---
 When a dynamic volume is deleted, the OS clears the boot sector of the partition and removes the volume entry from the Disk Management MMC, but leaves the rest of the data on the partition untouched. Both NTFS and FAT32 stores a backup of the boot sector and if restored, then it will be possible to recover a deleted partition.  
   

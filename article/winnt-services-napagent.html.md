@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Network Access Protection Agent service (also called Quarantine Agent).'
 type: post
 id: 683
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - network-access-protection
-post_format: []
 tags:
     - network-access-protection
 ---

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Configure the hardware settings for the dialup modem and serial port for optimal speed.'
 type: post
 id: 193
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - dialup-modem
     - serial-port
-post_format: []
-tags:
-    - 'dialup-modem,serial-port'
 ---
 To configure your modem:
 

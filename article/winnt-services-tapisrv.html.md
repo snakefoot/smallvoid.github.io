@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Telephony service.'
 type: post
 id: 603
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - dialup-modem
     - tapi
-post_format: []
-tags:
-    - 'tapi,dialup-modem'
 ---
 ##### Description:
 

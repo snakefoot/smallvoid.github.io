@@ -6,10 +6,9 @@ author: Snakefoot
 excerpt: 'Plugins and setting tweaks for Mozilla Firefox.'
 type: post
 id: 761
-category:
+categories:
     - Firefox
-tag: []
-post_format: []
+tags: []
 ---
 The force of Firefox has always been the vast library of available plugins and themes, which allows one to customize almost everything.  
   

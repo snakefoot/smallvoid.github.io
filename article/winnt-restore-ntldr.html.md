@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Windows NT will fail to boot if it cannot find the files used to load the boot manager.'
 type: post
 id: 475
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-manager
     - ntldr
     - system-recovery
-post_format: []
-tags:
-    - 'boot-manager,ntldr,system-recovery'
 ---
 The [NT Loader](/article/winnt-update-boot-manager.html) (NTLDR) is part of the Windows NT boot files. If the NTLDR becomes corrupted, then Windows NT will fail to boot and give messages like:
 

@@ -8,8 +8,6 @@ type: page
 id: 16
 description:
     - 'Peer 2 Peer (P2P) networks and the software to reach them.'
-tags:
-    - ''
 ---
 
 ### E-Donkey Clients

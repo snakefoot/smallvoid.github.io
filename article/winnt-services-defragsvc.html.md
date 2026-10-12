@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Disk Defragmenter/Optimize Drives Service.'
 type: post
 id: 799
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - defrag
-post_format: []
 tags:
     - defrag
 ---

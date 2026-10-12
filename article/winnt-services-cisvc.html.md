@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Indexing service.'
 type: post
 id: 552
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - file-search
-post_format: []
 tags:
     - file-search
 ---

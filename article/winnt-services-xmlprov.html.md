@@ -6,12 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Network Provisioning service.'
 type: post
 id: 569
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 ##### Description:
 

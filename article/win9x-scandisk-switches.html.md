@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'List of the available command line switches for scandisk.'
 type: post
 id: 128
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - command-line-switches
     - scandisk
-post_format: []
-tags:
-    - 'scandisk,command-line-switches'
 ---
 If you want to schedule the checking of your HDD, then use these command line switches:  
   

@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Configure what balloon tips Windows should display above the system tray.'
 type: post
 id: 403
-category:
+categories:
     - Desktop
     - Desktop
-tag:
+tags:
     - balloon-tip
-post_format: []
 tags:
     - balloon-tip
 ---

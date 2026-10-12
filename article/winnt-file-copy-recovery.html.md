@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'When the media is filled with bad sectors, then one can still try to recover the good bits.'
 type: post
 id: 786
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - file-copy
     - file-recovery
-post_format: []
-tags:
-    - 'file-recovery,file-copy'
 ---
 There can be situations where your favorite CD / DVD have become scratched so badly, that no matter how many times you try to polish your favorite CD or DVD then it won't work. After having given up on getting all the data from the disc, then one will eagerly accept that most of the data is recovered.  
   

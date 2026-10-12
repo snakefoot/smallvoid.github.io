@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'The Master File Table is the index for all files and directories placed on a ntfs partition and critical for ntfs performance.'
 type: post
 id: 292
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - file-system
     - master-file-table
     - ntfs
-post_format: []
-tags:
-    - 'file-system,ntfs,master-file-table,disk-performance'
 ---
 Each NTFS partition has a Master File Table(MFT), which is used when looking up the location of files and empty space to place new files. The MFT is a file itself and it shrink and grows in size as the amount of files on the disk changes. Though when a file is deleted then the MFT file doesn't shrink, but the record that points to the deleted file is marked as free (ready for reuse), so the MFT file doesn't shrink unless special defragmentation tools are used.  
   

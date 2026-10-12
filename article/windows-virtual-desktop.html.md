@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Virtual Desktop Manager utilities can give even more room on the Windows desktop.'
 type: post
 id: 346
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -14,9 +14,8 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - virtual-desktop
-post_format: []
 tags:
     - virtual-desktop
 ---

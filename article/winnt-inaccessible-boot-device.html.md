@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description of the different situations where Windows NT can fail to boot because it no longer can find the boot device.'
 type: post
 id: 463
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - blue-screen-of-death
     - boot-manager
     - system-recovery
     - windows-install
-post_format: []
-tags:
-    - 'blue-screen-of-death,system-recovery,windows-install,boot-manager'
 ---
 Windows NT is very sensitive about changes in the boot devices (compared to Win9x), and the slightest change can cause a Blue Screen Of Death (BSOD) with stop code INACCESSABLE\_BOOT\_DEVICE (0x0000007B). There are different situations which can cause this BSOD:
 

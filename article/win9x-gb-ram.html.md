@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Make it possible to run Windows 9x with 1 GByte RAM (or more).'
 type: post
 id: 172
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 Windows 95 / 98 / Me has a limitation for how much memory they can handle, actual if having 1 GByte (1024 MByte) or more, then it might keep Win9x from starting at all. And give messages like these or reboot continuously:
 

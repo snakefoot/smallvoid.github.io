@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Description of how to extend the default command prompt to include more information than just the current directory.'
 type: post
 id: 460
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - visual-style
-post_format: []
 tags:
     - visual-style
 ---

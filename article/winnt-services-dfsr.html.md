@@ -6,12 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the DFS Replication service.'
 type: post
 id: 665
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 ##### Description:
 

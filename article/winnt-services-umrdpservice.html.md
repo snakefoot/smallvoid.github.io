@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Desktop Services UserMode Port Redirector service.'
 type: post
 id: 808
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - remote-desktop
-post_format: []
 tags:
     - remote-desktop
 ---

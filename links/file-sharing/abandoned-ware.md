@@ -8,8 +8,6 @@ type: page
 id: 21
 description:
     - 'A trip down memory lane.'
-tags:
-    - ''
 ---
 
 ### Abandoned Ware

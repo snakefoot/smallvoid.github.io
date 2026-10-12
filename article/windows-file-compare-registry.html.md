@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to see the registry changes of a certain action by using the file compare utility.'
 type: post
 id: 242
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,14 +14,11 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - file-compare
     - process-monitor
     - regedit
     - registry
-post_format: []
-tags:
-    - 'regedit,registry,file-compare,process-monitor'
 ---
 If wanting to see what registry entries are modified when performing a certain action, then one can use the Registry Editor to export the Windows registry before before performing the action and export after having performed the action.  
   

@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Windows can activate NDIS 6 network hardware features for offloading the system processor.'
 type: post
 id: 757
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - netsh
     - network-interface-card
     - network-performance
     - tcpip
     - tcpip-offload
-post_format: []
-tags:
-    - 'tcpip-offload,network-performance,tcpip,network-interface-card,netsh'
 ---
 Windows 2003 / Vista / 2008 / 7 will detect if the network hardware has capabilities that allows it to offload the CPU.  
   

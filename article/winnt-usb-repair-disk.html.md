@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to create a bootable Windows 7 System Repair disc on an USB pen drive.'
 type: post
 id: 829
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - bootdisk
     - system-recovery
     - usb
     - usb-stick
     - windows-recovery-environment
-post_format: []
-tags:
-    - 'windows-recovery-environment,system-recovery,usb,usb-stick,bootdisk'
 ---
 Windows 7 includes an utility to **Create a system repair disc** that includes [Windows Recovery Environment](/article/winnt-recovery-environment.html).  
   

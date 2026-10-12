@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Remote Desktop Client can take control of a remote computer running Microsoft Windows.'
 type: post
 id: 357
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -14,12 +14,9 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - remote-desktop
     - terminal-services
-post_format: []
-tags:
-    - 'remote-desktop,terminal-services'
 ---
 Remote Desktop Client (RDC) is installed by default on WinXP, but it will also run on Win9x/WinNT4/Win2k (Is better than the client installed by default on Win2k). Originally the client was called Microsoft Terminal Services client, hence the name MSTSC.
 

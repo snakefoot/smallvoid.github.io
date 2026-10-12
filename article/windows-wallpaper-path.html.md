@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Change the default wallpaper folder used when changing the wallpaper in Windows.'
 type: post
 id: 275
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - wallpaper
-post_format: []
 tags:
     - wallpaper
 ---

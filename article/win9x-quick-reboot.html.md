@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to use the Shift-key on the keyboard to activate faster reboot.'
 type: post
 id: 105
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - reboot
     - restart
-post_format: []
-tags:
-    - 'reboot,restart'
 ---
 When installing programs you often get told in the end of the installation that it will have to reboot, which will lead to it booting from scratch. Instead choose "No" to the question about rebooting, and press the Start Button, and select "Shutdown...", and choose to "Restart Windows", and while holding the Shift-key down press "Ok".  
   

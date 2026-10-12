@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'The System Information applet can be modified to display OEM name and logo.'
 type: post
 id: 645
-category:
+categories:
     - Desktop
-tag:
+tags:
     - branding
     - oem
     - system-information
-post_format: []
-tags:
-    - 'branding,oem,system-information'
 ---
 When opening the System Information applet then it can display the name and logo of the computer company that manufactured the computer.
 

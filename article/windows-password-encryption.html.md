@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'The different password encryption algorithms available in the Microsoft Network.'
 type: post
 id: 209
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
@@ -15,15 +15,12 @@ category:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - encryption
     - ntlm
     - ntlm2
     - password
     - windows-domain
-post_format: []
-tags:
-    - 'password,encryption,ntlm,ntlm2,windows-domain'
 ---
 When a user tries to access a resource(like a share) over the network, then an authentication is performed using the username and password, to make sure the user has access rights to the resource.  
  One of the first authentication protocols was the Password Authentication Protocol (PAP). It requires that the username and password is sent in plain text over the network, and thus allowing an eavesdropping intruder with a packet sniffer to obtain this information.  

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Disable the beep from the PC speaker when Windows performs an alert.'
 type: post
 id: 277
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,9 +14,8 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - pc-speaker
-post_format: []
 tags:
     - pc-speaker
 ---

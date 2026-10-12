@@ -6,10 +6,9 @@ author: Snakefoot
 excerpt: 'Collection of links to Microsoft articles about how to improve the Windows 98 experience.'
 type: post
 id: 104
-category:
+categories:
     - Tips
-tag: []
-post_format: []
+tags: []
 ---
 Microsoft is very eager to write about how good their software is, and all the features it actually provides. There is an article which is often overlooked, and it is installed right along with Windows 98. The article is located in the Windows directory and saved in a text file called TIPS.TXT, together with other text files about Windows. More Info [MS KB234880](http://support.microsoft.com/kb/234880 "Microsoft Windows 98 Second Edition Readme.txt File [Q234880]").  
   

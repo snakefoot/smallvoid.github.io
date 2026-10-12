@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Recover access to the content advisor configuration by resetting the password.'
 type: post
 id: 312
-category:
+categories:
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - content-advisor
     - parental-control
     - password
     - password-recovery
-post_format: []
-tags:
-    - 'content-advisor,password,password-recovery,parental-control'
 ---
 The Content Advisor allows one to block certain sites from being viewed, mostly in the interest of Parental Control to keep children away from the more obscure sites like [goatse.cx](http://en.wikipedia.org/wiki/Goatse.cx).  
   

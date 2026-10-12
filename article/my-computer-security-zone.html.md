@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Display the My Computer security zone along with the other security zones for configuration.'
 type: post
 id: 282
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,12 +14,9 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - security-zone
     - windows-explorer
-post_format: []
-tags:
-    - 'security-zone,windows-explorer'
 ---
 Internet Explorer supports several security zones, which allows one to restrict the privileges of the web page being viewed. The security zone used for restricting the web page depends on where the web page is located.
 

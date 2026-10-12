@@ -6,13 +6,13 @@ author: Snakefoot
 excerpt: 'Access Linux Ext2 / Ext3 partitions inside Microsoft Windows.'
 type: post
 id: 732
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - drive-mount
     - ext2
     - ext3
@@ -20,9 +20,6 @@ tag:
     - hard-disk-drive
     - linux
     - partition
-post_format: []
-tags:
-    - 'linux,hard-disk-drive,partition,ext3,ext2,drive-mount'
 ---
 [Ext2 Installable file system (Ext2IFS / Ext2fs)](http://www.fs-driver.org/) is a file system device driver, which allows reading and writing of Linux partitions formatted as Ext2 / Ext3, and mount them inside Windows like they were normal FAT / NTFS partitions.
 - Note Ext3 is pretty much Ext2 with journal support, so unless accessing a Ext3 partition with uncommitted journal entries (improper shutdown), then Ext3 partitions can be accessed like a Ext2 partition.

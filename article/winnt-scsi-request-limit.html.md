@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'How to increase the allowed amount of concurrent I/O request for a disk controller.'
 type: post
 id: 34
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - drivers
     - hard-disk-drive
     - scsi
-post_format: []
-tags:
-    - 'scsi,hard-disk-drive,drivers,disk-performance'
 ---
 There is a limit for how many concurrent SCSI Request Block (SRB) Windows can make to a SCSI device. The default limit is 16 requests, but if it is a highspeed SCSI device (RAID) then performance might be improved with a higher value:
 

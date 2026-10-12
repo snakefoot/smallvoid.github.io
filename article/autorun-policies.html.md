@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to configure autorun for the different drive types.'
 type: post
 id: 111
-category:
+categories:
     - Tips
     - Tips
     - Tips
@@ -14,16 +14,13 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - autoplay
     - autorun
     - cdrom-drive
     - hotstart
     - usb
     - usb-stick
-post_format: []
-tags:
-    - 'autorun,cdrom-drive,usb,usb-stick,hotstart,autoplay'
 ---
 Windows is by default configured to poll all devices every second to check if the media has changed since last poll. If the media has changed then it checks if a file named *Autorun.inf* is placed in the root.  
   

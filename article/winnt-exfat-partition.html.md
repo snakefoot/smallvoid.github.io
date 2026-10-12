@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'How to install the Vista exFAT file system driver on Windows XP.'
 type: post
 id: 784
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - exFAT
     - file-system
-post_format: []
-tags:
-    - 'exfat,file-system'
 ---
 Microsoft have created the exFAT filesystem to better support flash drives. It is a proprietary file system that was introduced with Vista SP1. More Info [Filesystem Comparison](/article/cluster-hard-disk-partition.html)  
   

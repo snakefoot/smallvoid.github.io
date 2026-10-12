@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Certain applications cannot detect the installed cdrom drives when using the Adaptec ASPI layer.'
 type: post
 id: 509
-category:
+categories:
     - Utilities
     - Utilities
-tag:
+tags:
     - aspi
     - cdrom-drive
-post_format: []
-tags:
-    - 'aspi,cdrom-drive'
 ---
 [FixAspi.zip](http://smallvoid.orgfree.com/?file=fixaspi.zip) includes a guide of how to apply some registry entries which are required for other applications (Like CDRWIN, Exact Audio Copy - EAC, etc.) to recognize the installed cdrom drives when using the Adaptec ASPI driver.  
   

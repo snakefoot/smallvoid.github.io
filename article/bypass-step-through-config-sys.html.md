@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'How to bypass or single step through the startup files Config.sys and Autoexec.bat using the keyboard keys F5 and F8.'
 type: post
 id: 58
-category:
+categories:
     - Tips
-tag:
+tags:
     - autoexec-bat
     - config-sys
     - system-recovery
-post_format: []
-tags:
-    - 'config-sys,autoexec-bat,system-recovery'
 ---
 MS DOS 6.0 introduced the ability to bypass the Config.sys and Autoexec.bat, and only load the Himem.sys, or single step through the Config.sys and Autoexec.bat. This can be useful if having problems with diagnosing what device driver or other terminate and stay resident (TSR) that is causing problems.  
   

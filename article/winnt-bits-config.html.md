@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Control how much of the bandwidth the Background Intelligent Transfer Service (BITS) is allowed to use.'
 type: post
 id: 526
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 [Background Intelligent Transfer Service (BITS)](/article/winnt-services-bits.html) was extended in Ver. 2 (XP SP2 or [MS KB842773](http://support.microsoft.com/kb/842773 "An update package that includes BITS 2.0 and WinHTTP 5.1 is available for Windows Server 2003, for Windows XP, and for Windows 2000 [Q842773]")) so it can throttle the use of bandwidth by using the following policies:
 - **Enable/Disable throttling of network traffic:**

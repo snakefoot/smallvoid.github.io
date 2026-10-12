@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Increasing the amount of spare stack pages to handle stack overflow by bad drivers.'
 type: post
 id: 171
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - stack-pages
-post_format: []
 tags:
     - stack-pages
 ---

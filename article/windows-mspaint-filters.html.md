@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Microsoft Office graphic filters allows programs like Mspaint to work with formats like jpeg and gif.'
 type: post
 id: 238
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -14,15 +14,12 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - gif
     - jpeg
     - jpg
     - mspaint
     - picture
-post_format: []
-tags:
-    - 'mspaint,jpeg,jpg,gif,picture'
 ---
 Microsoft Office installs filters that enables MS Paint to handle new formats like JPG and GIF. One can use these filters separately without needing to install MS Office.  
   

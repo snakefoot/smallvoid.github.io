@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Speed up the creation of new files by not creating a 8.3 filename for backward compatibility.'
 type: post
 id: 25
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - file-system
     - ntfs
-post_format: []
-tags:
-    - 'ntfs,disk-performance'
 ---
 When a file is created a filename is attached to actual contents of the file. For the sake of compatibility, then a 8.3 filename is created along with the long filename. If running applications that creates many files, then they might show better performance if one disables the generation of the 8.3 filename.  
   

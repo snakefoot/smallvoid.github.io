@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Enable caching of desktop.ini can improve the speed of browsing custom folders on remote computers.'
 type: post
 id: 405
-category:
+categories:
     - 'File Sharing'
-tag:
+tags:
     - custom-folders
-post_format: []
 tags:
     - custom-folders
 ---

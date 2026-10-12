@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to configure the location of WMI logs and how verbose the logs should be.'
 type: post
 id: 376
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - cimon
     - wbem
     - wmi
-post_format: []
-tags:
-    - 'wbem,wmi,cimon'
 ---
 The [Windows Management Instrumentation service](/article/winnt-services-winmgmt.html) maintains logs with informational-, warning-, error-messages:
 

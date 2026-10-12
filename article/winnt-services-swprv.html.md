@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the MS Software Shadow Copy Provider service.'
 type: post
 id: 562
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - ntbackup
     - volume-shadow-copy
-post_format: []
-tags:
-    - 'volume-shadow-copy,ntbackup'
 ---
 ##### Description:
 

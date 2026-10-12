@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Modified version of Windows 98 regedit, which can be used in Windows 95.'
 type: post
 id: 164
-category:
+categories:
     - Utilities
-tag:
+tags:
     - regedit
     - registry
-post_format: []
-tags:
-    - 'regedit,registry'
 ---
 [Windows 98 regedit](http://smallvoid.orgfree.com/?file=regedit.zip) modified to work with Windows 95 so it can [handle large registry keys](http://support.microsoft.com/kb/132064 "REGEDIT May Not Be Able to Import Registry with Large Keys [Q132064]") in realmode (DOS).  
   

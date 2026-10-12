@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'XPInfo was developed in the proces of trying to discover how Windows Product Activation works.'
 type: post
 id: 498
-category:
+categories:
     - Utilities
-tag:
+tags:
     - windows-product-activation
-post_format: []
 tags:
     - windows-product-activation
 ---

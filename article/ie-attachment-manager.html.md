@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Windows XP SP2 includes the ability to mark files downloaded from the Internet as insecure and block access to them.'
 type: post
 id: 291
-category:
+categories:
     - 'Internet Explorer (IE6)'
     - 'Internet Explorer (IE7)'
     - Tips
-tag:
+tags:
     - alternative-data-stream
     - attachment-execution-services
     - attachment-manager
     - ntfs
     - security-zone
     - trusted-sites
-post_format: []
-tags:
-    - 'attachment-manager,attachment-execution-services,trusted-sites,security-zone,ntfs,alternative-data-stream'
     - 'attachment-manager,attachment-execution-services,trusted-sites,security-zone,ntfs,alternative-data-stream'
 ---
 Windows XP SP2 includes a new feature called Attachment Manager, which adds a security prompt when trying to open files marked as being downloaded from the Internet or received as e-mail attachments.  

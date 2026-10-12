@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Windows creates by default a network shares for each drive letter, which is used for administrative tasks.'
 type: post
 id: 438
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - network-share
-post_format: []
 tags:
     - network-share
 ---

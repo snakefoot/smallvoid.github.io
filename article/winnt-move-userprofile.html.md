@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to move the location of the user profile for either backup or after restore.'
 type: post
 id: 259
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - user-account
     - user-profile
-post_format: []
-tags:
-    - 'user-profile,user-account'
 ---
 By default WinNT places all user profiles on the %SYSTEMDRIVE%, which makes sure that it have access to the user profiles even if the drive letters move.  
   

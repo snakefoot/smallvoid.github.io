@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Enable the Update Wizard without performing registration.'
 type: post
 id: 157
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - registration-wizard
     - update-wizard
-post_format: []
-tags:
-    - 'registration-wizard,update-wizard'
 ---
 If one skipped the Registration Wizard during the install of Windows 98, then the Update Wizard becomes disabled. The Update Wizard makes it easy to scan for new updates for Windows components and drivers.  
   

@@ -6,15 +6,14 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the System Event Notification service (SENS).'
 type: post
 id: 600
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

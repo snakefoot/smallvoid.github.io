@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Wireless Zero Configuration service.'
 type: post
 id: 624
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - wep
     - wifi
     - wireless-network
     - wlan
     - wpa
-post_format: []
-tags:
-    - 'wireless-network,wpa,wep,wifi,wlan'
 ---
 ##### Description:
 

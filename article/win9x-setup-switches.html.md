@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Useful command line switches that can be used when installing Windows 95 / 98 / Me.'
 type: post
 id: 173
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - command-line-switches
-post_format: []
 tags:
     - command-line-switches
 ---

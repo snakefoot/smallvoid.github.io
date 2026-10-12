@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Finding the the optimal size and location for the Windows swap file.'
 type: post
 id: 233
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -15,14 +15,11 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - free-disk-space
     - page-file
     - swap-file
     - virtual-memory
-post_format: []
-tags:
-    - 'swap-file,page-file,virtual-memory,free-disk-space'
 ---
 When using Windows NT operating systems, then the best configuration for the pagefile is to let Windows handle it by setting it to be system managed. So unless having a very special system configuration, then one should just leave the pagefile alone.  
   

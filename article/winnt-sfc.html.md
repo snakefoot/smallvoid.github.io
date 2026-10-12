@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'System File Checker is able to verify that system files are intact.'
 type: post
 id: 247
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - system-file-checker
     - system-file-protection
     - system-recovery
-post_format: []
-tags:
-    - 'system-file-checker,system-file-protection,system-recovery'
 ---
 The [Windows File Protection](/article/winnt-wfp.html) is constantly checking whether important files are missing or overwritten and restores them if so. Sometimes it can happen that a file is corrupted anyway, but then one can use the util SFC.EXE with the /SCANNOW option to do a full scan of the critical files and restore those, which have become corrupted:
 

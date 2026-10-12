@@ -6,12 +6,9 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Terminal Services Session Directory service.'
 type: post
 id: 607
-category:
+categories:
     - 'Services Guide'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 ##### Description:
 

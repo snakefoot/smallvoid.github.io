@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Security utility for checking if computer is infected with malware, and if so remove it.'
 type: post
 id: 518
-category:
+categories:
     - Utilities
     - Utilities
-tag:
+tags:
     - virus
-post_format: []
 tags:
     - virus
 ---

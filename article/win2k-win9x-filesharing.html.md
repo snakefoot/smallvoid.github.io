@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Activating the insecure guest account for easy file sharing.'
 type: post
 id: 144
-category:
+categories:
     - 'File Sharing'
-tag:
+tags:
     - guest-account
     - microsoft-network
-post_format: []
-tags:
-    - 'guest-account,microsoft-network'
 ---
 It is advised to create an account with a secure password for each user, who should have access to a share [MS KB258717](http://support.microsoft.com/kb/258717 "Configuring Windows 2000 Professional to Work in a Peer-to-Peer Workgroup [Q258717]"). But some times it is just too cumbersome, even if one creates a group containing all the users which should have access.  
   

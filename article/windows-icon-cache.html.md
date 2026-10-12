@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'The icon cache can become corrupted and lead to icons being garbled.'
 type: post
 id: 285
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
@@ -15,12 +15,9 @@ category:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - icon-cache
     - icons
-post_format: []
-tags:
-    - 'icon-cache,icons'
 ---
 The icons used in Windows are saved in an icon cache, which has been invented to optimize the display of icons, so it doesn't have to open every exe-/dll-files and scan for icon images all the time.  
   

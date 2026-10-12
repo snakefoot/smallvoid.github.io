@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Different ways for starting Internet Explorer in full screen mode.'
 type: post
 id: 318
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - full-screen
-post_format: []
 tags:
     - full-screen
 ---

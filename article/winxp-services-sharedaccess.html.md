@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Firewall/Internet Connection Sharing (ICS) service.'
 type: post
 id: 553
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - default-gateway
     - firewall
     - internet-connection-sharing
     - network-router
     - VPN
-post_format: []
-tags:
-    - 'internet-connection-sharing,default-gateway,VPN,firewall,network-router'
 ---
 ##### Description:
 

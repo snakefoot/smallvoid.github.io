@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to change the role of the computer to be "Network Server".'
 type: post
 id: 88
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - file-cache
     - hard-disk-drive
-post_format: []
-tags:
-    - 'file-cache,hard-disk-drive,disk-performance'
 ---
 To avoid accessing the HDD to find a file. it caches the file name and location of the most recent used files and paths. To configure the size of this cache go to Control Panel -&gt; System -&gt; Performance -&gt; FileSystem and change the Role to "Network Server".  
   

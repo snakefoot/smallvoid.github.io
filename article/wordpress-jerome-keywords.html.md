@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description of the different updates and fixes available for Jerome''s keywords.'
 type: post
 id: 746
-category:
+categories:
     - Uncategorized
-tag:
+tags:
     - jerome-keywords
     - tagging
     - wordpress
     - wp-plugin
-post_format: []
-tags:
-    - 'wordpress,jerome-keywords,tagging,plugins'
 ---
 Wordpress 2.0 doesn't have taxonomy support for tagging, but it is possible to install plugins which can extend Wordpress with support for tags:
 

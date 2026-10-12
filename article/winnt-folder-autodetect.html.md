@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Windows Explorer tries to guess how to display a directory, by looking at the files within.'
 type: post
 id: 759
-category:
+categories:
     - Desktop
-tag:
+tags:
     - custom-folders
     - visual-style
     - windows-explorer
-post_format: []
-tags:
-    - 'windows-explorer,custom-folders,visual-style'
 ---
 Windows Explorer can display files using different view types, depending on the files being pictures, music, movies etc. When opening a folder using Windows Explorer, then it tries to guess the folder type so the contents gets displayed properly.
 

@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Backup and restore long filenames in DOS. Useful if working with DOS tools not supporting long filenames.'
 type: post
 id: 75
-category:
+categories:
     - Utilities
-tag:
+tags:
     - backup
     - doslfn
     - lfntools
     - long-filenames
     - restore
-post_format: []
-tags:
-    - 'long-filenames,backup,restore,doslfn,lfntools'
 ---
 When working with long filenames in DOS the long filenames are lost because the long filename has to be updated in the VFAT and standard DOS utilities can only work on the FAT.  
  Microsoft have create the utility [W95lfnb.exe](http://www.microsoft.com/windows95/downloads/contents/WUAdminTools/S_WUManagementTools/W95LongFile/Default.asp), which is able to save the long filenames stored in the VFAT, so you can restore the long filenames again after you have worked with the files in DOS.  

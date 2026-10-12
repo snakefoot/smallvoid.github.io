@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Internet Explorer powertoys adds additional useful features for viewing webpages.'
 type: post
 id: 353
-category:
+categories:
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - powertoys
-post_format: []
 tags:
     - powertoys
 ---

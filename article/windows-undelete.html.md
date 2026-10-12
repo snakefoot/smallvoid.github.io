@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Recover deleted or damaged files (and partitions) with undelete / unerase utilities.'
 type: post
 id: 360
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -14,12 +14,9 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - file-recovery
     - partition-recovery
-post_format: []
-tags:
-    - 'file-recovery,partition-recovery'
 ---
 When deleting a file (so it is no longer in the recycle bin), then most file systems just marks the space allocated for the file as now being available for new files. This makes the delete operation quick, but with the side effect that it is possible to recover the file again. There exist different utilities that can scan the file system for deleted files and recover the file fully, or partially if the space allocated have been overwritten by a new file.
 

@@ -8,8 +8,6 @@ type: page
 id: 17
 description:
     - 'Usenet Newsgroups (NTTP) saves your ISP from inter continental traffic, and gives you top speed. A win-win situation.'
-tags:
-    - ''
 ---
 
 ### Newsgroup Readers

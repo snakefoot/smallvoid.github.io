@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Utility to diagnose what hardware devices have failed to start and have been disabled.'
 type: post
 id: 166
-category:
+categories:
     - Utilities
     - Utilities
-tag:
+tags:
     - drivers
     - hardware
-post_format: []
-tags:
-    - 'hardware,drivers'
 ---
 Windows 98/Me includes an utility called ASD (Auto Skip Driver) agent, which enables detection of non-working drivers. If a driver keeps Windows from starting up then the driver is disabled, so next time Windows is started it will hopefully succeed.  
   

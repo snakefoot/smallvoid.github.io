@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'How to use the shell keyword to quickly access special folders like the Send To folder.'
 type: post
 id: 780
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - windows-explorer
-post_format: []
 tags:
     - windows-explorer
 ---

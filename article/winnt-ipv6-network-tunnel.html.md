@@ -6,17 +6,16 @@ author: Snakefoot
 excerpt: 'IPv6 network tunnel interfaces makes you open for network attacks, and introduces an overhead.'
 type: post
 id: 5351
-category:
+categories:
     - Network
     - Network
-tag:
+tags:
     - 6to4
     - ipv4
     - ipv6
     - isatap
     - tcpip
     - teredo
-post_format: []
 ---
 Windows is now ready for IPv6, but lots of places still uses IPv4. Microsoft have implemented different network tunnel interfaces, that allows IPv6-islands to communicate over the IPv4-sea.
 

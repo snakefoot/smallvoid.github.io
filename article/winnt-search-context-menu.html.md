@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'The "Search..." context menu option has been removed with Windows Vista Service Pack 1'
 type: post
 id: 773
-category:
+categories:
     - Desktop
-tag:
+tags:
     - context-menu
     - file-search
     - windows-explorer
-post_format: []
-tags:
-    - 'windows-explorer,file-search,context-menu'
 ---
 Windows Explorer gives a "Search..." option when right-clicking a drive-letter or a folder. This option has been removed with Windows Vista SP1.  
   

@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'The registry editor is capable of editing an offline registry hive.'
 type: post
 id: 254
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - regedit
     - registry
     - system-recovery
-post_format: []
-tags:
-    - 'registry,regedit,system-recovery'
 ---
 If needing to access the registry database on a system that is no longer bootable, then one should use [Windows PE or a Linux Live CD](/article/winnt-preinstalled-environment.html).  
   

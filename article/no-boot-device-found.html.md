@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Computer cannot start if no proper boot device exists, or if the active boot device fails.'
 type: post
 id: 752
-category:
+categories:
     - Tips
     - Troubleshoot
     - Troubleshoot
@@ -16,14 +16,11 @@ category:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-manager
     - hard-disk-drive
     - partition
     - system-recovery
-post_format: []
-tags:
-    - 'boot-manager,hard-disk-drive,partition,system-recovery'
 ---
 When the computer starts then it tries to figure out which device to boot from (Hard-disk, cdrom, dvd, usb, flash, floppy, etc.). If no device is found or if a faulty boot device is used, then one of the following messages can be shown:
 

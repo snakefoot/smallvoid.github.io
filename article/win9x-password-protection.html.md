@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Getting past the password protection in Windows 9x.'
 type: post
 id: 177
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - password
     - windows-login
-post_format: []
-tags:
-    - 'windows-login,password'
 ---
 The password protection in Windows 9x is very low, if not configured correctly.
 

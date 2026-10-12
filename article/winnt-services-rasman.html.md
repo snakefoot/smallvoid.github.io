@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Access Connection Manager service.'
 type: post
 id: 578
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - dialup-modem
     - VPN
-post_format: []
-tags:
-    - 'dialup-modem,VPN'
 ---
 ##### Description:
 

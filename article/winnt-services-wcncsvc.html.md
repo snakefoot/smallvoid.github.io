@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Connect Now - Config Registrar service.'
 type: post
 id: 714
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - wifi
     - wireless-network
     - wlan
-post_format: []
-tags:
-    - 'wireless-network,wifi,wlan'
 ---
 ##### Description:
 

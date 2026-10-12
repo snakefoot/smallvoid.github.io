@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Installing Active Desktop without needing to install Internet Explorer 4 first.'
 type: post
 id: 302
-category:
+categories:
     - Desktop
     - Desktop
-tag:
+tags:
     - active-desktop
     - Desktop
     - quick-launch
     - windows-explorer
-post_format: []
-tags:
-    - 'active-desktop,desktop,quick-launch,windows-explorer'
 ---
 Active Desktop is part of the Windows Desktop Update and was introduced with Internet Explorer 4 (IE4). The Active Desktop delivers features like the Quick Launch bar and the ability to dynamically order the Start Menu items. WinNT4 and Win95 doesn't come with IE4 by default, and if one decided to be quick and install IE5 or IE6 without installing IE4 first then Active Desktop isn't installed.  
   

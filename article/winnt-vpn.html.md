@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Virtual Private Network makes it possible to make a secure connection to another network through an insecure network.'
 type: post
 id: 359
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - ipsec
     - l2tp
     - VPN
-post_format: []
-tags:
-    - 'VPN,l2tp,ipsec'
 ---
 Virtual Private Network(VPN) allows you to create a protected/encrypted network between two machines using a tunnel, so other machines are not able to access this network. The VPN is created by one machine running a VPN client that connects to the other machine that is running a VPN server ([RRAS](/article/winnt-services-remoteaccess.html)).  
   

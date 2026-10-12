@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Certain network routers doesn''t respond to DHCP requests that requires broadcast reply.'
 type: post
 id: 741
-category:
+categories:
     - Network
-tag:
+tags:
     - dhcp
-post_format: []
 tags:
     - dhcp
 ---

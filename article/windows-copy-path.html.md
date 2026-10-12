@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Make it easier to copy the location of a file to the clipboard.'
 type: post
 id: 365
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,13 +14,10 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - context-menu
     - copy-path
     - windows-explorer
-post_format: []
-tags:
-    - 'copy-path,context-menu,windows-explorer'
 ---
 Many times when working with files then one wants to copy the location of a file to the clipboard to use it in another location. This action can be simplied by extending the context menu with the option "Copy Path".  
   

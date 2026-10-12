@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Utilities that can change the configuration of a Windows installation so it becomes a server edition.'
 type: post
 id: 451
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - crippled
-post_format: []
 tags:
     - crippled
 ---

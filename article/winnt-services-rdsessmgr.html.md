@@ -6,13 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Desktop Help Session Manager service.'
 type: post
 id: 580
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
-tags:
-    - ''
+tags: []
 ---
 ##### Description:
 

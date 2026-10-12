@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'How to increase the size of the read ahead cache used for cdrom and dvd drives.'
 type: post
 id: 101
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - cdrom-drive
     - disk-performance
     - dvd-drive
     - file-cache
-post_format: []
-tags:
-    - 'file-cache,cdrom-drive,dvd-drive,disk-performance'
 ---
 If you feel that you need more cache than what is recommended for a 4x CDROM then you should try this.  
   

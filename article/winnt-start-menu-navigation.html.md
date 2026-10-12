@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Utilities to make it easier to browse the Start-menu and increase productivity'
 type: post
 id: 777
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - file-search
     - shortcut-keys
     - start-menu
-post_format: []
-tags:
-    - 'start-menu,shortcut-keys,file-search'
 ---
 Windows Vista introduced [searching of the Start-menu](/article/winnt-start-menu-search.html) for easier navigation (Similar to QuickSilver for Mac OS X). This feature can also be added to older versions of Windows.
 

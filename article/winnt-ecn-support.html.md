@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Explicit Congestion Notification improves congestion handling for the TCP/IP protocol.'
 type: post
 id: 783
-category:
+categories:
     - Network
     - Network
-tag:
+tags:
     - netsh
     - network-congestion
     - network-performance
     - tcpip
-post_format: []
-tags:
-    - 'network-congestion,tcpip,network-performance,netsh'
 ---
 When a network router becomes overloaded, then it usually signals this by dropping packets. The receiver then suddenly has to ask for retransmission of packets, and then the sender knows something is wrong and will perform a slow start.  
   

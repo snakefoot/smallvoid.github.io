@@ -8,8 +8,6 @@ type: page
 id: 12
 description:
     - 'Help the world to become a better place by sharing with your fellow man.'
-tags:
-    - ''
 ---
 The Internet is a medium for delivering information in all shapes and sizes. Many tools/protocols have been invented to provide efficient ways for distributing information whether it is books, music, movies, games or applications.
 

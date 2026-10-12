@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Things to be aware of when using a hard disk larger than 137 gigabyte.'
 type: post
 id: 398
-category:
+categories:
     - Tips
     - Tips
-tag:
+tags:
     - hard-disk-drive
     - logical-block-addressing
-post_format: []
-tags:
-    - 'logical-block-addressing,hard-disk-drive'
 ---
 If using an Hard disk drive (HDD) larger than 137 gigabyte (GB), then one might not have access to the entire HDD. To use such a large HDD then one needs an 48 Bit LBA (Logical Block Addressing) ready system:
 

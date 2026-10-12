@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Increase the size of the buffers used by NtBackup to perform faster backup and restore.'
 type: post
 id: 253
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - ntbackup
-post_format: []
 tags:
     - ntbackup
 ---

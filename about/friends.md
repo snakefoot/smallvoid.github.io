@@ -6,8 +6,6 @@ author: Snakefoot
 excerpt: ''
 type: page
 id: 635
-tags:
-    - ''
 ---
 ##### [Jakob Laursen](http://www.pcgames.dk/)
 

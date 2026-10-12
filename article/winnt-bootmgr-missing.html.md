@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Windows Vista will fail to boot if it cannot find the files used to load the boot manager.'
 type: post
 id: 754
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-manager
     - system-recovery
-post_format: []
-tags:
-    - 'boot-manager,system-recovery'
 ---
 Windows Vista includes a new Boot Manager (BootMgr) that replaces the old [NT Loader](/article/winnt-update-boot-manager.html) (Ntldr).  
   

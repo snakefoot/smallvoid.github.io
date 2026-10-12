@@ -6,16 +6,15 @@ author: Snakefoot
 excerpt: 'Scriptomatic makes it easy to extract system information through WMI using scripting.'
 type: post
 id: 516
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - wmi
-post_format: []
 tags:
     - wmi
 ---

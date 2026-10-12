@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Windows Vista does not have the classic logon screen, which has been replaced by the Welcome Screen.'
 type: post
 id: 750
-category:
+categories:
     - 'User Security'
-tag:
+tags:
     - automatic-login
     - user-account
     - welcome-screen
     - windows-login
-post_format: []
-tags:
-    - 'windows-login,welcome-screen,user-account,automatic-login'
 ---
 The Welcome Screen is enabled by default and is shown at startup, where one can choose one of the available user-accounts (Just like in WinXP). The old classic logon screen is no longer available.
 

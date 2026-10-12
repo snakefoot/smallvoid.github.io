@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Background Intelligent Transfer service.'
 type: post
 id: 525
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - automatic-updates
     - 'Windows Update'
-post_format: []
-tags:
-    - 'windows-update,automatic-updates'
 ---
 ##### Description:
 

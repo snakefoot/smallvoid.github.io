@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Configure how the process scheduler should split up the processor slots.'
 type: post
 id: 29
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - cpu
     - process-priority
     - process-scheduler
-post_format: []
-tags:
-    - 'cpu,process-priority,process-scheduler'
 ---
 When running several applications/processes simultaneously then a coordinator/scheduler is needed to make sure that all applications get a fair quantum/slice of the CPU time. The coordinator can be configured in how it gives CPU quantums to the different applications running.
 

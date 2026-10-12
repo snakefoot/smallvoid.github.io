@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Different Microsoft articles telling how to setup a mail-server, news-server, ftp-server or web-server.'
 type: post
 id: 428
-category:
+categories:
     - Network
-tag:
+tags:
     - ftp
     - ftp-server
     - iis
     - news-server
     - web-server
-post_format: []
-tags:
-    - 'iis,ftp-server,news-server,web-server,ftp'
 ---
 The Internet Information Server(IIS) has several useful services :
 

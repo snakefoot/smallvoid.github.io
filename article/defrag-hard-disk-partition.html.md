@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'List of steps to perform before starting a file defragmentation on a hard disk partition.'
 type: post
 id: 130
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -14,14 +14,11 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - defrag
     - disk-performance
     - file-system
     - hard-disk-drive
-post_format: []
-tags:
-    - 'defrag,hard-disk-drive,disk-performance'
 ---
 A partition consist of a long chain of [clusters](/article/cluster-hard-disk-partition.html). When a new file is created, then Windows searches the partition to find a subchain of free clusters, which is large enough to contain the entire file. If no cluster-chain is large enough, then the file is fragmented over several smaller chains of clusters.  
   

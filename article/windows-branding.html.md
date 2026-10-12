@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'System Properties can be modified to display company name or company pictures.'
 type: post
 id: 299
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,12 +14,9 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - branding
     - oem
-post_format: []
-tags:
-    - 'branding,oem'
 ---
 It is possible to change some of the text shown on **System Properties**, which is shown when right clicking **My Computer** and selecting **Properties**.
 

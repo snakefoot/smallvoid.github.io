@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'NTFS compression can compress / decompress files on the fly and save disk space and minimize needed hard disk I/O'
 type: post
 id: 767
-category:
+categories:
     - Tips
     - Tips
-tag:
+tags:
     - file-system
     - free-disk-space
     - ntfs
-post_format: []
-tags:
-    - 'ntfs,free-disk-space'
 ---
 The Windows NT filesystem (NTFS) supports compression, which mean that one can mark a single file or a folder of files to be compressed. When NTFS compresses a file, then it chops the file up in small fragments and compresses each fragment.
 

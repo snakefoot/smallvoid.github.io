@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Description of how the Push Flag in the TCP Header can optimize network buffer usage, but can increase latency.'
 type: post
 id: 833
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - network-performance
     - tcpip
-post_format: []
-tags:
-    - 'network-performance,tcpip'
 ---
 When communicating using TCP then the TCP layer attempts to optimize performance by bundling data into chunks. This works well when performing file transfers and other large data transfers. One of the flags in the [TCP Header](http://en.wikipedia.org/wiki/Transmission_Control_Protocol) is the Push Flag (PSH bit).  
   

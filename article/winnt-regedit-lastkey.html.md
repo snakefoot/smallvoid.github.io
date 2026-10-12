@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Configure whether the registry editor should show the last registry location when started.'
 type: post
 id: 390
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - regedit
-post_format: []
 tags:
     - regedit
 ---

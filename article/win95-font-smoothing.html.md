@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Utility to configure font smoothing for true type fonts in Windows 95.'
 type: post
 id: 170
-category:
+categories:
     - Utilities
-tag:
+tags:
     - font
     - font-smoothing
     - plus-pack
-post_format: []
-tags:
-    - 'font-smoothing,plus-pack,font'
 ---
 [Windows 95 font smoother](http://www.microsoft.com/typography/grayscal/smoother.htm) makes text of true type fonts pretty by adding pixels to the corners and curves of the text characters.  
   

@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the IP Helper service.'
 type: post
 id: 676
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - ipv4
     - ipv6
     - tcpip
-post_format: []
-tags:
-    - 'ipv6,ipv4,tcpip'
 ---
 ##### Description:
 

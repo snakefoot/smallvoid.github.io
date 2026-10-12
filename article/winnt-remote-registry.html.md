@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Manage what accounts that have remote access to the registry.'
 type: post
 id: 454
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - registry
     - remote-registry
-post_format: []
-tags:
-    - 'remote-registry,registry'
 ---
 By default it is possible to access another computer registry remote. One can control who has remote access to the registry.  
   

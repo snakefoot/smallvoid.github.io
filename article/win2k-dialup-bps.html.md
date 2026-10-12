@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Changing the maximum port speed to get a faster dialup connection.'
 type: post
 id: 421
-category:
+categories:
     - Network
-tag:
+tags:
     - dialup-modem
-post_format: []
 tags:
     - dialup-modem
 ---

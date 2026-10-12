@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Windows Vista will automatically optimize the boot times, but there can be situations where the boot times remains very slow.'
 type: post
 id: 776
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - boot-time
     - windows-performance-toolkit
-post_format: []
-tags:
-    - 'boot-time,windows-performance-toolkit'
 ---
 Microsoft have created the [Windows Performance Toolkit](https://www.microsoft.com/whdc/system/sysperf/perftools.mspx) (WPT), which can perform several kinds of transition traces to measure the different phases:
 

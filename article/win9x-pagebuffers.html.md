@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'How to increase the size of the page buffer to hold more memory pages when doing disk access.'
 type: post
 id: 92
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
-post_format: []
 tags:
     - disk-performance
 ---

@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Utility for analyzing the computer configuration and alerts if any security issues are detected.'
 type: post
 id: 512
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag: []
-post_format: []
+tags: []
 ---
 The [Microsoft Baseline Security Analyzer](http://www.microsoft.com/technet/security/tools/mbsahome.mspx) (MBSA) can scan Microsoft Windows NT for security issues and missing security patches.  
   

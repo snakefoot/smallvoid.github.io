@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Windows XP SP2 extends the Internet Explorer with a popup blocking feature.'
 type: post
 id: 322
-category:
+categories:
     - 'Internet Explorer (IE6)'
     - 'Internet Explorer (IE7)'
     - 'Internet Explorer (IE8)'
-tag:
+tags:
     - popup-blocking
     - popups
-post_format: []
-tags:
-    - 'popup-blocking,popups'
 ---
 Internet Explorer was extended with a popup-blocker since IE6 SP2 (Included with WinXP SP2). When a popup is blocked, then it will display a popup information bar, where the user can control whether the popup should remain blocked. It blocks pop-up windows that appear outside the browser itself (To avoid covering the status bar, address bar, or a security dialog), and makes it harder for pop-ups to masquerade as system dialogs. It is possible to control how this popup-blocker should operate by clicking on Tools -&gt; Popup Blocker -&gt; Popup Blocker Settings...
 

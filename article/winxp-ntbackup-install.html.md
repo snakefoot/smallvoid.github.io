@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'NtBackup is not installed by default in Windows XP Home.'
 type: post
 id: 556
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - ntbackup
-post_format: []
 tags:
     - ntbackup
 ---

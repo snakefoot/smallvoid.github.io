@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'VPN client to create a secure network connection to any server supporting L2TP/IPsec connections.'
 type: post
 id: 358
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - ipsec
     - l2tp
     - VPN
-post_format: []
-tags:
-    - 'l2tp,ipsec,VPN'
 ---
 Microsoft VPN client enables Microsoft Windows to connect to any VPN server that supports Layer 2 Tunnel Protocol (L2TP) connections with Internet Protocol Security (IPSec).  
   

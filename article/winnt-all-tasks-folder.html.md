@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'The All Tasks folder gives a quick overview of all the options available in the Control Panel.'
 type: post
 id: 779
-category:
+categories:
     - Tips
     - Tips
-tag:
+tags:
     - control-panel
     - windows-explorer
-post_format: []
-tags:
-    - 'control-panel,windows-explorer'
 ---
 It is possible to access a special folder, that will display all tasks available through the normal Control Panel.
 

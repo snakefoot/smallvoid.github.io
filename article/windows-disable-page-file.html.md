@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Disabling the page file to prevent Windows from unloading memory to the hard disk.'
 type: post
 id: 234
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - free-disk-space
     - page-file
     - swap-file
-post_format: []
-tags:
-    - 'swap-file,page-file,free-disk-space'
 ---
 It is possible to disable the [page file](/article/windows-page-file.html), but it is not recommended.
 

@@ -6,18 +6,17 @@ author: Snakefoot
 excerpt: 'Description of how Windows optimizes the virtual memory to minimize the need for hard pagefaults.'
 type: post
 id: 2588
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - memory-manager
     - page-fault
     - page-file
     - virtual-memory
-post_format: []
 ---
 ##### Windows Memory
 

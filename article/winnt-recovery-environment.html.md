@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Windows Vista includes a Windows Preinstallation Environment, which allows easier and more advanced system recovery.'
 type: post
 id: 753
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - preinstallation-environment
     - system-recovery
     - windows-recovery-environment
-post_format: []
-tags:
-    - 'windows-recovery-environment,system-recovery,preinstallation-environment'
 ---
 Windows Vista introduces the Windows Recovery Environment (Windows RE or WinRE), which completely replaces the [Recovery Console](/article/winnt-recovery-console.html). WinRE is actually a [Windows Preinstallation Environment](/article/winnt-preinstalled-environment.html) (Windows PE), which enables much more advanced tools for system diagnosis and recovery.  
   

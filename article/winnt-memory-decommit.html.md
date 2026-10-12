@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Memory manager should only mark a continuous memory block as free when the block has reached a certain size.'
 type: post
 id: 379
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - decommit
     - memory-manager
     - private-bytes
     - virtual-bytes
     - virtual-memory
-post_format: []
-tags:
-    - 'memory-manager,decommit,virtual-bytes,private-bytes,virtual-memory'
 ---
 All applications uses memory, and while running they can make different requests to the memory manager ([VirtualAlloc](http://msdn2.microsoft.com/en-us/library/aa366887.aspx) / [VirtualFree](http://msdn2.microsoft.com/en-us/library/aa366892.aspx)):
 

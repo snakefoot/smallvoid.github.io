@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'How to use environment variables to detect that a batch file is executed within Windows.'
 type: post
 id: 47
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
-post_format: []
 tags:
     - batch-file
 ---

@@ -6,21 +6,18 @@ author: Snakefoot
 excerpt: 'Description of the registry keys used for configuring the TCP/IP stack in Windows NT.'
 type: post
 id: 416
-category:
+categories:
     - Network
     - Network
     - Network
     - Network
-tag:
+tags:
     - lan
     - max-transfer-unit
     - network-performance
     - rwin
     - tcpip
     - wan
-post_format: []
-tags:
-    - 'rwin,max-transfer-unit,lan,wan,tcpip,network-performance'
 ---
 To configure the TCPIP stack for [optimal performance](/article/windows-tcpip-settings.html), then it is recommended to use utilities like [DrTCP or TCPIP Optimizer](/article/windows-tcpip-settings.html) especially if not feeling comfortable with the registry editor.  
   

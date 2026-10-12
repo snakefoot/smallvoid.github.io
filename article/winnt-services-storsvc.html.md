@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Storage Service.'
 type: post
 id: 811
-category:
+categories:
     - 'Services Guide'
-tag:
+tags:
     - group-policy
     - removable-storage-devices
-post_format: []
-tags:
-    - 'group-policy,removable-storage-devices'
 ---
 ##### Description:
 

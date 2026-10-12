@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Configure the file copying method to use cached I/O requests instead of non-cached.'
 type: post
 id: 742
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - file-cache
     - file-copy
     - hard-disk-drive
-post_format: []
-tags:
-    - 'file-cache,hard-disk-drive,disk-performance,file-copy'
 ---
 Windows Vista changes the behavior of the file copying operations, by using non-cached I/O requests (Before it was cached). This means that it will not check if the file in the [system file cache](/article/winnt-system-cache.html) before starting the file copy, and the file will not enter the cache during the direct file copy from source to destination.
 

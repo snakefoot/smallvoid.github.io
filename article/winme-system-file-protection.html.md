@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'System File Protection makes sure that critical system files are not overwritten.'
 type: post
 id: 178
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - system-file-protection
-post_format: []
 tags:
     - system-file-protection
 ---

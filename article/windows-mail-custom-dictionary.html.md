@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'How to remove a word from the custom dictionary incase it has been spelled wrong.'
 type: post
 id: 644
-category:
+categories:
     - 'Windows Mail (Vista)'
-tag:
+tags:
     - dictionary
     - spell-checking
     - windows-mail
-post_format: []
-tags:
-    - 'windows-mail,spell-checking,dictionary'
 ---
 Windows Mail can perform spellchecking, and it is possible to add new words to the dictionary used. If having added a misspelled word to the custom dictionary, then it can be removed like this:
 

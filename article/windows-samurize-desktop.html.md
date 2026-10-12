@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Advanced desktop enhancement engine that can gather all sorts of system details along with feeds from the Internet and place it all together on the desktop.'
 type: post
 id: 298
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - performance-monitor
     - samurize
-post_format: []
-tags:
-    - 'samurize,performance-monitor'
 ---
 [Samurize](http://www.samurize.com/) is the second generation of the Windows active desktop. It changes the desktop into a web page, which can be customized to forfill any wishes. The web-page can be composed of many different elements.
 - XML Feeds (RSS)

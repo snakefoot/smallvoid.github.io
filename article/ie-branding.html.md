@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Internet Explorer can be modified to display company name or company pictures.'
 type: post
 id: 311
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
     - 'Internet Explorer (IE7)'
-tag:
+tags:
     - branding
-post_format: []
 tags:
     - branding
 ---

@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Execute commands when opening the command prompt to configure the command prompt or the environment.'
 type: post
 id: 461
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - autorun
-post_format: []
 tags:
     - autorun
 ---

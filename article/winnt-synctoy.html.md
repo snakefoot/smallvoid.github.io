@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'SyncToy is an utility by Microsoft which can make the manual task of synchronizing files a little easier.'
 type: post
 id: 517
-category:
+categories:
     - Utilities
     - Utilities
-tag:
+tags:
     - file-synchronization
-post_format: []
 tags:
     - file-synchronization
 ---

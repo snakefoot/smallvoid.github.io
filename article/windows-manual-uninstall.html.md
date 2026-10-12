@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'How to manually uninstall an application and remove it from the Add/Remove list.'
 type: post
 id: 236
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
@@ -14,13 +14,10 @@ category:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - control-panel
     - free-disk-space
     - uninstall
-post_format: []
-tags:
-    - 'uninstall,control-panel,free-disk-space'
 ---
 When installing an application in Windows, then it is the application (or user) that is responsible for knowing what changes are made during the install. Most applications are installed by using some sort of installer-software, which performs the logging of the changes made during the install, so it can revert them when uninstalled. Some times the installer-software for the application doesn't do this job properly, or the application makes changes after the install which the installer-software have no chance to know about.  
   

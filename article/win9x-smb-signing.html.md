@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'How to increase the security of the Microsoft network by enabling SMB signing.'
 type: post
 id: 207
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - microsoft-network
     - network-performance
     - smb-signing
     - windows-domain
-post_format: []
-tags:
-    - 'microsoft-network,smb-signing,network-performance,windows-domain'
 ---
 It is possible to configure Win98/Me to increase the network security by enabling SMB signing, though enabling it will cause a performance hit because the security requires extra processing.  
   

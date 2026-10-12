@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Windows NT4 supports by default not plug and play devices, but Microsoft have created an unsupported driver.'
 type: post
 id: 465
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - plug-and-play
     - pnp
-post_format: []
-tags:
-    - 'pnp,plug-and-play'
 ---
 Windows NT4 does not by default support plug and play (pnp) devices, but it is possible to install a driver which can enable Windows NT4 to detect (but not configure) the registered plug and play devices in the motherboard BIOS.
 

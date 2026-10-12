@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Function Discovery Resource Publication service.'
 type: post
 id: 671
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - homegroup
     - media-center
-post_format: []
-tags:
-    - 'media-center,homegroup'
 ---
 ##### Description:
 

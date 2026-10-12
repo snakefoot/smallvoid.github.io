@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Utility to verify the system hardware and firmware (BIOS) compliance with the ACPI specification.'
 type: post
 id: 355
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - acpi
     - BIOS
-post_format: []
-tags:
-    - 'acpi,bios'
 ---
 Advanced Configuration and Power Interface (ACPI) is a specification that allows the operating system to monitor and manage the hardware configuration, power-usage and temperature. The system BIOS must support ACPI before the operating system will have proper control of the hardware.  
   

@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'How to configure the password encryption level for better security.'
 type: post
 id: 211
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - encryption
     - ntlm
     - ntlm2
     - password
     - windows-domain
-post_format: []
-tags:
-    - 'password,encryption,ntlm2,ntlm,windows-domain'
 ---
 A low Password Encryption level is used by default to give a higher level of compatibility, but makes it easy for an intruder to use a network sniffer for discovering other user's username and password.  
   

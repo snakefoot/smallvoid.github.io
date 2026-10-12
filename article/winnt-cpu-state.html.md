@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Use power management to throttle the processor when idle, and get a cool CPU temperature.'
 type: post
 id: 768
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - AMD
     - cpu
     - Intel
     - power-management
-post_format: []
-tags:
-    - 'power-management,cpu,Intel,AMD'
 ---
 The first multi CPU machines was intended to be power houses for crushing any obstacles. Windows NT has from the beginning supported multiple CPU machines. Several things have changed since the first multi CPU computer:
 

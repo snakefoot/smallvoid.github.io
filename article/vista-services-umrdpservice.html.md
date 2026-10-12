@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Terminal Services UserMode Port Redirector service.'
 type: post
 id: 706
-category:
+categories:
     - 'Services Guide'
-tag:
+tags:
     - remote-desktop
-post_format: []
 tags:
     - remote-desktop
 ---

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Configure the behavior of auto completion in Internet Explorer.'
 type: post
 id: 317
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - autocomplete
     - autosuggest
-post_format: []
-tags:
-    - 'autocomplete,autosuggest'
 ---
 When typing in an internet url in Internet Explorer, then it can provide listing of url's for Web addresses that matches the beginning letters.  
   

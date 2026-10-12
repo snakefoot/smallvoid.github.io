@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Registry settings for changing the user interface of Internet Explorer 7.'
 type: post
 id: 196
-category:
+categories:
     - 'Internet Explorer (IE7)'
-tag:
+tags:
     - command-bar
     - menu-bar
     - search-bar
-post_format: []
-tags:
-    - 'menu-bar,command-bar,search-bar'
 ---
 Internet Explorer 7 includes many changes to the user interface, but it is possible to change certain things back.
 

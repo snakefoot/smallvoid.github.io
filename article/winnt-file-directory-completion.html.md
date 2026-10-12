@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to assign keyboard shortcut to file and directory completion in command prompt.'
 type: post
 id: 4
-category:
+categories:
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
     - 'Command Prompt'
-tag:
+tags:
     - keyboard
     - shortcut-keys
-post_format: []
-tags:
-    - 'shortcut-keys,keyboard'
 ---
 When using the command prompt console in Linux/Unix, then one quickly gets used to the TAB-key being able to complete the name of the file or directory that reside in the current directory. For example one is standing in the root directory "C:\\", and wants to change directory to "C:\\Windows". This can be done by writing "CD W" and then press the TAB-key, which will replace "W" with the first file or directory that starts with "W".  
   

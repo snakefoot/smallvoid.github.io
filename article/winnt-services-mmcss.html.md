@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Multimedia Class Scheduler service.'
 type: post
 id: 681
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - process-priority
     - process-scheduler
     - windows-media-player
-post_format: []
-tags:
-    - 'process-priority,process-scheduler,windows-media-player'
 ---
 ##### Description:
 

@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'How to configure the size of continuous space it will look for when performing file allocation.'
 type: post
 id: 93
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - cluster-size
     - defrag
-post_format: []
-tags:
-    - 'cluster-size,defrag'
 ---
 Windows 9x improves MS-DOS way of allocation disk space for a file, by only using cluster chain that are larger than 500 KBytes. This allows the file to grow without becoming fragmented right away. If Windows 9x cannot find continuous space larger than 500 KBytes, then it falls back to the MS-DOS behavior and uses the first available space it can find with [file fragmentation](/article/defrag-hard-disk-partition.html) to follow.  
   

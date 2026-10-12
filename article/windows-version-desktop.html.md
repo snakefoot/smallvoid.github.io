@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'When BETA testing Windows versions then it can be rather useful to easily see the build version on the desktop.'
 type: post
 id: 296
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,13 +14,10 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - Desktop
     - visual-style
     - windows-version
-post_format: []
-tags:
-    - 'desktop,windows-version,visual-style'
 ---
 You can have the version number of your Windows shown on your desktop. This is done through the registry, by changing this DWORD value
 

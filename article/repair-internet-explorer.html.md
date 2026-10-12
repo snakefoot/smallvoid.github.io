@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Different steps for how to fix a broken Internet Explorer.'
 type: post
 id: 245
-category:
+categories:
     - 'Internet Explorer (IE4)'
     - 'Internet Explorer (IE5)'
     - 'Internet Explorer (IE6)'
-tag:
+tags:
     - system-recovery
-post_format: []
 tags:
     - system-recovery
 ---

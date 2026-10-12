@@ -6,22 +6,19 @@ author: Snakefoot
 excerpt: 'Description of ghost devices and how they can be removed in safemode.'
 type: post
 id: 268
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - boot-time
     - device-manager
     - drivers
     - ghost-devices
     - hardware
     - windows-services
-post_format: []
-tags:
-    - 'ghost-devices,device-manager,hardware,drivers,windows-services,boot-time'
 ---
 When one remove hardware or a service, then sometimes Windows thinks that the hardware or service still exists and they roam about as ghost devices in the Device Manager. Ghost devices can cause slow boot and other erratic behavior because Windows tries to communicate with a device which isn't there.
 

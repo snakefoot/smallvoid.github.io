@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Search service.'
 type: post
 id: 728
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - file-search
-post_format: []
 tags:
     - file-search
 ---

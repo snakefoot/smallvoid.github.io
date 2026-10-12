@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'How to increase the number of icons displayed for "Your most popular sites" (IE9) or "Frequent sites" (IE10) when you open the about:Tabs page (New Tab page)'
 type: post
 id: 836
-category:
+categories:
     - 'Internet Explorer (IE9)'
-tag:
+tags:
     - browsing-session
     - tab-session
-post_format: []
-tags:
-    - 'tab-session,browsing-session'
 ---
 Internet Explorer 9/10 will by default display "about:tabs" when opening a new tab. It gives the following useful commands in the bottom:
 

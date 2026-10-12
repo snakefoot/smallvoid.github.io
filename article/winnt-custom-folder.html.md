@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Configure how many folder customizations Windows should remember.'
 type: post
 id: 404
-category:
+categories:
     - Desktop
-tag:
+tags:
     - custom-folders
     - windows-explorer
-post_format: []
-tags:
-    - 'windows-explorer,custom-folders'
 ---
 Windows XP automatically caches the chosen appearance of each folder, when the user browses through the folders. One can configure for how many local (ShellNoRoam) and network folders it will remember the customization with these DWORD values:
 

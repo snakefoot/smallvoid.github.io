@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Human Interface Device Access service.'
 type: post
 id: 550
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - keyboard
     - mouse
     - usb
-post_format: []
-tags:
-    - 'keyboard,mouse,USB'
 ---
 ##### Description:
 

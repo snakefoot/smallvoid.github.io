@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Distributed Link Tracking Server service.'
 type: post
 id: 539
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - link-shortcut
     - link-tracking
-post_format: []
-tags:
-    - 'link-shortcut,link-tracking'
 ---
 ##### Description:
 

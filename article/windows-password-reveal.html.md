@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Utilities to recover lost passwords, which are only shown as asterisks.'
 type: post
 id: 361
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
@@ -14,12 +14,9 @@ category:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - password
     - password-recovery
-post_format: []
-tags:
-    - 'password,password-recovery'
 ---
 If you have asked to cached a password and have forgotten it (f.ex. for a dialup connection), then one might be able to use this utility to decode / decrypt the password hidden behind the \*\*\*\*\*. But be careful you don't [loose your job](http://www.informationweek.com/story/IWK20020301S0004).
 

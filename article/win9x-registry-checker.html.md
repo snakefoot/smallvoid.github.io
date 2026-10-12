@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Scanreg command line switches for checking the Windows registry.'
 type: post
 id: 109
-category:
+categories:
     - Tips
     - Tips
-tag:
+tags:
     - command-line-switches
     - registry-checker
     - scanreg
-post_format: []
-tags:
-    - 'scanreg,registry-checker,command-line-switches'
 ---
 The Registry Checker Tool arrived with Win98/Me, and makes it easy to backup or restore the registry. The DOS version of the Registry Checker (Scanreg.exe) has the following command line switches:
 

@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Before making changes to the registry database, then it can be a very good idea to make a backup first.'
 type: post
 id: 472
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - registry
-post_format: []
 tags:
     - registry
 ---

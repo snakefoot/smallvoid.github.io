@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'How to use the registry editor to configure the state of the Windows services.'
 type: post
 id: 633
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - regedit
     - windows-services
-post_format: []
-tags:
-    - 'regedit,windows-services'
 ---
 1. Start the Registry Editor by pressing the **Start**-button and **Run...** this command:
    > Regedit

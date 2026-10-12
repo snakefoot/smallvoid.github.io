@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Network file server can ignore client file flush requests and thus increase the network file performance.'
 type: post
 id: 449
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - file-cache
     - file-system
     - network-performance
     - network-share
-post_format: []
-tags:
-    - 'file-cache,file-system,network-share,network-performance'
 ---
 When writing to a file it is possible to perform a commit operation, which specifies that all data in cache should be flushed to disc. If the machine crashes without having performed a commit operation, then all data in cache is lost. Therefore many applications often perform commit operations to avoid data loss, at the cost of disc performance.  
   

@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'How to fix Adobe Reader X so it will work with Internet Explorer 11 (x64) Enhanced Protection Mode'
 type: post
 id: 839
-category:
+categories:
     - 'Web Browser'
-tag:
+tags:
     - acrobat-reader
     - enhanced-protected-mode
     - ie-plugin
     - pdf
-post_format: []
 tags:
     - enhanced-protected-mode
 ---

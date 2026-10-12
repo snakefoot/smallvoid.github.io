@@ -6,20 +6,17 @@ author: Snakefoot
 excerpt: 'Description of the registry keys used for configuring the TCP/IP max transfer unit (MTU) size in Windows 95 / 98 / Me.'
 type: post
 id: 191
-category:
+categories:
     - Network
     - Network
     - Network
-tag:
+tags:
     - dialup-modem
     - lan
     - max-transfer-unit
     - network-performance
     - tcpip
     - wan
-post_format: []
-tags:
-    - 'max-transfer-unit,tcpip,lan,wan,dialup-modem,network-performance'
 ---
 To change the MTU for an adapter :
 

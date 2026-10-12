@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Display the security tab for controlling NTFS permissions in Windows XP Home without using safemode.'
 type: post
 id: 514
-category:
+categories:
     - Utilities
-tag:
+tags:
     - crippled
     - ntfs
-post_format: []
-tags:
-    - 'ntfs,crippled'
 ---
 [Security Configuration Manager](http://www.microsoft.com/ntserver/nts/downloads/recommended/scm/default.asp) can be used in Windows XP Home, so it will show the Security Tab to configure [NTFS permissions](/article/ntfs-access-control.html) for files and folders even when not booting in safemode (WinXP Pro just have to disable [Simple File Sharing](/article/winxp-win9x-filesharing.html#SIMPLE_FILESHARING)).  
   

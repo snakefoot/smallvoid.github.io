@@ -6,14 +6,13 @@ author: Snakefoot
 excerpt: 'Running an application as a service allows the application to run without a user needing to login.'
 type: post
 id: 511
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - windows-services
-post_format: []
 tags:
     - windows-services
 ---

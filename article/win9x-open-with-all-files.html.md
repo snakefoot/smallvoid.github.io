@@ -6,18 +6,15 @@ author: Snakefoot
 excerpt: 'Configure the context-menu when right-clicking any file to show "Open with..."'
 type: post
 id: 125
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - context-menu
     - open-with
     - openas
     - windows-explorer
-post_format: []
-tags:
-    - 'context-menu,windows-explorer,openas,open-with'
 ---
 When wanting to open a file with a different program than the one assigned by default, then one have to hold down the SHIFT-key while right clicking to access the "Open with..." option.  
   

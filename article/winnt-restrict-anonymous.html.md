@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'How to prevent access for anonymous to see available shares and user accounts.'
 type: post
 id: 145
-category:
+categories:
     - 'User Security'
     - 'User Security'
     - 'User Security'
     - 'User Security'
-tag:
+tags:
     - anonymous-access
     - guest-account
     - null-session
     - user-account
-post_format: []
-tags:
-    - 'null-session,anonymous-access,guest-account,user-account'
 ---
 By standard it is possible for anonymous users to use NULL sessions to view:
 

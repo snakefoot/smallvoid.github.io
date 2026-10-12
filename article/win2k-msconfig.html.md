@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Utility to see what applications are configured to load at Windows startup.'
 type: post
 id: 185
-category:
+categories:
     - Utilities
-tag:
+tags:
     - msconfig
-post_format: []
 tags:
     - msconfig
 ---

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'The use of the master browser in the microsoft network, and how it is elected.'
 type: post
 id: 204
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
@@ -15,13 +15,10 @@ category:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - master-browser
     - microsoft-network
     - windows-domain
-post_format: []
-tags:
-    - 'master-browser,microsoft-network,windows-domain'
 ---
 The computers listed in the Network Neighborhood comes from the Browser-list maintained by the computer being Master Browser. A computer can become Master Browser through an election where the computer with the highest priority is elected.  
   

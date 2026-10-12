@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Device driver for the PC speaker so it can play WAV files in Windows 9x.'
 type: post
 id: 226
-category:
+categories:
     - Utilities
     - Utilities
     - Utilities
-tag:
+tags:
     - pc-speaker
-post_format: []
 tags:
     - pc-speaker
 ---

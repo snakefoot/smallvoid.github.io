@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Description of the different things that can be customized in Windows, and links to resources that can provide even more customization.'
 type: post
 id: 341
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,16 +14,13 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - boot-screen
     - msstyles
     - skins
     - visual-styles
     - wallpaper
     - windows-login
-post_format: []
-tags:
-    - 'wallpaper,visual-styles,msstyles,boot-screen,windows-login,skins'
 ---
 Windows can be customized with wallpapers, themes, boot-screens and logon-screens, and many Windows applications can apply skins that changes their looks completely.  
   

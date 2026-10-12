@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the RPC Endpoint Mapper service.'
 type: post
 id: 809
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - remote-procedure-call
-post_format: []
 tags:
     - remote-procedure-call
 ---

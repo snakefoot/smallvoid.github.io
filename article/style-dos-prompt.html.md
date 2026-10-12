@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'Description of the options available for styling the DOS prompt.'
 type: post
 id: 49
-category:
+categories:
     - Tips
-tag:
+tags:
     - visual-style
-post_format: []
 tags:
     - visual-style
 ---

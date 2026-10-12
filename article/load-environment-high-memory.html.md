@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Load DOS environment in the upper memory block to free conventional memory.'
 type: post
 id: 42
-category:
+categories:
     - 'Tweak Performance'
-tag:
+tags:
     - config-sys
     - conventional-memory
     - high-memory-area
     - upper-memory-block
-post_format: []
-tags:
-    - 'upper-memory-block,high-memory-area,conventional-memory,config-sys'
 ---
 DOS 7.0 (Released with Windows 95) and later versions are able to load the following CONFIG.SYS environment parameters in the [Upper Memory Block (UMB)](/article/upper-memory-block-umb.html) and free conventional memory.  
   

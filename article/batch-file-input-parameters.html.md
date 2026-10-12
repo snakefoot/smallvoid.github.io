@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'How batch files gets input parameters and how to access these parameters in the batch file.'
 type: post
 id: 69
-category:
+categories:
     - Tips
-tag:
+tags:
     - batch-file
     - environment-variables
     - input-parameters
-post_format: []
-tags:
-    - 'batch-file,input-parameters,environment-variables'
 ---
 Many programs are able to handle input parameters, which one can specify when launching the program from the command line. This usually makes the program more generic and a better tool to work with (Ex. giving "a:" as parameter):
 

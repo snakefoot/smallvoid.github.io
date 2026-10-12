@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the HomeGroup Listener service.'
 type: post
 id: 801
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - homegroup
-post_format: []
 tags:
     - homegroup
 ---

@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Description of how TCP slow start can introduce latency for short living and long living TCP connections.'
 type: post
 id: 834
-category:
+categories:
     - Network
-tag:
+tags:
     - netsh
     - network-congestion
     - network-performance
     - rwin
     - tcpip
-post_format: []
-tags:
-    - 'rwin,network-congestion,tcpip,network-performance,netsh'
 ---
 When creating a TCP connection, then it doesn't sent data at full speed, even if the receiving end have setup a large receive-window ([RWIN](/article/tcpip-rwin-size.html)). The sending side will perform a [TCP slow start](http://en.wikipedia.org/wiki/Slow-start), where it first sent 2 frames (MSS) and waits for ACK response, and if no packet drop then it will increase speed exponentially from there. So short living TCP connections, like those to a Web-Server, will experience poor performance (slow latency).  
   

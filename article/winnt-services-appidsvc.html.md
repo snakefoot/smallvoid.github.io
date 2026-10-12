@@ -6,12 +6,11 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Application Identity Service.'
 type: post
 id: 795
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - applocker
-post_format: []
 tags:
     - applocker
 ---

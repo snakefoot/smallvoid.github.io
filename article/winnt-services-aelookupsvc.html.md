@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Application Experience service.'
 type: post
 id: 658
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - application-compatibility
-post_format: []
 tags:
     - application-compatibility
 ---

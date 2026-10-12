@@ -6,21 +6,18 @@ author: Snakefoot
 excerpt: 'List of the available command line switches for defrag.'
 type: post
 id: 744
-category:
+categories:
     - Tips
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - command-line-switches
     - defrag
     - file-system
     - hard-disk-drive
     - partition
     - scheduled-task
-post_format: []
-tags:
-    - 'defrag,hard-disk-drive,partition,command-line-switches,scheduled-task'
 ---
 Defrag.exe is a command line tool included with Windows, which is quite useful when wanting to perform a scheduled [defragmentation](/article/defrag-hard-disk-partition.html) of the hard disk. There are several command line switches available when running the tool:
 

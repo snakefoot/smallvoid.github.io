@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Where to find the cd-key for the current Windows install.'
 type: post
 id: 162
-category:
+categories:
     - Troubleshoot
     - Troubleshoot
     - Troubleshoot
-tag:
+tags:
     - cd-key
-post_format: []
 tags:
     - cd-key
 ---

@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Windows Explorer allows one to specify what folder to display when launched.'
 type: post
 id: 273
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -14,12 +14,9 @@ category:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - command-line-switches
     - windows-explorer
-post_format: []
-tags:
-    - 'windows-explorer,command-line-switches'
 ---
 > explorer.exe \[/n\]\[,/e\]\[,/root,object\]\[\[,/select\],subobject\]
 

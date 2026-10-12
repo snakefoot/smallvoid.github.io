@@ -6,15 +6,12 @@ author: Snakefoot
 excerpt: 'Bring your old Windows 98 desktop into the new millenium.'
 type: post
 id: 347
-category:
+categories:
     - Utilities
-tag:
+tags:
     - revolutions-pack
     - themes
     - visual-style
-post_format: []
-tags:
-    - 'revolutions-pack,themes,visual-style'
 ---
 Tired of the old Windows 98 desktop, but don't have the money to buy a new computer and a newest version of Windows ? This transformation pack will enhance the visual look of Windows 98, so it will look almost like Windows XP.
 

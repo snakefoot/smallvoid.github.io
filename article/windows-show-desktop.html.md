@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'The Show Desktop shortcut in the quick launch bar can be restored if deleted.'
 type: post
 id: 295
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
@@ -15,13 +15,10 @@ category:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - link-shortcut
     - quick-launch
     - show-desktop
-post_format: []
-tags:
-    - 'quick-launch,show-desktop,link-shortcut'
 ---
 Active Desktop includes a feature that allows one to minimize all active Windows, so one can easily access the icons on the desktop. The feature is called "Show Desktop" and is accessed through an icon on the Quicklaunch bar.  
   

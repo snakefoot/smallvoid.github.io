@@ -6,14 +6,11 @@ author: Snakefoot
 excerpt: 'Stop auto suggestion of recent file searches in the Windows Explorer search box.'
 type: post
 id: 790
-category:
+categories:
     - Desktop
-tag:
+tags:
     - file-search
     - windows-explorer
-post_format: []
-tags:
-    - 'windows-explorer,file-search'
 ---
 Windows Explorer in Windows 7 will remember your previous file searches. When typing in a new search, then it will perform auto-suggest using the previous searches.  
   

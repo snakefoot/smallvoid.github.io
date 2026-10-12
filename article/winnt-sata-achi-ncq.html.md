@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Native Command Queuing (NCQ) can improve hard disk performance, as it optimizes the order to execute read and write commands.'
 type: post
 id: 824
-category:
+categories:
     - Tips
     - 'Tweak Performance'
-tag:
+tags:
     - disk-performance
     - hard-disk-drive
     - sata
     - SMART
-post_format: []
-tags:
-    - 'sata,disk-performance,SMART'
 ---
 Motherboards with onboard SATA controllers are by default configured to run in SATA mode (with legacy support). This gives the best compatiblity as it allows operating systems without SATA support to install and operate.  
   

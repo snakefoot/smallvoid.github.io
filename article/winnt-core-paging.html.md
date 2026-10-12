@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Prevent the Windows kernel core from being paged to disk.'
 type: post
 id: 369
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - kernel
     - page-file
-post_format: []
-tags:
-    - 'page-file,kernel'
 ---
 There is an option to force the kernel core and drivers to stay in RAM (non-pageable) and not [swap to the harddisk](/article/windows-page-file.html). When the option is enabled, then it will lock a "large" amount of RAM, that the paging algorithm cannot touch, even if it might be able to make a more optimal use of the RAM.  
   

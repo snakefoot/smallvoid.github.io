@@ -6,16 +6,13 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Offline Files service.'
 type: post
 id: 686
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - file-synchronization
     - offline-files
-post_format: []
-tags:
-    - 'file-synchronization,offline-files'
 ---
 ##### Description:
 

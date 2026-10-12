@@ -6,7 +6,7 @@ author: Snakefoot
 excerpt: 'Uninstall unneeded fonts to speed up boot times and free memory.'
 type: post
 id: 231
-category:
+categories:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
@@ -14,13 +14,10 @@ category:
     - 'Tweak Performance'
     - 'Tweak Performance'
     - 'Tweak Performance'
-tag:
+tags:
     - boot-time
     - font
     - free-disk-space
-post_format: []
-tags:
-    - 'font,boot-time,free-disk-space'
 ---
 During Windows startup all the Fonts in the system are loaded and this slows down the boot time and takes memory.  
   

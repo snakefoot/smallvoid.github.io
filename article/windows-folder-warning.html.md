@@ -6,13 +6,12 @@ author: Snakefoot
 excerpt: 'Active Desktop makes it posssible to customize folders, and so the Windows folder is customized to avoid messing with the Windows system files.'
 type: post
 id: 303
-category:
+categories:
     - Desktop
     - Desktop
     - Desktop
-tag:
+tags:
     - active-desktop
-post_format: []
 tags:
     - active-desktop
 ---

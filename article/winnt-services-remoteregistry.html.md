@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Registry service.'
 type: post
 id: 583
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - registry
     - remote-registry
-post_format: []
-tags:
-    - 'remote-registry,registry'
 ---
 ##### Description:
 

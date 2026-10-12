@@ -6,11 +6,10 @@ author: Snakefoot
 excerpt: 'System File Checker is able to verify that system files are intact.'
 type: post
 id: 179
-category:
+categories:
     - Troubleshoot
-tag:
+tags:
     - system-file-checker
-post_format: []
 tags:
     - system-file-checker
 ---

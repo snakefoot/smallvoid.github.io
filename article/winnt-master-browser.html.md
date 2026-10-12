@@ -6,19 +6,16 @@ author: Snakefoot
 excerpt: 'How to configure the way Microsoft Windows participates in the master browser election.'
 type: post
 id: 205
-category:
+categories:
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
     - 'File Sharing'
-tag:
+tags:
     - master-browser
     - microsoft-network
     - windows-domain
-post_format: []
-tags:
-    - 'master-browser,microsoft-network,windows-domain'
 ---
 One can control how a computer participate in the Master Browser election, with these STRING registry keys :
 

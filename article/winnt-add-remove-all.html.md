@@ -6,17 +6,14 @@ author: Snakefoot
 excerpt: 'Windows does not by default display all items that can be uninstalled in the Add / Remove applet.'
 type: post
 id: 386
-category:
+categories:
     - Tips
     - Tips
     - Tips
-tag:
+tags:
     - control-panel
     - free-disk-space
     - uninstall
-post_format: []
-tags:
-    - 'uninstall,control-panel,free-disk-space'
 ---
 There are some components in the Add/Remove applet in the Control Panel which are hidden in the different versions of Windows 2000/XP (Like the Games).  
   

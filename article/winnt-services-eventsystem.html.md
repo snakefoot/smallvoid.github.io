@@ -6,15 +6,14 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the COM+ Event System service.'
 type: post
 id: 529
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag: []
-post_format: []
+tags: []
 ---
 ##### Description:
 

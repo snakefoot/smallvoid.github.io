@@ -6,16 +6,15 @@ author: Snakefoot
 excerpt: 'Description and recommended settings for the DHCP Client service.'
 type: post
 id: 535
-category:
+categories:
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
     - 'Services Guide'
-tag:
+tags:
     - dhcp
-post_format: []
 tags:
     - dhcp
 ---
