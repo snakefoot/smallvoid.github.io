@@ -1,7 +1,6 @@
 ---
 title: 'Backup or restore Internet Explorer bookmarks'
 date: '2002-04-06T01:00:00+02:00'
-status: publish
 permalink: /article/ie-backup-favorites.html
 author: Snakefoot
 excerpt: 'Internet Explorer favorites are stored as lnk shortcuts and can be exported and imported as HTML.'

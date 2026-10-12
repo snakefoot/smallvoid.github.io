@@ -1,7 +1,6 @@
 ---
 title: 'Configure the memory allocated for environment variables'
 date: '2000-01-01T00:11:20+01:00'
-status: publish
 permalink: /article/memory-environment-variables.html
 author: Snakefoot
 excerpt: 'How to increase the memory available for environment variables at the expense of conventional memory.'

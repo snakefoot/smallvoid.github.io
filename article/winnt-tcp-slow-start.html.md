@@ -1,7 +1,6 @@
 ---
 title: 'Configure initial congestion window to speed up TCP slow start'
 date: '2012-07-19T22:50:13+02:00'
-status: publish
 permalink: /article/winnt-tcp-slow-start.html
 author: Snakefoot
 excerpt: 'Description of how TCP slow start can introduce latency for short living and long living TCP connections.'

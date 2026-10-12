@@ -1,7 +1,6 @@
 ---
 title: 'IKE and AuthIP IPsec Keying Modules'
 date: '2007-07-17T02:13:59+02:00'
-status: publish
 permalink: /article/winnt-services-ikeext.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the IKE and AuthIP IPsec Keying Modules service.'

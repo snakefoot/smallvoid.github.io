@@ -1,7 +1,6 @@
 ---
 title: Fun
 date: '2006-11-23T19:11:28+01:00'
-status: publish
 permalink: /links/fun/
 author: Snakefoot
 excerpt: ''

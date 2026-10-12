@@ -1,7 +1,6 @@
 ---
 title: 'Description of Windows service wrappers'
 date: '2003-09-21T01:48:24+02:00'
-status: publish
 permalink: /article/winnt-services-wrapper.html
 author: Snakefoot
 excerpt: 'Description of how Windows services are hosted within the same process.'

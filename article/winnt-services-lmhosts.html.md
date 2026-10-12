@@ -1,7 +1,6 @@
 ---
 title: 'TCP/IP NetBIOS Helper Service'
 date: '2000-06-06T19:15:40+02:00'
-status: publish
 permalink: /article/winnt-services-lmhosts.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the TCP/IP NetBIOS Helper service.'

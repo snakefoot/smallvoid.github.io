@@ -1,7 +1,6 @@
 ---
 title: 'Configure the page file for best performance'
 date: '2000-01-01T02:14:32+01:00'
-status: publish
 permalink: /article/windows-page-file.html
 author: Snakefoot
 excerpt: 'Finding the the optimal size and location for the Windows swap file.'

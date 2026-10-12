@@ -1,7 +1,6 @@
 ---
 title: 'Load environment in high memory with DOS 7.0'
 date: '2000-01-01T15:13:02+01:00'
-status: publish
 permalink: /article/load-environment-high-memory.html
 author: Snakefoot
 excerpt: 'Load DOS environment in the upper memory block to free conventional memory.'

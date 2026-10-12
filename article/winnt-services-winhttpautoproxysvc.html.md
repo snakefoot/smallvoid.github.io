@@ -1,7 +1,6 @@
 ---
 title: 'WinHTTP Web Proxy Auto-Discovery Service'
 date: '2003-09-21T23:39:47+02:00'
-status: publish
 permalink: /article/winnt-services-winhttpautoproxysvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the WinHTTP Web Proxy Auto Discovery service.'

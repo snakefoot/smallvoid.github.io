@@ -1,7 +1,6 @@
 ---
 title: 'Configure the caching of customized folders'
 date: '2003-01-10T20:23:51+01:00'
-status: publish
 permalink: /article/winnt-custom-folder.html
 author: Snakefoot
 excerpt: 'Configure how many folder customizations Windows should remember.'

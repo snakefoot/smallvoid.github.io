@@ -1,7 +1,6 @@
 ---
 title: 'Extracting the cd key from the registry'
 date: '2002-11-06T00:54:18+01:00'
-status: publish
 permalink: /article/cd-key-registry.html
 author: Snakefoot
 excerpt: 'Utilities for extracting the the cd-key from the registry database.'

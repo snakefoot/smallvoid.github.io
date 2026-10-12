@@ -1,7 +1,6 @@
 ---
 title: 'Exclude file from System Restore in Windows Me'
 date: '2003-06-21T19:52:58+02:00'
-status: publish
 permalink: /article/winme-exclude-system-restore.html
 author: Snakefoot
 excerpt: 'How to exclude a file so System Restore doesn''t monitor the file or perform backup.'

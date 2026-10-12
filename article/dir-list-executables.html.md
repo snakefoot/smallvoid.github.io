@@ -1,7 +1,6 @@
 ---
 title: 'Enhanced DIR that only lists executables'
 date: '2000-01-01T23:25:38+01:00'
-status: publish
 permalink: /article/dir-list-executables.html
 author: Snakefoot
 excerpt: 'How to create a batch file that works like a dir command but only lists executables.'

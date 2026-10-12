@@ -1,7 +1,6 @@
 ---
 title: 'Slipstream Service pack before installing Windows XP'
 date: '2003-03-01T06:19:32+01:00'
-status: publish
 permalink: /article/winxp-install-slipstream.html
 author: Snakefoot
 excerpt: 'Apply the service pack before making the install for a faster and more secure install.'

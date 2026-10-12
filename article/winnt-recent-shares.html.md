@@ -1,7 +1,6 @@
 ---
 title: 'Remove listing of recent shares in My Network places'
 date: '2002-10-28T21:34:40+01:00'
-status: publish
 permalink: /article/winnt-recent-shares.html
 author: Snakefoot
 excerpt: 'Shortcuts to network shares visited will automatically be added to My Network Places.'

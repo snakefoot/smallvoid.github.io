@@ -1,7 +1,6 @@
 ---
 title: 'Application Identity'
 date: '2009-09-16T01:26:18+02:00'
-status: publish
 permalink: /article/winnt-services-appidsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Application Identity Service.'

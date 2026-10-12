@@ -1,7 +1,6 @@
 ---
 title: 'Old MS-DOS Utilities'
 date: '2000-01-01T13:41:34+01:00'
-status: publish
 permalink: /article/old-dos-utilties.html
 author: Snakefoot
 excerpt: 'Useful DOS utilities available on the Windows 95 CD, which also can be downloaded.'

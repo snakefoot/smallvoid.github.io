@@ -1,7 +1,6 @@
 ---
 title: 'IRC and XDCC'
 date: '2006-11-23T20:58:21+01:00'
-status: publish
 permalink: /links/file-sharing/irc-xdcc/
 author: Snakefoot
 excerpt: ''

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the read-ahead cache for cdrom/dvd drives'
 date: '2001-02-10T23:51:40+01:00'
-status: publish
 permalink: /article/win9x-cache-cdrom.html
 author: Snakefoot
 excerpt: 'How to increase the size of the read ahead cache used for cdrom and dvd drives.'

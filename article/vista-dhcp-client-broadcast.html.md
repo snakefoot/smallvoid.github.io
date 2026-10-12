@@ -1,7 +1,6 @@
 ---
 title: 'Fails to obtain IP address when using DHCP broadcast request'
 date: '2007-09-06T00:55:27+02:00'
-status: publish
 permalink: /article/vista-dhcp-client-broadcast.html
 author: Snakefoot
 excerpt: 'Certain network routers doesn''t respond to DHCP requests that requires broadcast reply.'

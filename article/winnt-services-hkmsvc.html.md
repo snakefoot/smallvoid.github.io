@@ -1,7 +1,6 @@
 ---
 title: 'Health Key and Certificate Management'
 date: '2007-07-17T02:13:54+02:00'
-status: publish
 permalink: /article/winnt-services-hkmsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Health Key and Certificate Management service.'

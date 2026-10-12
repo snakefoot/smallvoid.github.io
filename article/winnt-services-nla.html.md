@@ -1,7 +1,6 @@
 ---
 title: 'Network Location Awareness'
 date: '2003-06-05T15:37:47+02:00'
-status: publish
 permalink: /article/winnt-services-nla.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Network Location Awareness service.'

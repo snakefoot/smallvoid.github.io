@@ -1,7 +1,6 @@
 ---
 title: 'Configure the keyboard mapping using scancode map'
 date: '2001-04-17T18:24:03+02:00'
-status: publish
 permalink: /article/winnt-scancode-map.html
 author: Snakefoot
 excerpt: 'How to use the scancode map to modify the keyboard layout and disable the Windows-key.'

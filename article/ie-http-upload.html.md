@@ -1,7 +1,6 @@
 ---
 title: 'Configure Internet Explorer HTTP send buffer for faster upload'
 date: '2006-11-06T20:15:45+01:00'
-status: publish
 permalink: /article/ie-http-upload.html
 author: Snakefoot
 excerpt: 'Increase the winsock send buffer to make file uploading faster (Ex. file attachments in webmail).'

@@ -1,7 +1,6 @@
 ---
 title: 'Optimize Dialup Modem and Serial port FIFO buffer in Windows 9x'
 date: '2001-01-01T16:26:38+01:00'
-status: publish
 permalink: /article/win9x-dialup-serial.html
 author: Snakefoot
 excerpt: 'Configure the hardware settings for the dialup modem and serial port for optimal speed.'

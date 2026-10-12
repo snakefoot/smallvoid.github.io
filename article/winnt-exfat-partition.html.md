@@ -1,7 +1,6 @@
 ---
 title: 'Access exFAT partitions from Windows XP'
 date: '2008-12-23T05:09:08+01:00'
-status: publish
 permalink: /article/winnt-exfat-partition.html
 author: Snakefoot
 excerpt: 'How to install the Vista exFAT file system driver on Windows XP.'

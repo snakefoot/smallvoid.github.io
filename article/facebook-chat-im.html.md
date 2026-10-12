@@ -1,7 +1,6 @@
 ---
 title: 'Facebook chat password for external application'
 date: '2014-01-11T14:36:51+01:00'
-status: publish
 permalink: /article/facebook-chat-im.html
 author: Snakefoot
 excerpt: ''

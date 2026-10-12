@@ -1,7 +1,6 @@
 ---
 title: 'Create keyboard shortcut to quickly launch a program'
 date: '2001-01-01T12:15:54+01:00'
-status: publish
 permalink: /article/windows-keyboard-shortcuts.html
 author: Snakefoot
 excerpt: 'How to configure a keyboard shortcut as a hotkey to quickly start an application.'

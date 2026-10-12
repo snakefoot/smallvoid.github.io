@@ -1,7 +1,6 @@
 ---
 title: 'Load balancing over several Network Adapters in Windows 9x'
 date: '2002-10-12T21:32:10+02:00'
-status: publish
 permalink: /article/win9x-network-load.html
 author: Snakefoot
 excerpt: 'Configure how the TCP/IP should respond when multiple network adapters are installed.'

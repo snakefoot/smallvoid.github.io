@@ -1,7 +1,6 @@
 ---
 title: 'Using Errorlevel to handle program return code'
 date: '2002-03-01T10:08:35+01:00'
-status: publish
 permalink: /article/errorlevel-return-code.html
 author: Snakefoot
 excerpt: 'How to check the ERRORLEVEL variable to get the return code of a program.'

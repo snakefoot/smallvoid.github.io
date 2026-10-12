@@ -1,7 +1,6 @@
 ---
 title: 'Configure the file allocation unit to minimize file fragmentation.'
 date: '2000-01-01T19:53:46+01:00'
-status: publish
 permalink: /article/win9x-file-allocation.html
 author: Snakefoot
 excerpt: 'How to configure the size of continuous space it will look for when performing file allocation.'

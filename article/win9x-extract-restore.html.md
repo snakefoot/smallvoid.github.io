@@ -1,7 +1,6 @@
 ---
 title: 'Use extract.exe to restore a system file'
 date: '2003-01-10T01:25:47+01:00'
-status: publish
 permalink: /article/win9x-extract-restore.html
 author: Snakefoot
 excerpt: 'How use the extract utility for restoring a file from the Windows install CD.'

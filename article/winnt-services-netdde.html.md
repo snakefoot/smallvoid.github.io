@@ -1,7 +1,6 @@
 ---
 title: 'Network DDE'
 date: '2000-06-06T15:31:20+02:00'
-status: publish
 permalink: /article/winnt-services-netdde.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Network DDE service.'

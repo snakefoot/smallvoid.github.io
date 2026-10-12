@@ -1,7 +1,6 @@
 ---
 title: 'Configure Mouse Acceleration'
 date: '2002-10-13T01:45:22+02:00'
-status: publish
 permalink: /article/windows-mouse-acceleration.html
 author: Snakefoot
 excerpt: 'Mouse is accelerated when moved in a single movement to make the Windows nagivation easier.'

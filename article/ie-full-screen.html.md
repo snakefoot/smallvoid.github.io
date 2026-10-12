@@ -1,7 +1,6 @@
 ---
 title: 'Starting Internet Explorer in full screen'
 date: '2003-08-26T00:19:53+02:00'
-status: publish
 permalink: /article/ie-full-screen.html
 author: Snakefoot
 excerpt: 'Different ways for starting Internet Explorer in full screen mode.'

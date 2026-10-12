@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Malicious Software Removal Tool'
 date: '2005-11-14T18:32:18+01:00'
-status: publish
 permalink: /article/winnt-malicious-software-removal.html
 author: Snakefoot
 excerpt: 'Security utility for checking if computer is infected with malware, and if so remove it.'

@@ -1,7 +1,6 @@
 ---
 title: 'Update Windows to improve security and fix errors'
 date: '2000-01-01T00:31:23+01:00'
-status: publish
 permalink: /article/windows-update.html
 author: Snakefoot
 excerpt: 'Description of how Microsoft Windows requires constant updating to get the best performance.'

@@ -1,7 +1,6 @@
 ---
 title: 'Backup and restore the Windows NT registry database'
 date: '2003-03-01T01:43:43+01:00'
-status: publish
 permalink: /article/winnt-registry-backup.html
 author: Snakefoot
 excerpt: 'Before making changes to the registry database, then it can be a very good idea to make a backup first.'

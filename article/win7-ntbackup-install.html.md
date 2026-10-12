@@ -1,7 +1,6 @@
 ---
 title: 'Installing NTBackup on Windows 7 / 2008 R2'
 date: '2009-12-26T23:46:39+01:00'
-status: publish
 permalink: /article/win7-ntbackup-install.html
 author: Snakefoot
 excerpt: 'Windows 7 / 2008 R2 does not include the NtBackup utility by default.'

@@ -1,7 +1,6 @@
 ---
 title: 'DOS emulation in Windows NT'
 date: '2001-05-16T14:38:41+02:00'
-status: publish
 permalink: /article/winnt-dos-emulator.html
 author: Snakefoot
 excerpt: 'DOS box extensions for Windows NT to play the old DOS games one love so dearly.'

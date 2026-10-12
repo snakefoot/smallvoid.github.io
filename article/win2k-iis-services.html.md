@@ -1,7 +1,6 @@
 ---
 title: 'Setting up the IIS Services'
 date: '2002-03-16T00:11:23+01:00'
-status: publish
 permalink: /article/win2k-iis-services.html
 author: Snakefoot
 excerpt: 'Different Microsoft articles telling how to setup a mail-server, news-server, ftp-server or web-server.'

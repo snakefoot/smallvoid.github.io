@@ -1,7 +1,6 @@
 ---
 title: 'Configure the behavior of the Automatic Updates service'
 date: '2002-08-06T23:35:14+02:00'
-status: publish
 permalink: /article/winnt-automatic-updates-config.html
 author: Snakefoot
 excerpt: 'Control how and when Automatic Updates (AU) should contact the Windows Update services.'

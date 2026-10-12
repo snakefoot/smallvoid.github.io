@@ -1,7 +1,6 @@
 ---
 title: 'Configure the task grouping in the taskbar'
 date: '2003-02-21T21:01:35+01:00'
-status: publish
 permalink: /article/winnt-taskbar-grouping.html
 author: Snakefoot
 excerpt: 'Change how multiple instances of the same application should be grouped together.'

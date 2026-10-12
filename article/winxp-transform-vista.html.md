@@ -1,7 +1,6 @@
 ---
 title: 'Vista Transformation Pack'
 date: '2006-12-25T14:24:15+01:00'
-status: publish
 permalink: /article/winxp-transform-vista.html
 author: Snakefoot
 excerpt: 'Give your good old Windows XP a visual facelift with the transformation pack.'

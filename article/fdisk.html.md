@@ -1,7 +1,6 @@
 ---
 title: 'Fdisk with 64 GB support'
 date: '2002-02-06T15:02:03+01:00'
-status: publish
 permalink: /article/fdisk.html
 author: Snakefoot
 excerpt: 'Disk partitioning utility which is able handle hard disks larger than 64 GB.'

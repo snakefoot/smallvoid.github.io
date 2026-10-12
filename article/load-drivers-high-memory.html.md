@@ -1,7 +1,6 @@
 ---
 title: 'Load drivers in high memory to free conventional memory'
 date: '2000-01-01T15:20:09+01:00'
-status: publish
 permalink: /article/load-drivers-high-memory.html
 author: Snakefoot
 excerpt: 'How load drivers in the upper memory block to free conventional memory.'

@@ -1,7 +1,6 @@
 ---
 title: 'Open access to the High Memory Area (HMA)'
 date: '2000-01-01T14:47:46+01:00'
-status: publish
 permalink: /article/high-memory-area-hma.html
 author: Snakefoot
 excerpt: 'Description of the High Memory Area (HMA), and how to open access to it with Himen.sys to free conventional memory.'

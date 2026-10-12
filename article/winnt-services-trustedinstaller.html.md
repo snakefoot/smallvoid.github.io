@@ -1,7 +1,6 @@
 ---
 title: 'Windows Modules Installer'
 date: '2007-07-17T02:18:11+02:00'
-status: publish
 permalink: /article/winnt-services-trustedinstaller.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Modules Installer service.'

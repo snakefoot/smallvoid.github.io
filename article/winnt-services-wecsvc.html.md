@@ -1,7 +1,6 @@
 ---
 title: 'Windows Event Collector'
 date: '2007-07-17T02:17:34+02:00'
-status: publish
 permalink: /article/winnt-services-wecsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Event Collector service.'

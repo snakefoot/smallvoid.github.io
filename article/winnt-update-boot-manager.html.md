@@ -1,7 +1,6 @@
 ---
 title: 'Updating the Windows NT boot manager'
 date: '2002-01-01T02:03:27+01:00'
-status: publish
 permalink: /article/winnt-update-boot-manager.html
 author: Snakefoot
 excerpt: 'Windows XP boot manager is faster and can be used on Windows 2000.'

@@ -1,7 +1,6 @@
 ---
 title: 'Change the Vista file copy to perform like in earlier versions'
 date: '2007-09-06T00:55:39+02:00'
-status: publish
 permalink: /article/vista-file-copy-cached.html
 author: Snakefoot
 excerpt: 'Configure the file copying method to use cached I/O requests instead of non-cached.'

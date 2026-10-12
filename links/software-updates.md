@@ -1,7 +1,6 @@
 ---
 title: 'Software Updates'
 date: '2006-11-23T19:10:01+01:00'
-status: publish
 permalink: /links/software-updates/
 author: Snakefoot
 excerpt: ''

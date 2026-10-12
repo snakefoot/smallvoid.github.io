@@ -1,7 +1,6 @@
 ---
 title: 'Configuring the media preview in Windows Explorer'
 date: '2003-05-25T21:07:26+02:00'
-status: publish
 permalink: /article/winnt-media-content.html
 author: Snakefoot
 excerpt: 'Change whether it should extract file details for media files and display thumbnail preview.'

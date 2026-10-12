@@ -1,7 +1,6 @@
 ---
 title: 'Changing the list style of the dir command'
 date: '2000-01-01T22:34:16+01:00'
-status: publish
 permalink: /article/list-style-dir-command.html
 author: Snakefoot
 excerpt: 'How to change the listing of files and folders when using the dir command with an environment variable.'

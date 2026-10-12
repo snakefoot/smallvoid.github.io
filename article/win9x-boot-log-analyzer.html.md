@@ -1,7 +1,6 @@
 ---
 title: 'Diagnose startup problems with the Boot Log Analyzer'
 date: '2003-07-29T01:50:22+02:00'
-status: publish
 permalink: /article/win9x-boot-log-analyzer.html
 author: Snakefoot
 excerpt: 'Utility which scans the bootlog.txt and displays the time it took to load each driver.'

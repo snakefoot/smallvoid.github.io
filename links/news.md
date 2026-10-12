@@ -1,7 +1,6 @@
 ---
 title: News
 date: '2006-11-18T18:16:45+01:00'
-status: publish
 permalink: /links/news/
 author: Snakefoot
 excerpt: ''

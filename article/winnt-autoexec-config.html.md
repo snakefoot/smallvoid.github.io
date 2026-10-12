@@ -1,7 +1,6 @@
 ---
 title: 'MSDOS subsystem and Autoexec.nt / Config.nt'
 date: '2001-01-01T13:09:07+01:00'
-status: publish
 permalink: /article/winnt-autoexec-config.html
 author: Snakefoot
 excerpt: 'How to configure the MS-DOS subsystem using Autoexec.nt and Config.nt.'

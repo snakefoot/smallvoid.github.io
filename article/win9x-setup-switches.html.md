@@ -1,7 +1,6 @@
 ---
 title: 'Setup switches for Windows 9x installation'
 date: '2002-05-27T00:21:30+02:00'
-status: publish
 permalink: /article/win9x-setup-switches.html
 author: Snakefoot
 excerpt: 'Useful command line switches that can be used when installing Windows 95 / 98 / Me.'

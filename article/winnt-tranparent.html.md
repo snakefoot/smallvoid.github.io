@@ -1,7 +1,6 @@
 ---
 title: 'Make any window transparent'
 date: '2001-11-29T00:49:35+01:00'
-status: publish
 permalink: /article/winnt-tranparent.html
 author: Snakefoot
 excerpt: 'Utility that can enhance any window with the transparent glass effect.'

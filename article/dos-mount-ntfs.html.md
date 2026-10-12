@@ -1,7 +1,6 @@
 ---
 title: 'Mount NTFS partitions using DOS device driver'
 date: '2000-01-01T14:22:04+01:00'
-status: publish
 permalink: /article/dos-mount-ntfs.html
 author: Snakefoot
 excerpt: 'Mounts NTFS partitions in DOS, so one can access the files.'

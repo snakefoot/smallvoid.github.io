@@ -1,7 +1,6 @@
 ---
 title: 'Backup and restore Outlook Express Address Book'
 date: '2002-05-18T18:28:31+02:00'
-status: publish
 permalink: /article/outlook-express-address-book.html
 author: Snakefoot
 excerpt: 'Outlook Express Address Book stores the addresses in a WAB file, which one can backup and restore.'

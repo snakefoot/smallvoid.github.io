@@ -1,7 +1,6 @@
 ---
 title: 'PC Speaker driver for Windows 9x'
 date: '2003-06-22T23:30:59+02:00'
-status: publish
 permalink: /article/win9x-pc-speaker.html
 author: Snakefoot
 excerpt: 'Device driver for the PC speaker so it can play WAV files in Windows 9x.'

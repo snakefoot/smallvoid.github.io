@@ -1,7 +1,6 @@
 ---
 title: 'Check if a file or folder exists'
 date: '2000-01-01T11:21:41+01:00'
-status: publish
 permalink: /article/check-file-dir-exists.html
 author: Snakefoot
 excerpt: 'How to check if a filename or directory exists'

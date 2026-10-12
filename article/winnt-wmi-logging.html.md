@@ -1,7 +1,6 @@
 ---
 title: 'Configure the WMI logging level'
 date: '2001-03-23T01:18:01+01:00'
-status: publish
 permalink: /article/winnt-wmi-logging.html
 author: Snakefoot
 excerpt: 'How to configure the location of WMI logs and how verbose the logs should be.'

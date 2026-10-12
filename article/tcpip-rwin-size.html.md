@@ -1,7 +1,6 @@
 ---
 title: 'Finding the optimal TCPIP receive window size'
 date: '2002-05-10T13:10:45+02:00'
-status: publish
 permalink: /article/tcpip-rwin-size.html
 author: Snakefoot
 excerpt: 'Using PING to test the network connection and calculating the best TCP/IP receive window.'

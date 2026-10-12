@@ -1,7 +1,6 @@
 ---
 title: 'Writing a batch file'
 date: '2000-01-01T16:45:33+01:00'
-status: publish
 permalink: /article/batch-file.html
 author: Snakefoot
 excerpt: 'How to write a batch file with description of different commands available.'

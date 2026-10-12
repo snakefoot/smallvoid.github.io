@@ -1,7 +1,6 @@
 ---
 title: 'Activate ACHI to enable Native Command Queuing'
 date: '2010-01-18T00:30:22+01:00'
-status: publish
 permalink: /article/winnt-sata-achi-ncq.html
 author: Snakefoot
 excerpt: 'Native Command Queuing (NCQ) can improve hard disk performance, as it optimizes the order to execute read and write commands.'

@@ -1,7 +1,6 @@
 ---
 title: 'Create special folders where you want them'
 date: '2000-08-21T23:31:00+02:00'
-status: publish
 permalink: /article/windows-special-folders.html
 author: Snakefoot
 excerpt: 'Shortcuts can be created to most of the special folders available in Windows Explorer.'

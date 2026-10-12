@@ -1,7 +1,6 @@
 ---
 title: 'Configure low disk space warning in Windows 98/Me'
 date: '2003-06-21T01:51:38+02:00'
-status: publish
 permalink: /article/win9x-low-disk-space.html
 author: Snakefoot
 excerpt: 'Description of the low disk space warning and how to disable it.'

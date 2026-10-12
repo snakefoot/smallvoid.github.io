@@ -1,7 +1,6 @@
 ---
 title: 'Defrag hard disk partitions to speed up file operations'
 date: '2000-01-01T23:52:51+01:00'
-status: publish
 permalink: /article/defrag-hard-disk-partition.html
 author: Snakefoot
 excerpt: 'List of steps to perform before starting a file defragmentation on a hard disk partition.'

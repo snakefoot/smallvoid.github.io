@@ -1,7 +1,6 @@
 ---
 title: 'Creating the Show Desktop shortcut'
 date: '2001-01-01T23:27:30+01:00'
-status: publish
 permalink: /article/windows-show-desktop.html
 author: Snakefoot
 excerpt: 'The Show Desktop shortcut in the quick launch bar can be restored if deleted.'

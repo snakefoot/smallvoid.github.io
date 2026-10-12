@@ -1,7 +1,6 @@
 ---
 title: 'Windows Command Prompt Reference'
 date: '2004-01-14T12:49:32+01:00'
-status: publish
 permalink: /article/winnt-command-prompt-reference.html
 author: Snakefoot
 excerpt: 'The command prompt can be used to configure almost anything, and be used to create advanced batch jobs for trivial tasks.'

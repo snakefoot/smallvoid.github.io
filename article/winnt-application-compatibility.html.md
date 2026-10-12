@@ -1,7 +1,6 @@
 ---
 title: 'Activate Application Compatibility-Mode in Windows 2000'
 date: '2001-11-03T20:36:57+01:00'
-status: publish
 permalink: /article/winnt-application-compatibility.html
 author: Snakefoot
 excerpt: 'Show the "Compatibility"-tab when selecting Properties for a shortcut.'

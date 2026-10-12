@@ -1,7 +1,6 @@
 ---
 title: 'Configure NtBackup for faster throughput'
 date: '2002-03-17T01:14:28+01:00'
-status: publish
 permalink: /article/winnt-ntbackup.html
 author: Snakefoot
 excerpt: 'Increase the size of the buffers used by NtBackup to perform faster backup and restore.'

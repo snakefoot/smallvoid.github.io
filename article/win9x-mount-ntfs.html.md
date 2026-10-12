@@ -1,7 +1,6 @@
 ---
 title: 'Mount NTFS partitions inside Windows 9x'
 date: '2000-01-01T22:49:46+01:00'
-status: publish
 permalink: /article/win9x-mount-ntfs.html
 author: Snakefoot
 excerpt: 'NTFS device driver for accessing NTFS partitions inside Windows 9x.'

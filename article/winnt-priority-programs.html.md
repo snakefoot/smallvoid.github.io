@@ -1,7 +1,6 @@
 ---
 title: 'Specify base priority when launching programs'
 date: '2001-02-05T14:31:52+01:00'
-status: publish
 permalink: /article/winnt-priority-programs.html
 author: Snakefoot
 excerpt: 'Decide the CPU priority when starting an application.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the timeout used when stopping / starting services'
 date: '2002-01-05T18:50:57+01:00'
-status: publish
 permalink: /article/winnt-service-timeout.html
 author: Snakefoot
 excerpt: 'Change how long time to wait before a service is considered not responding and should be shut down.'

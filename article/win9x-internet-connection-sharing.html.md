@@ -1,7 +1,6 @@
 ---
 title: 'Setting up Internet Connection Sharing in Windows 98 SE / Me'
 date: '2001-08-01T21:29:14+02:00'
-status: publish
 permalink: /article/win9x-internet-connection-sharing.html
 author: Snakefoot
 excerpt: 'How to configure Internet Connection Sharing to configure a gateway to the Internet for other computers.'

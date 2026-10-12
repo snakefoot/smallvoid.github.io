@@ -1,7 +1,6 @@
 ---
 title: 'Bypassing user password protection in Windows 9x'
 date: '2000-01-01T00:57:17+01:00'
-status: publish
 permalink: /article/win9x-password-protection.html
 author: Snakefoot
 excerpt: 'Getting past the password protection in Windows 9x.'

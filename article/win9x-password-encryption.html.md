@@ -1,7 +1,6 @@
 ---
 title: 'Configure password encryption level in Windows 9x'
 date: '2003-09-19T21:28:42+02:00'
-status: publish
 permalink: /article/win9x-password-encryption.html
 author: Snakefoot
 excerpt: 'How to configure the password encryption level for better security.'

@@ -1,7 +1,6 @@
 ---
 title: 'Utilities to configure file associations in Windows Explorer'
 date: '2005-11-09T01:02:16+01:00'
-status: publish
 permalink: /article/utility-explorer-context-menu.html
 author: Snakefoot
 excerpt: 'Utilities that makes it easier to modify the Windows Explorer context menu for the different filetypes.'

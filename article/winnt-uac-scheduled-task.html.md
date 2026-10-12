@@ -1,7 +1,6 @@
 ---
 title: 'Run programs elevated without UAC prompt'
 date: '2008-10-02T02:44:33+02:00'
-status: publish
 permalink: /article/winnt-uac-scheduled-task.html
 author: Snakefoot
 excerpt: 'Launch application with administrator rights without the User Account Protection popup dialog.'

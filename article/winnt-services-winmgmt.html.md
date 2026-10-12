@@ -1,7 +1,6 @@
 ---
 title: 'Windows Management Instrumentation (WMI)'
 date: '2000-07-23T21:40:16+02:00'
-status: publish
 permalink: /article/winnt-services-winmgmt.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Management Instrumentation service.'

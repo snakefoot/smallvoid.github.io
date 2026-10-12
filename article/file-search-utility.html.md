@@ -1,7 +1,6 @@
 ---
 title: 'Create your own file finder utility'
 date: '2002-03-01T11:57:14+01:00'
-status: publish
 permalink: /article/file-search-utility.html
 author: Snakefoot
 excerpt: 'How to use the FOR keyword in a batch file to search all available partitions for a file mask.'

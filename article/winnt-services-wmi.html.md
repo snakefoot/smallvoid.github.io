@@ -1,7 +1,6 @@
 ---
 title: 'Windows Management Instrumentation Driver Extensions'
 date: '2000-07-23T22:36:10+02:00'
-status: publish
 permalink: /article/winnt-services-wmi.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Management Instrumentation Driver Extensions service.'

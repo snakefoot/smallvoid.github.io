@@ -1,7 +1,6 @@
 ---
 title: 'Configure the Master File Table for the NTFS partitions'
 date: '2000-01-01T00:35:49+01:00'
-status: publish
 permalink: /article/winnt-ntfs-mft.html
 author: Snakefoot
 excerpt: 'The Master File Table is the index for all files and directories placed on a ntfs partition and critical for ntfs performance.'

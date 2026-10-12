@@ -1,7 +1,6 @@
 ---
 title: 'Setting up a Virtual Private Network (VPN)'
 date: '2001-11-03T22:15:06+01:00'
-status: publish
 permalink: /article/winnt-vpn.html
 author: Snakefoot
 excerpt: 'Virtual Private Network makes it possible to make a secure connection to another network through an insecure network.'

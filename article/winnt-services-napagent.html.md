@@ -1,7 +1,6 @@
 ---
 title: 'Network Access Protection Agent'
 date: '2007-07-17T02:14:42+02:00'
-status: publish
 permalink: /article/winnt-services-napagent.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Network Access Protection Agent service (also called Quarantine Agent).'

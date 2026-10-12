@@ -1,7 +1,6 @@
 ---
 title: 'Make screendump of the desktop using Print Screen'
 date: '2001-01-01T11:35:19+01:00'
-status: publish
 permalink: /article/windows-screen-dump.html
 author: Snakefoot
 excerpt: 'How to use the keyboard key "Print Screen" to make a screen dump.'

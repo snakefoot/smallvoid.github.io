@@ -1,7 +1,6 @@
 ---
 title: 'Create FAT32 partitions with size below 512 MByte'
 date: '2000-01-01T12:26:28+01:00'
-status: publish
 permalink: /article/fdisk-small-fat32.html
 author: Snakefoot
 excerpt: 'How to get fdisk to create small FAT32 partitions with special parameter.'

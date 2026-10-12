@@ -1,7 +1,6 @@
 ---
 title: 'Windows XP Msconfig'
 date: '2001-07-02T02:15:22+02:00'
-status: publish
 permalink: /article/win2k-msconfig.html
 author: Snakefoot
 excerpt: 'Utility to see what applications are configured to load at Windows startup.'

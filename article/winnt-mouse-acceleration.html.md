@@ -1,7 +1,6 @@
 ---
 title: 'Configure Mouse Acceleration in WinXP'
 date: '2002-10-13T22:23:29+02:00'
-status: publish
 permalink: /article/winnt-mouse-acceleration.html
 author: Snakefoot
 excerpt: 'The settings to configure mouse acceleration are hidden away but can still be changed.'

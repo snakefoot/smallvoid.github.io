@@ -1,7 +1,6 @@
 ---
 title: 'Disable the blur-effect of the glass window border'
 date: '2009-10-21T00:34:30+02:00'
-status: publish
 permalink: /article/winnt-transparent-border.html
 author: Snakefoot
 excerpt: 'How to disable blurring of windows in the background, and get full clear glass transparency.'

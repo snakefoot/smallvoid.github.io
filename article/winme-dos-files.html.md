@@ -1,7 +1,6 @@
 ---
 title: 'Configure how many files a DOS program can have open'
 date: '2001-01-01T23:09:39+01:00'
-status: publish
 permalink: /article/winme-dos-files.html
 author: Snakefoot
 excerpt: 'How to increase the limit of how many files a DOS program can have open.'

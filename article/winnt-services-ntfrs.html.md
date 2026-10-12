@@ -1,7 +1,6 @@
 ---
 title: 'Directory Replicator / File Replication Service'
 date: '2000-06-06T01:02:18+02:00'
-status: publish
 permalink: /article/winnt-services-ntfrs.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the File Replication service.'

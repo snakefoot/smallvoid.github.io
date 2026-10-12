@@ -1,7 +1,6 @@
 ---
 title: 'Change the display of drive-letters in Windows Explorer'
 date: '2006-03-16T21:46:18+01:00'
-status: publish
 permalink: /article/winnt-explorer-driveletter.html
 author: Snakefoot
 excerpt: 'Control in what order the drive letter and label should be shown in My Computer.'

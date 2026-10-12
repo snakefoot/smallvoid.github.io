@@ -1,7 +1,6 @@
 ---
 title: 'Disable running low on disk space notification in the taskbar'
 date: '2001-10-07T19:51:13+02:00'
-status: publish
 permalink: /article/winnt-taskbar-low-disk.html
 author: Snakefoot
 excerpt: 'Display a warning when the when a hard disk is near its capacity'

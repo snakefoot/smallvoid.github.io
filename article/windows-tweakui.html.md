@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Tweak UI'
 date: '2000-09-21T09:14:01+02:00'
-status: publish
 permalink: /article/windows-tweakui.html
 author: Snakefoot
 excerpt: 'Microsoft powertoy for changing hidden settings in Microsoft Windows.'

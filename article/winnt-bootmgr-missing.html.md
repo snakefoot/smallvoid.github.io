@@ -1,7 +1,6 @@
 ---
 title: 'Restore boot manager when it is missing or compressed'
 date: '2007-10-30T01:03:54+01:00'
-status: publish
 permalink: /article/winnt-bootmgr-missing.html
 author: Snakefoot
 excerpt: 'Windows Vista will fail to boot if it cannot find the files used to load the boot manager.'

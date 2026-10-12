@@ -1,7 +1,6 @@
 ---
 title: 'Use several Explorer.exe processes to increase stability'
 date: '2001-02-05T00:05:22+01:00'
-status: publish
 permalink: /article/winnt-explorer-process.html
 author: Snakefoot
 excerpt: 'Prevent that all Windows Explorer instances crashes just because one gets a fatal error.'

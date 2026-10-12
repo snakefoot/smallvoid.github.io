@@ -1,7 +1,6 @@
 ---
 title: 'Configure opportunistic locking for files on network shares'
 date: '2005-06-23T22:31:39+02:00'
-status: publish
 permalink: /article/winnt-network-opportunistic-locking.html
 author: Snakefoot
 excerpt: 'Opportunistic locking delivers good network performance but older implementations can lead to data loss.'

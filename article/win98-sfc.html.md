@@ -1,7 +1,6 @@
 ---
 title: 'Using the System File Checker in Windows 98'
 date: '2003-01-10T01:22:21+01:00'
-status: publish
 permalink: /article/win98-sfc.html
 author: Snakefoot
 excerpt: 'System File Checker is able to verify that system files are intact.'

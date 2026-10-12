@@ -1,7 +1,6 @@
 ---
 title: 'Using FOR to perform an operation on a file collection'
 date: '2002-03-01T11:48:14+01:00'
-status: publish
 permalink: /article/for-operation-files.html
 author: Snakefoot
 excerpt: 'How to use the FOR keyword to perform an operation on a collection of files that matches a wildcard.'

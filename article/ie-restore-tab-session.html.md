@@ -1,7 +1,6 @@
 ---
 title: 'Reopen last browing session in Internet Explorer 8 (IE8)'
 date: '2009-09-02T11:04:15+02:00'
-status: publish
 permalink: /article/ie-restore-tab-session.html
 author: Snakefoot
 excerpt: 'How to restore the tab session in Internet Explorer 8.'

@@ -1,7 +1,6 @@
 ---
 title: 'Volume Shadow Copy'
 date: '2003-06-05T20:22:38+02:00'
-status: publish
 permalink: /article/winnt-services-vss.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Volume Shadow Copy service.'

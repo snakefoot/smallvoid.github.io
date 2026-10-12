@@ -1,7 +1,6 @@
 ---
 title: 'Remove drive-letters for removable drives from Send-To'
 date: '2007-07-02T07:44:43+02:00'
-status: publish
 permalink: /article/winnt-sendto-removable-drives.html
 author: Snakefoot
 excerpt: 'Configure whether it should display removable drives like Floppy, DVD and Network drives in the Send To context menu.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure memory manager to minimize memory fragmentation'
 date: '2006-02-28T01:51:47+01:00'
-status: publish
 permalink: /article/winnt-memory-decommit.html
 author: Snakefoot
 excerpt: 'Memory manager should only mark a continuous memory block as free when the block has reached a certain size.'

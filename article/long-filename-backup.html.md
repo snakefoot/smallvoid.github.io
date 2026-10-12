@@ -1,7 +1,6 @@
 ---
 title: 'Long-Filename Backup Tool'
 date: '2000-01-01T13:59:34+01:00'
-status: publish
 permalink: /article/long-filename-backup.html
 author: Snakefoot
 excerpt: 'Backup and restore long filenames in DOS. Useful if working with DOS tools not supporting long filenames.'

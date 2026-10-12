@@ -1,7 +1,6 @@
 ---
 title: ReadyBoost
 date: '2007-07-14T17:51:13+02:00'
-status: publish
 permalink: /article/winnt-services-emdmgmt.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the ReadyBoost service.'

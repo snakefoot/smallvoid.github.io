@@ -1,7 +1,6 @@
 ---
 title: 'Windows Me Defrag Utility'
 date: '2001-05-01T23:07:08+02:00'
-status: publish
 permalink: /article/winme-defrag.html
 author: Snakefoot
 excerpt: 'The disk defragmenter in Windows Me is faster than the one released with Windows 95 and 98.'

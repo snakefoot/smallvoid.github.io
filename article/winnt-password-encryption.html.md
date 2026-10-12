@@ -1,7 +1,6 @@
 ---
 title: 'Configure password encryption level in Windows NT'
 date: '2003-09-19T21:41:11+02:00'
-status: publish
 permalink: /article/winnt-password-encryption.html
 author: Snakefoot
 excerpt: 'How to configure the password encryption level for better security.'

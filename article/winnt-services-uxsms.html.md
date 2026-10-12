@@ -1,7 +1,6 @@
 ---
 title: 'Desktop Window Manager Session Manager'
 date: '2007-07-17T02:12:53+02:00'
-status: publish
 permalink: /article/winnt-services-uxsms.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Desktop Window Manager Session Manager service.'

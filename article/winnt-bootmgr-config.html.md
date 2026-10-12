@@ -1,7 +1,6 @@
 ---
 title: 'Configuration of the boot manager entries'
 date: '2007-10-30T01:04:04+01:00'
-status: publish
 permalink: /article/winnt-bootmgr-config.html
 author: Snakefoot
 excerpt: 'Description of the Boot Configuration Data (BCD) used to store the configuration of the boot manager.'

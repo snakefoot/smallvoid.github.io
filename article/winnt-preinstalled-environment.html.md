@@ -1,7 +1,6 @@
 ---
 title: 'Preinstalled Environment for emergency recovery'
 date: '2005-09-25T21:52:13+02:00'
-status: publish
 permalink: /article/winnt-preinstalled-environment.html
 author: Snakefoot
 excerpt: 'Create a cd-rom-, dvd- or usb-drive which Windows can boot from.'

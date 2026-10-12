@@ -1,7 +1,6 @@
 ---
 title: 'Windows Biometric Service'
 date: '2009-09-22T22:15:49+02:00'
-status: publish
 permalink: /article/winnt-services-wbiosrvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Biometric Service.'

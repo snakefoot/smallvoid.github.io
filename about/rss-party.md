@@ -1,7 +1,6 @@
 ---
 title: 'RSS Party'
 date: '2015-10-07T21:33:20+02:00'
-status: publish
 permalink: /about/rss-party/
 author: rokris
 excerpt: ''

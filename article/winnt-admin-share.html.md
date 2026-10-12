@@ -1,7 +1,6 @@
 ---
 title: 'Prevent the creation of the administrator shares'
 date: '2002-04-01T23:06:02+02:00'
-status: publish
 permalink: /article/winnt-admin-share.html
 author: Snakefoot
 excerpt: 'Windows creates by default a network shares for each drive letter, which is used for administrative tasks.'

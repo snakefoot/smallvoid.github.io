@@ -1,7 +1,6 @@
 ---
 title: 'Command line Parameters for SCANREG'
 date: '2001-01-03T19:58:23+01:00'
-status: publish
 permalink: /article/win9x-registry-checker.html
 author: Snakefoot
 excerpt: 'Scanreg command line switches for checking the Windows registry.'

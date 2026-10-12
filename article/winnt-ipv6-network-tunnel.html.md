@@ -1,7 +1,6 @@
 ---
 title: 'Disable IPv6 imaginary tunnel network interfaces'
 date: '2016-08-29T22:23:37+02:00'
-status: publish
 permalink: /article/winnt-ipv6-network-tunnel.html
 author: Snakefoot
 excerpt: 'IPv6 network tunnel interfaces makes you open for network attacks, and introduces an overhead.'

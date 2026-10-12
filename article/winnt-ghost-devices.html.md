@@ -1,7 +1,6 @@
 ---
 title: 'Uninstall ghost devices or services using the Device Manager'
 date: '2002-10-12T20:21:20+02:00'
-status: publish
 permalink: /article/winnt-ghost-devices.html
 author: Snakefoot
 excerpt: 'Description of ghost devices and how they can be removed in safemode.'

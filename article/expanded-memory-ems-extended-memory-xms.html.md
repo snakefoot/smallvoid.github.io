@@ -1,7 +1,6 @@
 ---
 title: 'Emulate expanded memory (EMS) by using extended memory (XMS)'
 date: '2000-01-01T15:02:46+01:00'
-status: publish
 permalink: /article/expanded-memory-ems-extended-memory-xms.html
 author: Snakefoot
 excerpt: 'Description of the Expanded Memory Specification (EMS) and how to use Emm386.exe to emulate XMS as EMS.'

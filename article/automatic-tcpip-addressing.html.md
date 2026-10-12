@@ -1,7 +1,6 @@
 ---
 title: 'Description of Automatic TCP/IP Addressing'
 date: '2005-11-26T03:32:18+01:00'
-status: publish
 permalink: /article/automatic-tcpip-addressing.html
 author: Snakefoot
 excerpt: 'Details of how the Automatic Private IP Addressing (APIPA) takes over if no DHCP server is found.'

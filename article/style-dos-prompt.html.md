@@ -1,7 +1,6 @@
 ---
 title: 'Change the style of the DOS prompt (C:\)'
 date: '2000-01-01T19:20:01+01:00'
-status: publish
 permalink: /article/style-dos-prompt.html
 author: Snakefoot
 excerpt: 'Description of the options available for styling the DOS prompt.'

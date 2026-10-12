@@ -1,7 +1,6 @@
 ---
 title: 'Create Windows 2000 bootable CD using NERO v5.5.9.0'
 date: '2003-02-28T05:38:54+01:00'
-status: publish
 permalink: /article/win2k-bootable-cd-nero.html
 author: Snakefoot
 excerpt: 'Using Nero Burning Rom to make a bootable install cd for Windows 2000.'

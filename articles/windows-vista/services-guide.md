@@ -1,7 +1,6 @@
 ---
 title: Windows Vista Services Guide
 date: '2006-11-14T23:28:05+01:00'
-status: publish
 permalink: /articles/windows-vista/services/
 author: Snakefoot
 excerpt: ''

@@ -1,7 +1,6 @@
 ---
 title: 'Resultant Set of Policy Provider (RSoP)'
 date: '2003-09-21T15:44:20+02:00'
-status: publish
 permalink: /article/winnt-services-rsopprov.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Resultant Set of Policy Provider service.'

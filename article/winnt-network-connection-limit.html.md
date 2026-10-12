@@ -1,7 +1,6 @@
 ---
 title: 'No more than 10 concurrent connections to a remote computer'
 date: '2005-10-26T23:03:09+02:00'
-status: publish
 permalink: /article/winnt-network-connection-limit.html
 author: Snakefoot
 excerpt: 'Windows Professional / Home edition includes limitation for not handling more than 10 SMB connections.'

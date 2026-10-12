@@ -1,7 +1,6 @@
 ---
 title: 'Running Scandisk in Windows Me after improper shutdown'
 date: '2001-01-01T00:42:49+01:00'
-status: publish
 permalink: /article/winme-boot-disk-check.html
 author: Snakefoot
 excerpt: 'Windows Me will perform a scandisk after an improper shutdown when Windows has started up.'

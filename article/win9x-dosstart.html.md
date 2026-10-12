@@ -1,7 +1,6 @@
 ---
 title: 'Using DosStart.bat to configure DOS when leaving Windows'
 date: '2000-01-01T00:20:32+01:00'
-status: publish
 permalink: /article/win9x-dosstart.html
 author: Snakefoot
 excerpt: 'Load DOS drivers when leaving Windows, instead of loading them before Windows starts.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the memory usage of the Server service'
 date: '2000-01-01T22:04:31+01:00'
-status: publish
 permalink: /article/winnt-server-config.html
 author: Snakefoot
 excerpt: 'Adjust the memory usage of the server service according to the server role.'

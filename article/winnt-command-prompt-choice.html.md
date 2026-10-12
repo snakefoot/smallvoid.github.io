@@ -1,7 +1,6 @@
 ---
 title: 'Use environment variables for user input in Windows NT'
 date: '2006-02-04T22:26:08+01:00'
-status: publish
 permalink: /article/winnt-command-prompt-choice.html
 author: Snakefoot
 excerpt: 'Allow user interaction in command prompt scripts using environment variables.'

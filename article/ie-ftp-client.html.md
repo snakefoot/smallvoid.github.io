@@ -1,7 +1,6 @@
 ---
 title: 'Using Internet Explorer as FTP client'
 date: '2000-01-01T23:44:18+01:00'
-status: publish
 permalink: /article/ie-ftp-client.html
 author: Snakefoot
 excerpt: 'Internet Explorer can be used for simple FTP browsing.'

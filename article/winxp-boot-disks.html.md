@@ -1,7 +1,6 @@
 ---
 title: 'Windows XP setup boot floppy disks'
 date: '2001-11-01T15:24:07+01:00'
-status: publish
 permalink: /article/winxp-boot-disks.html
 author: Snakefoot
 excerpt: 'Using floppy disks to perform the install of Windows XP.'

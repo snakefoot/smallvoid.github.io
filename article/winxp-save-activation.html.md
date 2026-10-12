@@ -1,7 +1,6 @@
 ---
 title: 'Save the WinXP Product Activation before reinstall'
 date: '2001-10-01T21:29:27+02:00'
-status: publish
 permalink: /article/winxp-save-activation.html
 author: Snakefoot
 excerpt: 'How to backup the state of having performed Windows Product Activation.'

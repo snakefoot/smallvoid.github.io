@@ -1,7 +1,6 @@
 ---
 title: 'No boot device found or available'
 date: '2007-10-29T21:11:32+01:00'
-status: publish
 permalink: /article/no-boot-device-found.html
 author: Snakefoot
 excerpt: 'Computer cannot start if no proper boot device exists, or if the active boot device fails.'

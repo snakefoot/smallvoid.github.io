@@ -1,7 +1,6 @@
 ---
 title: 'Use multiple DOS startup configurations'
 date: '2000-01-01T23:44:41+01:00'
-status: publish
 permalink: /article/dos-multiple-configurations.html
 author: Snakefoot
 excerpt: 'How to configure the config.sys and autoexec.bat to use multiple startup configurations.'

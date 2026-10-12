@@ -1,7 +1,6 @@
 ---
 title: 'Avoid reinstalling modem when turning it on after boot'
 date: '2001-03-20T23:42:20+01:00'
-status: publish
 permalink: /article/win2k-dialup-permanent.html
 author: Snakefoot
 excerpt: 'How to use the dialup modem when turning it on after Windows startup.'

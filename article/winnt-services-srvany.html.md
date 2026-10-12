@@ -1,7 +1,6 @@
 ---
 title: 'Install an application as a Windows service'
 date: '2003-01-10T17:33:45+01:00'
-status: publish
 permalink: /article/winnt-services-srvany.html
 author: Snakefoot
 excerpt: 'Running an application as a service allows the application to run without a user needing to login.'

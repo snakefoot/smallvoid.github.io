@@ -1,7 +1,6 @@
 ---
 title: 'Bypassing a screen saver with password using autorun'
 date: '2001-01-01T00:49:35+01:00'
-status: publish
 permalink: /article/win9x-screensaver-password.html
 author: Snakefoot
 excerpt: 'Getting past a password protected screensaver by inserting a cd-rom.'

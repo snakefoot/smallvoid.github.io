@@ -1,7 +1,6 @@
 ---
 title: 'Disk Defragmenter - Optimize Drives'
 date: '2009-09-17T21:33:40+02:00'
-status: publish
 permalink: /article/winnt-services-defragsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Disk Defragmenter/Optimize Drives Service.'

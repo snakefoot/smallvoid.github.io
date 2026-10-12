@@ -1,7 +1,6 @@
 ---
 title: 'Load registry hive for offline registry editing'
 date: '2003-02-28T01:19:35+01:00'
-status: publish
 permalink: /article/winnt-offline-registry-edit.html
 author: Snakefoot
 excerpt: 'The registry editor is capable of editing an offline registry hive.'

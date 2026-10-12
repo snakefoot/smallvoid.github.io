@@ -1,7 +1,6 @@
 ---
 title: 'Configure MSN Messenger'
 date: '2005-09-25T01:28:20+02:00'
-status: publish
 permalink: /article/msn-messenger-settings.html
 author: Snakefoot
 excerpt: 'MSN Messenger is an application by Microsoft that allows one to chat with friends and family.'

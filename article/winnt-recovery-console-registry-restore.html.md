@@ -1,7 +1,6 @@
 ---
 title: 'Using Recovery Console to restore registry files'
 date: '2004-06-10T01:02:38+02:00'
-status: publish
 permalink: /article/winnt-recovery-console-registry-restore.html
 author: Snakefoot
 excerpt: 'The Recovery Console allows one to restore the registry as part of system recovery.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the popup blocker in Internet Explorer'
 date: '2005-09-25T00:53:14+02:00'
-status: publish
 permalink: /article/ie-popup-blocker.html
 author: Snakefoot
 excerpt: 'Windows XP SP2 extends the Internet Explorer with a popup blocking feature.'

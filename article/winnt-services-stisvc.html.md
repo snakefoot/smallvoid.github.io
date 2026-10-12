@@ -1,7 +1,6 @@
 ---
 title: 'Windows Image Acquisition (WIA)'
 date: '2003-06-05T21:32:16+02:00'
-status: publish
 permalink: /article/winnt-services-stisvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Image Acquisition service.'

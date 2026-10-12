@@ -1,7 +1,6 @@
 ---
 title: 'Link-Layer Topology Discovery Mapper'
 date: '2007-07-17T02:14:19+02:00'
-status: publish
 permalink: /article/winnt-services-lltdsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Link-Layer Topology Discovery Mapper service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Program startup order in Windows NT'
 date: '2004-02-15T02:04:12+01:00'
-status: publish
 permalink: /article/winnt-startup-order.html
 author: Snakefoot
 excerpt: 'Description of where and in what order programs are loaded at startup.'

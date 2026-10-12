@@ -1,7 +1,6 @@
 ---
 title: 'Activate security auditing to log unsuccessful logon attempts'
 date: '2001-01-09T23:00:15+01:00'
-status: publish
 permalink: /article/winnt-security-audit.html
 author: Snakefoot
 excerpt: 'Audit policies can be created to record unsuccessful logon attempts in the event log.'

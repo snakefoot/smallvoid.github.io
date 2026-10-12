@@ -1,7 +1,6 @@
 ---
 title: 'Windows Installer'
 date: '2000-07-23T21:34:54+02:00'
-status: publish
 permalink: /article/winnt-services-msiserver.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Installer service.'

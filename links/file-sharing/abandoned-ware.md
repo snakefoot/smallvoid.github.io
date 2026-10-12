@@ -1,7 +1,6 @@
 ---
 title: 'Abandoned Ware'
 date: '2006-11-23T21:01:07+01:00'
-status: publish
 permalink: /links/file-sharing/abandoned-ware/
 author: Snakefoot
 excerpt: ''

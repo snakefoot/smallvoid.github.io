@@ -1,7 +1,6 @@
 ---
 title: 'Internet Explorer 5.0 Web Accessories'
 date: '2001-01-21T09:56:22+01:00'
-status: publish
 permalink: /article/ie5-power-toys.html
 author: Snakefoot
 excerpt: 'Internet Explorer powertoys adds additional useful features for viewing webpages.'

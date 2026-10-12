@@ -1,7 +1,6 @@
 ---
 title: 'Smart Card Helper'
 date: '2000-07-23T18:54:40+02:00'
-status: publish
 permalink: /article/winnt-services-scarddrv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Smart Card Helper service.'

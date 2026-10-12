@@ -1,7 +1,6 @@
 ---
 title: 'Netmeeting Remote Desktop Sharing'
 date: '2003-06-05T15:25:12+02:00'
-status: publish
 permalink: /article/winnt-services-mnmsrvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Netmeeting Remote Desktop Sharing service.'

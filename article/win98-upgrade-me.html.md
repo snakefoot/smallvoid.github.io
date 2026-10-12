@@ -1,7 +1,6 @@
 ---
 title: 'Killer replacement 98SE -&gt; Me'
 date: '2001-11-29T14:04:49+01:00'
-status: publish
 permalink: /article/win98-upgrade-me.html
 author: Snakefoot
 excerpt: 'Update Windows 98 using the install files from Windows Me.'

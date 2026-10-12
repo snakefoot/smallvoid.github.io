@@ -1,7 +1,6 @@
 ---
 title: 'Replace Microsoft JVM with Sun Java Runtime'
 date: '2005-02-25T18:28:29+01:00'
-status: publish
 permalink: /article/windows-java-runtime.html
 author: Snakefoot
 excerpt: 'Microsoft Java Virtual Machine (JVM) contains security flaws and should be uninstalled and replaced with the Sun Java Runtime.'

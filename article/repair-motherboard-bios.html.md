@@ -1,7 +1,6 @@
 ---
 title: 'Checkpoints for fixing no BIOS POST'
 date: '2002-08-14T22:20:52+02:00'
-status: publish
 permalink: /article/repair-motherboard-bios.html
 author: Snakefoot
 excerpt: 'Steps for fixing a computer which cannot perform BIOS POST.'

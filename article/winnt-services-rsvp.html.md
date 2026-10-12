@@ -1,7 +1,6 @@
 ---
 title: 'QoS RSVP'
 date: '2000-07-23T16:29:50+02:00'
-status: publish
 permalink: /article/winnt-services-rsvp.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the QoS RSVP service.'

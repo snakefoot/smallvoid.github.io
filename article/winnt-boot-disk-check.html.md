@@ -1,7 +1,6 @@
 ---
 title: 'Control disk check at boot after incorrect shutdown'
 date: '2001-08-01T02:21:53+02:00'
-status: publish
 permalink: /article/winnt-boot-disk-check.html
 author: Snakefoot
 excerpt: 'Windows NT will perform a chkdsk at boot time after an improper shutdown.'

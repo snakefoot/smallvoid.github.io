@@ -1,7 +1,6 @@
 ---
 title: 'Remote Desktop Help Session Manager'
 date: '2003-06-05T16:40:23+02:00'
-status: publish
 permalink: /article/winnt-services-rdsessmgr.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Desktop Help Session Manager service.'

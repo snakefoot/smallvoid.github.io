@@ -1,7 +1,6 @@
 ---
 title: 'Description of the hard disk cache'
 date: '2007-04-19T19:43:09+02:00'
-status: publish
 permalink: /article/hard-disk-cache.html
 author: Snakefoot
 excerpt: 'The hard disk performance is very dependent on the configuration of the disk cache.'

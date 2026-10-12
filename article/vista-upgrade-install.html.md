@@ -1,7 +1,6 @@
 ---
 title: 'Perform clean install using Windows Vista upgrade'
 date: '2007-08-28T02:03:05+02:00'
-status: publish
 permalink: /article/vista-upgrade-install.html
 author: Snakefoot
 excerpt: 'Installing Windows Vista without needing to install an older version of Windows first.'

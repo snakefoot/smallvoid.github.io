@@ -1,7 +1,6 @@
 ---
 title: 'Using the command prompt as text editor'
 date: '2000-01-01T10:02:40+01:00'
-status: publish
 permalink: /article/command-prompt-text-editor.html
 author: Snakefoot
 excerpt: 'How to use the copy command to copy from the keyboard and into a text file.'

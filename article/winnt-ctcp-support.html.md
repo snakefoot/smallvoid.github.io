@@ -1,7 +1,6 @@
 ---
 title: 'Compound TCP (CTCP) can speed up TCP Slow Start'
 date: '2009-08-14T01:12:21+02:00'
-status: publish
 permalink: /article/winnt-ctcp-support.html
 author: Snakefoot
 excerpt: 'Compound TCP (CTCP) can improve the throughput for high bandwidth and high latency connections, by improving TCP slow start.'

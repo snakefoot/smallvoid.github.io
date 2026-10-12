@@ -1,7 +1,6 @@
 ---
 title: 'Configure how long to cache negative DNS replies'
 date: '2003-04-07T00:38:16+02:00'
-status: publish
 permalink: /article/winnt-dns-negative-reply.html
 author: Snakefoot
 excerpt: 'By not caching negative DNS lookups then one will quickly recover in case a domain is unregistered and registered again.'

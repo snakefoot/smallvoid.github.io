@@ -1,7 +1,6 @@
 ---
 title: 'Configure the request of extended file details when opening a file'
 date: '2003-10-14T22:11:05+02:00'
-status: publish
 permalink: /article/winnt-network-file-details.html
 author: Snakefoot
 excerpt: 'Windows Explorer will automatically request extended file information when trying to open a file on a network share.'

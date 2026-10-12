@@ -1,7 +1,6 @@
 ---
 title: 'Configure the color resolution of Desktop icons'
 date: '2001-01-01T23:25:09+01:00'
-status: publish
 permalink: /article/win95-desktop-colors.html
 author: Snakefoot
 excerpt: 'Display Desktop icons with all possible colors.'

@@ -1,7 +1,6 @@
 ---
 title: 'Change the User Agent string in Internet Explorer 7'
 date: '2007-07-02T07:44:30+02:00'
-status: publish
 permalink: /article/ie7-user-agent.html
 author: Snakefoot
 excerpt: 'Utility for changing the User Agent string for Internet Explorer 7.'

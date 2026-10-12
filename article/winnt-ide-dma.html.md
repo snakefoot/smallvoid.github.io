@@ -1,7 +1,6 @@
 ---
 title: 'Configue IDE ATA hard disk to use DMA transfer'
 date: '2000-06-06T23:24:52+02:00'
-status: publish
 permalink: /article/winnt-ide-dma.html
 author: Snakefoot
 excerpt: 'How to configure Windows to use DMA for IDE ATA hard drives.'

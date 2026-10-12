@@ -1,7 +1,6 @@
 ---
 title: 'Making Wordpress 2.0 run on IIS'
 date: '2007-01-16T09:05:11+01:00'
-status: publish
 permalink: /article/wordpress2-iis.html
 author: Snakefoot
 excerpt: 'Required modifications for Wordpress 2 to make it work on IIS.'

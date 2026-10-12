@@ -1,7 +1,6 @@
 ---
 title: 'Changing the font of the command prompt'
 date: '2007-08-28T02:02:41+02:00'
-status: publish
 permalink: /article/winnt-cmd-add-font.html
 author: Snakefoot
 excerpt: 'How to use a different font in the command prompt than Lucida Console and Raster Fonts.'

@@ -1,7 +1,6 @@
 ---
 title: 'Update hardware drivers and firmware to improve stability'
 date: '2000-01-01T00:45:47+01:00'
-status: publish
 permalink: /article/windows-update-drivers.html
 author: Snakefoot
 excerpt: 'Description of how the drivers and firmware for the computer hardware should be updated to get the best performance.'

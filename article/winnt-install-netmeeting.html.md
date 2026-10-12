@@ -1,7 +1,6 @@
 ---
 title: 'Uninstall or reinstall NetMeeting in Windows NT'
 date: '2004-05-02T01:05:14+02:00'
-status: publish
 permalink: /article/winnt-install-netmeeting.html
 author: Snakefoot
 excerpt: 'NetMeeting is an inter-message (IM) application by Microsoft which can create a virtual conference room for several users to chat and exchange documents.'

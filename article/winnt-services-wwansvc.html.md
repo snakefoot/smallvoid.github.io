@@ -1,7 +1,6 @@
 ---
 title: 'WWAN AutoConfig'
 date: '2009-09-22T23:21:10+02:00'
-status: publish
 permalink: /article/winnt-services-wwansvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the WWAN AutoConfig Service.'

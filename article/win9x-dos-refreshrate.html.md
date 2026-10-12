@@ -1,7 +1,6 @@
 ---
 title: 'Configure the DOS prompt refresh rate within Windows'
 date: '2000-01-01T22:39:23+01:00'
-status: publish
 permalink: /article/win9x-dos-refreshrate.html
 author: Snakefoot
 excerpt: 'Increasing the DOS prompt refresh rate to make the display smoother.'

@@ -1,7 +1,6 @@
 ---
 title: 'Mount Ext2 / Ext3 linux partitions inside Windows'
 date: '2007-08-28T02:02:29+02:00'
-status: publish
 permalink: /article/winnt-linux-partition.html
 author: Snakefoot
 excerpt: 'Access Linux Ext2 / Ext3 partitions inside Microsoft Windows.'

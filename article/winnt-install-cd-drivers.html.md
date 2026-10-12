@@ -1,7 +1,6 @@
 ---
 title: 'Include 3rd party controller drivers using unattended install'
 date: '2002-06-01T05:46:03+02:00'
-status: publish
 permalink: /article/winnt-install-cd-drivers.html
 author: Snakefoot
 excerpt: 'Avoid having to use a floppy disk when installing Windows NT on a machine with unsupported disk controller.'

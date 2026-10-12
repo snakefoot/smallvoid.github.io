@@ -1,7 +1,6 @@
 ---
 title: 'Include 3rd party controller drivers in the recovery console'
 date: '2003-03-01T03:01:27+01:00'
-status: publish
 permalink: /article/recovery-console-drivers.html
 author: Snakefoot
 excerpt: 'Modify the Recovery Console installation so it will load 3rd party drivers for your disk controller.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the max limit for concurrent TCP connections'
 date: '2004-03-06T00:54:59+01:00'
-status: publish
 permalink: /article/winnt-tcpip-max-limit.html
 author: Snakefoot
 excerpt: 'Windows is configured by default to handle 1000 to 2000 concurrent tcpip connections.'

@@ -1,7 +1,6 @@
 ---
 title: 'DNS Client'
 date: '2000-07-23T01:33:53+02:00'
-status: publish
 permalink: /article/winnt-services-dnscache.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the DNS Client service.'

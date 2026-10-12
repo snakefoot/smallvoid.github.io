@@ -1,7 +1,6 @@
 ---
 title: 'Bypass or step through Config.sys and Autoexec.bat'
 date: '2000-01-01T00:38:20+01:00'
-status: publish
 permalink: /article/bypass-step-through-config-sys.html
 author: Snakefoot
 excerpt: 'How to bypass or single step through the startup files Config.sys and Autoexec.bat using the keyboard keys F5 and F8.'

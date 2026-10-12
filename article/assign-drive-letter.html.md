@@ -1,7 +1,6 @@
 ---
 title: 'Configure drive letter for the CD-ROM Drive'
 date: '2003-11-22T23:58:22+01:00'
-status: publish
 permalink: /article/assign-drive-letter.html
 author: Snakefoot
 excerpt: 'Assign specific drive letters for removable drives.'

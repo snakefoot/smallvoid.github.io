@@ -1,7 +1,6 @@
 ---
 title: 'Windows Search'
 date: '2007-07-17T02:18:27+02:00'
-status: publish
 permalink: /article/winnt-services-wsearch.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Search service.'

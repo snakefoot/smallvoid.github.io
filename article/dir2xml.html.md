@@ -1,7 +1,6 @@
 ---
 title: DIR2XML
 date: '2006-01-01T03:21:32+01:00'
-status: publish
 permalink: /article/dir2xml.html
 author: Snakefoot
 excerpt: 'Directory listing in XML using VBScript.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure TCPIP stack settings in Windows NT'
 date: '2001-01-01T22:33:34+01:00'
-status: publish
 permalink: /article/winnt-tcpip-settings.html
 author: Snakefoot
 excerpt: 'Description of the registry keys used for configuring the TCP/IP stack in Windows NT.'

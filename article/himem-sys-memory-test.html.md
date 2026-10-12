@@ -1,7 +1,6 @@
 ---
 title: 'Turn off Himem.sys memory testing'
 date: '2000-01-01T15:47:24+01:00'
-status: publish
 permalink: /article/himem-sys-memory-test.html
 author: Snakefoot
 excerpt: 'How to configure Himem.sys so it will not perform memory testing.'

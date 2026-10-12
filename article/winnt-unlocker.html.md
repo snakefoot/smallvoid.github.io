@@ -1,7 +1,6 @@
 ---
 title: 'Unlocker can display and close open file handles'
 date: '2006-02-04T18:36:34+01:00'
-status: publish
 permalink: /article/winnt-unlocker.html
 author: Snakefoot
 excerpt: 'Unlocker displays the open file handles, when trying to delete or move a file which is used by another application.'

@@ -1,7 +1,6 @@
 ---
 title: 'Credential Manager Service'
 date: '2010-03-02T00:57:00+01:00'
-status: publish
 permalink: /article/winnt-services-vaultsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Credential Manager Service (VaultSvc).'

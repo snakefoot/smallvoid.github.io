@@ -1,7 +1,6 @@
 ---
 title: 'Configure Outlook Express for slide show of pictures'
 date: '2003-08-09T18:46:56+02:00'
-status: publish
 permalink: /article/outlook-express-slide-show.html
 author: Snakefoot
 excerpt: 'Outlook Express has can be used as a picture viewer.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure when to report low on disk space in the Event Log'
 date: '2001-01-01T19:10:27+01:00'
-status: publish
 permalink: /article/winnt-eventlog-low-disk.html
 author: Snakefoot
 excerpt: 'Change the treshold of when to report that a disk is near its capacity.'

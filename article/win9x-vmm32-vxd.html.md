@@ -1,7 +1,6 @@
 ---
 title: 'The infamous VMM32.VXD tweak'
 date: '2001-01-01T21:42:40+01:00'
-status: publish
 permalink: /article/win9x-vmm32-vxd.html
 author: Snakefoot
 excerpt: 'VMM32.VXD is an archive of VXD files, and some have reported improved speed by extracting the VXD files.'

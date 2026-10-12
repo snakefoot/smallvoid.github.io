@@ -1,7 +1,6 @@
 ---
 title: 'Configure the priority of networks known by the MUP'
 date: '2003-12-30T23:05:45+01:00'
-status: publish
 permalink: /article/winnt-network-priority.html
 author: Snakefoot
 excerpt: 'Change which network redirector to use first when looking for a resource on the network.'

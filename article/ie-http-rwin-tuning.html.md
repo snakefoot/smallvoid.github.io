@@ -1,7 +1,6 @@
 ---
 title: 'Enable auto-tuning of RWIN in Internet Explorer on Vista'
 date: '2008-10-02T02:42:48+02:00'
-status: publish
 permalink: /article/ie-http-rwin-tuning.html
 author: Snakefoot
 excerpt: 'Configure TCPIP receive window auto-tuning for HTTP connections for faster download.'

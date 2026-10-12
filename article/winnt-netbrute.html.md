@@ -1,7 +1,6 @@
 ---
 title: 'Netbrute monitors the network for available file shares'
 date: '2002-02-06T16:21:38+01:00'
-status: publish
 permalink: /article/winnt-netbrute.html
 author: Snakefoot
 excerpt: 'NetBrute by Raw Logic Software can scan the network and display computers which announce themselves on the network.'

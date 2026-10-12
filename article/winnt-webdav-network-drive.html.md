@@ -1,7 +1,6 @@
 ---
 title: 'Mapping WebDAV folder as a network drive letter'
 date: '2007-09-01T09:19:56+02:00'
-status: publish
 permalink: /article/winnt-webdav-network-drive.html
 author: Snakefoot
 excerpt: 'Mount a Web Folder as a mapped network drive with help from the Webclient service.'

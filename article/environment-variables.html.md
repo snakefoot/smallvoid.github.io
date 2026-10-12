@@ -1,7 +1,6 @@
 ---
 title: 'Environment variables'
 date: '2003-02-22T19:08:44+01:00'
-status: publish
 permalink: /article/environment-variables.html
 author: Snakefoot
 excerpt: 'Description of environment variables and how to configure them.'

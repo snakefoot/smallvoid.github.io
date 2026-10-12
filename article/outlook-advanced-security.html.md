@@ -1,7 +1,6 @@
 ---
 title: 'Advanced Security for Outlook'
 date: '2006-01-24T18:53:29+01:00'
-status: publish
 permalink: /article/outlook-advanced-security.html
 author: Snakefoot
 excerpt: 'Utility that extends the confirmation dialog shown when an addon wants to use Outlook, with more details about the addon.'

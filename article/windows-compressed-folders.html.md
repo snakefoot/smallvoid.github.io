@@ -1,7 +1,6 @@
 ---
 title: 'Configure zip and cab files as compressed folders'
 date: '2001-10-01T19:36:47+02:00'
-status: publish
 permalink: /article/windows-compressed-folders.html
 author: Snakefoot
 excerpt: 'Open zip and cab files in Windows Explorer like they were normal directory with files.'

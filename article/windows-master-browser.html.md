@@ -1,7 +1,6 @@
 ---
 title: 'Description of Master Browser in the Microsoft Network'
 date: '2003-02-21T22:23:14+01:00'
-status: publish
 permalink: /article/windows-master-browser.html
 author: Snakefoot
 excerpt: 'The use of the master browser in the microsoft network, and how it is elected.'

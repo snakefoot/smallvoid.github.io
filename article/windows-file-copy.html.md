@@ -1,7 +1,6 @@
 ---
 title: 'Windows Explorer file copy replacement'
 date: '2003-04-07T07:16:32+02:00'
-status: publish
 permalink: /article/windows-file-copy.html
 author: Snakefoot
 excerpt: 'Enhance the file copy abilities of Windows Explorer'

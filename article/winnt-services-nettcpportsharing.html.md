@@ -1,7 +1,6 @@
 ---
 title: 'Net.Tcp Port Sharing Service'
 date: '2007-07-17T02:14:37+02:00'
-status: publish
 permalink: /article/winnt-services-nettcpportsharing.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Net.Tcp Port Sharing Service.'

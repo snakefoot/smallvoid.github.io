@@ -1,7 +1,6 @@
 ---
 title: 'Configure SMB signing in Windows NT'
 date: '2002-09-11T21:48:56+02:00'
-status: publish
 permalink: /article/winnt-smb-signing.html
 author: Snakefoot
 excerpt: 'How to increase the security of the Microsoft network by enabling SMB signing.'

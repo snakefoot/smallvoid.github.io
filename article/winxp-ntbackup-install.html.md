@@ -1,7 +1,6 @@
 ---
 title: 'Installing NtBackup in Windows XP Home'
 date: '2002-03-17T08:42:34+01:00'
-status: publish
 permalink: /article/winxp-ntbackup-install.html
 author: Snakefoot
 excerpt: 'NtBackup is not installed by default in Windows XP Home.'

@@ -1,7 +1,6 @@
 ---
 title: 'Lock down the network connection'
 date: '2001-01-01T13:49:06+01:00'
-status: publish
 permalink: /article/windows-network-lockdown.html
 author: Snakefoot
 excerpt: 'There are several security issues one should take care of when having a network connection.'

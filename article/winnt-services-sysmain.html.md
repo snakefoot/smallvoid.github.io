@@ -1,7 +1,6 @@
 ---
 title: Superfetch
 date: '2007-07-17T02:16:16+02:00'
-status: publish
 permalink: /article/winnt-services-sysmain.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Superfetch service.'

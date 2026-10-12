@@ -1,7 +1,6 @@
 ---
 title: 'Open DOS Command Prompt Here'
 date: '2006-02-16T01:08:53+01:00'
-status: publish
 permalink: /article/win9x-open-command-prompt-here.html
 author: Snakefoot
 excerpt: 'Extend the right-click context-menu of a folder to open a DOS command prompt.'

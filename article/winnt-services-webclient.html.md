@@ -1,7 +1,6 @@
 ---
 title: WebClient
 date: '2003-06-05T21:25:53+02:00'
-status: publish
 permalink: /article/winnt-services-webclient.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the WebClient service.'

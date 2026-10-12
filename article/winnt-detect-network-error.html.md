@@ -1,7 +1,6 @@
 ---
 title: 'Display detected network errors in connection status'
 date: '2002-02-02T00:03:44+01:00'
-status: publish
 permalink: /article/winnt-detect-network-error.html
 author: Snakefoot
 excerpt: 'Network connection status can be extended to also show errors besides bytes/packets received and sent.'

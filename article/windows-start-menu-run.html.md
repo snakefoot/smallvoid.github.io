@@ -1,7 +1,6 @@
 ---
 title: 'Create shortcut to &quot;Run...&quot; in the Start Menu'
 date: '2006-01-31T00:46:39+01:00'
-status: publish
 permalink: /article/windows-start-menu-run.html
 author: Snakefoot
 excerpt: 'The Run... option in the Start Menu can be launched using a shortcut.'

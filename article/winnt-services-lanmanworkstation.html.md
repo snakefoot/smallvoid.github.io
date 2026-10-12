@@ -1,7 +1,6 @@
 ---
 title: Workstation
 date: '2000-06-06T00:02:04+02:00'
-status: publish
 permalink: /article/winnt-services-lanmanworkstation.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Workstation service.'

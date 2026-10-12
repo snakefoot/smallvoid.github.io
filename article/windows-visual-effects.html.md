@@ -1,7 +1,6 @@
 ---
 title: 'Disable visual effects to make the desktop faster'
 date: '2000-01-01T01:38:17+01:00'
-status: publish
 permalink: /article/windows-visual-effects.html
 author: Snakefoot
 excerpt: 'Speed up the Windows experience by disabling unneeded visual effects.'

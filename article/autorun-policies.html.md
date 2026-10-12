@@ -1,7 +1,6 @@
 ---
 title: 'Configure Autorun for different drives using policies'
 date: '2003-01-11T23:36:41+01:00'
-status: publish
 permalink: /article/autorun-policies.html
 author: Snakefoot
 excerpt: 'How to configure autorun for the different drive types.'

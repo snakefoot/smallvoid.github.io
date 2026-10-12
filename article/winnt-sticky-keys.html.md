@@ -1,7 +1,6 @@
 ---
 title: 'Disable hotkey activation of sticky keys'
 date: '2004-05-10T22:36:03+02:00'
-status: publish
 permalink: /article/winnt-sticky-keys.html
 author: Snakefoot
 excerpt: 'Sticky keys is an accessibility features, that can be activated with a shortcut key (often by accident when inside a game).'

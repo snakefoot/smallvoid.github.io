@@ -1,7 +1,6 @@
 ---
 title: 'Increase the priority of the foreground application'
 date: '2001-01-31T20:31:14+01:00'
-status: publish
 permalink: /article/win9x-priority.html
 author: Snakefoot
 excerpt: 'How to give the foreground application higher priority, so it will not be disturbed by background processes.'

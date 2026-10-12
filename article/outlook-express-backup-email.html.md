@@ -1,7 +1,6 @@
 ---
 title: 'Backup and restore Outlook Express emails'
 date: '2002-05-18T18:11:37+02:00'
-status: publish
 permalink: /article/outlook-express-backup-email.html
 author: Snakefoot
 excerpt: 'Outlook Express stores the emails in DBX files, which one can backup and restore.'

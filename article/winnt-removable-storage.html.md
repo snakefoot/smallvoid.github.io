@@ -1,7 +1,6 @@
 ---
 title: 'Restrict access to removable storage devices'
 date: '2007-07-05T02:08:53+02:00'
-status: publish
 permalink: /article/winnt-removable-storage.html
 author: Snakefoot
 excerpt: 'Restrict access to removable storage devices to prevent misuse of them by an intruder.'

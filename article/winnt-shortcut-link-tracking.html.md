@@ -1,7 +1,6 @@
 ---
 title: 'Configure shortcut link tracking'
 date: '2002-03-16T12:39:37+01:00'
-status: publish
 permalink: /article/winnt-shortcut-link-tracking.html
 author: Snakefoot
 excerpt: 'Control what should happen when a shortcut is detected as being broken.'

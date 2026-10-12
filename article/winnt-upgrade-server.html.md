@@ -1,7 +1,6 @@
 ---
 title: 'Convert from Windows Workstation to Server Edition'
 date: '2002-03-21T23:45:58+01:00'
-status: publish
 permalink: /article/winnt-upgrade-server.html
 author: Snakefoot
 excerpt: 'Utilities that can change the configuration of a Windows installation so it becomes a server edition.'

@@ -1,7 +1,6 @@
 ---
 title: 'Windows 98 Resource Kit'
 date: '2004-05-28T22:44:57+02:00'
-status: publish
 permalink: /article/win9x-resource-kit.html
 author: Snakefoot
 excerpt: 'Collection of small utilities created by Microsoft to make life easier.'

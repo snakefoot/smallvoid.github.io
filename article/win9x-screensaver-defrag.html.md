@@ -1,7 +1,6 @@
 ---
 title: 'Automatically turn off screensaver when doing defrag'
 date: '2002-10-12T00:41:38+02:00'
-status: publish
 permalink: /article/win9x-screensaver-defrag.html
 author: Snakefoot
 excerpt: 'Keep the screensaver from starting when doing file defragmentation.'

@@ -1,7 +1,6 @@
 ---
 title: 'Offline Files'
 date: '2007-07-17T02:14:57+02:00'
-status: publish
 permalink: /article/winnt-services-cscservice.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Offline Files service.'

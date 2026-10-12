@@ -1,7 +1,6 @@
 ---
 title: 'Checkpoints for fixing hardware conflicts'
 date: '2002-08-14T20:00:40+02:00'
-status: publish
 permalink: /article/repair-hardware-conflict.html
 author: Snakefoot
 excerpt: 'Steps for finding what hardware devices that is causing problems.'

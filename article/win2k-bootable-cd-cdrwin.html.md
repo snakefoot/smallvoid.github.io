@@ -1,7 +1,6 @@
 ---
 title: 'Create Windows 2000 bootable CD using CDRWIN'
 date: '2003-02-28T05:21:14+01:00'
-status: publish
 permalink: /article/win2k-bootable-cd-cdrwin.html
 author: Snakefoot
 excerpt: 'Using CDRWIN to make a bootable install cd for Windows 2000.'

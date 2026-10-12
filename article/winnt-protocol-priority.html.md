@@ -1,7 +1,6 @@
 ---
 title: 'Configure the priority of protocols bound to the network'
 date: '2003-12-30T23:11:30+01:00'
-status: publish
 permalink: /article/winnt-protocol-priority.html
 author: Snakefoot
 excerpt: 'Change which network protocol to use first when looking for a resource on the network.'

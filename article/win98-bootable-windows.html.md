@@ -1,7 +1,6 @@
 ---
 title: 'Bootable Windows 98 system on CD-ROM'
 date: '2004-05-16T23:31:00+02:00'
-status: publish
 permalink: /article/win98-bootable-windows.html
 author: Snakefoot
 excerpt: 'Guides and file packages for creating a bootable CD-ROM, which Windows 98 can run from.'

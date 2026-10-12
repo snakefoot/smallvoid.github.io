@@ -1,7 +1,6 @@
 ---
 title: 'Disable speech recognition to free resources'
 date: '2004-05-10T01:25:37+02:00'
-status: publish
 permalink: /article/winnt-text-services.html
 author: Snakefoot
 excerpt: 'Windows includes text services to handle speech and handwritting recognition that can cause conflicts with other applications.'

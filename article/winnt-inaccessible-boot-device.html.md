@@ -1,7 +1,6 @@
 ---
 title: 'Fix blue screen of death with INACCESSIBLE_BOOT_DEVICE'
 date: '2003-08-16T22:34:40+02:00'
-status: publish
 permalink: /article/winnt-inaccessible-boot-device.html
 author: Snakefoot
 excerpt: 'Description of the different situations where Windows NT can fail to boot because it no longer can find the boot device.'

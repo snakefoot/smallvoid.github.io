@@ -1,7 +1,6 @@
 ---
 title: 'Group Policy Client'
 date: '2007-07-17T02:13:49+02:00'
-status: publish
 permalink: /article/winnt-services-gpsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Group Policy Client service.'

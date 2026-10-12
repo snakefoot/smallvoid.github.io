@@ -1,7 +1,6 @@
 ---
 title: 'Configure the login and Welcome Screen in Vista'
 date: '2007-10-05T02:49:56+02:00'
-status: publish
 permalink: /article/vista-welcome-screen.html
 author: Snakefoot
 excerpt: 'Windows Vista does not have the classic logon screen, which has been replaced by the Welcome Screen.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure conservative swap file usage'
 date: '2000-01-01T20:04:37+01:00'
-status: publish
 permalink: /article/win9x-conservative.html
 author: Snakefoot
 excerpt: 'How to configure the page algorithm, so it will not perform paging when the system is idle.'

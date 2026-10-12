@@ -1,7 +1,6 @@
 ---
 title: 'TCP/IP RWIN Auto-Tuning can slow down network'
 date: '2007-04-24T01:12:32+02:00'
-status: publish
 permalink: /article/vista-tcpip-auto-rwin.html
 author: Snakefoot
 excerpt: 'Not all network routers supports the tcpip receive window scaling flag used by Windows Vista.'

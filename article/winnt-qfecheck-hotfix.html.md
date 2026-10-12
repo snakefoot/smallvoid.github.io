@@ -1,7 +1,6 @@
 ---
 title: 'Qfecheck to list the hotfixes applied to the system'
 date: '2001-01-01T14:18:02+01:00'
-status: publish
 permalink: /article/winnt-qfecheck-hotfix.html
 author: Snakefoot
 excerpt: 'Qfecheck is a command line utility by Microsoft to list installed hotfixes.'

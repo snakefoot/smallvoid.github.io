@@ -1,7 +1,6 @@
 ---
 title: 'Application Management'
 date: '2000-07-23T01:44:13+02:00'
-status: publish
 permalink: /article/winnt-services-appmgmt.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Application Management service.'

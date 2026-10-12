@@ -1,7 +1,6 @@
 ---
 title: 'Configure the taskbar Start Menu'
 date: '2003-01-01T22:28:27+01:00'
-status: publish
 permalink: /article/windows-start-menu.html
 author: Snakefoot
 excerpt: 'Changing the behavior and visual appearance of the Start Menu.'

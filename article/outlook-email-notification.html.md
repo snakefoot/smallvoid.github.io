@@ -1,7 +1,6 @@
 ---
 title: 'Fix the automatic email notification in Outlook'
 date: '2006-03-11T19:02:42+01:00'
-status: publish
 permalink: /article/outlook-email-notification.html
 author: Snakefoot
 excerpt: 'Possible solutions when Outlook doesn''t recieve instant email notifications from the Exchange server.'

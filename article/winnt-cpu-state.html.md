@@ -1,7 +1,6 @@
 ---
 title: 'Optimize processor power management'
 date: '2008-06-15T15:37:18+02:00'
-status: publish
 permalink: /article/winnt-cpu-state.html
 author: Snakefoot
 excerpt: 'Use power management to throttle the processor when idle, and get a cool CPU temperature.'

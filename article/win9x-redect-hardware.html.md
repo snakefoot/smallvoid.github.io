@@ -1,7 +1,6 @@
 ---
 title: 'Force Windows 9x to redetect all hardware'
 date: '2001-01-01T02:46:56+01:00'
-status: publish
 permalink: /article/win9x-redect-hardware.html
 author: Snakefoot
 excerpt: 'Make Windows 9x redetect all hardware in case one is migrating to a new computer.'

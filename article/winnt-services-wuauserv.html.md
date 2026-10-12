@@ -1,7 +1,6 @@
 ---
 title: 'Windows Update / Automatic Updates'
 date: '2002-08-06T23:28:49+02:00'
-status: publish
 permalink: /article/winnt-services-wuauserv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Automatic Updates service.'

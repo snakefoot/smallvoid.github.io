@@ -1,7 +1,6 @@
 ---
 title: 'Remove misspelled word from the custom dictionary'
 date: '2007-07-02T07:44:12+02:00'
-status: publish
 permalink: /article/windows-mail-custom-dictionary.html
 author: Snakefoot
 excerpt: 'How to remove a word from the custom dictionary incase it has been spelled wrong.'

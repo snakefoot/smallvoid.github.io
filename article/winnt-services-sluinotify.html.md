@@ -1,7 +1,6 @@
 ---
 title: 'SL UI Notification Service'
 date: '2007-07-17T02:15:53+02:00'
-status: publish
 permalink: /article/winnt-services-sluinotify.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the SL UI Notification Service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Use HOSTS file to ban ads and speedup DNS lookups'
 date: '2001-04-04T21:50:41+02:00'
-status: publish
 permalink: /article/windows-hosts-file.html
 author: Snakefoot
 excerpt: 'How the HOSTS file can be used to customize the host name resolution.'

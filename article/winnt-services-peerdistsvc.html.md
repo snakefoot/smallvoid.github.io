@@ -1,7 +1,6 @@
 ---
 title: BranchCache
 date: '2009-09-16T11:37:49+02:00'
-status: publish
 permalink: /article/winnt-services-peerdistsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the BranchCache Service.'

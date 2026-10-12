@@ -1,7 +1,6 @@
 ---
 title: 'Change processor quantums to tweak application priority'
 date: '2001-02-02T14:23:03+01:00'
-status: publish
 permalink: /article/winnt-process-scheduler-priority.html
 author: Snakefoot
 excerpt: 'Configure how the process scheduler should split up the processor slots.'

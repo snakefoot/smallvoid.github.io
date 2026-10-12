@@ -1,7 +1,6 @@
 ---
 title: 'Configure the memory usage of the NTFS file system'
 date: '2005-09-25T01:44:36+02:00'
-status: publish
 permalink: /article/winnt-ntfs-memory.html
 author: Snakefoot
 excerpt: 'How to increase the amount of memory the NTFS filesystem can use for file operations.'

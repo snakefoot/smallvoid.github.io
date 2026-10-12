@@ -1,7 +1,6 @@
 ---
 title: 'Configure monitoring of application startup'
 date: '2003-05-25T23:58:57+02:00'
-status: publish
 permalink: /article/win9x-application-log.html
 author: Snakefoot
 excerpt: 'Save resources by disabling the Task Monitor and avoid the logging of every application startup.'

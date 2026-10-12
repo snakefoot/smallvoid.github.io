@@ -1,7 +1,6 @@
 ---
 title: 'Media Player 8 extension for DVD play'
 date: '2001-11-29T16:02:03+01:00'
-status: publish
 permalink: /article/winnt-wmp8-dvd.html
 author: Snakefoot
 excerpt: 'To play DVD''s in Windows Media Player one needs to buy a license for the MPEG2 codec.'

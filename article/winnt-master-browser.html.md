@@ -1,7 +1,6 @@
 ---
 title: 'Configure master browser election in Windows NT'
 date: '2001-10-26T22:29:37+02:00'
-status: publish
 permalink: /article/winnt-master-browser.html
 author: Snakefoot
 excerpt: 'How to configure the way Microsoft Windows participates in the master browser election.'

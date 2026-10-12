@@ -1,7 +1,6 @@
 ---
 title: 'Virtual Disk Service (VDS)'
 date: '2003-09-23T20:20:16+02:00'
-status: publish
 permalink: /article/winnt-services-vds.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Virtual Disk service.'

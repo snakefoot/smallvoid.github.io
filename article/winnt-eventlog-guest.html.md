@@ -1,7 +1,6 @@
 ---
 title: 'Restrict guest access to event logs'
 date: '2002-10-12T20:36:18+02:00'
-status: publish
 permalink: /article/winnt-eventlog-guest.html
 author: Snakefoot
 excerpt: 'The system event log can contain information, which can be used compromise the security.'

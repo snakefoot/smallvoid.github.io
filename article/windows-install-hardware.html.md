@@ -1,7 +1,6 @@
 ---
 title: 'Unplug hardware if Windows fails to install properly'
 date: '2001-01-01T12:01:54+01:00'
-status: publish
 permalink: /article/windows-install-hardware.html
 author: Snakefoot
 excerpt: 'Troubleshooting what is causing Windows not to install properly.'

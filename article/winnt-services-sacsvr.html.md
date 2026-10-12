@@ -1,7 +1,6 @@
 ---
 title: 'Special Administration Console Helper'
 date: '2003-09-21T18:56:57+02:00'
-status: publish
 permalink: /article/winnt-services-sacsvr.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Special Administration Console Helper service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Disable the page file to avoid using the slow HDD'
 date: '2002-06-19T02:40:59+02:00'
-status: publish
 permalink: /article/windows-disable-page-file.html
 author: Snakefoot
 excerpt: 'Disabling the page file to prevent Windows from unloading memory to the hard disk.'

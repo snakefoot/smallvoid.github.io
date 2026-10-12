@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Network Diagnostics Tool for Windows NT'
 date: '2002-05-27T17:02:42+02:00'
-status: publish
 permalink: /article/winnt-netdiag.html
 author: Snakefoot
 excerpt: 'NetDiag is a command line utility created by Microsoft that can be used diagnose network problems between two computers.'

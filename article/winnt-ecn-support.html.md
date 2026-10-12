@@ -1,7 +1,6 @@
 ---
 title: 'Activate support for Explicit Congestion Notification (ECN)'
 date: '2008-12-23T04:29:12+01:00'
-status: publish
 permalink: /article/winnt-ecn-support.html
 author: Snakefoot
 excerpt: 'Explicit Congestion Notification improves congestion handling for the TCP/IP protocol.'

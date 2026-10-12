@@ -1,7 +1,6 @@
 ---
 title: 'Remote Desktop Configuration'
 date: '2009-09-19T12:11:56+02:00'
-status: publish
 permalink: /article/winnt-services-sessionenv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Desktop Configuration service (RDCS).'

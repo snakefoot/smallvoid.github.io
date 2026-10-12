@@ -1,7 +1,6 @@
 ---
 title: Messenger
 date: '2000-06-06T14:11:08+02:00'
-status: publish
 permalink: /article/winnt-services-messenger.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Messenger service.'

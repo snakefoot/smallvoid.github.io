@@ -1,7 +1,6 @@
 ---
 title: 'Faster Acrobat Reader startup with optional plugins'
 date: '2004-11-26T00:24:57+01:00'
-status: publish
 permalink: /article/ie-acrobat-reader.html
 author: Snakefoot
 excerpt: 'Acrobat Reader can be quite slow to open PDF files in Internet Explorer.'

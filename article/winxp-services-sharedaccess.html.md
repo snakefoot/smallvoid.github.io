@@ -1,7 +1,6 @@
 ---
 title: 'Internet Connection Firewall (ICF)/Internet Connection Sharing (ICS)'
 date: '2000-07-23T02:20:12+02:00'
-status: publish
 permalink: /article/winxp-services-sharedaccess.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Firewall/Internet Connection Sharing (ICS) service.'

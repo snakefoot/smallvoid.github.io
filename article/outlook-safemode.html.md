@@ -1,7 +1,6 @@
 ---
 title: 'Outlook safemode command line switch'
 date: '2004-11-26T18:49:15+01:00'
-status: publish
 permalink: /article/outlook-safemode.html
 author: Snakefoot
 excerpt: 'Starting Outlook in safemode can be useful when troubleshooting Outlook.'

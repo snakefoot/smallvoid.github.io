@@ -1,7 +1,6 @@
 ---
 title: 'Windows XP theme styling utilities'
 date: '2001-11-29T23:33:22+01:00'
-status: publish
 permalink: /article/xp-visual-style.html
 author: Snakefoot
 excerpt: 'Utilities to make even more customizations to the Windows XP user interface.'

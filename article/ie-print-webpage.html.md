@@ -1,7 +1,6 @@
 ---
 title: 'Configure header and footer when printing web-pages'
 date: '2005-12-20T01:04:46+01:00'
-status: publish
 permalink: /article/ie-print-webpage.html
 author: Snakefoot
 excerpt: 'Internet Explorer has the ability to print web-pages and can put a custom header and footer on the printed page.'

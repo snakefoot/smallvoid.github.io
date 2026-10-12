@@ -1,7 +1,6 @@
 ---
 title: 'Send To Toys'
 date: '2007-07-02T07:45:00+02:00'
-status: publish
 permalink: /article/winnt-sendto-toys.html
 author: Snakefoot
 excerpt: 'Utility that can extend the functionality of the sendto context menu.'

@@ -1,7 +1,6 @@
 ---
 title: 'Software Protection'
 date: '2009-09-26T01:05:40+02:00'
-status: publish
 permalink: /article/winnt-services-sppsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Software Protection service.'

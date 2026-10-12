@@ -1,7 +1,6 @@
 ---
 title: 'Remote Access Auto Connection Manager'
 date: '2000-07-23T16:32:38+02:00'
-status: publish
 permalink: /article/winnt-services-rasauto.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Access Auto Connection Manager service.'

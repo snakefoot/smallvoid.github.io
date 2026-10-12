@@ -1,7 +1,6 @@
 ---
 title: 'The TCPIP nagle algorithm can slow down network'
 date: '2003-09-19T21:57:51+02:00'
-status: publish
 permalink: /article/winnt-nagle-algorithm.html
 author: Snakefoot
 excerpt: 'Description of the nagle algorithm effects on the network throughput, and how to configure the delayed ACK.'

@@ -1,7 +1,6 @@
 ---
 title: 'Restrict access to the OS/2 and POSIX subsystem'
 date: '2000-01-01T22:05:59+01:00'
-status: publish
 permalink: /article/winnt-subsystem.html
 author: Snakefoot
 excerpt: 'Disable legacy subsystems to prevent attackers from using these subsystems as base of attack.'

@@ -1,7 +1,6 @@
 ---
 title: 'MEM with enhanced listing of conventional memory'
 date: '2000-01-01T23:02:15+01:00'
-status: publish
 permalink: /article/mem-conventional-memory.html
 author: Snakefoot
 excerpt: 'Description of the special switch for MEM to diagnose conventional memory usage, and how to put it in a batch file.'

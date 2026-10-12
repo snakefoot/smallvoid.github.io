@@ -1,7 +1,6 @@
 ---
 title: 'Provoke a blue screen of death on command'
 date: '2001-09-03T20:27:01+02:00'
-status: publish
 permalink: /article/winnt-force-bsod.html
 author: Snakefoot
 excerpt: 'Using a special keyboard shortcut to create a blue screen of death with memory dump.'

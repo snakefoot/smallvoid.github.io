@@ -1,7 +1,6 @@
 ---
 title: 'Synchronizing Images and Files with SyncToy'
 date: '2005-09-25T18:22:05+02:00'
-status: publish
 permalink: /article/winnt-synctoy.html
 author: Snakefoot
 excerpt: 'SyncToy is an utility by Microsoft which can make the manual task of synchronizing files a little easier.'

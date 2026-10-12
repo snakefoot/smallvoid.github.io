@@ -1,7 +1,6 @@
 ---
 title: 'System Restore Service'
 date: '2003-06-05T19:12:24+02:00'
-status: publish
 permalink: /article/winnt-services-srservice.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the System Restore service.'

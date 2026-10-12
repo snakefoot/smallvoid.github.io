@@ -1,7 +1,6 @@
 ---
 title: 'COM+ System Application Service'
 date: '2003-06-05T00:22:25+02:00'
-status: publish
 permalink: /article/winnt-services-comsysapp.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the COM+ System Application service.'

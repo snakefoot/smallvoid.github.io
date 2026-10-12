@@ -1,7 +1,6 @@
 ---
 title: 'Allow viewing of CHM files across the network'
 date: '2006-10-10T00:13:48+02:00'
-status: publish
 permalink: /article/windows-chm-network.html
 author: Snakefoot
 excerpt: 'Microsoft security update MS05-026 blocks for viewing compressed HTML (CHM) files placed on a network drive.'

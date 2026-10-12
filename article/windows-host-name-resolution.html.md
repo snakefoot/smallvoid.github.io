@@ -1,7 +1,6 @@
 ---
 title: 'Description of host name resolution order'
 date: '2004-10-10T21:47:10+02:00'
-status: publish
 permalink: /article/windows-host-name-resolution.html
 author: Snakefoot
 excerpt: 'Description of the different ways Windows can convert a logical network name to a physical address.'

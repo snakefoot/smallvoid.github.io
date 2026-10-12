@@ -1,7 +1,6 @@
 ---
 title: 'FAT32 file system driver for Windows NT4'
 date: '2000-01-01T13:58:11+01:00'
-status: publish
 permalink: /article/winnt4-fat32-filesystem.html
 author: Snakefoot
 excerpt: 'SysInternals has created a FAT32 driver that allow one to mount and access FAT32 partitions.'

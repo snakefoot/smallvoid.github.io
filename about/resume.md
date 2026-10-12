@@ -1,7 +1,6 @@
 ---
 title: 'Rolf Kristensen''s Curriculum Vitae (CV)'
 date: '2006-11-18T15:55:05+01:00'
-status: publish
 permalink: /about/resume/
 author: Snakefoot
 excerpt: ''

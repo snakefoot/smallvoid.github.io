@@ -1,7 +1,6 @@
 ---
 title: 'Remote Desktop Services UserMode Port Redirector'
 date: '2009-09-20T21:37:06+02:00'
-status: publish
 permalink: /article/winnt-services-umrdpservice.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Desktop Services UserMode Port Redirector service.'

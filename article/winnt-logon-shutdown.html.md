@@ -1,7 +1,6 @@
 ---
 title: 'Allow users to shutdown the machine without login'
 date: '2000-01-01T22:25:11+01:00'
-status: publish
 permalink: /article/winnt-logon-shutdown.html
 author: Snakefoot
 excerpt: 'Extend the login dialog with the option to shutdown the computer without having given credentials.'

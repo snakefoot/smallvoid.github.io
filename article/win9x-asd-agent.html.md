@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Auto Skip Driver Agent'
 date: '2000-01-01T22:55:52+01:00'
-status: publish
 permalink: /article/win9x-asd-agent.html
 author: Snakefoot
 excerpt: 'Utility to diagnose what hardware devices have failed to start and have been disabled.'

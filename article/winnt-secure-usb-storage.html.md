@@ -1,7 +1,6 @@
 ---
 title: 'Restrict access to the USB storage devices'
 date: '2005-10-26T22:19:08+02:00'
-status: publish
 permalink: /article/winnt-secure-usb-storage.html
 author: Snakefoot
 excerpt: 'USB makes it easy to attach a storage device and steal valuable data from a computer.'

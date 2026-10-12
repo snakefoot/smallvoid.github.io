@@ -1,7 +1,6 @@
 ---
 title: 'Configure Outlook Express to use a tougher security policy'
 date: '2001-09-25T22:35:13+02:00'
-status: publish
 permalink: /article/outlook-express-security-zone.html
 author: Snakefoot
 excerpt: 'Changing Outlook Express to open emails in the Restricted Security zone to improve security.'

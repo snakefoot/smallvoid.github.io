@@ -1,7 +1,6 @@
 ---
 title: 'Error Reporting Service'
 date: '2003-06-05T02:59:08+02:00'
-status: publish
 permalink: /article/winnt-services-ersvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Error Reporting service.'

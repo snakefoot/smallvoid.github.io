@@ -1,7 +1,6 @@
 ---
 title: 'Change the license key before installing Windows XP'
 date: '2002-06-08T06:03:07+02:00'
-status: publish
 permalink: /article/winxp-install-license.html
 author: Snakefoot
 excerpt: 'Change the install license by updating the install files for Windows XP.'

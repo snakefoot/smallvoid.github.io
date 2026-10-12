@@ -1,7 +1,6 @@
 ---
 title: 'Background Intelligent Transfer Service (BITS)'
 date: '2002-08-06T23:41:41+02:00'
-status: publish
 permalink: /article/winnt-services-bits.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Background Intelligent Transfer service.'

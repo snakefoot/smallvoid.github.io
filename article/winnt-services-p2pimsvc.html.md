@@ -1,7 +1,6 @@
 ---
 title: 'Peer Networking Identity Manager'
 date: '2007-07-17T02:15:17+02:00'
-status: publish
 permalink: /article/winnt-services-p2pimsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Peer Networking Identity Manager service.'

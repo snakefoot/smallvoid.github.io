@@ -1,7 +1,6 @@
 ---
 title: 'Windows Time'
 date: '2000-07-06T23:21:37+02:00'
-status: publish
 permalink: /article/winnt-services-w32time.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Time service.'

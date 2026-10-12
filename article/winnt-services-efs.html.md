@@ -1,7 +1,6 @@
 ---
 title: 'Encrypting File System (EFS)'
 date: '2009-09-18T18:59:30+02:00'
-status: publish
 permalink: /article/winnt-services-efs.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Encrypting File System (EFS) service.'

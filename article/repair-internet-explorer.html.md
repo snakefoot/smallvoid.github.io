@@ -1,7 +1,6 @@
 ---
 title: 'Repair Internet Explorer when it is no longer working'
 date: '2001-01-01T23:35:19+01:00'
-status: publish
 permalink: /article/repair-internet-explorer.html
 author: Snakefoot
 excerpt: 'Different steps for how to fix a broken Internet Explorer.'

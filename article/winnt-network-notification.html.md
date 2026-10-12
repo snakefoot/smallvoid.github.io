@@ -1,7 +1,6 @@
 ---
 title: 'Configure notification events received from mapped network shares'
 date: '2003-10-04T21:36:59+02:00'
-status: publish
 permalink: /article/winnt-network-notification.html
 author: Snakefoot
 excerpt: 'Windows Explorer sends a Change Notification request to the remote server when mapping a network share.'

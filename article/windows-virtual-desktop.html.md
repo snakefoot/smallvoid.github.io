@@ -1,7 +1,6 @@
 ---
 title: 'Windows virtual desktop management utilities'
 date: '2001-11-29T13:30:31+01:00'
-status: publish
 permalink: /article/windows-virtual-desktop.html
 author: Snakefoot
 excerpt: 'Virtual Desktop Manager utilities can give even more room on the Windows desktop.'

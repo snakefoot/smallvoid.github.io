@@ -1,7 +1,6 @@
 ---
 title: 'Take advantage of message rules in Outlook Express'
 date: '2002-05-18T18:34:09+02:00'
-status: publish
 permalink: /article/outlook-express-message-rules.html
 author: Snakefoot
 excerpt: 'Outlook Express can be configured to perform certain actions when an email is received, which is expressed in message rules.'

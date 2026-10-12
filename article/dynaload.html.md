@@ -1,7 +1,6 @@
 ---
 title: Dynaload
 date: '2000-01-01T14:36:23+01:00'
-status: publish
 permalink: /article/dynaload.html
 author: Snakefoot
 excerpt: 'Allows one to load device drivers from the command prompt instead of using the config.sys.'

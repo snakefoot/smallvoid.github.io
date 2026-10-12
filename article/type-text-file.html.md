@@ -1,7 +1,6 @@
 ---
 title: 'Using TYPE to create and edit text files'
 date: '2000-01-01T11:10:01+01:00'
-status: publish
 permalink: /article/type-text-file.html
 author: Snakefoot
 excerpt: 'How to use the TYPE command to perform file manipulation on text files.'

@@ -1,7 +1,6 @@
 ---
 title: 'Windows Firewall'
 date: '2007-07-17T02:17:39+02:00'
-status: publish
 permalink: /article/winnt-services-mpssvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Firewall service.'

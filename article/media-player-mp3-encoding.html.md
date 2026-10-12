@@ -1,7 +1,6 @@
 ---
 title: 'Changing the available bit rates for encoding mp3'
 date: '2001-11-29T01:55:05+01:00'
-status: publish
 permalink: /article/media-player-mp3-encoding.html
 author: Snakefoot
 excerpt: 'Configure the bit rate of the predefined quality levels for mp3 encoding in Media Player 8.'

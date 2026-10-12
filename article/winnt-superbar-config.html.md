@@ -1,7 +1,6 @@
 ---
 title: 'Configure the taskbar in Windows 7'
 date: '2009-09-21T00:34:41+02:00'
-status: publish
 permalink: /article/winnt-superbar-config.html
 author: Snakefoot
 excerpt: 'Windows 7 introduces a new taskbar design (aka. superbar), that should make it easier to keep track of applications.'

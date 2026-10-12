@@ -1,7 +1,6 @@
 ---
 title: 'Custom 404 page on IIS with correct http return code'
 date: '2008-09-01T22:52:26+02:00'
-status: publish
 permalink: /article/wordpress-iis-404.html
 author: Snakefoot
 excerpt: 'Creating a custom 404 page for WordPress running on IIS.'

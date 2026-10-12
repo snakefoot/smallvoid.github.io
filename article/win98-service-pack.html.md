@@ -1,7 +1,6 @@
 ---
 title: 'Windows 98 SE Service Pack'
 date: '2001-11-21T01:08:29+01:00'
-status: publish
 permalink: /article/win98-service-pack.html
 author: Snakefoot
 excerpt: 'Microsoft Windows 98 updates put into a single package.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the cluster size of the hard disk partition'
 date: '2000-01-01T00:08:31+01:00'
-status: publish
 permalink: /article/cluster-hard-disk-partition.html
 author: Snakefoot
 excerpt: 'How to change the cluster size of a partition with description of the different filesystems and their limitations.'

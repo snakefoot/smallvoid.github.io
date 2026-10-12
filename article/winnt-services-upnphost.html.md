@@ -1,7 +1,6 @@
 ---
 title: 'Universal Plug and Play (UPnP) Device Host'
 date: '2003-06-05T20:02:10+02:00'
-status: publish
 permalink: /article/winnt-services-upnphost.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Universal Plug and Play Device Host service.'

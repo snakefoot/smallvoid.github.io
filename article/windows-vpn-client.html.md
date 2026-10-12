@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft L2TP/IPSec VPN Client'
 date: '2003-07-10T21:57:07+02:00'
-status: publish
 permalink: /article/windows-vpn-client.html
 author: Snakefoot
 excerpt: 'VPN client to create a secure network connection to any server supporting L2TP/IPsec connections.'

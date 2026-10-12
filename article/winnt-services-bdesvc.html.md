@@ -1,7 +1,6 @@
 ---
 title: 'BitLocker Drive Encryption Service'
 date: '2009-09-16T10:53:45+02:00'
-status: publish
 permalink: /article/winnt-services-bdesvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the BitLocker Drive Encryption Service.'

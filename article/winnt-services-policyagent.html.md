@@ -1,7 +1,6 @@
 ---
 title: 'IPSEC Policy Agent'
 date: '2000-07-23T02:30:42+02:00'
-status: publish
 permalink: /article/winnt-services-policyagent.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the IPSEC services.'

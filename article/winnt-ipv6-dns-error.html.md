@@ -1,7 +1,6 @@
 ---
 title: 'Using TCP/IP Version 6 (IPv6) can make network slow'
 date: '2006-02-01T01:06:43+01:00'
-status: publish
 permalink: /article/winnt-ipv6-dns-error.html
 author: Snakefoot
 excerpt: 'Before activating TCP/IP Version 6 then one should make sure that the DNS server is able to handle IPv6 properly.'

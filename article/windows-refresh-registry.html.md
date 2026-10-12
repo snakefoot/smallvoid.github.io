@@ -1,7 +1,6 @@
 ---
 title: 'Reload the registry by restarting Explorer.exe'
 date: '2001-01-01T14:07:20+01:00'
-status: publish
 permalink: /article/windows-refresh-registry.html
 author: Snakefoot
 excerpt: 'How one can reload the HKEY\_CURRENT\_USER registry hive without needing a restart.'

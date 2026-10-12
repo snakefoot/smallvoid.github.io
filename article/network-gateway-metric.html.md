@@ -1,7 +1,6 @@
 ---
 title: 'Using router metric to specify primary gateway'
 date: '2002-01-23T21:50:03+01:00'
-status: publish
 permalink: /article/network-gateway-metric.html
 author: Snakefoot
 excerpt: 'Description of how router metric works, and how to use it to prioritise gateways and perform simple load balancing.'

@@ -1,7 +1,6 @@
 ---
 title: 'Uninterruptible Power Supply (UPS)'
 date: '2000-06-06T19:59:11+02:00'
-status: publish
 permalink: /article/winnt-services-ups.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Uninterruptible Power Supply service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the explorer file sort to be like in Windows 2000'
 date: '2003-01-10T20:51:55+01:00'
-status: publish
 permalink: /article/winnt-explorer-filesort.html
 author: Snakefoot
 excerpt: 'Windows Explorer file sorting can be changed from logical number compare to just one digit at a time.'

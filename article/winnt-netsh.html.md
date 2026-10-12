@@ -1,7 +1,6 @@
 ---
 title: 'Reset WinSock/TCPIP or manage several network configs'
 date: '2000-01-01T23:51:11+01:00'
-status: publish
 permalink: /article/winnt-netsh.html
 author: Snakefoot
 excerpt: 'How to use the utility Netsh to reset or change the network configuration.'

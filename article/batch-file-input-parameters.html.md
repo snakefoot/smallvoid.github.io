@@ -1,7 +1,6 @@
 ---
 title: 'Using batch file input parameters'
 date: '2001-01-01T11:33:39+01:00'
-status: publish
 permalink: /article/batch-file-input-parameters.html
 author: Snakefoot
 excerpt: 'How batch files gets input parameters and how to access these parameters in the batch file.'

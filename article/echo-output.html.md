@@ -1,7 +1,6 @@
 ---
 title: 'Using ECHO for outputting'
 date: '2000-01-01T01:00:33+01:00'
-status: publish
 permalink: /article/echo-output.html
 author: Snakefoot
 excerpt: 'Description of the ECHO command and the possible ways to make output.'

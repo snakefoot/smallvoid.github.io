@@ -1,7 +1,6 @@
 ---
 title: 'Configure TCPIP Max Transfer Unit (MTU) size'
 date: '2007-07-05T02:43:11+02:00'
-status: publish
 permalink: /article/vista-tcpip-mtu.html
 author: Snakefoot
 excerpt: 'Changing the Max Transfer Unit (MTU) to avoid packet fragmentation and connection loss.'

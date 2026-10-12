@@ -1,7 +1,6 @@
 ---
 title: 'Apply the DirextX runtime installer after updating drivers'
 date: '2000-01-01T02:03:21+01:00'
-status: publish
 permalink: /article/windows-update-directx.html
 author: Snakefoot
 excerpt: 'Update the DirectX runtime after installing new drivers to prevent conflicts.'

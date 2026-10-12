@@ -1,7 +1,6 @@
 ---
 title: 'Quick shutdown in Windows 98'
 date: '2003-02-22T19:40:22+01:00'
-status: publish
 permalink: /article/win98-fast-reboot.html
 author: Snakefoot
 excerpt: 'How to configure the fast shutdown feature in Windows 98.'

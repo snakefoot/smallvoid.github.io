@@ -1,7 +1,6 @@
 ---
 title: 'Remove Windows Me real mode DOS limitation'
 date: '2001-04-02T22:57:34+02:00'
-status: publish
 permalink: /article/winme-real-mode-dos.html
 author: Snakefoot
 excerpt: 'Utilities for modifying the boot files to access real mode DOS in WinMe.'

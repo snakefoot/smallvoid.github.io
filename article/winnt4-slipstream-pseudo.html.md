@@ -1,7 +1,6 @@
 ---
 title: 'Pseudo slipstream in Windows NT4'
 date: '2004-10-13T06:22:12+02:00'
-status: publish
 permalink: /article/winnt4-slipstream-pseudo.html
 author: Snakefoot
 excerpt: 'Windows NT4 does not support slip streaming, but it is possible to make a few changes.'

@@ -1,7 +1,6 @@
 ---
 title: 'Bluetooth Support Service'
 date: '2009-09-16T11:13:42+02:00'
-status: publish
 permalink: /article/winnt-services-bthserv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Bluetooth Support Service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Terminal Services Licensing'
 date: '2000-07-23T19:44:07+02:00'
-status: publish
 permalink: /article/winnt-services-termservlicensing.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Terminal Services Licensing service.'

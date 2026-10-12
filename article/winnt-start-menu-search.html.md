@@ -1,7 +1,6 @@
 ---
 title: 'Faster start menu search by not searching all files'
 date: '2007-07-02T07:44:52+02:00'
-status: publish
 permalink: /article/winnt-start-menu-search.html
 author: Snakefoot
 excerpt: 'The start menu search in Windows Vista will by default search all folders and files in My Documents folder.'

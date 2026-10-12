@@ -1,7 +1,6 @@
 ---
 title: 'Increase HDD speed with disk cache'
 date: '2000-01-01T15:45:44+01:00'
-status: publish
 permalink: /article/hdd-disk-cache-smartdrv.html
 author: Snakefoot
 excerpt: 'Description of how a disk cache will help HDD performance, and how to activate the smart drive disk cache.'

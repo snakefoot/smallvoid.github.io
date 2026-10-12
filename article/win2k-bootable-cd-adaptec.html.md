@@ -1,7 +1,6 @@
 ---
 title: 'Create Win2k bootable CD using Adaptec CD Creator'
 date: '2003-02-28T05:43:37+01:00'
-status: publish
 permalink: /article/win2k-bootable-cd-adaptec.html
 author: Snakefoot
 excerpt: 'Using Adaptec Easy CD Creator 5.02d to make a bootable install cd for Windows 2000.'

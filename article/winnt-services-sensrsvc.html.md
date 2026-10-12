@@ -1,7 +1,6 @@
 ---
 title: 'Adaptive Brightness'
 date: '2009-09-16T01:13:16+02:00'
-status: publish
 permalink: /article/winnt-services-sensrsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Adaptive Brightness service.'

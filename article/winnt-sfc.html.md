@@ -1,7 +1,6 @@
 ---
 title: 'Using the System File Checker in Windows 2000 / XP'
 date: '2001-01-26T23:56:55+01:00'
-status: publish
 permalink: /article/winnt-sfc.html
 author: Snakefoot
 excerpt: 'System File Checker is able to verify that system files are intact.'

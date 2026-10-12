@@ -1,7 +1,6 @@
 ---
 title: 'Mapping folder as a virtual drive letter using subst'
 date: '2007-09-26T23:49:44+02:00'
-status: publish
 permalink: /article/windows-subst-folder.html
 author: Snakefoot
 excerpt: 'Mount a file folder as a drive-letter, like a shortcut to make it easier to access the folder.'

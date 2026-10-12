@@ -1,7 +1,6 @@
 ---
 title: 'License Logging Service'
 date: '2000-06-06T13:49:44+02:00'
-status: publish
 permalink: /article/winnt-services-licenseservice.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the License Logging service.'

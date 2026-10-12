@@ -1,7 +1,6 @@
 ---
 title: 'Recover deleted NTFS/FAT32 partition'
 date: '2006-01-10T01:53:26+01:00'
-status: publish
 permalink: /article/winnt-recover-partition.html
 author: Snakefoot
 excerpt: 'When deleting a partition then only the boot sector is modified, so by restoring the boot sector, then one will restore the partition.'

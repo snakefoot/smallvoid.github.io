@@ -1,7 +1,6 @@
 ---
 title: 'Restrict Internet Explorer when not accessing trusted sites'
 date: '2001-09-25T22:30:14+02:00'
-status: publish
 permalink: /article/ie-restrict-untrusted.html
 author: Snakefoot
 excerpt: 'Internet Explorer can be locked down so only trusted websites can activate ActiveX and use cookies for tracking.'

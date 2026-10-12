@@ -1,7 +1,6 @@
 ---
 title: 'Faster boot times by using static IP instead of DHCP'
 date: '2001-01-01T02:55:11+01:00'
-status: publish
 permalink: /article/dhcp-static-ip.html
 author: Snakefoot
 excerpt: 'Description of how to configure a computer network without a DHCP server.'

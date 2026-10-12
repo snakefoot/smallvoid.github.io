@@ -1,7 +1,6 @@
 ---
 title: 'More than 2 downloads at a time with Internet Explorer'
 date: '2000-07-23T13:51:23+02:00'
-status: publish
 permalink: /article/ie-download-limit.html
 author: Snakefoot
 excerpt: 'The HTTP 1.1 specification dictates that a browser should only be allowed to have two simultaneous download connections.'

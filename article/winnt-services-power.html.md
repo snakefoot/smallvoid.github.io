@@ -1,7 +1,6 @@
 ---
 title: Power
 date: '2009-09-19T01:11:06+02:00'
-status: publish
 permalink: /article/winnt-services-power.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Power service.'

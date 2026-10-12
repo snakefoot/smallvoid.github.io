@@ -1,7 +1,6 @@
 ---
 title: 'Jerome''s keywords for Wordpress 2.0'
 date: '2007-09-22T14:44:50+02:00'
-status: publish
 permalink: /article/wordpress-jerome-keywords.html
 author: Snakefoot
 excerpt: 'Description of the different updates and fixes available for Jerome''s keywords.'

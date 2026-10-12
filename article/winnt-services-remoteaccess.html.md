@@ -1,7 +1,6 @@
 ---
 title: 'Routing and Remote Access Service (RRAS)'
 date: '2000-07-23T15:49:01+02:00'
-status: publish
 permalink: /article/winnt-services-remoteaccess.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Routing and Remote Access service.'

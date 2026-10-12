@@ -1,7 +1,6 @@
 ---
 title: 'Themes Service'
 date: '2003-06-05T19:52:54+02:00'
-status: publish
 permalink: /article/winnt-services-themes.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Themes service.'

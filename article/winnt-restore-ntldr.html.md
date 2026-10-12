@@ -1,7 +1,6 @@
 ---
 title: 'Restore boot manager when NTLDR is missing'
 date: '2006-02-25T01:59:43+01:00'
-status: publish
 permalink: /article/winnt-restore-ntldr.html
 author: Snakefoot
 excerpt: 'Windows NT will fail to boot if it cannot find the files used to load the boot manager.'

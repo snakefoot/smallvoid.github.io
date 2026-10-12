@@ -1,7 +1,6 @@
 ---
 title: 'Configure the Shutdown Event Tracker'
 date: '2004-07-08T22:41:06+02:00'
-status: publish
 permalink: /article/winnt-shutdown-event-tracker.html
 author: Snakefoot
 excerpt: 'The shutdown event tracker forces the user to give a reason for restarting the computer.'

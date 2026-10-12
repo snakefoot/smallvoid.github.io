@@ -1,7 +1,6 @@
 ---
 title: 'Performance Logs &amp; Alerts'
 date: '2007-07-17T02:15:21+02:00'
-status: publish
 permalink: /article/winnt-services-pla.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Performance Logs &amp; Alerts service.'

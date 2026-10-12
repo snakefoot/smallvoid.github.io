@@ -1,7 +1,6 @@
 ---
 title: 'Configure autocomplete for Internet Explorer'
 date: '2003-08-10T00:11:06+02:00'
-status: publish
 permalink: /article/ie-autosuggest.html
 author: Snakefoot
 excerpt: 'Configure the behavior of auto completion in Internet Explorer.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the Attachment Manager in Windows XP SP2'
 date: '2006-10-10T00:22:39+02:00'
-status: publish
 permalink: /article/ie-attachment-manager.html
 author: Snakefoot
 excerpt: 'Windows XP SP2 includes the ability to mark files downloaded from the Internet as insecure and block access to them.'

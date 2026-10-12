@@ -1,7 +1,6 @@
 ---
 title: 'Configure and troubleshoot Windows Management Instrumentation'
 date: '2000-07-23T22:23:09+02:00'
-status: publish
 permalink: /article/winnt-wmi-config.html
 author: Snakefoot
 excerpt: 'Description of how to repair the Windows Management Instrumentation (WMI) repository.'

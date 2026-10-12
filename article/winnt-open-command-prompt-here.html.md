@@ -1,7 +1,6 @@
 ---
 title: 'Open Command Prompt Here'
 date: '2002-03-01T01:15:19+01:00'
-status: publish
 permalink: /article/winnt-open-command-prompt-here.html
 author: Snakefoot
 excerpt: 'Extend the right-click context-menu of a folder to open a command prompt.'

@@ -1,7 +1,6 @@
 ---
 title: 'Monitor system performane and system health'
 date: '2003-08-23T14:34:03+02:00'
-status: publish
 permalink: /article/winnt-cpu-temp.html
 author: Snakefoot
 excerpt: 'CPU core temperature monitoring utilities, that can give alerts if things gets too hot.'

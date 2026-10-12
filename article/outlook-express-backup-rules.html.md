@@ -1,7 +1,6 @@
 ---
 title: 'Backup and restore Outlook Express message rules'
 date: '2002-05-18T18:27:33+02:00'
-status: publish
 permalink: /article/outlook-express-backup-rules.html
 author: Snakefoot
 excerpt: 'Outlook Express message rules are stored in the Windows registry, which one can backup and restore.'

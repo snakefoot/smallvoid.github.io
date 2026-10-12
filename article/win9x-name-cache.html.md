@@ -1,7 +1,6 @@
 ---
 title: 'Configure the name cache for faster file lookup'
 date: '2000-01-01T18:50:34+01:00'
-status: publish
 permalink: /article/win9x-name-cache.html
 author: Snakefoot
 excerpt: 'How to change the role of the computer to be "Network Server".'

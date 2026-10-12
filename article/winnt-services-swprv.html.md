@@ -1,7 +1,6 @@
 ---
 title: 'MS Software Shadow Copy Provider'
 date: '2003-06-05T14:18:09+02:00'
-status: publish
 permalink: /article/winnt-services-swprv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the MS Software Shadow Copy Provider service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Adding FTP server / WebDAV folder as a network place'
 date: '2007-09-01T09:20:15+02:00'
-status: publish
 permalink: /article/winnt-web-network-place.html
 author: Snakefoot
 excerpt: 'Use Windows Explorer to browse a remote internet server by adding it as a network place.'

@@ -1,7 +1,6 @@
 ---
 title: 'Cryptographic Services'
 date: '2003-06-05T00:27:11+02:00'
-status: publish
 permalink: /article/winnt-services-cryptsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Cryptographic services.'

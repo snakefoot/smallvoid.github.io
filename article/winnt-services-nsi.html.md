@@ -1,7 +1,6 @@
 ---
 title: 'Network Store Interface Service'
 date: '2007-07-17T02:14:51+02:00'
-status: publish
 permalink: /article/winnt-services-nsi.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Network Store Interface Service.'

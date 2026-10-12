@@ -1,7 +1,6 @@
 ---
 title: 'Configure the amount of spare stack pages'
 date: '2001-01-01T00:07:54+01:00'
-status: publish
 permalink: /article/win9x-stack-pages.html
 author: Snakefoot
 excerpt: 'Increasing the amount of spare stack pages to handle stack overflow by bad drivers.'

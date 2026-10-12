@@ -1,7 +1,6 @@
 ---
 title: Samurize
 date: '2003-04-06T00:18:02+02:00'
-status: publish
 permalink: /article/windows-samurize-desktop.html
 author: Snakefoot
 excerpt: 'Advanced desktop enhancement engine that can gather all sorts of system details along with feeds from the Internet and place it all together on the desktop.'

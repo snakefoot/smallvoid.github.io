@@ -1,7 +1,6 @@
 ---
 title: 'Smart Card'
 date: '2000-07-23T18:49:28+02:00'
-status: publish
 permalink: /article/winnt-services-scardsvr.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Smart Card service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Creating a bootable USB stick'
 date: '2007-12-08T04:20:20+01:00'
-status: publish
 permalink: /article/windows-usb-boot.html
 author: Snakefoot
 excerpt: 'How to make a DOS bootdisk on a USB pen drive.'

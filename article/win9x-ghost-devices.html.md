@@ -1,7 +1,6 @@
 ---
 title: 'Improve system stability by removing ghost devices'
 date: '2002-10-26T02:03:55+02:00'
-status: publish
 permalink: /article/win9x-ghost-devices.html
 author: Snakefoot
 excerpt: 'Description of ghost devices and how they can be removed in safemode.'

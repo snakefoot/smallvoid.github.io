@@ -1,7 +1,6 @@
 ---
 title: 'Configure the file search to include all files types'
 date: '2003-01-10T20:44:52+01:00'
-status: publish
 permalink: /article/winnt-file-search-filter.html
 author: Snakefoot
 excerpt: 'Change whether the file search assistant should look through only registered file types or all files.'

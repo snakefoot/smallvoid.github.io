@@ -1,7 +1,6 @@
 ---
 title: 'Specify the size of the 2nd level on the CPU'
 date: '2000-01-01T14:00:36+01:00'
-status: publish
 permalink: /article/winnt4-second-level-cache.html
 author: Snakefoot
 excerpt: 'Windows has trouble with determining the size of the second level cache for older CPU''s.'

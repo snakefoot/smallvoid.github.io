@@ -1,7 +1,6 @@
 ---
 title: 'Utility Manager'
 date: '2000-07-23T20:16:47+02:00'
-status: publish
 permalink: /article/winnt-services-utilman.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Utility Manager service.'

@@ -1,7 +1,6 @@
 ---
 title: Review
 date: '2006-11-23T19:09:21+01:00'
-status: publish
 permalink: /links/review/
 author: Snakefoot
 excerpt: ''

@@ -1,7 +1,6 @@
 ---
 title: 'Boot Manager'
 date: '2001-01-31T16:11:17+01:00'
-status: publish
 permalink: /article/boot-manager.html
 author: Snakefoot
 excerpt: 'A boot manager can help with running multiple operating systems on the same machine.'

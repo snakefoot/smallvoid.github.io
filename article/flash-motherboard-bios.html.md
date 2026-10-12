@@ -1,7 +1,6 @@
 ---
 title: 'Checkpoints for fixing a bad or corrupt BIOS flash'
 date: '2002-08-14T22:20:53+02:00'
-status: publish
 permalink: /article/flash-motherboard-bios.html
 author: Snakefoot
 excerpt: 'Description of different alternative ways for recovering from a bad BIOS flash.'

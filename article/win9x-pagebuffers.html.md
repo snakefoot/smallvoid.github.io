@@ -1,7 +1,6 @@
 ---
 title: 'Configure the asynchronous disk access buffer'
 date: '2000-01-01T19:35:52+01:00'
-status: publish
 permalink: /article/win9x-pagebuffers.html
 author: Snakefoot
 excerpt: 'How to increase the size of the page buffer to hold more memory pages when doing disk access.'

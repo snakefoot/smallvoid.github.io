@@ -1,7 +1,6 @@
 ---
 title: 'Windows XP Schtasks.exe for Windows 2000'
 date: '2002-05-15T16:57:58+02:00'
-status: publish
 permalink: /article/win2k-task-scheduler-schtasks.html
 author: Snakefoot
 excerpt: 'Schtasks.exe from Windows XP that have been modified so it can be used in Windows 2000.'

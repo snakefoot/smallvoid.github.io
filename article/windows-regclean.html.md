@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Regclean'
 date: '2001-01-01T10:10:47+01:00'
-status: publish
 permalink: /article/windows-regclean.html
 author: Snakefoot
 excerpt: 'Registry cleaner to remove entries from the registry.'

@@ -1,7 +1,6 @@
 ---
 title: 'Windows Remote Management (WS-Management)'
 date: '2007-07-17T02:18:21+02:00'
-status: publish
 permalink: /article/winnt-services-winrm.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Remote Management (WS-Management) service.'

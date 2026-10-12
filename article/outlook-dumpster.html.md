@@ -1,7 +1,6 @@
 ---
 title: 'Enable dumpster in Outlook to recover deleted messages'
 date: '2004-11-26T18:58:36+01:00'
-status: publish
 permalink: /article/outlook-dumpster.html
 author: Snakefoot
 excerpt: 'When deleting a mail in Outlook, then it can still be restored through the Exchange server.'

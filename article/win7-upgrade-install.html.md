@@ -1,7 +1,6 @@
 ---
 title: 'Perform clean install using Windows 7 upgrade'
 date: '2009-10-24T23:34:57+02:00'
-status: publish
 permalink: /article/win7-upgrade-install.html
 author: Snakefoot
 excerpt: 'Install Windows 7 using only the upgrade DVD without needing to install it twice.'

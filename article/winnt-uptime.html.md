@@ -1,7 +1,6 @@
 ---
 title: 'UpTime utility for displaying the time since the last reboot'
 date: '2001-01-01T16:48:38+01:00'
-status: publish
 permalink: /article/winnt-uptime.html
 author: Snakefoot
 excerpt: 'Uptime is a command line utility by Microsoft for displaying the time since the last reboot.'

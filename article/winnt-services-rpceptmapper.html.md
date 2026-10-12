@@ -1,7 +1,6 @@
 ---
 title: 'RPC Endpoint Mapper'
 date: '2009-09-20T22:41:40+02:00'
-status: publish
 permalink: /article/winnt-services-rpceptmapper.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the RPC Endpoint Mapper service.'

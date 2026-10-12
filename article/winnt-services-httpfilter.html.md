@@ -1,7 +1,6 @@
 ---
 title: 'HTTP SSL / SSL for HTTP.SYS'
 date: '2003-09-21T02:03:58+02:00'
-status: publish
 permalink: /article/winnt-services-httpfilter.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the HTTP SSL service.'

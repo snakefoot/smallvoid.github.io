@@ -1,7 +1,6 @@
 ---
 title: 'Configure the caching of thumbnails in thumbs.db'
 date: '2004-08-05T00:24:38+02:00'
-status: publish
 permalink: /article/windows-thumbnail-cache.html
 author: Snakefoot
 excerpt: 'Thumbnail View uses a cache to allow quicker viewing of folders with pictures, and one can change the quality of these thumbnails.'

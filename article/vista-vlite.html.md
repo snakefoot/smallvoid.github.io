@@ -1,7 +1,6 @@
 ---
 title: 'vLite - Vista Lite deployment tool'
 date: '2007-07-02T07:45:30+02:00'
-status: publish
 permalink: /article/vista-vlite.html
 author: Snakefoot
 excerpt: 'Configure the perfect Windows installation before actually installing.'

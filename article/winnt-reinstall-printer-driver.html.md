@@ -1,7 +1,6 @@
 ---
 title: 'Reinstall printer drivers in Windows NT'
 date: '2004-10-13T00:37:10+02:00'
-status: publish
 permalink: /article/winnt-reinstall-printer-driver.html
 author: Snakefoot
 excerpt: 'Changing printer drivers in Windows NT can cause problems, and can require that the old drivers are remove manually first.'

@@ -1,7 +1,6 @@
 ---
 title: 'Wireless Zero Configuration (WZC)'
 date: '2000-07-23T23:47:10+02:00'
-status: publish
 permalink: /article/winnt-services-wzcsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Wireless Zero Configuration service.'

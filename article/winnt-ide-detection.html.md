@@ -1,7 +1,6 @@
 ---
 title: 'Disable detection of non-existing IDE devices at every boot'
 date: '2001-03-20T01:09:03+01:00'
-status: publish
 permalink: /article/winnt-ide-detection.html
 author: Snakefoot
 excerpt: 'Faster boot times by not spending time on detecting non-existing IDE devices.'

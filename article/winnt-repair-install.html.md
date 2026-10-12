@@ -1,7 +1,6 @@
 ---
 title: 'Recover Windows installation by repair or reinstall'
 date: '2004-06-10T21:38:33+02:00'
-status: publish
 permalink: /article/winnt-repair-install.html
 author: Snakefoot
 excerpt: 'Different solutions for recovering a broken Windows installation.'

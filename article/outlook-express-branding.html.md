@@ -1,7 +1,6 @@
 ---
 title: 'Configure Outlook Express branding'
 date: '2002-02-02T17:53:25+01:00'
-status: publish
 permalink: /article/outlook-express-branding.html
 author: Snakefoot
 excerpt: 'How to put the company name in the title of the Outlook Express application.'

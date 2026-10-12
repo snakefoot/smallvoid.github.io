@@ -1,7 +1,6 @@
 ---
 title: 'Windows Backup'
 date: '2007-07-17T02:16:59+02:00'
-status: publish
 permalink: /article/winnt-services-sdrsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Backup service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Run commands automatically at command prompt start'
 date: '2003-02-28T21:45:12+01:00'
-status: publish
 permalink: /article/winnt-command-prompt-autorun.html
 author: Snakefoot
 excerpt: 'Execute commands when opening the command prompt to configure the command prompt or the environment.'

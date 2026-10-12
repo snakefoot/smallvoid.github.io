@@ -1,7 +1,6 @@
 ---
 title: 'Configure Max Transfer Unit (MTU) size for the TCPIP stack'
 date: '2000-12-31T22:47:43+01:00'
-status: publish
 permalink: /article/winnt4-tcpip-mtu.html
 author: Snakefoot
 excerpt: 'Changing the Max Transfer Unit (MTU) to avoid packet fragmentation and loss of VPN connection.'

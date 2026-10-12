@@ -1,7 +1,6 @@
 ---
 title: 'USB driver for Windows NT4'
 date: '2006-02-18T14:08:55+01:00'
-status: publish
 permalink: /article/winnt4-usb-driver.html
 author: Snakefoot
 excerpt: 'Open access to USB devices in Windows NT4 by installing these USB drivers.'

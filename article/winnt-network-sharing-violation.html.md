@@ -1,7 +1,6 @@
 ---
 title: 'Configure automatic handling of network file sharing violations'
 date: '2005-06-23T22:19:36+02:00'
-status: publish
 permalink: /article/winnt-network-sharing-violation.html
 author: Snakefoot
 excerpt: 'Sharing violations on files placed on network shares are retried while they block immediately with local files.'

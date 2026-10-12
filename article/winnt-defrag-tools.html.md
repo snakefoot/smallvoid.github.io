@@ -1,7 +1,6 @@
 ---
 title: 'Defragmentation utilities to remove file fragmentation'
 date: '2000-01-01T19:42:36+01:00'
-status: publish
 permalink: /article/winnt-defrag-tools.html
 author: Snakefoot
 excerpt: 'Different utilities available to keep file fragmentation at a low level, and maintain good hard disk performance.'

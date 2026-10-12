@@ -1,7 +1,6 @@
 ---
 title: 'Convert FAT16 and FAT32 partition to NTFS'
 date: '2002-12-31T00:45:31+01:00'
-status: publish
 permalink: /article/winnt-convert-ntfs.html
 author: Snakefoot
 excerpt: 'Description of the different issues that can arise when converting from FAT16 and FAT32 partitions to NTFS.'

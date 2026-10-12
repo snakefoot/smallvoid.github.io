@@ -1,7 +1,6 @@
 ---
 title: 'Tablet PC Input Service'
 date: '2007-07-17T02:16:24+02:00'
-status: publish
 permalink: /article/winnt-services-tabletinputservice.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Tablet PC Input Service.'

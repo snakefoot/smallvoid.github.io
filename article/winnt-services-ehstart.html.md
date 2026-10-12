@@ -1,7 +1,6 @@
 ---
 title: 'Windows Media Center Service Launcher'
 date: '2007-07-17T02:18:01+02:00'
-status: publish
 permalink: /article/winnt-services-ehstart.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Media Center Service Launcher service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Download install files for Internet Explorer 5 or 6'
 date: '2000-01-01T23:04:55+01:00'
-status: publish
 permalink: /article/ie-install-files.html
 author: Snakefoot
 excerpt: 'The install files for Internet Explorer can be downloaded to perform offline installation.'

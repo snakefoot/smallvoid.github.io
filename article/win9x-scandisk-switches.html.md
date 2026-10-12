@@ -1,7 +1,6 @@
 ---
 title: 'Scandisk command line switches'
 date: '2000-01-01T23:24:34+01:00'
-status: publish
 permalink: /article/win9x-scandisk-switches.html
 author: Snakefoot
 excerpt: 'List of the available command line switches for scandisk.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure and troubleshoot Background Intelligent Transfer Service'
 date: '2002-08-06T23:55:16+02:00'
-status: publish
 permalink: /article/winnt-bits-config.html
 author: Snakefoot
 excerpt: 'Control how much of the bandwidth the Background Intelligent Transfer Service (BITS) is allowed to use.'

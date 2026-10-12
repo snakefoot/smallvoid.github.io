@@ -1,7 +1,6 @@
 ---
 title: 'Reset IE Content Advisor password'
 date: '2000-01-01T22:41:05+01:00'
-status: publish
 permalink: /article/ie-content-advisor.html
 author: Snakefoot
 excerpt: 'Recover access to the content advisor configuration by resetting the password.'

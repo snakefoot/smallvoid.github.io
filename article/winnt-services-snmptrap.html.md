@@ -1,7 +1,6 @@
 ---
 title: 'SNMP Trap'
 date: '2007-07-17T02:16:07+02:00'
-status: publish
 permalink: /article/winnt-services-snmptrap.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the SNMP Trap service.'

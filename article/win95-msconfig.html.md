@@ -1,7 +1,6 @@
 ---
 title: 'Windows 98 SE Msconfig'
 date: '2001-01-01T01:45:55+01:00'
-status: publish
 permalink: /article/win95-msconfig.html
 author: Snakefoot
 excerpt: 'Utility to see what applications are configured to load at Windows startup.'

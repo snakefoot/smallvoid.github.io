@@ -1,7 +1,6 @@
 ---
 title: 'Encrypted backup to OneDrive or DropBox'
 date: '2016-08-07T22:09:08+02:00'
-status: publish
 permalink: /article/encrypted-backup-cloud.html
 author: Snakefoot
 excerpt: 'Create removable encrypted hard-disk-image, and use that for Windows Backup.'

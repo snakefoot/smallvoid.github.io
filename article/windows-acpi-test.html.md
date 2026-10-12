@@ -1,7 +1,6 @@
 ---
 title: 'ACPI Compatibility Test'
 date: '2001-01-01T21:14:04+01:00'
-status: publish
 permalink: /article/windows-acpi-test.html
 author: Snakefoot
 excerpt: 'Utility to verify the system hardware and firmware (BIOS) compliance with the ACPI specification.'

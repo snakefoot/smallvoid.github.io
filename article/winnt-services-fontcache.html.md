@@ -1,7 +1,6 @@
 ---
 title: 'Windows Presentation Foundation Font Cache'
 date: '2007-07-17T02:18:16+02:00'
-status: publish
 permalink: /article/winnt-services-fontcache.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Presentation Foundation Font Cache service.'

@@ -1,7 +1,6 @@
 ---
 title: BgInfo
 date: '2006-01-01T23:58:57+01:00'
-status: publish
 permalink: /article/windows-bginfo.html
 author: Snakefoot
 excerpt: 'Utility that can generate a wallpaper, which includes the computer system details.'

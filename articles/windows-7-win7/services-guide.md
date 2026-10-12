@@ -1,7 +1,6 @@
 ---
 title: Windows 7 Services Guide
 date: '2006-11-14T23:28:05+01:00'
-status: publish
 permalink: /articles/windows-7-win7/services-guide/
 author: Snakefoot
 excerpt: ''

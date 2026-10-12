@@ -1,7 +1,6 @@
 ---
 title: 'Easy compressing and extracting using batch files'
 date: '2000-01-01T23:30:43+01:00'
-status: publish
 permalink: /article/pkunzip-pkzip-batch.html
 author: Snakefoot
 excerpt: 'How to wrap a batch file around the pkzip and pkunzip command line utiltities.'

@@ -1,7 +1,6 @@
 ---
 title: 'Task Scheduler'
 date: '2000-06-06T16:26:04+02:00'
-status: publish
 permalink: /article/winnt-services-schedule.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Task Scheduler service.'

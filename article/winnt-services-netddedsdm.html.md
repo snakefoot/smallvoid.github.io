@@ -1,7 +1,6 @@
 ---
 title: 'Network DDE DSDM'
 date: '2000-06-06T15:34:47+02:00'
-status: publish
 permalink: /article/winnt-services-netddedsdm.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Network DDE DSDM service.'

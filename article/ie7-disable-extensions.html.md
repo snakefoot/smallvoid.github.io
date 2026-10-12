@@ -1,7 +1,6 @@
 ---
 title: 'Start Internet Explorer with extensions and addons disabled'
 date: '2006-11-02T20:27:44+01:00'
-status: publish
 permalink: /article/ie7-disable-extensions.html
 author: Snakefoot
 excerpt: 'Disabling the browser helper objects can be useful when troubleshooting Internet Explorer.'

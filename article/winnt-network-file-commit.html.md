@@ -1,7 +1,6 @@
 ---
 title: 'Configure commit write for files on network shares'
 date: '2005-06-23T22:56:08+02:00'
-status: publish
 permalink: /article/winnt-network-file-commit.html
 author: Snakefoot
 excerpt: 'Network file server can ignore client file flush requests and thus increase the network file performance.'

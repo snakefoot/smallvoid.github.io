@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft iSCSI Initiator Service'
 date: '2007-07-17T02:14:28+02:00'
-status: publish
 permalink: /article/winnt-services-msiscsi.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Microsoft iSCSI Initiator Service.'

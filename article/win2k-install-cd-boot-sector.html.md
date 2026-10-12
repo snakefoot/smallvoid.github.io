@@ -1,7 +1,6 @@
 ---
 title: 'Extract boot sector from Windows 2000 CD using CDRWIN'
 date: '2003-02-28T04:47:55+01:00'
-status: publish
 permalink: /article/win2k-install-cd-boot-sector.html
 author: Snakefoot
 excerpt: 'When creating a bootable cd then one must provide a boot sector, which can be extracted from the original cd.'

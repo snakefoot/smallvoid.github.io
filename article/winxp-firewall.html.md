@@ -1,7 +1,6 @@
 ---
 title: 'Setting up an Internet Connection Firewall (ICF)'
 date: '2002-05-10T00:17:58+02:00'
-status: publish
 permalink: /article/winxp-firewall.html
 author: Snakefoot
 excerpt: 'How to configure the Windows XP firewall rules for incoming connections.'

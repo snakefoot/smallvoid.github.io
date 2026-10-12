@@ -1,7 +1,6 @@
 ---
 title: 'Backup and restore the Outlook Personal Folders file (PST)'
 date: '2005-11-10T18:42:35+01:00'
-status: publish
 permalink: /article/outlook-backup-personal-folders.html
 author: Snakefoot
 excerpt: 'Outlook stores the addresses and emails in a PST file, which one can backup and restore.'

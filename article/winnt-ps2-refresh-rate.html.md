@@ -1,7 +1,6 @@
 ---
 title: 'Changing PS/2 mouse refresh rate'
 date: '2001-01-01T13:08:03+01:00'
-status: publish
 permalink: /article/winnt-ps2-refresh-rate.html
 author: Snakefoot
 excerpt: 'Improve the precision and smoothness of your ps/2 device by increasing the sample rate.'

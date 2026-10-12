@@ -1,7 +1,6 @@
 ---
 title: 'Program startup order in Windows 9x'
 date: '2004-02-15T01:39:19+01:00'
-status: publish
 permalink: /article/win9x-startup-order.html
 author: Snakefoot
 excerpt: 'Description of where and in what order programs are loaded at startup.'

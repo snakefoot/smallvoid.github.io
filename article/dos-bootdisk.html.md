@@ -1,7 +1,6 @@
 ---
 title: 'DOS Bootdisk'
 date: '2002-03-16T15:34:55+01:00'
-status: publish
 permalink: /article/dos-bootdisk.html
 author: Snakefoot
 excerpt: 'The bootdisk can be used to install or repair the operating system on the computer.'

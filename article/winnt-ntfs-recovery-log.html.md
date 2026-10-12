@@ -1,7 +1,6 @@
 ---
 title: 'Configure the Recovery Log on stressed NTFS Volumes'
 date: '2003-11-15T12:46:14+01:00'
-status: publish
 permalink: /article/winnt-ntfs-recovery-log.html
 author: Snakefoot
 excerpt: 'How to change the size of the NTFS transaction log to handle peak loads.'

@@ -1,7 +1,6 @@
 ---
 title: 'Distributed Link Tracking Server'
 date: '2000-07-23T01:12:49+02:00'
-status: publish
 permalink: /article/winnt-services-trksrv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Distributed Link Tracking Server service.'

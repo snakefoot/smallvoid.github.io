@@ -1,7 +1,6 @@
 ---
 title: 'Configure network file system aliasing'
 date: '2005-06-23T22:47:06+02:00'
-status: publish
 permalink: /article/winnt-network-system-aliasing.html
 author: Snakefoot
 excerpt: 'Disabling system aliasing can free resources but will disable mounting and reparse points'

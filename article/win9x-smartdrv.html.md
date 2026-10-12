@@ -1,7 +1,6 @@
 ---
 title: 'Using smart drive for faster boot time'
 date: '2003-08-09T00:17:51+02:00'
-status: publish
 permalink: /article/win9x-smartdrv.html
 author: Snakefoot
 excerpt: 'Optimize the boot time of Windows by using the DOS disk cache until the Windows disk cache takes over.'

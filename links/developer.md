@@ -1,7 +1,6 @@
 ---
 title: Developer
 date: '2006-11-23T19:09:36+01:00'
-status: publish
 permalink: /links/developer/
 author: Snakefoot
 excerpt: ''

@@ -1,7 +1,6 @@
 ---
 title: 'Mapping network printer to LTP1'
 date: '2009-10-15T21:50:14+02:00'
-status: publish
 permalink: /article/winnt-map-printer.html
 author: Snakefoot
 excerpt: 'How to solve access denied error when trying to map network printer to LPT1'

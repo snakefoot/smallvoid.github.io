@@ -1,7 +1,6 @@
 ---
 title: 'Configure the branding of Internet Explorer'
 date: '2000-01-01T22:30:39+01:00'
-status: publish
 permalink: /article/ie-branding.html
 author: Snakefoot
 excerpt: 'Internet Explorer can be modified to display company name or company pictures.'

@@ -1,7 +1,6 @@
 ---
 title: 'Use process affinity to lock application to a single core'
 date: '2010-01-21T02:31:13+01:00'
-status: publish
 permalink: /article/winnt-process-affinity.html
 author: Snakefoot
 excerpt: 'Applications optimized to run on single CPU systems, will perform worse on multi CPU systems.'

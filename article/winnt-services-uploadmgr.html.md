@@ -1,7 +1,6 @@
 ---
 title: 'Upload Manager'
 date: '2003-06-05T20:13:30+02:00'
-status: publish
 permalink: /article/winnt-services-uploadmgr.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Upload Manager service.'

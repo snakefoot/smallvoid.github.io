@@ -1,7 +1,6 @@
 ---
 title: 'DFS Replication'
 date: '2007-07-17T02:13:15+02:00'
-status: publish
 permalink: /article/winnt-services-dfsr.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the DFS Replication service.'

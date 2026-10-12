@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Baseline Security Analyzer'
 date: '2003-07-27T17:42:38+02:00'
-status: publish
 permalink: /article/winnt-security-analyzer.html
 author: Snakefoot
 excerpt: 'Utility for analyzing the computer configuration and alerts if any security issues are detected.'

@@ -1,7 +1,6 @@
 ---
 title: 'Open access to the Upper Memory Block (UMB)'
 date: '2000-01-01T14:56:22+01:00'
-status: publish
 permalink: /article/upper-memory-block-umb.html
 author: Snakefoot
 excerpt: 'Description of the Upper Memory Block (UMB) and how to open access to it with Emm386.exe.'

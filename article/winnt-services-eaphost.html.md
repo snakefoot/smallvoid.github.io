@@ -1,7 +1,6 @@
 ---
 title: 'Extensible Authentication Protocol'
 date: '2007-07-17T02:13:35+02:00'
-status: publish
 permalink: /article/winnt-services-eaphost.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Extensible Authentication Protocol service.'

@@ -1,7 +1,6 @@
 ---
 title: 'PnP-X IP Bus Enumerator'
 date: '2007-07-17T02:15:26+02:00'
-status: publish
 permalink: /article/winnt-services-ipbusenum.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the PnP-X IP Bus Enumerator service.'

@@ -1,7 +1,6 @@
 ---
 title: 'COM+ Event System'
 date: '2000-07-23T00:10:59+02:00'
-status: publish
 permalink: /article/winnt-services-eventsystem.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the COM+ Event System service.'

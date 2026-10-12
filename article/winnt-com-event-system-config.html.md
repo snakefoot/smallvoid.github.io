@@ -1,7 +1,6 @@
 ---
 title: 'Configure and troubleshoot COM+ Event System service'
 date: '2000-07-23T00:17:16+02:00'
-status: publish
 permalink: /article/winnt-com-event-system-config.html
 author: Snakefoot
 excerpt: 'How to repair a broken COM+ catalog and reinstall COM+ services.'

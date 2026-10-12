@@ -1,7 +1,6 @@
 ---
 title: 'Manage temporary files to minimize file fragmentation'
 date: '2000-01-01T03:02:02+01:00'
-status: publish
 permalink: /article/windows-temporary-files.html
 author: Snakefoot
 excerpt: 'How temporary files cause file fragmentation and different RAM disk options.'

@@ -1,7 +1,6 @@
 ---
 title: 'Terminal Services Configuration'
 date: '2007-07-17T02:16:29+02:00'
-status: publish
 permalink: /article/vista-services-sessionenv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Terminal Services Configuration service (TSCS).'

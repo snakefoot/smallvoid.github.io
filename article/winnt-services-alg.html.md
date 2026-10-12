@@ -1,7 +1,6 @@
 ---
 title: 'Application Layer Gateway'
 date: '2003-06-05T23:16:28+02:00'
-status: publish
 permalink: /article/winnt-services-alg.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Application Layer Gateway service.'

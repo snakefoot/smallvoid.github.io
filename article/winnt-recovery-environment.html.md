@@ -1,7 +1,6 @@
 ---
 title: 'Windows Recovery Environment'
 date: '2007-10-30T01:03:49+01:00'
-status: publish
 permalink: /article/winnt-recovery-environment.html
 author: Snakefoot
 excerpt: 'Windows Vista includes a Windows Preinstallation Environment, which allows easier and more advanced system recovery.'

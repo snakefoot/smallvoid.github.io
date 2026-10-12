@@ -1,7 +1,6 @@
 ---
 title: 'Print Spooler'
 date: '2000-06-06T16:15:49+02:00'
-status: publish
 permalink: /article/winnt-services-spooler.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Print Spooler service.'

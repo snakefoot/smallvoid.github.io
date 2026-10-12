@@ -1,7 +1,6 @@
 ---
 title: 'Mapping FTP server as a network drive letter'
 date: '2007-09-01T09:19:37+02:00'
-status: publish
 permalink: /article/ftp-map-network-drive.html
 author: Snakefoot
 excerpt: 'Utilities for mounting a FTP folder as a mapped netwok drive.'

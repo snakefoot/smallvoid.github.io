@@ -1,7 +1,6 @@
 ---
 title: 'Quick restart by holding down the shift-key'
 date: '1999-12-31T19:40:20+01:00'
-status: publish
 permalink: /article/win9x-quick-reboot.html
 author: Snakefoot
 excerpt: 'How to use the Shift-key on the keyboard to activate faster reboot.'

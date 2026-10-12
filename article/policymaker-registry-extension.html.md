@@ -1,7 +1,6 @@
 ---
 title: 'PolicyMaker Registry Extension'
 date: '2005-12-20T14:30:38+01:00'
-status: publish
 permalink: /article/policymaker-registry-extension.html
 author: Snakefoot
 excerpt: 'Utility for creating group policy ADM files from registry files.'

@@ -1,7 +1,6 @@
 ---
 title: 'Disable search history for Windows Explorer in Windows 7'
 date: '2009-08-29T00:57:50+02:00'
-status: publish
 permalink: /article/winnt-explorer-search-history.html
 author: Snakefoot
 excerpt: 'Stop auto suggestion of recent file searches in the Windows Explorer search box.'

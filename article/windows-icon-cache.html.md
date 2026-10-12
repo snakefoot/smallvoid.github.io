@@ -1,7 +1,6 @@
 ---
 title: 'Rebuild icon cache to fix incorrectly displayed icons'
 date: '2003-07-04T23:05:45+02:00'
-status: publish
 permalink: /article/windows-icon-cache.html
 author: Snakefoot
 excerpt: 'The icon cache can become corrupted and lead to icons being garbled.'

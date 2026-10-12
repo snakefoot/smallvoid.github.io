@@ -1,7 +1,6 @@
 ---
 title: 'Internet Connection Sharing (ICS)'
 date: '2000-07-23T19:48:58+02:00'
-status: publish
 permalink: /article/winnt-services-sharedaccess.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Internet Connection Sharing (ICS) service.'

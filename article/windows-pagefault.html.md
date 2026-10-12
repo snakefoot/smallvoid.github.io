@@ -1,7 +1,6 @@
 ---
 title: 'Description of soft and hard page faults'
 date: '2015-11-17T01:04:23+01:00'
-status: publish
 permalink: /article/windows-pagefault.html
 author: Snakefoot
 excerpt: 'Description of how Windows optimizes the virtual memory to minimize the need for hard pagefaults.'

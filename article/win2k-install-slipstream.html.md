@@ -1,7 +1,6 @@
 ---
 title: 'Slipstream Service pack before installing Windows 2000'
 date: '2001-01-01T04:39:25+01:00'
-status: publish
 permalink: /article/win2k-install-slipstream.html
 author: Snakefoot
 excerpt: 'Apply the service pack before making the install for a faster and more secure install.'

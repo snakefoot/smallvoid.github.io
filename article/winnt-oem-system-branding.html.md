@@ -1,7 +1,6 @@
 ---
 title: 'Change OEM branding of the system information applet'
 date: '2007-07-02T07:44:21+02:00'
-status: publish
 permalink: /article/winnt-oem-system-branding.html
 author: Snakefoot
 excerpt: 'The System Information applet can be modified to display OEM name and logo.'

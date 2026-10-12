@@ -1,7 +1,6 @@
 ---
 title: 'Windows Media Player Bonus Pack for Windows XP'
 date: '2002-04-17T16:10:56+02:00'
-status: publish
 permalink: /article/winxp-wmp-bonus.html
 author: Snakefoot
 excerpt: 'Microsoft have created several extensions to its Windows Media Player for Windows XP.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the file association for unknown file types'
 date: '2004-11-19T21:19:35+01:00'
-status: publish
 permalink: /article/winnt-file-association.html
 author: Snakefoot
 excerpt: 'Change whether it should use the Internet to determine what application to use for opening a file of an unknown type.'

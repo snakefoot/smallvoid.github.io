@@ -1,7 +1,6 @@
 ---
 title: 'Increase the number of concurrent HTTP connections'
 date: '2009-06-17T22:41:28+02:00'
-status: publish
 permalink: /article/ie-http-connections.html
 author: Snakefoot
 excerpt: 'Allow multiple downloads and better AJAX performance by increasing HTTP connection limit.'

@@ -1,7 +1,6 @@
 ---
 title: Server
 date: '2000-06-06T18:27:43+02:00'
-status: publish
 permalink: /article/winnt-services-lanmanserver.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Server service.'

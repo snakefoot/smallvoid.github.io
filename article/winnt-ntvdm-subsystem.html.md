@@ -1,7 +1,6 @@
 ---
 title: 'Disable the MSDOS and Win16 subsystem'
 date: '2010-01-21T01:32:25+01:00'
-status: publish
 permalink: /article/winnt-ntvdm-subsystem.html
 author: Snakefoot
 excerpt: 'For security measures then one should consider disabling the ability to launch the 16 bit subsystem.'

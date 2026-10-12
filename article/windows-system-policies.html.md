@@ -1,7 +1,6 @@
 ---
 title: 'Prevent loading of System Policies when logging on to network'
 date: '2003-02-21T14:18:11+01:00'
-status: publish
 permalink: /article/windows-system-policies.html
 author: Snakefoot
 excerpt: 'System Policies are useful when wanting to enforce a certain configuration or restriction on all computer and users in the domain.'

@@ -1,7 +1,6 @@
 ---
 title: 'Verbose status messages during boot, logon, logoff and shutdown'
 date: '2001-02-06T20:07:11+01:00'
-status: publish
 permalink: /article/winnt-verbose-boot.html
 author: Snakefoot
 excerpt: 'Extend the level of informational messages during Windows startup and shutdown.'

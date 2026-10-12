@@ -1,7 +1,6 @@
 ---
 title: 'Multimedia Class Scheduler'
 date: '2007-07-17T02:14:32+02:00'
-status: publish
 permalink: /article/winnt-services-mmcss.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Multimedia Class Scheduler service.'

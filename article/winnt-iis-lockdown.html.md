@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft IIS Lockdown Tool'
 date: '2002-11-01T17:24:19+01:00'
-status: publish
 permalink: /article/winnt-iis-lockdown.html
 author: Snakefoot
 excerpt: 'IIS Lockdown is an utility by Microsoft for setting up Internet Information Server in a secure way.'

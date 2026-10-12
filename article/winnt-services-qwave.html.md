@@ -1,7 +1,6 @@
 ---
 title: 'Quality Windows Audio Video Experience'
 date: '2007-07-17T02:15:49+02:00'
-status: publish
 permalink: /article/winnt-services-qwave.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Quality Windows Audio Video Experience service.'

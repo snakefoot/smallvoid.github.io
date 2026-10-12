@@ -1,7 +1,6 @@
 ---
 title: 'Wired AutoConfig'
 date: '2007-07-17T00:18:35+02:00'
-status: publish
 permalink: /article/winnt-services-dot3svc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Wired AutoConfig service.'

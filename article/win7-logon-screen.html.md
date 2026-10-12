@@ -1,7 +1,6 @@
 ---
 title: 'Configure the login and Welcome Screen in Win7'
 date: '2009-11-29T23:48:09+01:00'
-status: publish
 permalink: /article/win7-logon-screen.html
 author: Snakefoot
 excerpt: 'Microsoft Windows 7 no longer have the classic logon screen, which has been replaced by the Welcome Screen.'

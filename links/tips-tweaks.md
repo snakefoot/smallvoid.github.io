@@ -1,7 +1,6 @@
 ---
 title: 'Tips and tweaks'
 date: '2006-11-23T19:11:15+01:00'
-status: publish
 permalink: /links/tips-tweaks/
 author: Snakefoot
 excerpt: ''

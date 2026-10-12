@@ -1,7 +1,6 @@
 ---
 title: 'Stop your Outlook Express from spreading vira'
 date: '2001-09-25T18:25:14+02:00'
-status: publish
 permalink: /article/outlook-express-worms.html
 author: Snakefoot
 excerpt: 'Outlook Express can be used by malicious worms and virus to spread themselves using malformed HTML emails.'

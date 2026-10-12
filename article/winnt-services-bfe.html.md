@@ -1,7 +1,6 @@
 ---
 title: 'Base Filtering Engine'
 date: '2007-07-17T02:12:03+02:00'
-status: publish
 permalink: /article/winnt-services-bfe.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Base Filtering Engine (BFE) service.'

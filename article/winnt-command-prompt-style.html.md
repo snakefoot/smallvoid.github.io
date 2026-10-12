@@ -1,7 +1,6 @@
 ---
 title: 'Change look of the command prompt in Windows NT'
 date: '2003-02-28T21:40:02+01:00'
-status: publish
 permalink: /article/winnt-command-prompt-style.html
 author: Snakefoot
 excerpt: 'Description of how to extend the default command prompt to include more information than just the current directory.'

@@ -1,7 +1,6 @@
 ---
 title: 'Customize folders using the Active Desktop Web View'
 date: '2003-09-06T00:11:43+02:00'
-status: publish
 permalink: /article/windows-web-content.html
 author: Snakefoot
 excerpt: 'Active Desktop enables customization of folders like they were web pages.'

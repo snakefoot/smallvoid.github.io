@@ -1,7 +1,6 @@
 ---
 title: 'Using the System Restore in Windows Me'
 date: '2003-06-21T19:46:26+02:00'
-status: publish
 permalink: /article/winme-system-restore.html
 author: Snakefoot
 excerpt: 'Details of how System Restore works in Windows Me and how to configure it.'

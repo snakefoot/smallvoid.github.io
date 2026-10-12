@@ -1,7 +1,6 @@
 ---
 title: 'Serials and Cracks'
 date: '2006-11-23T21:00:32+01:00'
-status: publish
 permalink: /links/file-sharing/serials-cracks/
 author: Snakefoot
 excerpt: ''

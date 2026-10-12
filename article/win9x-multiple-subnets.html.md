@@ -1,7 +1,6 @@
 ---
 title: 'Configure several IP Addresses for a single network adapter'
 date: '2002-10-13T22:05:35+02:00'
-status: publish
 permalink: /article/win9x-multiple-subnets.html
 author: Snakefoot
 excerpt: 'How to configure a network adapter to be part of multiple subnets.'

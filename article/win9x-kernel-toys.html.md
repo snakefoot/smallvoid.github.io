@@ -1,7 +1,6 @@
 ---
 title: 'Windows 95 Kernel Toys'
 date: '2000-01-01T22:39:31+01:00'
-status: publish
 permalink: /article/win9x-kernel-toys.html
 author: Snakefoot
 excerpt: 'Kernel toys are small utilities created by Microsoft to make life easier.'

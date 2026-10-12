@@ -1,7 +1,6 @@
 ---
 title: 'Reinstall Internet Explorer in Windows XP'
 date: '2002-11-18T23:56:54+01:00'
-status: publish
 permalink: /article/winnt-reinstall-ie.html
 author: Snakefoot
 excerpt: 'How to reinstall Internet Explorer in Windows XP.'

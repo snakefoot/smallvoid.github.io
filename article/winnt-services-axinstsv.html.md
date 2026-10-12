@@ -1,7 +1,6 @@
 ---
 title: 'ActiveX Installer (AxInstSV)'
 date: '2009-09-14T22:00:01+02:00'
-status: publish
 permalink: /article/winnt-services-axinstsv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the ActiveX Installer (AxInstSV) service.'

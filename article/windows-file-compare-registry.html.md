@@ -1,7 +1,6 @@
 ---
 title: 'Using file compare to see changes made to the registry'
 date: '2001-01-01T12:48:29+01:00'
-status: publish
 permalink: /article/windows-file-compare-registry.html
 author: Snakefoot
 excerpt: 'How to see the registry changes of a certain action by using the file compare utility.'

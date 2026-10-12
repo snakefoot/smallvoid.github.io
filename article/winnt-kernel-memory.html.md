@@ -1,7 +1,6 @@
 ---
 title: 'Description of the kernel memory area in Windows NT'
 date: '2006-02-23T19:06:30+01:00'
-status: publish
 permalink: /article/winnt-kernel-memory.html
 author: Snakefoot
 excerpt: 'How the kernel memory area is divided into the different page pools.'

@@ -1,7 +1,6 @@
 ---
 title: 'Protected Storage'
 date: '2000-06-06T16:25:40+02:00'
-status: publish
 permalink: /article/winnt-services-protectedstorage.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Protected Storage service.'

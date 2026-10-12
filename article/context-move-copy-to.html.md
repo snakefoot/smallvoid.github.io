@@ -1,7 +1,6 @@
 ---
 title: 'Extend context menu with Move To and Copy To options'
 date: '2001-01-26T00:41:50+01:00'
-status: publish
 permalink: /article/context-move-copy-to.html
 author: Snakefoot
 excerpt: 'Add "Copy To Folder..." and "Move To Folder..." when right-clicking a file.'

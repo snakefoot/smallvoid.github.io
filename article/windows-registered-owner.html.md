@@ -1,7 +1,6 @@
 ---
 title: 'Customize the default registered identity'
 date: '2002-10-28T01:01:26+01:00'
-status: publish
 permalink: /article/windows-registered-owner.html
 author: Snakefoot
 excerpt: 'How to change the name and company registered as owner of the Windows installation.'

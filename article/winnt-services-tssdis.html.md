@@ -1,7 +1,6 @@
 ---
 title: 'Terminal Services Session Directory'
 date: '2003-09-21T19:49:02+02:00'
-status: publish
 permalink: /article/winnt-services-tssdis.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Terminal Services Session Directory service.'

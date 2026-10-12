@@ -1,7 +1,6 @@
 ---
 title: 'Configure caching of remote customized folders'
 date: '2005-11-16T20:32:46+01:00'
-status: publish
 permalink: /article/winnt-custom-folder-cache.html
 author: Snakefoot
 excerpt: 'Enable caching of desktop.ini can improve the speed of browsing custom folders on remote computers.'

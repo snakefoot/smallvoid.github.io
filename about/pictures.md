@@ -1,7 +1,6 @@
 ---
 title: Pictures
 date: '2007-06-16T22:26:43+02:00'
-status: publish
 permalink: /about/pictures/
 author: Snakefoot
 excerpt: ''

@@ -1,7 +1,6 @@
 ---
 title: 'Windows Audio Endpoint Builder'
 date: '2007-07-17T02:16:48+02:00'
-status: publish
 permalink: /article/winnt-services-audioendpointbuilder.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Audio Endpoint Builder service.'

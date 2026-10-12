@@ -1,7 +1,6 @@
 ---
 title: 'Increase the limit of concurrent TCPIP connections in Windows 9x'
 date: '2001-01-01T16:04:45+01:00'
-status: publish
 permalink: /article/win9x-tcpip-connection-limit.html
 author: Snakefoot
 excerpt: 'Configuring the TCPIP stack to increase the amount of concurrent connections in Windows 95 / 98 / Me.'

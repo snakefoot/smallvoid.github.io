@@ -1,7 +1,6 @@
 ---
 title: 'Configure the scanning for network shares and printers'
 date: '2003-06-09T21:41:28+02:00'
-status: publish
 permalink: /article/winnt-network-scan.html
 author: Snakefoot
 excerpt: 'The network crawler will automatically create shortcuts to the network shares and printers found on the netwok in My Network Places.'

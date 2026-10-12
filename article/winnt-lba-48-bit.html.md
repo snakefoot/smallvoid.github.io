@@ -1,7 +1,6 @@
 ---
 title: 'Enable support for hard disk above 137 GByte'
 date: '2002-10-12T22:17:24+02:00'
-status: publish
 permalink: /article/winnt-lba-48-bit.html
 author: Snakefoot
 excerpt: 'Things to be aware of when using a hard disk larger than 137 gigabyte.'

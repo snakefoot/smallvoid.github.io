@@ -1,7 +1,6 @@
 ---
 title: 'Hide computer from the other computers on the network'
 date: '2001-01-12T22:36:28+01:00'
-status: publish
 permalink: /article/winnt-hide-network.html
 author: Snakefoot
 excerpt: 'How to configure the computer not to announce itself on the Microsoft Network.'

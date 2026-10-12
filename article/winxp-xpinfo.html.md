@@ -1,7 +1,6 @@
 ---
 title: 'XPInfo can display the hardware changes since activation'
 date: '2001-11-09T15:36:20+01:00'
-status: publish
 permalink: /article/winxp-xpinfo.html
 author: Snakefoot
 excerpt: 'XPInfo was developed in the proces of trying to discover how Windows Product Activation works.'

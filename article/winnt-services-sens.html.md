@@ -1,7 +1,6 @@
 ---
 title: 'System Event Notification'
 date: '2000-06-06T19:04:14+02:00'
-status: publish
 permalink: /article/winnt-services-sens.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the System Event Notification service (SENS).'

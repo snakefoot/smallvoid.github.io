@@ -1,7 +1,6 @@
 ---
 title: 'Disable checking for scheduled tasks when browsing Win9x shares'
 date: '2001-01-01T00:01:43+01:00'
-status: publish
 permalink: /article/winnt-win9x-scheduled-tasks.html
 author: Snakefoot
 excerpt: 'When accessing the shares of a Win9x machine, then time is spend on checking for scheduled tasks.'

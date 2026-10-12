@@ -1,7 +1,6 @@
 ---
 title: 'Make sidebar and gadgets work with UAC disabled'
 date: '2009-09-21T00:48:35+02:00'
-status: publish
 permalink: /article/winnt-sidebar-uac.html
 author: Snakefoot
 excerpt: 'Windows 7 sidebar will by default not allow applications that requires administrator rights.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure a secure network login to a domain'
 date: '2003-09-08T21:37:57+02:00'
-status: publish
 permalink: /article/win9x-domain-login.html
 author: Snakefoot
 excerpt: 'Forcing the user to provide credentials before being allowed to use Windows 9x.'

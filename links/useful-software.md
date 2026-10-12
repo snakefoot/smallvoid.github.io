@@ -1,7 +1,6 @@
 ---
 title: 'Useful Software'
 date: '2006-11-23T19:09:50+01:00'
-status: publish
 permalink: /links/useful-software/
 author: Snakefoot
 excerpt: ''

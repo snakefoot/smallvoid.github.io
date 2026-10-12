@@ -1,7 +1,6 @@
 ---
 title: 'Removable Storage Manager (RSM)'
 date: '2000-07-23T15:40:03+02:00'
-status: publish
 permalink: /article/winnt-services-ntmssvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Removable Storage Manager service.'

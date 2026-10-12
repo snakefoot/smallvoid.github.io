@@ -1,7 +1,6 @@
 ---
 title: 'Installing NTBackup in Windows Vista / 2008'
 date: '2007-04-24T02:40:01+02:00'
-status: publish
 permalink: /article/vista-ntbackup-install.html
 author: Snakefoot
 excerpt: 'Windows Vista / 2008 does not include the NtBackup utility by default.'

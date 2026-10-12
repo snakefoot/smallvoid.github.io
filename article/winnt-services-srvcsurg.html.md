@@ -1,7 +1,6 @@
 ---
 title: 'Remote Administration Service'
 date: '2003-09-21T16:37:59+02:00'
-status: publish
 permalink: /article/winnt-services-srvcsurg.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Administration service.'

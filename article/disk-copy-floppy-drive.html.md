@@ -1,7 +1,6 @@
 ---
 title: 'Make disk copy with only one floppy drive'
 date: '2000-01-01T00:46:36+01:00'
-status: publish
 permalink: /article/disk-copy-floppy-drive.html
 author: Snakefoot
 excerpt: 'How to use the diskcopy command to copy floppy disks using only one floppy drive.'

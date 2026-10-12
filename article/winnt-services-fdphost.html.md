@@ -1,7 +1,6 @@
 ---
 title: 'Function Discovery Provider Host'
 date: '2007-07-17T02:13:40+02:00'
-status: publish
 permalink: /article/winnt-services-fdphost.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Function Discovery Provider Host service.'

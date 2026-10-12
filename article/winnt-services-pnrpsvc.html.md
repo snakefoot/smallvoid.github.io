@@ -1,7 +1,6 @@
 ---
 title: 'Peer Name Resolution Protocol'
 date: '2007-07-17T02:15:07+02:00'
-status: publish
 permalink: /article/winnt-services-pnrpsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Peer Name Resolution Protocol service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Open PDF in Internet Explorer 11 with Adobe Reader'
 date: '2014-01-11T14:21:29+01:00'
-status: publish
 permalink: /article/ie-epm-adobe-reader.html
 author: Snakefoot
 excerpt: 'How to fix Adobe Reader X so it will work with Internet Explorer 11 (x64) Enhanced Protection Mode'

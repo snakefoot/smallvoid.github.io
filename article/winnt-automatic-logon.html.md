@@ -1,7 +1,6 @@
 ---
 title: 'Configure Automatic Logon in Windows NT'
 date: '2003-02-28T00:11:51+01:00'
-status: publish
 permalink: /article/winnt-automatic-logon.html
 author: Snakefoot
 excerpt: 'Enabling automatic login so one doesn''t have to type username and password at every boot.'

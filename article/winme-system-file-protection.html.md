@@ -1,7 +1,6 @@
 ---
 title: 'Using the System File Protection in Windows Me'
 date: '2003-01-10T01:02:04+01:00'
-status: publish
 permalink: /article/winme-system-file-protection.html
 author: Snakefoot
 excerpt: 'System File Protection makes sure that critical system files are not overwritten.'

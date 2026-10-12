@@ -1,7 +1,6 @@
 ---
 title: 'Remote Desktop Services'
 date: '2009-09-20T12:01:56+02:00'
-status: publish
 permalink: /article/winnt-services-remotedesktop.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Desktop Services.'

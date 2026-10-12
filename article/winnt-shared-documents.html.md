@@ -1,7 +1,6 @@
 ---
 title: 'Remove the Shared Documents folder from My Computer'
 date: '2002-01-01T20:38:16+01:00'
-status: publish
 permalink: /article/winnt-shared-documents.html
 author: Snakefoot
 excerpt: 'The shared documents folder allows multiple users to exchange documents, pictures and other files on the same computer.'

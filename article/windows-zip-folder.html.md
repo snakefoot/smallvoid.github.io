@@ -1,7 +1,6 @@
 ---
 title: 'Install support for zip files as compressed folders'
 date: '2004-10-10T17:59:20+02:00'
-status: publish
 permalink: /article/windows-zip-folder.html
 author: Snakefoot
 excerpt: 'Extension for the Windows Explorer so zip files can be opened like a normal directory.'

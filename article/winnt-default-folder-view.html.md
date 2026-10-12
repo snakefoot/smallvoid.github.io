@@ -1,7 +1,6 @@
 ---
 title: 'Setting the default folder view for all folders'
 date: '2008-06-14T16:22:53+02:00'
-status: publish
 permalink: /article/winnt-default-folder-view.html
 author: Snakefoot
 excerpt: 'How to configure the Windows Explorer to display all folders the same way.'

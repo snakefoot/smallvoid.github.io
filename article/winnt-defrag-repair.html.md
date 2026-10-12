@@ -1,7 +1,6 @@
 ---
 title: 'Repair the builtin disk defragmenter'
 date: '2006-08-24T02:26:37+02:00'
-status: publish
 permalink: /article/winnt-defrag-repair.html
 author: Snakefoot
 excerpt: 'The disk defragmenter will fail to load if it not registered properly, or if the services it depends on are disabled.'

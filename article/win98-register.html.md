@@ -1,7 +1,6 @@
 ---
 title: 'Register Windows 98 without using registration wizard'
 date: '2000-01-01T23:33:57+01:00'
-status: publish
 permalink: /article/win98-register.html
 author: Snakefoot
 excerpt: 'Enable the Update Wizard without performing registration.'

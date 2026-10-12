@@ -1,7 +1,6 @@
 ---
 title: 'Configure and troubleshoot Secondary Logon service'
 date: '2000-07-23T16:07:25+02:00'
-status: publish
 permalink: /article/winnt-secondary-logon-config.html
 author: Snakefoot
 excerpt: 'How to use the Secondary Logon service to start an application with different user credentials.'

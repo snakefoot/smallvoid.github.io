@@ -1,7 +1,6 @@
 ---
 title: 'Extend context menu with "Open with..." for all files'
 date: '2000-01-01T23:43:45+01:00'
-status: publish
 permalink: /article/win9x-open-with-all-files.html
 author: Snakefoot
 excerpt: 'Configure the context-menu when right-clicking any file to show "Open with..."'

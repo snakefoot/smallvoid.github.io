@@ -1,7 +1,6 @@
 ---
 title: 'Configure timeout for application termination'
 date: '2000-01-01T01:22:42+01:00'
-status: publish
 permalink: /article/windows-application-timeout.html
 author: Snakefoot
 excerpt: 'Change when an application is considered as deadlocked and should be terminated.'

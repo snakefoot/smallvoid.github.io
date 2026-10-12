@@ -1,7 +1,6 @@
 ---
 title: 'Human Interface Device Access / HID Input Service'
 date: '2003-06-05T02:09:22+02:00'
-status: publish
 permalink: /article/winnt-services-hidserv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Human Interface Device Access service.'

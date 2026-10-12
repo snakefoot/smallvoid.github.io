@@ -1,7 +1,6 @@
 ---
 title: 'Change OEM branding of the Welcome Center'
 date: '2008-10-02T02:43:02+02:00'
-status: publish
 permalink: /article/winnt-oem-welcome-center.html
 author: Snakefoot
 excerpt: 'The Welcome Center applet can be modified to display OEM name and logo.'

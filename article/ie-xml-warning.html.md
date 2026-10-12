@@ -1,7 +1,6 @@
 ---
 title: 'Disable restriction warning when viewing XML files'
 date: '2006-10-12T01:11:21+02:00'
-status: publish
 permalink: /article/ie-xml-warning.html
 author: Snakefoot
 excerpt: 'Internet Explorer is restricted to not run scripts when viewing local webpages.'

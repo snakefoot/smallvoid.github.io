@@ -1,7 +1,6 @@
 ---
 title: 'Configure SMB signing in Windows 9x'
 date: '2003-02-28T21:14:19+01:00'
-status: publish
 permalink: /article/win9x-smb-signing.html
 author: Snakefoot
 excerpt: 'How to increase the security of the Microsoft network by enabling SMB signing.'

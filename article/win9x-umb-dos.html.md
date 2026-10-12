@@ -1,7 +1,6 @@
 ---
 title: 'Reserve the upper memory block to free conventional memory'
 date: '2000-01-01T19:12:17+01:00'
-status: publish
 permalink: /article/win9x-umb-dos.html
 author: Snakefoot
 excerpt: 'How to reserve the upper memory block and load the dos enviroment in high memory to free conventional memory.'

@@ -1,7 +1,6 @@
 ---
 title: 'Boot.ini switches used by the Boot Manager'
 date: '2000-01-01T00:42:31+01:00'
-status: publish
 permalink: /article/winnt-boot-ini.html
 author: Snakefoot
 excerpt: 'Boot.ini is used by the Boot Manager to determine the installed operating systems and what startup settings to use.'

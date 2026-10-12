@@ -1,7 +1,6 @@
 ---
 title: 'Change WinXP CD Key using WPA'
 date: '2002-06-08T21:11:56+02:00'
-status: publish
 permalink: /article/winxp-cd-key-wpa.html
 author: Snakefoot
 excerpt: 'By re-activating Windows XP then one gets the option to change the cd-key.'

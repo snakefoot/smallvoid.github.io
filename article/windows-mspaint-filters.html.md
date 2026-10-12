@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Office graphics filters for Mspaint'
 date: '2001-01-01T11:55:26+01:00'
-status: publish
 permalink: /article/windows-mspaint-filters.html
 author: Snakefoot
 excerpt: 'Microsoft Office graphic filters allows programs like Mspaint to work with formats like jpeg and gif.'

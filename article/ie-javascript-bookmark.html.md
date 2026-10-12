@@ -1,7 +1,6 @@
 ---
 title: 'Using dynamic javascript links in Favorites/Bookmarks'
 date: '2000-01-01T23:42:09+01:00'
-status: publish
 permalink: /article/ie-javascript-bookmark.html
 author: Snakefoot
 excerpt: 'Special javascript bookmarks makes it possible to execute scripts on the web page currently being viewed.'

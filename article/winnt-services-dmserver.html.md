@@ -1,7 +1,6 @@
 ---
 title: 'Logical Disk Manager'
 date: '2000-07-23T14:04:02+02:00'
-status: publish
 permalink: /article/winnt-services-dmserver.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Logical Disk Manager service.'

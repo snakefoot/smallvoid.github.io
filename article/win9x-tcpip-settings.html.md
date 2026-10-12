@@ -1,7 +1,6 @@
 ---
 title: 'Configure TCPIP stack settings in Windows 9x'
 date: '2001-01-01T15:35:24+01:00'
-status: publish
 permalink: /article/win9x-tcpip-settings.html
 author: Snakefoot
 excerpt: 'Description of the registry keys used for configuring the TCP/IP stack in Windows 95 / 98 / Me.'

@@ -1,7 +1,6 @@
 ---
 title: 'Security Configuration Manager Tool'
 date: '2003-09-24T18:10:14+02:00'
-status: publish
 permalink: /article/winnt-security-configuration-manager.html
 author: Snakefoot
 excerpt: 'Display the security tab for controlling NTFS permissions in Windows XP Home without using safemode.'

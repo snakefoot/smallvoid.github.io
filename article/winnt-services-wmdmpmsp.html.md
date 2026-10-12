@@ -1,7 +1,6 @@
 ---
 title: 'WMDM PMSP Service / Portable Media Serial Number'
 date: '2000-07-23T23:52:13+02:00'
-status: publish
 permalink: /article/winnt-services-wmdmpmsp.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Portable Media Serial Number service.'

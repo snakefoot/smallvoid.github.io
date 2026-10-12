@@ -1,7 +1,6 @@
 ---
 title: 'Create Windows 7 System Repair disk on USB stick'
 date: '2011-01-18T00:41:47+01:00'
-status: publish
 permalink: /article/winnt-usb-repair-disk.html
 author: Snakefoot
 excerpt: 'How to create a bootable Windows 7 System Repair disc on an USB pen drive.'

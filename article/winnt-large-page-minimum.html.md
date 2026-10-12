@@ -1,7 +1,6 @@
 ---
 title: 'Disable Page Size Extension for AMD Athlon XP'
 date: '2001-01-01T23:59:51+01:00'
-status: publish
 permalink: /article/winnt-large-page-minimum.html
 author: Snakefoot
 excerpt: 'Configure the Page Size Extension feature of the processor which is used to for activate large pages support.'

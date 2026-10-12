@@ -1,7 +1,6 @@
 ---
 title: 'Configure the picture used as background wallpaper'
 date: '2002-03-30T23:07:09+01:00'
-status: publish
 permalink: /article/windows-wallpaper.html
 author: Snakefoot
 excerpt: 'Configuring how the wallpaper should be displayed using registry settings.'

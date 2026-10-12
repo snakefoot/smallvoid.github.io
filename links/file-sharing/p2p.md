@@ -1,7 +1,6 @@
 ---
 title: P2P
 date: '2006-11-23T20:53:34+01:00'
-status: publish
 permalink: /links/file-sharing/p2p/
 author: Snakefoot
 excerpt: ''

@@ -1,7 +1,6 @@
 ---
 title: 'Restrict access to the registry over the network'
 date: '2002-02-03T22:02:56+01:00'
-status: publish
 permalink: /article/winnt-remote-registry.html
 author: Snakefoot
 excerpt: 'Manage what accounts that have remote access to the registry.'

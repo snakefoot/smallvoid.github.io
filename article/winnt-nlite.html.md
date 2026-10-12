@@ -1,7 +1,6 @@
 ---
 title: 'nLite - The ultimate deployment tool'
 date: '2005-05-28T06:26:20+02:00'
-status: publish
 permalink: /article/winnt-nlite.html
 author: Snakefoot
 excerpt: 'Configure the perfect Windows installation before actually installing.'

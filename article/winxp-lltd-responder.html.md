@@ -1,7 +1,6 @@
 ---
 title: 'Link Layer Topology Discovery (LLTD) Responder'
 date: '2007-07-02T07:45:20+02:00'
-status: publish
 permalink: /article/winxp-lltd-responder.html
 author: Snakefoot
 excerpt: 'The LLTD protocol makes it easier to get an overview of the available network devices and their configuration.'

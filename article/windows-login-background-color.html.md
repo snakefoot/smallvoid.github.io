@@ -1,7 +1,6 @@
 ---
 title: 'Changing the background color for the login screen'
 date: '2001-01-01T22:11:23+01:00'
-status: publish
 permalink: /article/windows-login-background-color.html
 author: Snakefoot
 excerpt: 'Changing the color of the desktop shown before a user has logged in.'

@@ -1,7 +1,6 @@
 ---
 title: 'Restrict access to the files stored on NTFS partitions'
 date: '2001-01-01T02:13:39+01:00'
-status: publish
 permalink: /article/ntfs-access-control.html
 author: Snakefoot
 excerpt: 'Using access control lists to improve the security for NTFS partitions.'

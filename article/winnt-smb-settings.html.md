@@ -1,7 +1,6 @@
 ---
 title: 'Optimizing the file sharing network to handle more traffic'
 date: '2001-01-01T23:48:14+01:00'
-status: publish
 permalink: /article/winnt-smb-settings.html
 author: Snakefoot
 excerpt: 'Prepare the file servers to handle a higher loads and allow the clients to make more requests.'

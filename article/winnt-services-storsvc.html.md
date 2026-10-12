@@ -1,7 +1,6 @@
 ---
 title: 'Storage Service'
 date: '2009-09-20T23:28:38+02:00'
-status: publish
 permalink: /article/winnt-services-storsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Storage Service.'

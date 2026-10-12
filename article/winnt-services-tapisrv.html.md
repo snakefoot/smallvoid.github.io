@@ -1,7 +1,6 @@
 ---
 title: Telephony
 date: '2000-06-06T19:21:04+02:00'
-status: publish
 permalink: /article/winnt-services-tapisrv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Telephony service.'

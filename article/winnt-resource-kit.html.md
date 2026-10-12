@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft support tools and resource kits'
 date: '2000-01-01T14:23:55+01:00'
-status: publish
 permalink: /article/winnt-resource-kit.html
 author: Snakefoot
 excerpt: 'Microsoft have created many utilities for management of the Windows NT operating system.'

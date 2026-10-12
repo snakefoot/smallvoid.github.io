@@ -1,7 +1,6 @@
 ---
 title: 'Windows XP boot visualizer to analyze the bootup phase'
 date: '2002-09-01T15:44:29+02:00'
-status: publish
 permalink: /article/winxp-bootvis.html
 author: Snakefoot
 excerpt: 'Microsoft created the tool bootvis for driver developers to see how their driver behaves during bootup.'

@@ -1,7 +1,6 @@
 ---
 title: 'Remove the splash screen in Outlook Express / Windows Mail'
 date: '2001-04-17T17:55:57+02:00'
-status: publish
 permalink: /article/outlook-express-splash-screen.html
 author: Snakefoot
 excerpt: 'The splash screen can be useful to see if an application is actually starting, but it can also be disabled.'

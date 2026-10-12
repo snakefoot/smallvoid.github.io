@@ -1,7 +1,6 @@
 ---
 title: 'Block Level Backup Engine Service'
 date: '2007-07-17T02:12:16+02:00'
-status: publish
 permalink: /article/winnt-services-wbengine.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Block Level Backup Engine service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Using Recovery Console in Windows 2000 / XP'
 date: '2001-06-05T00:34:29+02:00'
-status: publish
 permalink: /article/winnt-recovery-console.html
 author: Snakefoot
 excerpt: 'Recovery Console can be useful when performing system recovery.'

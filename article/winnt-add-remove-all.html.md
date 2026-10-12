@@ -1,7 +1,6 @@
 ---
 title: 'Display all components in the Control Panel Add/Remove applet'
 date: '2001-04-02T20:17:39+02:00'
-status: publish
 permalink: /article/winnt-add-remove-all.html
 author: Snakefoot
 excerpt: 'Windows does not by default display all items that can be uninstalled in the Add / Remove applet.'

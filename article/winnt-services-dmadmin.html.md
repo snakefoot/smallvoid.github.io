@@ -1,7 +1,6 @@
 ---
 title: 'Logical Disk Manager Administrative Service'
 date: '2000-07-23T14:11:07+02:00'
-status: publish
 permalink: /article/winnt-services-dmadmin.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Logical Disk Manager Administrative service.'

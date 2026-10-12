@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft .NET Framework NGEN'
 date: '2007-07-17T02:14:23+02:00'
-status: publish
 permalink: /article/winnt-services-clr-optimization.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Microsoft .NET Framework NGEN service.'

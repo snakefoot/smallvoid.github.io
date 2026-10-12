@@ -1,7 +1,6 @@
 ---
 title: 'Problem Reports and Solutions Control Panel Support'
 date: '2007-07-17T02:15:40+02:00'
-status: publish
 permalink: /article/winnt-services-wercplsupport.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Problem Reports and Solutions Control Panel Support service.'

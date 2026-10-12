@@ -1,7 +1,6 @@
 ---
 title: 'Defrag command line switches'
 date: '2007-09-13T00:51:33+02:00'
-status: publish
 permalink: /article/winnt-defrag-switches.html
 author: Snakefoot
 excerpt: 'List of the available command line switches for defrag.'

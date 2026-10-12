@@ -1,7 +1,6 @@
 ---
 title: 'Windows Defender'
 date: '2007-07-17T02:17:19+02:00'
-status: publish
 permalink: /article/winnt-services-windefend.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Defender service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Disable/Uninstall Windows Messenger in Windows XP'
 date: '2002-10-13T01:19:44+02:00'
-status: publish
 permalink: /article/windows-messenger-settings.html
 author: Snakefoot
 excerpt: 'Windows Messenger is an inter-message (IM) application created by Microsoft which is integrated into Microsoft Outlook.'

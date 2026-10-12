@@ -1,7 +1,6 @@
 ---
 title: 'Using the services management snapin to change the service state'
 date: '2003-07-30T01:10:37+02:00'
-status: publish
 permalink: /article/winnt-services-config.html
 author: Snakefoot
 excerpt: 'How to use the services management snapin to configure the state of the Windows services.'

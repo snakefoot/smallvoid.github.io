@@ -1,7 +1,6 @@
 ---
 title: 'Detect if a batch file is executed within Windows'
 date: '2000-01-01T18:47:03+01:00'
-status: publish
 permalink: /article/detect-batch-file-windows.html
 author: Snakefoot
 excerpt: 'How to use environment variables to detect that a batch file is executed within Windows.'

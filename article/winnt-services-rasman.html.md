@@ -1,7 +1,6 @@
 ---
 title: 'Remote Access Connection Manager'
 date: '2000-07-23T16:34:53+02:00'
-status: publish
 permalink: /article/winnt-services-rasman.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Access Connection Manager service.'

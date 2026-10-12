@@ -1,7 +1,6 @@
 ---
 title: 'Restore search context menu option in Vista SP1+'
 date: '2008-10-02T02:43:02+02:00'
-status: publish
 permalink: /article/winnt-search-context-menu.html
 author: Snakefoot
 excerpt: 'The "Search..." context menu option has been removed with Windows Vista Service Pack 1'

@@ -1,7 +1,6 @@
 ---
 title: 'Disable paging of drivers and kernel core'
 date: '2000-01-01T21:31:26+01:00'
-status: publish
 permalink: /article/winnt-core-paging.html
 author: Snakefoot
 excerpt: 'Prevent the Windows kernel core from being paged to disk.'

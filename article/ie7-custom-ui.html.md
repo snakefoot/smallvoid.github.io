@@ -1,7 +1,6 @@
 ---
 title: 'Customize the looks of Internet Explorer 7'
 date: '2007-01-27T18:02:00+01:00'
-status: publish
 permalink: /article/ie7-custom-ui.html
 author: Snakefoot
 excerpt: 'Registry settings for changing the user interface of Internet Explorer 7.'

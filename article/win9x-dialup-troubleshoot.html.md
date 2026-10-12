@@ -1,7 +1,6 @@
 ---
 title: 'Troubleshooting a dial up connection in Windows 9x'
 date: '2003-07-05T16:40:13+02:00'
-status: publish
 permalink: /article/win9x-dialup-troubleshoot.html
 author: Snakefoot
 excerpt: 'Collection of Microsoft articles to help in troubleshooting dialup modem failures.'

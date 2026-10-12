@@ -1,7 +1,6 @@
 ---
 title: 'Configure the file system cache in Windows NT'
 date: '2000-01-01T19:18:24+01:00'
-status: publish
 permalink: /article/winnt-system-cache.html
 author: Snakefoot
 excerpt: 'How to configure memory size of the file cache for faster file operations.'

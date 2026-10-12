@@ -1,7 +1,6 @@
 ---
 title: 'Change WinXP license before installing'
 date: '2002-06-08T21:21:13+02:00'
-status: publish
 permalink: /article/winxp-license-edition.html
 author: Snakefoot
 excerpt: 'How to change the Windows XP license by updating the install files, so it will accept a cd-key from a different license.'

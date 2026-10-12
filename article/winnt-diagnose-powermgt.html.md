@@ -1,7 +1,6 @@
 ---
 title: 'Troubleshoot problems with entering sleep mode'
 date: '2009-10-29T00:44:19+01:00'
-status: publish
 permalink: /article/winnt-diagnose-powermgt.html
 author: Snakefoot
 excerpt: 'Diagnose what is preventing your computer from entering sleep mode, or wakes it prematurely.'

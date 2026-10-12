@@ -1,7 +1,6 @@
 ---
 title: 'Distributed Transaction Coordinator'
 date: '2000-07-23T01:17:01+02:00'
-status: publish
 permalink: /article/winnt-services-msdtc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Distributed Transaction Coordinator service.'

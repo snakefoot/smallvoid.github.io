@@ -1,7 +1,6 @@
 ---
 title: 'Configure Windows Search to index file contents'
 date: '2008-12-25T20:41:11+01:00'
-status: publish
 permalink: /article/winnt-search-file-content.html
 author: Snakefoot
 excerpt: 'Configure Windows Search index filters to perform indexing of document and spreadsheets using IFilters.'

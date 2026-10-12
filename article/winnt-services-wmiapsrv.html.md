@@ -1,7 +1,6 @@
 ---
 title: 'WMI Performance Adapter'
 date: '2003-06-05T23:56:15+02:00'
-status: publish
 permalink: /article/winnt-services-wmiapsrv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the WMI Performance Adapter service.'

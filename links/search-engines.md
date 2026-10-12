@@ -1,7 +1,6 @@
 ---
 title: 'Search Engines'
 date: '2006-11-23T19:10:25+01:00'
-status: publish
 permalink: /links/search-engines/
 author: Snakefoot
 excerpt: ''

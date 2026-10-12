@@ -1,7 +1,6 @@
 ---
 title: 'Fast User Switching Compatibility'
 date: '2003-06-05T03:03:40+02:00'
-status: publish
 permalink: /article/winnt-services-fus.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Fast User Switching Compatibility service.'

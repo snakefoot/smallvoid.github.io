@@ -1,7 +1,6 @@
 ---
 title: 'Configure master browser election in Windows 9x'
 date: '2002-12-20T22:09:47+01:00'
-status: publish
 permalink: /article/win9x-master-browser.html
 author: Snakefoot
 excerpt: 'How to configure whether Windows 95 / 98 / Me should participate in the master browser election.'

@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Scriptomatic'
 date: '2004-10-28T18:17:18+02:00'
-status: publish
 permalink: /article/windows-scriptomatic.html
 author: Snakefoot
 excerpt: 'Scriptomatic makes it easy to extract system information through WMI using scripting.'

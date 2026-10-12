@@ -1,7 +1,6 @@
 ---
 title: 'Optimizing the dialup handshake in Windows 9x'
 date: '2001-01-01T16:36:48+01:00'
-status: publish
 permalink: /article/win9x-dialup-handshake.html
 author: Snakefoot
 excerpt: 'Make the dialup connection time faster by limiting the dialup protocols to only TCPIP.'

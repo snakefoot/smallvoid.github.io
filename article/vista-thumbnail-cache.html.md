@@ -1,7 +1,6 @@
 ---
 title: 'Configure the thumbnail cache for picture preview'
 date: '2007-09-17T22:41:15+02:00'
-status: publish
 permalink: /article/vista-thumbnail-cache.html
 author: Snakefoot
 excerpt: 'The thumbnail cache allows the Windows Explorer to show preview of pictures, but also makes the browsing slower.'

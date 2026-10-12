@@ -1,7 +1,6 @@
 ---
 title: 'Partition Resizer'
 date: '2002-03-30T15:49:08+01:00'
-status: publish
 permalink: /article/partition-resizer.html
 author: Snakefoot
 excerpt: 'Change the size of the existing partitions without needing to reformat.'

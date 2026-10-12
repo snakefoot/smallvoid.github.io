@@ -1,7 +1,6 @@
 ---
 title: 'Enlarge the output console screen'
 date: '2000-01-01T09:56:53+01:00'
-status: publish
 permalink: /article/output-console-screen.html
 author: Snakefoot
 excerpt: 'How to change the number of visible lines in a command prompt.'

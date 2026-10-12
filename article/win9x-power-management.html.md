@@ -1,7 +1,6 @@
 ---
 title: 'Disable power management features to maximize power usage'
 date: '2001-01-31T23:18:27+01:00'
-status: publish
 permalink: /article/win9x-power-management.html
 author: Snakefoot
 excerpt: 'Power Management support is not supported very well by Windows 9x and should be disabled.'

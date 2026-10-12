@@ -1,7 +1,6 @@
 ---
 title: 'Stop Regedit from remembering previous location'
 date: '2001-11-03T20:55:32+01:00'
-status: publish
 permalink: /article/winnt-regedit-lastkey.html
 author: Snakefoot
 excerpt: 'Configure whether the registry editor should show the last registry location when started.'

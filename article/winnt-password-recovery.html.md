@@ -1,7 +1,6 @@
 ---
 title: 'Password recovery utilities for Windows NT'
 date: '2000-01-01T01:43:12+01:00'
-status: publish
 permalink: /article/winnt-password-recovery.html
 author: Snakefoot
 excerpt: 'Utilities for offline editing of the password files to change the password, or perform recovery of the lost password.'

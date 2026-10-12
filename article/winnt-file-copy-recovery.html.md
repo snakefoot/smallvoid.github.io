@@ -1,7 +1,6 @@
 ---
 title: 'Copying files when the DVD or CD is scratched'
 date: '2008-12-25T21:15:19+01:00'
-status: publish
 permalink: /article/winnt-file-copy-recovery.html
 author: Snakefoot
 excerpt: 'When the media is filled with bad sectors, then one can still try to recover the good bits.'

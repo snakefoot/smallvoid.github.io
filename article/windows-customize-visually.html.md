@@ -1,7 +1,6 @@
 ---
 title: 'Customization of Windows visual appearance'
 date: '2001-11-29T23:57:13+01:00'
-status: publish
 permalink: /article/windows-customize-visually.html
 author: Snakefoot
 excerpt: 'Description of the different things that can be customized in Windows, and links to resources that can provide even more customization.'

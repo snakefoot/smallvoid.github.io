@@ -1,7 +1,6 @@
 ---
 title: Usenet
 date: '2006-11-23T20:55:26+01:00'
-status: publish
 permalink: /links/file-sharing/usenet/
 author: Snakefoot
 excerpt: ''

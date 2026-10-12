@@ -1,7 +1,6 @@
 ---
 title: 'Change location of the print spooler directory'
 date: '2001-01-12T19:59:43+01:00'
-status: publish
 permalink: /article/winnt-print-spool-folder.html
 author: Snakefoot
 excerpt: 'When printing a document, then the document is spooled into a temporary directory and then sent to the printer.'

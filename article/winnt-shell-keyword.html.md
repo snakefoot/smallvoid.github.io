@@ -1,7 +1,6 @@
 ---
 title: 'Access special folders easily using the shell command'
 date: '2008-11-01T15:41:07+01:00'
-status: publish
 permalink: /article/winnt-shell-keyword.html
 author: Snakefoot
 excerpt: 'How to use the shell keyword to quickly access special folders like the Send To folder.'

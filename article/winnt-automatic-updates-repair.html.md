@@ -1,7 +1,6 @@
 ---
 title: 'Configure and troubleshoot Automatic Updates'
 date: '2007-08-28T02:02:54+02:00'
-status: publish
 permalink: /article/winnt-automatic-updates-repair.html
 author: Snakefoot
 excerpt: 'Troubleshoot and repair Automatic Updates when it fails to perform Windows Update.'

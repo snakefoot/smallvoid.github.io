@@ -1,7 +1,6 @@
 ---
 title: 'Distributed Link Tracking Client'
 date: '2000-07-23T01:08:03+02:00'
-status: publish
 permalink: /article/winnt-services-trkwks.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Distributed Link Tracking Client service.'

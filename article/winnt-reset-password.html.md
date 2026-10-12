@@ -1,7 +1,6 @@
 ---
 title: 'Reset Administrator password to recover access'
 date: '2000-01-01T01:26:47+01:00'
-status: publish
 permalink: /article/winnt-reset-password.html
 author: Snakefoot
 excerpt: 'Deleting the password storage files to reset the Administrator password to recover system access.'

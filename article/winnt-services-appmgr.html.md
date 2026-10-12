@@ -1,7 +1,6 @@
 ---
 title: 'Remote Server Manager'
 date: '2003-09-21T15:26:25+02:00'
-status: publish
 permalink: /article/winnt-services-appmgr.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Server Manager service.'

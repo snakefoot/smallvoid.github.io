@@ -1,7 +1,6 @@
 ---
 title: 'Setting up Internet Connection Sharing'
 date: '2002-06-11T00:23:02+02:00'
-status: publish
 permalink: /article/winnt-internet-connection-sharing.html
 author: Snakefoot
 excerpt: 'How to configure Internet Connection Sharing to configure a gateway to the Internet for other computers.'

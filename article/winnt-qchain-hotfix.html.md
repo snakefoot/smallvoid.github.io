@@ -1,7 +1,6 @@
 ---
 title: 'QChain to install several hotfixes without restarting'
 date: '2001-01-01T15:05:51+01:00'
-status: publish
 permalink: /article/winnt-qchain-hotfix.html
 author: Snakefoot
 excerpt: 'QChain is created by Microsoft and allows several hotfixes to be chained together in a single install.'

@@ -1,7 +1,6 @@
 ---
 title: 'Windows Event Log'
 date: '2000-06-06T03:03:39+02:00'
-status: publish
 permalink: /article/winnt-services-eventlog.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Event Log service.'

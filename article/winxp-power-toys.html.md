@@ -1,7 +1,6 @@
 ---
 title: 'Windows XP Power Toys'
 date: '2001-10-26T01:49:33+02:00'
-status: publish
 permalink: /article/winxp-power-toys.html
 author: Snakefoot
 excerpt: 'Power toys created by Microsoft to enhance Windows even more.'

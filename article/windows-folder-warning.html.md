@@ -1,7 +1,6 @@
 ---
 title: 'Remove warning about modifying contents in the Windows-folder'
 date: '2001-01-01T23:38:26+01:00'
-status: publish
 permalink: /article/windows-folder-warning.html
 author: Snakefoot
 excerpt: 'Active Desktop makes it posssible to customize folders, and so the Windows folder is customized to avoid messing with the Windows system files.'

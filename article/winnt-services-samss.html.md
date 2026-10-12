@@ -1,7 +1,6 @@
 ---
 title: 'Security Accounts Manager (SAM)'
 date: '2000-06-06T16:45:58+02:00'
-status: publish
 permalink: /article/winnt-services-samss.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Security Accounts Manager service.'

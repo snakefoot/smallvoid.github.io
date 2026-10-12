@@ -1,7 +1,6 @@
 ---
 title: 'Install the deprecated NetBEUI protocol'
 date: '2001-11-09T00:34:13+01:00'
-status: publish
 permalink: /article/winnt-install-netbeui.html
 author: Snakefoot
 excerpt: 'How to install the NetBEUI protocol eventhough no longer a supported network protocol.'

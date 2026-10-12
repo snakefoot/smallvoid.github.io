@@ -1,7 +1,6 @@
 ---
 title: 'Improve latency for TCP by not waiting for Push flag'
 date: '2012-02-28T02:10:41+01:00'
-status: publish
 permalink: /article/winnt-tcp-push-flag.html
 author: Snakefoot
 excerpt: 'Description of how the Push Flag in the TCP Header can optimize network buffer usage, but can increase latency.'

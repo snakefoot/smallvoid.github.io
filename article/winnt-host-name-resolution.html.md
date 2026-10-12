@@ -1,7 +1,6 @@
 ---
 title: 'Configure host name resolution order in Windows NT'
 date: '2004-10-10T22:16:21+02:00'
-status: publish
 permalink: /article/winnt-host-name-resolution.html
 author: Snakefoot
 excerpt: 'Configure the priority of how it should lookup the physical network address of a computer.'

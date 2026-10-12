@@ -1,7 +1,6 @@
 ---
 title: 'WMV &amp; WMA Codecs for Windows Media Player'
 date: '2002-04-18T21:30:17+02:00'
-status: publish
 permalink: /article/wmp-codecs.html
 author: Snakefoot
 excerpt: 'Windows Media Video (WMV) and Windows Media Audio (WMA) codecs for Media Player 6.4 and 7.1'

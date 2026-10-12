@@ -1,7 +1,6 @@
 ---
 title: 'Help and Support Service'
 date: '2003-06-05T01:58:41+02:00'
-status: publish
 permalink: /article/winnt-services-helpsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Help and Support service.'

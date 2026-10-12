@@ -1,7 +1,6 @@
 ---
 title: 'Extend Windows Vista activation period'
 date: '2007-07-02T07:45:10+02:00'
-status: publish
 permalink: /article/vista-extend-activation.html
 author: Snakefoot
 excerpt: 'Windows Vista Software Licensing Manager makes it possible to extend the period before activation is needed.'

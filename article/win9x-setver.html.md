@@ -1,7 +1,6 @@
 ---
 title: 'Stop Setver.exe from loading automatically into memory'
 date: '2000-01-01T19:19:18+01:00'
-status: publish
 permalink: /article/win9x-setver.html
 author: Snakefoot
 excerpt: 'How to block Setver.exe from loading to save conventional memory.'

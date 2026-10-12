@@ -1,7 +1,6 @@
 ---
 title: 'Windows Explorer command line switches'
 date: '2000-01-01T22:25:52+01:00'
-status: publish
 permalink: /article/windows-explorer.html
 author: Snakefoot
 excerpt: 'Windows Explorer allows one to specify what folder to display when launched.'

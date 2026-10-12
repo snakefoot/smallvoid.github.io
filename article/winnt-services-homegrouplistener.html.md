@@ -1,7 +1,6 @@
 ---
 title: 'HomeGroup Listener'
 date: '2009-09-18T19:42:54+02:00'
-status: publish
 permalink: /article/winnt-services-homegrouplistener.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the HomeGroup Listener service.'

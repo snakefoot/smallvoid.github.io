@@ -1,7 +1,6 @@
 ---
 title: 'Configure Autorun for the CD-ROM drives in Windows 9x'
 date: '2000-01-01T23:28:54+01:00'
-status: publish
 permalink: /article/win9x-autorun.html
 author: Snakefoot
 excerpt: 'Configure whether to automatically launch application when inserting a CD or DVD disk.'

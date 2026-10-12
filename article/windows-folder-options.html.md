@@ -1,7 +1,6 @@
 ---
 title: 'Extend Folder Options to include your own tweaks'
 date: '2003-08-10T23:27:42+02:00'
-status: publish
 permalink: /article/windows-folder-options.html
 author: Snakefoot
 excerpt: 'Folder Options can be extended to easily configure other settings in Windows.'

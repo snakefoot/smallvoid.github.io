@@ -1,7 +1,6 @@
 ---
 title: 'Configure performance counters in Windows NT'
 date: '2001-02-05T23:49:10+01:00'
-status: publish
 permalink: /article/winnt-performance-counters.html
 author: Snakefoot
 excerpt: 'How to activate performance counters for the different performance objects in Windows NT.'

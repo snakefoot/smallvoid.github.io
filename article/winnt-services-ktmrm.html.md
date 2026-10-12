@@ -1,7 +1,6 @@
 ---
 title: 'KtmRm for Distributed Transaction Coordinator'
 date: '2007-07-17T02:14:09+02:00'
-status: publish
 permalink: /article/winnt-services-ktmrm.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the KtmRm for Distributed Transaction Coordinator service.'

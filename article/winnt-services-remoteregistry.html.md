@@ -1,7 +1,6 @@
 ---
 title: 'Remote Registry Service'
 date: '2000-07-23T15:21:57+02:00'
-status: publish
 permalink: /article/winnt-services-remoteregistry.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Registry service.'

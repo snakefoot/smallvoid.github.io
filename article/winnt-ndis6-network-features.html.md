@@ -1,7 +1,6 @@
 ---
 title: 'NDIS 6 hardware features that increases network performance'
 date: '2007-10-31T00:44:39+01:00'
-status: publish
 permalink: /article/winnt-ndis6-network-features.html
 author: Snakefoot
 excerpt: 'Windows can activate NDIS 6 network hardware features for offloading the system processor.'

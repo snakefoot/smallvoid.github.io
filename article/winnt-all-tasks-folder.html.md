@@ -1,7 +1,6 @@
 ---
 title: 'All Tasks can be accessed through a special Control Panel'
 date: '2008-11-01T15:40:32+01:00'
-status: publish
 permalink: /article/winnt-all-tasks-folder.html
 author: Snakefoot
 excerpt: 'The All Tasks folder gives a quick overview of all the options available in the Control Panel.'

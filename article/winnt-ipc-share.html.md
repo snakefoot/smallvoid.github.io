@@ -1,7 +1,6 @@
 ---
 title: 'Description of the IPC$ share'
 date: '2003-03-03T16:07:58+01:00'
-status: publish
 permalink: /article/winnt-ipc-share.html
 author: Snakefoot
 excerpt: 'How the IPC$ share makes it possible for clients to access shares on the server.'

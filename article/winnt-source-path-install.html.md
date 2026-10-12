@@ -1,7 +1,6 @@
 ---
 title: 'Change the source path for the install files in Windows NT'
 date: '2000-01-01T00:11:27+01:00'
-status: publish
 permalink: /article/winnt-source-path-install.html
 author: Snakefoot
 excerpt: 'Configure the path to the location of the install files whether on CD-ROM or HDD.'

@@ -1,7 +1,6 @@
 ---
 title: 'Changing from Outlook Express to Mozilla Thunderbird'
 date: '2007-07-02T07:44:00+02:00'
-status: publish
 permalink: /article/outlook-thunderbird.html
 author: Snakefoot
 excerpt: 'Solutions to the different barriers that can keep one from moving to Thunderbird.'

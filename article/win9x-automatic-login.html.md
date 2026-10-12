@@ -1,7 +1,6 @@
 ---
 title: 'Configure automatic login in Windows 9x'
 date: '2003-05-25T21:34:21+02:00'
-status: publish
 permalink: /article/win9x-automatic-login.html
 author: Snakefoot
 excerpt: 'Enabling automatic login so one doesn''t have to type username and password at every boot.'

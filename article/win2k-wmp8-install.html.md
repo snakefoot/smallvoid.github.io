@@ -1,7 +1,6 @@
 ---
 title: 'Media Player 8 ripped from XP to install on Windows 2000'
 date: '2002-04-18T15:54:44+02:00'
-status: publish
 permalink: /article/win2k-wmp8-install.html
 author: Snakefoot
 excerpt: 'Media Player 8 was included with Windows XP and never released as a standalone package.'

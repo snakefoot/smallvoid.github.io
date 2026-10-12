@@ -1,7 +1,6 @@
 ---
 title: 'Windows Media Player Network Sharing Service'
 date: '2007-07-17T02:18:05+02:00'
-status: publish
 permalink: /article/winnt-services-wmpnetworksvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Media Player Network Sharing Service.'

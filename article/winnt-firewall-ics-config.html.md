@@ -1,7 +1,6 @@
 ---
 title: 'Configure and troubleshoot Windows Firewall and ICS'
 date: '2007-06-08T00:04:45+02:00'
-status: publish
 permalink: /article/winnt-firewall-ics-config.html
 author: Snakefoot
 excerpt: 'How to get a non-working Windows Firewall service started with a configuration reset.'

@@ -1,7 +1,6 @@
 ---
 title: 'Using Choice to get user interaction'
 date: '2002-03-01T10:17:47+01:00'
-status: publish
 permalink: /article/choice-user-input.html
 author: Snakefoot
 excerpt: 'How to use the Choice program to present a set of options the user can choose from.'

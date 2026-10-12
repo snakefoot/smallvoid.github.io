@@ -1,7 +1,6 @@
 ---
 title: 'Letter Assigner'
 date: '2003-05-25T00:06:12+02:00'
-status: publish
 permalink: /article/win9x-letter-assigner.html
 author: Snakefoot
 excerpt: 'Utility that allows one to change drive-letter assignments for hard disk partitions.'

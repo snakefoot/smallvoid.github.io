@@ -1,7 +1,6 @@
 ---
 title: 'Change path of where Windows looks for wallpapers'
 date: '2002-03-30T00:56:16+01:00'
-status: publish
 permalink: /article/windows-wallpaper-path.html
 author: Snakefoot
 excerpt: 'Change the default wallpaper folder used when changing the wallpaper in Windows.'

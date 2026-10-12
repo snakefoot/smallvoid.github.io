@@ -1,7 +1,6 @@
 ---
 title: 'Configure SMB use of Netbios'
 date: '2003-05-25T16:19:32+02:00'
-status: publish
 permalink: /article/winnt-smb-netbios.html
 author: Snakefoot
 excerpt: 'How to configure which port number to use for Netbios communcations.'

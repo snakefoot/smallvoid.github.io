@@ -1,7 +1,6 @@
 ---
 title: 'System file protection notifications in Windows Me'
 date: '2001-02-01T00:38:58+01:00'
-status: publish
 permalink: /article/winme-sfp-notification.html
 author: Snakefoot
 excerpt: 'Display popup when System File Protection in Windows Me is activated.'

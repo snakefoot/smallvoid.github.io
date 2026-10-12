@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft articles with tips for Windows 98'
 date: '2000-01-01T19:27:01+01:00'
-status: publish
 permalink: /article/win98-tips.html
 author: Snakefoot
 excerpt: 'Collection of links to Microsoft articles about how to improve the Windows 98 experience.'

@@ -1,7 +1,6 @@
 ---
 title: 'Analyze boot time performance on Vista'
 date: '2008-10-04T20:36:29+02:00'
-status: publish
 permalink: /article/winnt-xperf-xbootmgr.html
 author: Snakefoot
 excerpt: 'Windows Vista will automatically optimize the boot times, but there can be situations where the boot times remains very slow.'

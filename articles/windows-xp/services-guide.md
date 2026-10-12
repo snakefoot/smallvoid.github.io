@@ -1,7 +1,6 @@
 ---
 title: Windows XP Services Guide
 date: '2006-11-14T23:28:05+01:00'
-status: publish
 permalink: /articles/windows-xp/services/
 author: Snakefoot
 excerpt: ''

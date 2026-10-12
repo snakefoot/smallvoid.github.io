@@ -1,7 +1,6 @@
 ---
 title: 'Diagnose performance issues with IDE ATA hard disk'
 date: '2001-11-09T20:31:24+01:00'
-status: publish
 permalink: /article/troubleshoot-hdd-dma.html
 author: Snakefoot
 excerpt: 'Description of different causes and solutions to hard disk performance problems.'

@@ -1,7 +1,6 @@
 ---
 title: 'How to enable Win9x filesharing in Windows 2000'
 date: '2001-09-01T13:24:10+02:00'
-status: publish
 permalink: /article/win2k-win9x-filesharing.html
 author: Snakefoot
 excerpt: 'Activating the insecure guest account for easy file sharing.'

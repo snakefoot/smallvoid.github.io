@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Hardware Diagnostic Tool'
 date: '2000-01-01T23:59:07+01:00'
-status: publish
 permalink: /article/win9x-hwinfo.html
 author: Snakefoot
 excerpt: 'Unlocking the hidden hardware diagnostic tool using a command line parameter.'

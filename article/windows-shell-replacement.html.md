@@ -1,7 +1,6 @@
 ---
 title: 'Windows Shell Replacement'
 date: '2001-11-29T01:26:55+01:00'
-status: publish
 permalink: /article/windows-shell-replacement.html
 author: Snakefoot
 excerpt: 'Alternative window shells that to change the desktop experience.'

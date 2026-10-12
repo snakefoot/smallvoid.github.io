@@ -1,7 +1,6 @@
 ---
 title: 'Retrieve a lost CD-Key from the registry'
 date: '2003-02-28T21:03:10+01:00'
-status: publish
 permalink: /article/winnt-cd-key.html
 author: Snakefoot
 excerpt: 'Where to find the cd-key for the current Windows install.'

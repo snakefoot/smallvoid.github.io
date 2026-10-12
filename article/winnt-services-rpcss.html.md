@@ -1,7 +1,6 @@
 ---
 title: 'Remote Procedure Call (RPC)'
 date: '2000-06-06T16:43:14+02:00'
-status: publish
 permalink: /article/winnt-services-rpcss.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Procedure Call service.'

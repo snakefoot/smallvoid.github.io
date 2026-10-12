@@ -1,7 +1,6 @@
 ---
 title: 'Secure Socket Tunneling Protocol Service'
 date: '2008-02-23T14:30:23+01:00'
-status: publish
 permalink: /article/winnt-services-sstpsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Secure Socket Tunneling Protocol service.'

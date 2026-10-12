@@ -1,7 +1,6 @@
 ---
 title: 'Remove Links-folder from Internet Explorer favorites'
 date: '2005-02-19T00:34:21+01:00'
-status: publish
 permalink: /article/ie-links-folder.html
 author: Snakefoot
 excerpt: 'Deleting the Links folder from the Internet Explorer bookmarks.'

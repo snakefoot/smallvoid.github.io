@@ -1,7 +1,6 @@
 ---
 title: 'Extend Internet Options to include your own tweaks'
 date: '2003-08-10T23:51:08+02:00'
-status: publish
 permalink: /article/internet-explorer-options.html
 author: Snakefoot
 excerpt: 'Internet Options can be extended to easily configure other settings in Internet Explorer.'

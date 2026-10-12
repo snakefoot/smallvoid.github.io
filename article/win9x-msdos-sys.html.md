@@ -1,7 +1,6 @@
 ---
 title: 'Configure Windows 9x startup with Msdos.sys'
 date: '2000-01-01T03:00:28+01:00'
-status: publish
 permalink: /article/win9x-msdos-sys.html
 author: Snakefoot
 excerpt: 'List of the different settings available in Msdos.sys.'

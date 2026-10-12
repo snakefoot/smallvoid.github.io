@@ -1,7 +1,6 @@
 ---
 title: 'Configure Windows NT boot manager for dual-boot'
 date: '2001-09-04T23:12:05+02:00'
-status: publish
 permalink: /article/winnt-dual-boot.html
 author: Snakefoot
 excerpt: 'Dual booting several versions of Windows can be useful if running software which is locked to certain version of Windows.'

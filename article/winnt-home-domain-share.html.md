@@ -1,7 +1,6 @@
 ---
 title: 'Windows XP Home cannot join domain, but can access shares'
 date: '2007-10-05T00:13:25+02:00'
-status: publish
 permalink: /article/winnt-home-domain-share.html
 author: Snakefoot
 excerpt: 'By changing the workgroup of Windows XP Home, then it is possible to get access to domain shares.'

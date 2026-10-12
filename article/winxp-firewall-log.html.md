@@ -1,7 +1,6 @@
 ---
 title: 'Windows XP firewall log reader'
 date: '2003-08-18T17:51:56+02:00'
-status: publish
 permalink: /article/winxp-firewall-log.html
 author: Snakefoot
 excerpt: 'Windows XP firewall log can be used to monitor those who are trying to access the computer.'

@@ -1,7 +1,6 @@
 ---
 title: 'Disable the automatic updating of file access time'
 date: '2000-01-01T13:55:48+01:00'
-status: publish
 permalink: /article/winnt-ntfs-last-access.html
 author: Snakefoot
 excerpt: 'Lower the disk activity by disabling the updating of when a file was last accessed.'

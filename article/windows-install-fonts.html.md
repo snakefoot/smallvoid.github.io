@@ -1,7 +1,6 @@
 ---
 title: 'Configure what fonts to load in memory'
 date: '2000-01-01T01:58:55+01:00'
-status: publish
 permalink: /article/windows-install-fonts.html
 author: Snakefoot
 excerpt: 'Uninstall unneeded fonts to speed up boot times and free memory.'

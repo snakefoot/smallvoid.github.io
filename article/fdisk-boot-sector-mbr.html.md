@@ -1,7 +1,6 @@
 ---
 title: 'Using FDISK to remove a boot-sector virus'
 date: '2000-01-01T09:52:45+01:00'
-status: publish
 permalink: /article/fdisk-boot-sector-mbr.html
 author: Snakefoot
 excerpt: 'How to rewrite the master boot record with fdisk to disable a boot-sector virus.'

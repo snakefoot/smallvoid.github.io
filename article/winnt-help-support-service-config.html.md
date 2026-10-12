@@ -1,7 +1,6 @@
 ---
 title: 'Configure and troubleshoot Help and Support Service'
 date: '2003-06-05T02:04:03+02:00'
-status: publish
 permalink: /article/winnt-help-support-service-config.html
 author: Snakefoot
 excerpt: 'How to reinstall the Help and Support service if it fails to function properly.'

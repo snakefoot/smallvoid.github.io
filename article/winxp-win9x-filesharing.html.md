@@ -1,7 +1,6 @@
 ---
 title: 'How to enable Win9x filesharing in Windows XP'
 date: '2002-05-28T01:52:46+02:00'
-status: publish
 permalink: /article/winxp-win9x-filesharing.html
 author: Snakefoot
 excerpt: 'Activating the insecure guest account for easy file sharing.'

@@ -1,7 +1,6 @@
 ---
 title: 'Windows XP clear type tuner'
 date: '2002-05-04T16:33:44+02:00'
-status: publish
 permalink: /article/winxp-cleartype-tuner.html
 author: Snakefoot
 excerpt: 'ClearType font smoothing can improve how text is displayed in Windows XP.'

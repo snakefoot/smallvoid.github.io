@@ -1,7 +1,6 @@
 ---
 title: 'Terminal Services'
 date: '2000-07-23T19:37:33+02:00'
-status: publish
 permalink: /article/winnt-services-termservice.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Terminal Services service.'

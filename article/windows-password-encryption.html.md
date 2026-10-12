@@ -1,7 +1,6 @@
 ---
 title: 'Description of password encryption in the Microsoft Network'
 date: '2003-09-19T21:23:16+02:00'
-status: publish
 permalink: /article/windows-password-encryption.html
 author: Snakefoot
 excerpt: 'The different password encryption algorithms available in the Microsoft Network.'

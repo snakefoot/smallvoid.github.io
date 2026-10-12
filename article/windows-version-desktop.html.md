@@ -1,7 +1,6 @@
 ---
 title: 'Display the Windows version on the desktop'
 date: '2001-01-21T23:45:58+01:00'
-status: publish
 permalink: /article/windows-version-desktop.html
 author: Snakefoot
 excerpt: 'When BETA testing Windows versions then it can be rather useful to easily see the build version on the desktop.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the winsock default send- and receive-buffer size'
 date: '2002-10-12T20:18:47+02:00'
-status: publish
 permalink: /article/winnt-winsock-buffer.html
 author: Snakefoot
 excerpt: 'Most Windows applications uses Winsock to perform TCPIP communication, and many of these applications uses the default send- and receive-buffer size, which by default isn''t adapted to the available network connection.'

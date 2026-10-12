@@ -1,7 +1,6 @@
 ---
 title: 'Configure Autorun for the CD-ROM drives'
 date: '2001-01-01T23:47:13+01:00'
-status: publish
 permalink: /article/winnt-autorun.html
 author: Snakefoot
 excerpt: 'Configure whether to automatically launch application when inserting a CD or DVD disk.'

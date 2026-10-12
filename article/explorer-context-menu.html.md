@@ -1,7 +1,6 @@
 ---
 title: 'Customize the right-click menu in Windows Explorer'
 date: '2000-01-01T00:31:42+01:00'
-status: publish
 permalink: /article/explorer-context-menu.html
 author: Snakefoot
 excerpt: 'Adding own actions to the context menu when right clicking a file in Windows Explorer.'

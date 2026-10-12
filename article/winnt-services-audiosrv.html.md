@@ -1,7 +1,6 @@
 ---
 title: 'Windows Audio'
 date: '2003-06-05T21:29:09+02:00'
-status: publish
 permalink: /article/winnt-services-audiosrv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Audio service.'

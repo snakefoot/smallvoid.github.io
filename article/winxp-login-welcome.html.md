@@ -1,7 +1,6 @@
 ---
 title: 'Change the looks of the login and welcome screen'
 date: '2005-09-25T23:20:06+02:00'
-status: publish
 permalink: /article/winxp-login-welcome.html
 author: Snakefoot
 excerpt: 'Changing the visual styles of the login and shutdown screens.'

@@ -1,7 +1,6 @@
 ---
 title: 'File and Partition Recovery'
 date: '2003-01-13T22:19:30+01:00'
-status: publish
 permalink: /article/windows-undelete.html
 author: Snakefoot
 excerpt: 'Recover deleted or damaged files (and partitions) with undelete / unerase utilities.'

@@ -1,7 +1,6 @@
 ---
 title: 'Changing hardware abstraction layer in Windows 2000 / XP'
 date: '2001-01-15T19:29:55+01:00'
-status: publish
 permalink: /article/winnt-hardware-abstraction-layer.html
 author: Snakefoot
 excerpt: 'Windows NT hardware abstraction layer can be changed if the motherboard doesn''t support the one chosen by default.'

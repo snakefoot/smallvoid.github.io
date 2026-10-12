@@ -1,7 +1,6 @@
 ---
 title: 'Configure Windows 9x to handle more than 1 GB RAM'
 date: '2002-06-19T00:12:28+02:00'
-status: publish
 permalink: /article/win9x-gb-ram.html
 author: Snakefoot
 excerpt: 'Make it possible to run Windows 9x with 1 GByte RAM (or more).'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the My Computer security zone'
 date: '2002-03-19T22:04:37+01:00'
-status: publish
 permalink: /article/my-computer-security-zone.html
 author: Snakefoot
 excerpt: 'Display the My Computer security zone along with the other security zones for configuration.'

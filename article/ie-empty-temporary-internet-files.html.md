@@ -1,7 +1,6 @@
 ---
 title: 'Clear Temporary Internet Files cache at exit'
 date: '2002-11-12T00:35:00+01:00'
-status: publish
 permalink: /article/ie-empty-temporary-internet-files.html
 author: Snakefoot
 excerpt: 'How to configure Internet Explorer, so it will empty its cache at program exit.'

@@ -1,7 +1,6 @@
 ---
 title: 'Friend''s'
 date: '2007-06-16T22:01:58+02:00'
-status: publish
 permalink: /about/friends/
 author: Snakefoot
 excerpt: ''

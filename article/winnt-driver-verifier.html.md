@@ -1,7 +1,6 @@
 ---
 title: 'Enable Driver Verifier to troubleshoot faulty driver'
 date: '2005-09-25T01:36:49+02:00'
-status: publish
 permalink: /article/winnt-driver-verifier.html
 author: Snakefoot
 excerpt: 'Driver Verifier can be used to stress device drivers and can detect if the drivers performs illegal operations.'

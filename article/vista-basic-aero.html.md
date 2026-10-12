@@ -1,7 +1,6 @@
 ---
 title: 'Activate Aero Interface on Windows Vista Home Basic'
 date: '2007-07-02T07:45:40+02:00'
-status: publish
 permalink: /article/vista-basic-aero.html
 author: Snakefoot
 excerpt: 'Bypass the restriction of not being able to use the Aero interface on Windows Vista Home Basic.'

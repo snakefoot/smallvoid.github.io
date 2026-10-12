@@ -1,7 +1,6 @@
 ---
 title: 'Configuration of the remote assistance'
 date: '2002-11-18T00:28:10+01:00'
-status: publish
 permalink: /article/winnt-remote-assistance.html
 author: Snakefoot
 excerpt: 'Microsoft articles on how to offer and receive and remote assistance requests to perform remote desktop control.'

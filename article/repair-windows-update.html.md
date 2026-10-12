@@ -1,7 +1,6 @@
 ---
 title: 'Fix a non-working Windows Update'
 date: '2001-04-17T23:28:54+02:00'
-status: publish
 permalink: /article/repair-windows-update.html
 author: Snakefoot
 excerpt: 'Possible steps for repairing Windows Update'

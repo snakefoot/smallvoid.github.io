@@ -1,7 +1,6 @@
 ---
 title: 'Configure User Account Protection'
 date: '2005-09-25T22:11:49+02:00'
-status: publish
 permalink: /article/winnt-user-account-protection.html
 author: Snakefoot
 excerpt: 'User Account Control (UAC) makes sure that daily tasks are not performed with administrator privileges.'

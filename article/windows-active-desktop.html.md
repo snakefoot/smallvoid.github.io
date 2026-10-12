@@ -1,7 +1,6 @@
 ---
 title: 'Install Active Desktop in Windows 95 / NT4'
 date: '2003-03-06T23:13:53+01:00'
-status: publish
 permalink: /article/windows-active-desktop.html
 author: Snakefoot
 excerpt: 'Installing Active Desktop without needing to install Internet Explorer 4 first.'

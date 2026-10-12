@@ -1,7 +1,6 @@
 ---
 title: 'Minimize Outlook XP to systray instead of using taskbar'
 date: '2002-03-30T18:40:17+01:00'
-status: publish
 permalink: /article/outlook-xp-systray.html
 author: Snakefoot
 excerpt: 'Outlook can be minimized to the system tray so it will not be filling up on the taskbar.'

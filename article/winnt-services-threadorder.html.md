@@ -1,7 +1,6 @@
 ---
 title: 'Thread Ordering Server'
 date: '2007-07-17T02:16:39+02:00'
-status: publish
 permalink: /article/winnt-services-threadorder.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Thread Ordering Server service.'

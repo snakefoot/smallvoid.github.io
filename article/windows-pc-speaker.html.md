@@ -1,7 +1,6 @@
 ---
 title: 'Turn off the beeping from the PC Speaker'
 date: '2003-06-22T01:11:01+02:00'
-status: publish
 permalink: /article/windows-pc-speaker.html
 author: Snakefoot
 excerpt: 'Disable the beep from the PC speaker when Windows performs an alert.'

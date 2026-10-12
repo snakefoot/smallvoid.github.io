@@ -1,7 +1,6 @@
 ---
 title: 'RunAs Service / Secondary Logon'
 date: '2000-07-23T16:02:39+02:00'
-status: publish
 permalink: /article/winnt-services-seclogon.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Secondary Logon service.'

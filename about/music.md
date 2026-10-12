@@ -1,7 +1,6 @@
 ---
 title: Music
 date: '2007-06-16T22:13:13+02:00'
-status: publish
 permalink: /about/music/
 author: Snakefoot
 excerpt: ''

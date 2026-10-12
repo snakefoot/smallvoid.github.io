@@ -1,7 +1,6 @@
 ---
 title: 'Configure and troubleshoot Distributed Transaction Coordinator'
 date: '2000-07-23T01:21:02+02:00'
-status: publish
 permalink: /article/winnt-services-msdtc-config.html
 author: Snakefoot
 excerpt: 'How to reset the transaction log for the Distributed Transaction Coordinator (MSDTC) and reinstall MSDTC.'

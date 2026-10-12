@@ -1,7 +1,6 @@
 ---
 title: 'Change keyboard codepage'
 date: '2002-03-14T04:09:23+01:00'
-status: publish
 permalink: /article/winnt-keyboard-codepage.html
 author: Snakefoot
 excerpt: 'How to change the codepage for the command prompt.'

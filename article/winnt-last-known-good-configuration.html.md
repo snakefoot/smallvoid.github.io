@@ -1,7 +1,6 @@
 ---
 title: 'Using Last Known Good Configuration'
 date: '2004-06-10T01:58:25+02:00'
-status: publish
 permalink: /article/winnt-last-known-good-configuration.html
 author: Snakefoot
 excerpt: 'The Last Known Good Configuration makes it possible to rollback to the previous good state of the system registry hive.'

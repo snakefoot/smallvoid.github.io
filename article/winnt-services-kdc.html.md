@@ -1,7 +1,6 @@
 ---
 title: 'Keberos Key Distribution Center'
 date: '2000-07-23T13:47:02+02:00'
-status: publish
 permalink: /article/winnt-services-kdc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Keberos Key Distribution Center service.'

@@ -1,7 +1,6 @@
 ---
 title: Articles
 date: '2006-11-14T23:28:05+01:00'
-status: publish
 permalink: /articles/
 author: Snakefoot
 excerpt: ''

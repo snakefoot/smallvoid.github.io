@@ -1,7 +1,6 @@
 ---
 title: 'Open files of an unknown type with notepad'
 date: '2000-01-01T00:17:17+01:00'
-status: publish
 permalink: /article/win9x-unknown-file-notepad.html
 author: Snakefoot
 excerpt: 'Configure the default behavior to use notepad, when opening a file with unknown type.'

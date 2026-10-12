@@ -1,7 +1,6 @@
 ---
 title: 'Reveal password hidden under asterisks'
 date: '2003-02-04T23:07:33+01:00'
-status: publish
 permalink: /article/windows-password-reveal.html
 author: Snakefoot
 excerpt: 'Utilities to recover lost passwords, which are only shown as asterisks.'

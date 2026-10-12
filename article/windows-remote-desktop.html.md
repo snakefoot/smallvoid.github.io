@@ -1,7 +1,6 @@
 ---
 title: 'Remote Desktop Client'
 date: '2002-04-18T21:50:42+02:00'
-status: publish
 permalink: /article/windows-remote-desktop.html
 author: Snakefoot
 excerpt: 'Remote Desktop Client can take control of a remote computer running Microsoft Windows.'

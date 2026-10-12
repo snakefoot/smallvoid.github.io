@@ -1,7 +1,6 @@
 ---
 title: 'Enable the middle mouse button'
 date: '2000-01-01T12:53:13+01:00'
-status: publish
 permalink: /article/winnt4-middle-mouse-button.html
 author: Snakefoot
 excerpt: 'How to enable the 3rd mouse button, so it can be used in applications and games.'

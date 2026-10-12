@@ -1,7 +1,6 @@
 ---
 title: 'Extract files from a MSI package'
 date: '2006-01-18T00:06:34+01:00'
-status: publish
 permalink: /article/windows-extract-msi.html
 author: Snakefoot
 excerpt: 'The Microsoft Installer (MSI) Package file is a compressed archive, which can be decompressed.'

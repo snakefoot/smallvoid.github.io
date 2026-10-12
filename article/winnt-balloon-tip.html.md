@@ -1,7 +1,6 @@
 ---
 title: 'Configure whether to display balloon tips'
 date: '2002-10-12T20:05:02+02:00'
-status: publish
 permalink: /article/winnt-balloon-tip.html
 author: Snakefoot
 excerpt: 'Configure what balloon tips Windows should display above the system tray.'

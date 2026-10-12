@@ -1,7 +1,6 @@
 ---
 title: 'Using NULL sessions to view shares and user accounts'
 date: '2002-02-06T16:12:41+01:00'
-status: publish
 permalink: /article/winnt-null-session.html
 author: Snakefoot
 excerpt: 'Example of how to list shares and user accounts with anonymous access.'

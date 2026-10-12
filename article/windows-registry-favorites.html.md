@@ -1,7 +1,6 @@
 ---
 title: 'Bookmark favorite registry keys in the Registry Editor'
 date: '2002-01-01T02:07:57+01:00'
-status: publish
 permalink: /article/windows-registry-favorites.html
 author: Snakefoot
 excerpt: 'The ability to store favorite locations in the registry can be quite useful.'

@@ -1,7 +1,6 @@
 ---
 title: 'Windows 95 font smoother'
 date: '2001-01-01T23:53:00+01:00'
-status: publish
 permalink: /article/win95-font-smoothing.html
 author: Snakefoot
 excerpt: 'Utility to configure font smoothing for true type fonts in Windows 95.'

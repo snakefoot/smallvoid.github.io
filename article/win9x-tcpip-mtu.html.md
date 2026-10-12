@@ -1,7 +1,6 @@
 ---
 title: 'Configure TCPIP max transfer unit size in Windows 9x'
 date: '2001-01-01T15:57:39+01:00'
-status: publish
 permalink: /article/win9x-tcpip-mtu.html
 author: Snakefoot
 excerpt: 'Description of the registry keys used for configuring the TCP/IP max transfer unit (MTU) size in Windows 95 / 98 / Me.'

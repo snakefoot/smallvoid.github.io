@@ -1,7 +1,6 @@
 ---
 title: 'Extend Internet Explorer context-menu'
 date: '2005-02-19T00:42:35+01:00'
-status: publish
 permalink: /article/ie-context-menu.html
 author: Snakefoot
 excerpt: 'Extending the right click context menu in Internet Explorer with different useful actions.'

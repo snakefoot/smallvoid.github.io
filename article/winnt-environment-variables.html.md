@@ -1,7 +1,6 @@
 ---
 title: 'Configuring environment variables in Windows NT'
 date: '2003-02-28T20:28:53+01:00'
-status: publish
 permalink: /article/winnt-environment-variables.html
 author: Snakefoot
 excerpt: 'Description of the different types of environment variables in the Windows NT system.'

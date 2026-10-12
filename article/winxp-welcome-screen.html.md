@@ -1,7 +1,6 @@
 ---
 title: 'Configure the login and welcome screen in Windows XP'
 date: '2002-06-25T00:20:36+02:00'
-status: publish
 permalink: /article/winxp-welcome-screen.html
 author: Snakefoot
 excerpt: 'How to enable the Welcome Screen and specify what users to display at logon.'

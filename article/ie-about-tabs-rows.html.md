@@ -1,7 +1,6 @@
 ---
 title: 'Configure number of rows to show in New Tab Page (about:tabs)'
 date: '2012-11-14T22:35:54+01:00'
-status: publish
 permalink: /article/ie-about-tabs-rows.html
 author: Snakefoot
 excerpt: 'How to increase the number of icons displayed for "Your most popular sites" (IE9) or "Frequent sites" (IE10) when you open the about:Tabs page (New Tab page)'

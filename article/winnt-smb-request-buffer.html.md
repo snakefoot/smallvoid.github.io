@@ -1,7 +1,6 @@
 ---
 title: 'Configure the file server request buffer size'
 date: '2001-01-01T23:19:07+01:00'
-status: publish
 permalink: /article/winnt-smb-request-buffer.html
 author: Snakefoot
 excerpt: 'Increasing the request buffer size can improve file sharing performance on high latency networks.'

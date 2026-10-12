@@ -1,7 +1,6 @@
 ---
 title: 'Intersite Messaging'
 date: '2000-07-23T02:24:02+02:00'
-status: publish
 permalink: /article/winnt-services-ismserv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Intersite Messaging service.'

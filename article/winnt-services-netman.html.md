@@ -1,7 +1,6 @@
 ---
 title: 'Network Connections'
 date: '2000-07-23T15:28:05+02:00'
-status: publish
 permalink: /article/winnt-services-netman.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Network Connections service.'

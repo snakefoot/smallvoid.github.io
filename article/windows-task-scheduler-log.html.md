@@ -1,7 +1,6 @@
 ---
 title: 'Configure the Task Scheduler Log'
 date: '2004-07-08T23:54:34+02:00'
-status: publish
 permalink: /article/windows-task-scheduler-log.html
 author: Snakefoot
 excerpt: 'How to configure the location and size of the task scheduler log with all its events.'

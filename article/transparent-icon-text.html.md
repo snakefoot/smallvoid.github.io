@@ -1,7 +1,6 @@
 ---
 title: 'Make icon text background transparent'
 date: '2001-11-29T01:19:04+01:00'
-status: publish
 permalink: /article/transparent-icon-text.html
 author: Snakefoot
 excerpt: 'Fix the background color for the icon text, so it doesn''t ruin your favorite desktop wallpaper.'

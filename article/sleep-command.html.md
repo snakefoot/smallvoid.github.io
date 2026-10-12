@@ -1,7 +1,6 @@
 ---
 title: 'Create your own sleep / wait program'
 date: '2001-01-01T10:56:11+01:00'
-status: publish
 permalink: /article/sleep-command.html
 author: Snakefoot
 excerpt: 'How to create your own sleep / wait command, which be used in other batch files.'

@@ -1,7 +1,6 @@
 ---
 title: 'Software Licensing'
 date: '2007-07-17T02:16:11+02:00'
-status: publish
 permalink: /article/winnt-services-slsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Software Licensing service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Volkov Commander'
 date: '2000-01-01T14:08:14+01:00'
-status: publish
 permalink: /article/volkov-commander.html
 author: Snakefoot
 excerpt: 'Very good Norton Commander (NC) clone, which is perfect for a boot disk.'

@@ -1,7 +1,6 @@
 ---
 title: 'Restrict access for NULL sessions'
 date: '2002-02-06T13:30:43+01:00'
-status: publish
 permalink: /article/winnt-restrict-anonymous.html
 author: Snakefoot
 excerpt: 'How to prevent access for anonymous to see available shares and user accounts.'

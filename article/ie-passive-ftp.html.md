@@ -1,7 +1,6 @@
 ---
 title: 'Enable passive ftp mode in Internet Explorer'
 date: '2000-01-01T00:01:14+01:00'
-status: publish
 permalink: /article/ie-passive-ftp.html
 author: Snakefoot
 excerpt: 'Internet Explorer can switch been active ftp and passive ftp mode.'

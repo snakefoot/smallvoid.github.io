@@ -1,7 +1,6 @@
 ---
 title: 'Fix for Adaptec ASPI layer driver'
 date: '2002-09-11T17:09:12+02:00'
-status: publish
 permalink: /article/winnt-adaptec-aspi.html
 author: Snakefoot
 excerpt: 'Certain applications cannot detect the installed cdrom drives when using the Adaptec ASPI layer.'

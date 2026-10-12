@@ -1,7 +1,6 @@
 ---
 title: 'Change the color of Blue Screen of Death (BSOD)'
 date: '2000-01-01T01:43:16+01:00'
-status: publish
 permalink: /article/bsod-change-color.html
 author: Snakefoot
 excerpt: 'How to change the color of the BSOD to make it easier to read or just for fun.'

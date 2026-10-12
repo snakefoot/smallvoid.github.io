@@ -1,7 +1,6 @@
 ---
 title: 'File Sharing'
 date: '2006-11-23T19:10:12+01:00'
-status: publish
 permalink: /links/file-sharing/
 author: Snakefoot
 excerpt: ''

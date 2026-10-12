@@ -1,7 +1,6 @@
 ---
 title: 'Configure automatic detection of folder type'
 date: '2007-11-16T21:25:59+01:00'
-status: publish
 permalink: /article/winnt-folder-autodetect.html
 author: Snakefoot
 excerpt: 'Windows Explorer tries to guess how to display a directory, by looking at the files within.'

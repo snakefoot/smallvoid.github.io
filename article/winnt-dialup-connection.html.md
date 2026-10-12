@@ -1,7 +1,6 @@
 ---
 title: 'Optimize dialup modem connection'
 date: '2001-01-01T23:29:10+01:00'
-status: publish
 permalink: /article/winnt-dialup-connection.html
 author: Snakefoot
 excerpt: 'Make dialup modem faster at etablishing a connection and with better connection speed.'

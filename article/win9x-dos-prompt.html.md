@@ -1,7 +1,6 @@
 ---
 title: 'Configure the DOS prompt inside Windows 9x'
 date: '2000-01-01T01:22:04+01:00'
-status: publish
 permalink: /article/win9x-dos-prompt.html
 author: Snakefoot
 excerpt: 'Using a batch file to configure the DOS prompt when starting it from the Windows desktop.'

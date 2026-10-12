@@ -1,7 +1,6 @@
 ---
 title: FAX
 date: '2000-01-06T03:13:43+01:00'
-status: publish
 permalink: /article/winnt-services-fax.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the FAX service.'

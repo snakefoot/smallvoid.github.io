@@ -1,7 +1,6 @@
 ---
 title: 'Certificate Propagation'
 date: '2007-07-17T02:12:27+02:00'
-status: publish
 permalink: /article/winnt-services-certpropsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Certificate Propagation service.'

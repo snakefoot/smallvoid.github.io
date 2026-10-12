@@ -1,7 +1,6 @@
 ---
 title: 'Use NTFS compression to save disk space'
 date: '2008-06-14T16:59:43+02:00'
-status: publish
 permalink: /article/winnt-ntfs-compress.html
 author: Snakefoot
 excerpt: 'NTFS compression can compress / decompress files on the fly and save disk space and minimize needed hard disk I/O'

@@ -1,7 +1,6 @@
 ---
 title: 'Network Provisioning Service'
 date: '2004-09-12T15:40:47+02:00'
-status: publish
 permalink: /article/winnt-services-xmlprov.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Network Provisioning service.'

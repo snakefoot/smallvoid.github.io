@@ -1,7 +1,6 @@
 ---
 title: 'Configure lookup caching of files placed on network shares'
 date: '2005-06-23T22:40:27+02:00'
-status: publish
 permalink: /article/winnt-network-file-lookup-cache.html
 author: Snakefoot
 excerpt: 'The lookup cache for network files makes it faster to reopen a file placed on a remote share.'

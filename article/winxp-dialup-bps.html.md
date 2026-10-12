@@ -1,7 +1,6 @@
 ---
 title: 'Configure dialup modem to use maximum port speed'
 date: '2001-10-01T23:25:56+02:00'
-status: publish
 permalink: /article/winxp-dialup-bps.html
 author: Snakefoot
 excerpt: 'Changing the maximum port speed to get a faster dialup connection.'

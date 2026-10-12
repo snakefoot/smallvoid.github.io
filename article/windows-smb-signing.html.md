@@ -1,7 +1,6 @@
 ---
 title: 'Description of SMB signing in the Microsoft Network'
 date: '2003-09-19T21:16:55+02:00'
-status: publish
 permalink: /article/windows-smb-signing.html
 author: Snakefoot
 excerpt: 'How the security features in SMB signing can protect the network.'

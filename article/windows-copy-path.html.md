@@ -1,7 +1,6 @@
 ---
 title: 'Extend the Windows Explorer context menu with Copy Path'
 date: '2006-12-23T18:42:53+01:00'
-status: publish
 permalink: /article/windows-copy-path.html
 author: Snakefoot
 excerpt: 'Make it easier to copy the location of a file to the clipboard.'

@@ -1,7 +1,6 @@
 ---
 title: 'Diagnose performance issues with network hardware'
 date: '2003-09-24T20:21:15+02:00'
-status: publish
 permalink: /article/troubleshoot-network-hardware.html
 author: Snakefoot
 excerpt: 'Description of different causes and solutions to network problems.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure and troubleshoot Print Spooler service'
 date: '2000-06-06T16:21:24+02:00'
-status: publish
 permalink: /article/winnt-printer-spooler-config.html
 author: Snakefoot
 excerpt: 'How to configure the priority and logging level of the Printer Spooler service.'

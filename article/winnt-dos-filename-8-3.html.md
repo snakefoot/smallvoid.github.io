@@ -1,7 +1,6 @@
 ---
 title: 'Disable creation of DOS compatible 8.3 filename'
 date: '2000-01-01T13:47:30+01:00'
-status: publish
 permalink: /article/winnt-dos-filename-8-3.html
 author: Snakefoot
 excerpt: 'Speed up the creation of new files by not creating a 8.3 filename for backward compatibility.'

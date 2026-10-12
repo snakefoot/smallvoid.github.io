@@ -1,7 +1,6 @@
 ---
 title: 'Configure cleanup profiles to remove unnecessary files'
 date: '2002-10-28T23:31:50+01:00'
-status: publish
 permalink: /article/cleanup-profiles.html
 author: Snakefoot
 excerpt: 'How to create different profiles for cleaning up the hard disk.'

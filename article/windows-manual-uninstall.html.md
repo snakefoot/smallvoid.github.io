@@ -1,7 +1,6 @@
 ---
 title: 'Manually remove programs from the Add/Remove list'
 date: '2003-06-22T11:16:33+02:00'
-status: publish
 permalink: /article/windows-manual-uninstall.html
 author: Snakefoot
 excerpt: 'How to manually uninstall an application and remove it from the Add/Remove list.'

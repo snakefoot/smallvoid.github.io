@@ -1,7 +1,6 @@
 ---
 title: 'Remote Procedure Call (RPC) Locator'
 date: '2000-06-06T15:18:32+02:00'
-status: publish
 permalink: /article/winnt-services-rpclocator.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Remote Procedure Call Locator service.'

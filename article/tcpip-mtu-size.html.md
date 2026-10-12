@@ -1,7 +1,6 @@
 ---
 title: 'Finding the optimal TCPIP max transfer unit size'
 date: '2001-01-01T13:15:05+01:00'
-status: publish
 permalink: /article/tcpip-mtu-size.html
 author: Snakefoot
 excerpt: 'Using PING to test the network connection and finding the best TCP/IP max transfer unit (MTU).'

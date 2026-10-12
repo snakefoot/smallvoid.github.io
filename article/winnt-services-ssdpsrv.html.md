@@ -1,7 +1,6 @@
 ---
 title: 'SSDP Discovery Service'
 date: '2003-06-05T19:00:01+02:00'
-status: publish
 permalink: /article/winnt-services-ssdpsrv.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the SSDP Discovery service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Configure the Windows taskbar'
 date: '2003-07-04T23:58:43+02:00'
-status: publish
 permalink: /article/windows-taskbar.html
 author: Snakefoot
 excerpt: 'Changing the behavior and visual appearance of the task bar.'

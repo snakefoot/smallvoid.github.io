@@ -1,7 +1,6 @@
 ---
 title: 'Bypass the loading of programs at Windows startup'
 date: '2001-01-01T01:51:22+01:00'
-status: publish
 permalink: /article/windows-startup-order.html
 author: Snakefoot
 excerpt: 'Holding down the SHIFT key during Windows startup will stop applications from loading.'

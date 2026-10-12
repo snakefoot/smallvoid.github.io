@@ -1,7 +1,6 @@
 ---
 title: 'Application Experience'
 date: '2007-07-17T02:11:52+02:00'
-status: publish
 permalink: /article/winnt-services-aelookupsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Application Experience service.'

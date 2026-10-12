@@ -1,7 +1,6 @@
 ---
 title: 'Show the file attributes column in Windows Explorer'
 date: '2000-01-01T23:19:37+01:00'
-status: publish
 permalink: /article/win98-file-attributes.html
 author: Snakefoot
 excerpt: 'Display the file attributes in the detail view of Windows Explorer for Windows 98 Second Edition.'

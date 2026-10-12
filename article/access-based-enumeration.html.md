@@ -1,7 +1,6 @@
 ---
 title: 'Access-based Enumeration'
 date: '2006-02-18T02:33:21+01:00'
-status: publish
 permalink: /article/access-based-enumeration.html
 author: Snakefoot
 excerpt: 'Windows 2003 addon which hides folders within a share, that the user cannot access anyway.'

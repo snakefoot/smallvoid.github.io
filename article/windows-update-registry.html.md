@@ -1,7 +1,6 @@
 ---
 title: 'Modify the Windows registry with registry files'
 date: '2001-01-01T12:44:00+01:00'
-status: publish
 permalink: /article/windows-update-registry.html
 author: Snakefoot
 excerpt: 'How to add and remove registry entries from the Windows registry using .reg files'

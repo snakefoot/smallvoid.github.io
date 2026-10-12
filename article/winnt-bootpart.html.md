@@ -1,7 +1,6 @@
 ---
 title: 'BootPart to add several boot partitions to boot.ini'
 date: '2001-09-04T15:13:25+02:00'
-status: publish
 permalink: /article/winnt-bootpart.html
 author: Snakefoot
 excerpt: 'Bootpart makes it easy to create the perfect multi-boot setup using the Windows NT boot manager.'

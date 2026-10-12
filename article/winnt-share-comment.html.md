@@ -1,7 +1,6 @@
 ---
 title: 'Change the display of share comment in My Network Places'
 date: '2006-03-16T21:50:13+01:00'
-status: publish
 permalink: /article/winnt-share-comment.html
 author: Snakefoot
 excerpt: 'Control in what order the share name and share comment should be shown in My Network Places.'

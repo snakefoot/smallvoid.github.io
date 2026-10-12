@@ -1,7 +1,6 @@
 ---
 title: 'Advanced User Management in Windows XP Home'
 date: '2003-09-26T00:04:14+02:00'
-status: publish
 permalink: /article/winxp-home-usermgt.html
 author: Snakefoot
 excerpt: 'Hidden Control Panel applet that includes more options for account management.'

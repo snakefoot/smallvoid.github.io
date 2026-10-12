@@ -1,7 +1,6 @@
 ---
 title: 'Drive Converter'
 date: '2002-02-13T15:06:06+01:00'
-status: publish
 permalink: /article/drive-converter.html
 author: Snakefoot
 excerpt: 'Convert a FAT16 partition to FAT32 from DOS.'

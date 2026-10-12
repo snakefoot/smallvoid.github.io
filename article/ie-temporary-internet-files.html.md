@@ -1,7 +1,6 @@
 ---
 title: 'Configure the Temporary Internet Files cache'
 date: '2002-02-02T00:26:07+01:00'
-status: publish
 permalink: /article/ie-temporary-internet-files.html
 author: Snakefoot
 excerpt: 'How to configure the size of the Temporary Internet Files cache.'

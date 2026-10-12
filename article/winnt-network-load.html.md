@@ -1,7 +1,6 @@
 ---
 title: 'Load balancing over several Network Adapters'
 date: '2000-01-01T23:59:48+01:00'
-status: publish
 permalink: /article/winnt-network-load.html
 author: Snakefoot
 excerpt: 'Configure how the TCP/IP should respond when multiple network adapters are installed.'

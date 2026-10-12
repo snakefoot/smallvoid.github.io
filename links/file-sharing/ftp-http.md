@@ -1,7 +1,6 @@
 ---
 title: 'FTP and HTTP'
 date: '2006-11-23T20:57:25+01:00'
-status: publish
 permalink: /links/file-sharing/ftp-http/
 author: Snakefoot
 excerpt: ''

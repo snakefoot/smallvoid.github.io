@@ -1,7 +1,6 @@
 ---
 title: 'Configure TCPIP settings for better performance'
 date: '2002-06-19T11:56:28+02:00'
-status: publish
 permalink: /article/windows-tcpip-settings.html
 author: Snakefoot
 excerpt: 'Increase the speed of the network connection by changing the TCP/IP settings.'

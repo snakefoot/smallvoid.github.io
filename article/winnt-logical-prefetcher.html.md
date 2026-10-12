@@ -1,7 +1,6 @@
 ---
 title: 'Configure the logical prefetcher for faster application start'
 date: '2001-12-29T18:58:31+01:00'
-status: publish
 permalink: /article/winnt-logical-prefetcher.html
 author: Snakefoot
 excerpt: 'Microsoft Windows can speed up the launch of application by prefetching the data the application usually request at startup.'

@@ -1,7 +1,6 @@
 ---
 title: 'Windows Color System'
 date: '2007-07-17T02:17:09+02:00'
-status: publish
 permalink: /article/winnt-services-wcspluginservice.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Color System service.'

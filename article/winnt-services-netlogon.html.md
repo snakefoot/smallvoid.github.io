@@ -1,7 +1,6 @@
 ---
 title: 'NET Logon'
 date: '2000-06-06T15:21:33+02:00'
-status: publish
 permalink: /article/winnt-services-netlogon.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the NET Logon service.'

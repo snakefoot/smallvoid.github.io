@@ -1,7 +1,6 @@
 ---
 title: 'Configure I/O requests for SCSI devices'
 date: '2004-03-06T12:53:12+01:00'
-status: publish
 permalink: /article/winnt-scsi-request-limit.html
 author: Snakefoot
 excerpt: 'How to increase the allowed amount of concurrent I/O request for a disk controller.'

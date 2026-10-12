@@ -1,7 +1,6 @@
 ---
 title: 'DCOM Server Process Launcher'
 date: '2004-09-12T00:32:56+02:00'
-status: publish
 permalink: /article/winnt-services-dcomlaunch.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the DCOM Server Process Launcher service.'

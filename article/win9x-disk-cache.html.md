@@ -1,7 +1,6 @@
 ---
 title: 'Configure the disk cache to improve disk performance'
 date: '2000-01-01T19:03:35+01:00'
-status: publish
 permalink: /article/win9x-disk-cache.html
 author: Snakefoot
 excerpt: 'How to configure the disk cache for faster file operations.'

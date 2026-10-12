@@ -1,7 +1,6 @@
 ---
 title: 'Creating file shares that are hidden'
 date: '2001-01-01T12:50:57+01:00'
-status: publish
 permalink: /article/hidden-file-shares.html
 author: Snakefoot
 excerpt: 'Hiding a file-share by changing the name.'

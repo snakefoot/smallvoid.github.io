@@ -1,7 +1,6 @@
 ---
 title: 'Smart Card Removal Policy'
 date: '2007-07-17T02:16:02+02:00'
-status: publish
 permalink: /article/winnt-services-scpolicysvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Smart Card Removal Policy service.'

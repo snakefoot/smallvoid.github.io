@@ -1,7 +1,6 @@
 ---
 title: 'Shell Hardware Detection'
 date: '2003-06-05T18:43:09+02:00'
-status: publish
 permalink: /article/winnt-services-shellhwdetection.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Shell Hardware Detection service.'

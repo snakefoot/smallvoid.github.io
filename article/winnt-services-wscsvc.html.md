@@ -1,7 +1,6 @@
 ---
 title: 'Security Center'
 date: '2004-09-12T18:23:45+02:00'
-status: publish
 permalink: /article/winnt-services-wscsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Security Center service (WSCSVC).'

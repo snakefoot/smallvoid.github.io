@@ -1,7 +1,6 @@
 ---
 title: 'Install Windows 2000 without using CD-Key'
 date: '2002-06-08T05:57:20+02:00'
-status: publish
 permalink: /article/win2k-install-cd-key.html
 author: Snakefoot
 excerpt: 'By changing the license on the install cd, then one don''t have to supply a cd-key during install.'

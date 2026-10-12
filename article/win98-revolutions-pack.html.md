@@ -1,7 +1,6 @@
 ---
 title: 'Windows 98 Revolutions Pack'
 date: '2001-11-29T13:45:20+01:00'
-status: publish
 permalink: /article/win98-revolutions-pack.html
 author: Snakefoot
 excerpt: 'Bring your old Windows 98 desktop into the new millenium.'

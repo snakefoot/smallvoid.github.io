@@ -1,7 +1,6 @@
 ---
 title: 'Creating a Local Area Network (LAN)'
 date: '2002-05-28T03:44:22+02:00'
-status: publish
 permalink: /article/troubleshooting-network.html
 author: Snakefoot
 excerpt: 'Setting up a computer network, and steps for troubleshooting errors in the computer network.'

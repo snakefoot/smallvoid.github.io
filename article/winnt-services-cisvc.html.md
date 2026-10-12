@@ -1,7 +1,6 @@
 ---
 title: 'Indexing Service'
 date: '2000-07-23T02:15:23+02:00'
-status: publish
 permalink: /article/winnt-services-cisvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Indexing service.'

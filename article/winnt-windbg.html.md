@@ -1,7 +1,6 @@
 ---
 title: 'Debugging Tools'
 date: '2006-02-25T20:49:07+01:00'
-status: publish
 permalink: /article/winnt-windbg.html
 author: Snakefoot
 excerpt: 'Microsoft Windbg makes it possible to diagnose what caused a BSOD, so one can replace the device that caused it.'

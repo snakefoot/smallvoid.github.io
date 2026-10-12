@@ -1,7 +1,6 @@
 ---
 title: 'Using function keys to enhance the command prompt'
 date: '2002-01-01T12:58:15+01:00'
-status: publish
 permalink: /article/winnt-command-prompt-shortcuts.html
 author: Snakefoot
 excerpt: 'The command prompt allows one to use shortcut keys for easier navigation.'

@@ -1,7 +1,6 @@
 ---
 title: 'Change the color of the command prompt'
 date: '2001-01-01T13:40:06+01:00'
-status: publish
 permalink: /article/winnt-command-prompt-color.html
 author: Snakefoot
 excerpt: 'How to change the text color and background color in the command prompt.'

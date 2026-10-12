@@ -1,7 +1,6 @@
 ---
 title: 'Changing the temporary directory'
 date: '2000-01-01T22:22:04+01:00'
-status: publish
 permalink: /article/temporary-directory.html
 author: Snakefoot
 excerpt: 'Description of the temporary directory, and how to change the location using environment variables.'

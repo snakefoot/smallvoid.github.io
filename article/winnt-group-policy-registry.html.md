@@ -1,7 +1,6 @@
 ---
 title: 'Using the Group Policy Editor as registry editor'
 date: '2001-01-31T13:03:52+01:00'
-status: publish
 permalink: /article/winnt-group-policy-registry.html
 author: Snakefoot
 excerpt: 'How to use the group policy editor for easy editing of registry settings.'

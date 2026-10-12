@@ -1,7 +1,6 @@
 ---
 title: 'Pro and cons for using multiple disk partitions'
 date: '2002-07-06T12:11:01+02:00'
-status: publish
 permalink: /article/multiple-partitions.html
 author: Snakefoot
 excerpt: 'Describes the benefits and the costs of using multiple partitions.'

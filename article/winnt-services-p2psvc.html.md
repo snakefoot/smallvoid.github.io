@@ -1,7 +1,6 @@
 ---
 title: 'Peer Networking Grouping'
 date: '2007-07-17T02:15:12+02:00'
-status: publish
 permalink: /article/winnt-services-p2psvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Peer Networking Grouping service.'

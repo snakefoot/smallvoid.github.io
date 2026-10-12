@@ -1,7 +1,6 @@
 ---
 title: 'Windows Connect Now - Config Registrar'
 date: '2007-07-17T02:17:14+02:00'
-status: publish
 permalink: /article/winnt-services-wcncsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Connect Now - Config Registrar service.'

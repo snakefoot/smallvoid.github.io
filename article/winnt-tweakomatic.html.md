@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Tweakomatic'
 date: '2003-11-14T18:14:33+01:00'
-status: publish
 permalink: /article/winnt-tweakomatic.html
 author: Snakefoot
 excerpt: 'Tweakomatic will take over where group policies cannot handle it any longer.'

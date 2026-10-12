@@ -1,7 +1,6 @@
 ---
 title: 'Windows 95 Power Toys'
 date: '2000-01-01T00:55:53+01:00'
-status: publish
 permalink: /article/win95-power-toys.html
 author: Snakefoot
 excerpt: 'Power Toys are small utilities created by Microsoft to make life easier.'

@@ -1,7 +1,6 @@
 ---
 title: 'Control the keyboard numlock state at startup'
 date: '2004-03-06T20:22:58+01:00'
-status: publish
 permalink: /article/winnt-keyboard-numlock.html
 author: Snakefoot
 excerpt: 'Configure whether the num-lock, caps-lock or scroll-lock keys should be turned on or off at startup.'

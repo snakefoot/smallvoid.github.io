@@ -1,7 +1,6 @@
 ---
 title: 'Windows CardSpace'
 date: '2007-07-17T02:17:04+02:00'
-status: publish
 permalink: /article/winnt-services-idsvc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows CardSpace service.'

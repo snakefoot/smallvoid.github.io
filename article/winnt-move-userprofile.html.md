@@ -1,7 +1,6 @@
 ---
 title: 'Moving the userprofile to a different location'
 date: '2002-06-25T18:02:16+02:00'
-status: publish
 permalink: /article/winnt-move-userprofile.html
 author: Snakefoot
 excerpt: 'How to move the location of the user profile for either backup or after restore.'

@@ -1,7 +1,6 @@
 ---
 title: 'Windows Media Center Extender Service'
 date: '2007-07-17T02:17:46+02:00'
-status: publish
 permalink: /article/winnt-services-mcx2svc.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Windows Media Center Extender Service.'

@@ -1,7 +1,6 @@
 ---
 title: 'Windows 98 regedit'
 date: '2003-03-01T01:13:46+01:00'
-status: publish
 permalink: /article/win95-regedit.html
 author: Snakefoot
 excerpt: 'Modified version of Windows 98 regedit, which can be used in Windows 95.'

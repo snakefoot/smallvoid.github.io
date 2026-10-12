@@ -1,7 +1,6 @@
 ---
 title: 'Terminal Services UserMode Port Redirector'
 date: '2007-07-17T02:16:34+02:00'
-status: publish
 permalink: /article/vista-services-umrdpservice.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Terminal Services UserMode Port Redirector service.'

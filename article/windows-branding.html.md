@@ -1,7 +1,6 @@
 ---
 title: 'Change OEM branding of System Properties'
 date: '2003-09-11T21:48:29+02:00'
-status: publish
 permalink: /article/windows-branding.html
 author: Snakefoot
 excerpt: 'System Properties can be modified to display company name or company pictures.'

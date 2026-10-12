@@ -1,7 +1,6 @@
 ---
 title: 'Configure the amount of memory that can be locked for I/O'
 date: '2000-01-01T14:14:05+01:00'
-status: publish
 permalink: /article/winnt4-mem-locked-io.html
 author: Snakefoot
 excerpt: 'Improve the performance of high speed I/O devices by allowing them to lock more memory for data transfers.'

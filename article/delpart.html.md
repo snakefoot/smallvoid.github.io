@@ -1,7 +1,6 @@
 ---
 title: Delpart
 date: '2003-02-22T15:58:52+01:00'
-status: publish
 permalink: /article/delpart.html
 author: Snakefoot
 excerpt: 'Can delete a NTFS partition from DOS.'

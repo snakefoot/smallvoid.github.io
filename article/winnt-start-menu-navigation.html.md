@@ -1,7 +1,6 @@
 ---
 title: 'Faster Start Menu navigation with integrated search'
 date: '2008-11-01T15:39:43+01:00'
-status: publish
 permalink: /article/winnt-start-menu-navigation.html
 author: Snakefoot
 excerpt: 'Utilities to make it easier to browse the Start-menu and increase productivity'

@@ -1,7 +1,6 @@
 ---
 title: 'Change the source path for the install files in Windows 9x'
 date: '2000-01-01T23:41:19+01:00'
-status: publish
 permalink: /article/win9x-source-path-install.html
 author: Snakefoot
 excerpt: 'Configure the path to the location of the install files whether on CD-ROM or HDD.'

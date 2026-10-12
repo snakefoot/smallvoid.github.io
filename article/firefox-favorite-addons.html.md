@@ -1,7 +1,6 @@
 ---
 title: 'My favorites plugins for Mozilla Firefox'
 date: '2007-12-08T00:10:49+01:00'
-status: publish
 permalink: /article/firefox-favorite-addons.html
 author: Snakefoot
 excerpt: 'Plugins and setting tweaks for Mozilla Firefox.'

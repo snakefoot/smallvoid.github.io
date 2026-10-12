@@ -1,7 +1,6 @@
 ---
 title: 'Executing program without specifying path'
 date: '2000-01-01T22:46:03+01:00'
-status: publish
 permalink: /article/executing-program-path.html
 author: Snakefoot
 excerpt: 'Description of the PATH environment variable, and how to configure it.'

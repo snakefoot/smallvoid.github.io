@@ -1,7 +1,6 @@
 ---
 title: 'Norton Unerase'
 date: '2000-01-01T14:47:39+01:00'
-status: publish
 permalink: /article/norton-unerase.html
 author: Snakefoot
 excerpt: 'File recovery utility that supports FAT32 partitions.'

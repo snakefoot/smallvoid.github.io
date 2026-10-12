@@ -1,7 +1,6 @@
 ---
 title: 'Configure host name resolution order in Windows 9x'
 date: '2004-10-10T21:41:48+02:00'
-status: publish
 permalink: /article/win9x-host-name-resolution.html
 author: Snakefoot
 excerpt: 'Configure the priority of how it should lookup the physical network address of a computer.'

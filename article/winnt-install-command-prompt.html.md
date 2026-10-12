@@ -1,7 +1,6 @@
 ---
 title: 'Open Command Prompt during the install phase'
 date: '2006-12-23T02:34:16+01:00'
-status: publish
 permalink: /article/winnt-install-command-prompt.html
 author: Snakefoot
 excerpt: 'It is possible to open a command prompt during the GUI part of the Windows install.'

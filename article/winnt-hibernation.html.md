@@ -1,7 +1,6 @@
 ---
 title: 'Disable hibernation to save disk space'
 date: '2003-09-17T22:06:02+02:00'
-status: publish
 permalink: /article/winnt-hibernation.html
 author: Snakefoot
 excerpt: 'Hibernation requires a file as big as the size of the physical memory, which it dumps the contents of the memory to hibernate.'

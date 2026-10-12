@@ -1,7 +1,6 @@
 ---
 title: 'Securing the local Administrator account'
 date: '2001-09-01T23:36:51+02:00'
-status: publish
 permalink: /article/winnt-secure-admin.html
 author: Snakefoot
 excerpt: 'Protecting the Administrator account from unauthorized access.'

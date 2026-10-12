@@ -1,7 +1,6 @@
 ---
 title: Alerter
 date: '2000-06-06T01:00:00+02:00'
-status: publish
 permalink: /article/winnt-services-alerter.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the Alerter service.'

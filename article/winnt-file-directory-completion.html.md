@@ -1,7 +1,6 @@
 ---
 title: 'File and directory completion with keyboard shortcut'
 date: '2001-01-01T23:51:58+01:00'
-status: publish
 permalink: /article/winnt-file-directory-completion.html
 author: Snakefoot
 excerpt: 'How to assign keyboard shortcut to file and directory completion in command prompt.'

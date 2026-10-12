@@ -1,7 +1,6 @@
 ---
 title: 'Disable the automatic updating of file access time'
 date: '2001-02-07T23:33:44+01:00'
-status: publish
 permalink: /article/win98-file-update-access-time.html
 author: Snakefoot
 excerpt: 'Lower the disk activity by disabling the updating of when a file was last accessed.'

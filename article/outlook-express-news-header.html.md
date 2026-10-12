@@ -1,7 +1,6 @@
 ---
 title: 'See who really is posting in newsgroups with Outlook Express'
 date: '2002-05-28T18:43:17+02:00'
-status: publish
 permalink: /article/outlook-express-news-header.html
 author: Snakefoot
 excerpt: 'When posting to a newsgroup, then a header is also sent which contains of who actual sent the news post.'

@@ -1,7 +1,6 @@
 ---
 title: 'HomeGroup Provider'
 date: '2009-09-18T19:48:48+02:00'
-status: publish
 permalink: /article/winnt-services-homegroupprovider.html
 author: Snakefoot
 excerpt: 'Description and recommended settings for the HomeGroup Provider service.'

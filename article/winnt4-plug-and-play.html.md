@@ -1,7 +1,6 @@
 ---
 title: 'Activate plug and play device detection in Windows NT4'
 date: '2000-01-01T23:30:10+01:00'
-status: publish
 permalink: /article/winnt4-plug-and-play.html
 author: Snakefoot
 excerpt: 'Windows NT4 supports by default not plug and play devices, but Microsoft have created an unsupported driver.'

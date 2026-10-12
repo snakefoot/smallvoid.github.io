@@ -1,7 +1,6 @@
 ---
 title: 'Using the registry editor to change the service state'
 date: '2003-12-31T03:10:28+01:00'
-status: publish
 permalink: /article/winnt-services-regedit.html
 author: Snakefoot
 excerpt: 'How to use the registry editor to configure the state of the Windows services.'

@@ -1,7 +1,6 @@
 ---
 title: 'Using Windows File Protection in Windows 2000 / XP'
 date: '2001-01-21T00:05:43+01:00'
-status: publish
 permalink: /article/winnt-wfp.html
 author: Snakefoot
 excerpt: 'Windows File Protection is able to keep the system files intact when overwritten.'

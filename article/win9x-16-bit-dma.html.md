@@ -1,7 +1,6 @@
 ---
 title: 'Improve 16 bit DMA transfers by increasing DMA buffer size'
 date: '2001-01-01T21:55:41+01:00'
-status: publish
 permalink: /article/win9x-16-bit-dma.html
 author: Snakefoot
 excerpt: 'How to configure the size of the pre-allocated DMA buffer for use by 16 bit applications.'
