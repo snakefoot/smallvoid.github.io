@@ -7,9 +7,9 @@ excerpt: 'How to block Setver.exe from loading to save conventional memory.'
 type: post
 id: 91
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
 tags:
     - conventional-memory
     - setver

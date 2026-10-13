@@ -7,13 +7,13 @@ excerpt: 'Description of the different ways Windows can convert a logical networ
 type: post
 id: 217
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
+    - windows-nt4-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - dns
     - hosts-file

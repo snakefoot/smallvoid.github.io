@@ -7,11 +7,9 @@ excerpt: 'Description and recommended settings for the Indexing service.'
 type: post
 id: 552
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - file-search
+    - windows-2000-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags:
     - file-search
 ---

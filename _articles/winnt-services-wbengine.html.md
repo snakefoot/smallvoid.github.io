@@ -7,11 +7,9 @@ excerpt: 'Description and recommended settings for the Block Level Backup Engine
 type: post
 id: 661
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - backup
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - backup
 ---

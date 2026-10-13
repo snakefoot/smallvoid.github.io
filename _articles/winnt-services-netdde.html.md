@@ -7,12 +7,10 @@ excerpt: 'Description and recommended settings for the Network DDE service.'
 type: post
 id: 566
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - network-dde
+    - windows-2000-services-guide
+    - windows-nt4-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags:
     - network-dde
 ---

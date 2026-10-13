@@ -7,13 +7,13 @@ excerpt: 'Description and recommended settings for the Computer Browser service.
 type: post
 id: 528
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2000-services-guide
+    - windows-nt4-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - master-browser
     - microsoft-network

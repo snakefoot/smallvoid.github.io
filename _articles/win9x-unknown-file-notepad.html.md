@@ -7,8 +7,8 @@ excerpt: 'Configure the default behavior to use notepad, when opening a file wit
 type: post
 id: 115
 categories:
-    - Desktop
-    - Desktop
+    - windows-95-desktop
+    - windows-98-desktop
 tags:
     - notepad
     - open-with

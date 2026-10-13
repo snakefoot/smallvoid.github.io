@@ -7,10 +7,8 @@ excerpt: 'The shutdown event tracker forces the user to give a reason for restar
 type: post
 id: 401
 categories:
-    - Tips
-    - Tips
-tags:
-    - event-log
+    - windows-2003-tips
+    - windows-xp-tips
 tags:
     - event-log
 ---

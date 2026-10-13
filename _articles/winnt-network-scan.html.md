@@ -7,9 +7,7 @@ excerpt: 'The network crawler will automatically create shortcuts to the network
 type: post
 id: 413
 categories:
-    - 'File Sharing'
-tags:
-    - network-places
+    - windows-xp-file-sharing
 tags:
     - network-places
 ---

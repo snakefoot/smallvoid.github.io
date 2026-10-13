@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Distributed File System s
 type: post
 id: 537
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - distributed-file-system
+    - windows-2000-services-guide
+    - windows-2003-services-guide
 tags:
     - distributed-file-system
 ---

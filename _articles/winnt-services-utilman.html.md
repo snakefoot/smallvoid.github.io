@@ -7,9 +7,7 @@ excerpt: 'Description and recommended settings for the Utility Manager service.'
 type: post
 id: 612
 categories:
-    - 'Services Guide'
-tags:
-    - accessibility-tools
+    - windows-2000-services-guide
 tags:
     - accessibility-tools
 ---

@@ -7,10 +7,10 @@ excerpt: 'The Last Known Good Configuration makes it possible to rollback to the
 type: post
 id: 257
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - last-known-good-configuration
     - system-recovery

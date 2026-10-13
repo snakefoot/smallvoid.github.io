@@ -7,7 +7,7 @@ excerpt: 'Change how multiple instances of the same application should be groupe
 type: post
 id: 409
 categories:
-    - Desktop
+    - windows-xp-desktop
 tags:
     - task-grouping
     - taskbar

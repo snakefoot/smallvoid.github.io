@@ -7,13 +7,13 @@ excerpt: 'Steps for finding what hardware devices that is causing problems.'
 type: post
 id: 267
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-95-troubleshoot
+    - windows-98-troubleshoot
+    - windows-me-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - drivers
     - event-log

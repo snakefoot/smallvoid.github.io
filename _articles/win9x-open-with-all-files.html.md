@@ -7,9 +7,9 @@ excerpt: 'Configure the context-menu when right-clicking any file to show "Open 
 type: post
 id: 125
 categories:
-    - Desktop
-    - Desktop
-    - Desktop
+    - windows-nt4-desktop
+    - windows-95-desktop
+    - windows-98-desktop
 tags:
     - context-menu
     - open-with

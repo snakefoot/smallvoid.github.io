@@ -7,9 +7,9 @@ excerpt: 'How to give the foreground application higher priority, so it will not
 type: post
 id: 95
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
 tags:
     - process-priority
     - process-scheduler

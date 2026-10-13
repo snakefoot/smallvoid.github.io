@@ -7,7 +7,7 @@ excerpt: 'Convert a FAT16 partition to FAT32 from DOS.'
 type: post
 id: 82
 categories:
-    - Utilities
+    - ms-dos-utilities
 tags:
     - drive-converter
     - fat16

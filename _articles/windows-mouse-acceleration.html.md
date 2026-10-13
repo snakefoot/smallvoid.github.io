@@ -7,13 +7,13 @@ excerpt: 'Mouse is accelerated when moved in a single movement to make the Windo
 type: post
 id: 279
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - mouse
     - mouse-acceleration

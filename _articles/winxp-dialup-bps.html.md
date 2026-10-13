@@ -7,9 +7,7 @@ excerpt: 'Changing the maximum port speed to get a faster dialup connection.'
 type: post
 id: 422
 categories:
-    - Network
-tags:
-    - dialup-modem
+    - windows-xp-network
 tags:
     - dialup-modem
 ---

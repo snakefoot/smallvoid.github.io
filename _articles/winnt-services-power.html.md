@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Power service.'
 type: post
 id: 804
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - power-management
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - power-management
 ---

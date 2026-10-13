@@ -7,9 +7,9 @@ excerpt: 'Windows Explorer will automatically request extended file information 
 type: post
 id: 444
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
 tags:
     - network-performance
     - network-share

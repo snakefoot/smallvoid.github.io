@@ -7,9 +7,9 @@ excerpt: 'Description of the registry keys used for configuring the TCP/IP max t
 type: post
 id: 191
 categories:
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
 tags:
     - dialup-modem
     - lan

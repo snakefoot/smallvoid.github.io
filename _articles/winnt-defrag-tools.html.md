@@ -7,10 +7,10 @@ excerpt: 'Different utilities available to keep file fragmentation at a low leve
 type: post
 id: 367
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - defrag
     - disk-performance

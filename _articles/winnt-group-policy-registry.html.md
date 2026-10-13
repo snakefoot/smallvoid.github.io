@@ -7,9 +7,9 @@ excerpt: 'How to use the group policy editor for easy editing of registry settin
 type: post
 id: 37
 categories:
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - group-policy
     - regedit

@@ -7,12 +7,10 @@ excerpt: 'Windows creates by default a network shares for each drive letter, whi
 type: post
 id: 438
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-tags:
-    - network-share
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
 tags:
     - network-share
 ---

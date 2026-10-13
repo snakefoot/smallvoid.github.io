@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Help and Support service.
 type: post
 id: 547
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags: []
 ---
 ##### Description:

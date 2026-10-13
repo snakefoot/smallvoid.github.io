@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Windows Backup service.'
 type: post
 id: 711
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - backup
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - backup
 ---

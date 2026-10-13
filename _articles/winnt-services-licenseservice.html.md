@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the License Logging service.'
 type: post
 id: 558
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2000-services-guide
+    - windows-nt4-services-guide
+    - windows-2003-services-guide
 tags: []
 ---
 ##### Description:

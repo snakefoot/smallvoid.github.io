@@ -7,9 +7,7 @@ excerpt: 'Microsoft have created several extensions to its Windows Media Player 
 type: post
 id: 503
 categories:
-    - Utilities
-tags:
-    - windows-media-player
+    - windows-xp-utilities
 tags:
     - windows-media-player
 ---

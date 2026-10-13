@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Portable Media Serial Num
 type: post
 id: 625
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2000-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags:
     - drm
     - windows-media-player

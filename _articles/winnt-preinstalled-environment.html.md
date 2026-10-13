@@ -7,10 +7,10 @@ excerpt: 'Create a cd-rom-, dvd- or usb-drive which Windows can boot from.'
 type: post
 id: 396
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - bootdisk
     - preinstallation-environment

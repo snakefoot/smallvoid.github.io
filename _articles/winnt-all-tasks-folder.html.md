@@ -7,8 +7,8 @@ excerpt: 'The All Tasks folder gives a quick overview of all the options availab
 type: post
 id: 779
 categories:
-    - Tips
-    - Tips
+    - windows-vista-tips
+    - windows-7-win7-tips
 tags:
     - control-panel
     - windows-explorer

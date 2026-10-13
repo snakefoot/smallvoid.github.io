@@ -7,10 +7,10 @@ excerpt: 'Windows can activate NDIS 5 network hardware features for offloading t
 type: post
 id: 758
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
+    - windows-vista-network
 tags:
     - network-interface-card
     - network-performance

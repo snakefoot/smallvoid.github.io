@@ -7,7 +7,7 @@ excerpt: 'The start menu search in Windows Vista will by default search all fold
 type: post
 id: 648
 categories:
-    - Desktop
+    - windows-vista-desktop
 tags:
     - desktop-search
     - file-search

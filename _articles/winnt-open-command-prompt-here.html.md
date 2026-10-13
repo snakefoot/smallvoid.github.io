@@ -7,12 +7,12 @@ excerpt: 'Extend the right-click context-menu of a folder to open a command prom
 type: post
 id: 121
 categories:
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
+    - windows-nt4-command-prompt
+    - windows-xp-command-prompt
+    - windows-2000-command-prompt
+    - windows-2003-command-prompt
 tags:
-    - 'Command Prompt'
+    - command-prompt
     - context-menu
     - windows-explorer
 ---

@@ -7,7 +7,7 @@ excerpt: 'Change whether it should extract file details for media files and disp
 type: post
 id: 410
 categories:
-    - Desktop
+    - windows-xp-desktop
 tags:
     - thumbnail
     - windows-media-player

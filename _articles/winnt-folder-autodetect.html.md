@@ -7,7 +7,7 @@ excerpt: 'Windows Explorer tries to guess how to display a directory, by looking
 type: post
 id: 759
 categories:
-    - Desktop
+    - windows-vista-desktop
 tags:
     - custom-folders
     - visual-style

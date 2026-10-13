@@ -7,13 +7,13 @@ excerpt: 'How to change the color of the BSOD to make it easier to read or just 
 type: post
 id: 135
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - blue-screen-of-death
     - visual-style

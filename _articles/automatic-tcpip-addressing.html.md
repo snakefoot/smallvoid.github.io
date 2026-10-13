@@ -7,11 +7,11 @@ excerpt: 'Details of how the Automatic Private IP Addressing (APIPA) takes over 
 type: post
 id: 141
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-98-network
+    - windows-me-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - APIPA
     - dhcp

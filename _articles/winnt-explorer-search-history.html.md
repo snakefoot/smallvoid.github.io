@@ -7,7 +7,7 @@ excerpt: 'Stop auto suggestion of recent file searches in the Windows Explorer s
 type: post
 id: 790
 categories:
-    - Desktop
+    - windows-7-win7-desktop
 tags:
     - file-search
     - windows-explorer

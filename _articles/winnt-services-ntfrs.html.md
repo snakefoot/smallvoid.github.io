@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the File Replication service.
 type: post
 id: 536
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2000-services-guide
+    - windows-nt4-services-guide
+    - windows-2003-services-guide
 tags:
     - distributed-file-system
     - file-synchronization

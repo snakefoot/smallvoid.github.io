@@ -7,10 +7,10 @@ excerpt: 'Bootpart makes it easy to create the perfect multi-boot setup using th
 type: post
 id: 496
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - boot-manager
     - dual-boot

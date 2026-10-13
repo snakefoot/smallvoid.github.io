@@ -7,9 +7,9 @@ excerpt: 'Utility that monitors the cpu usage and displays a small cpu meter in 
 type: post
 id: 225
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
 tags:
     - cpu
     - performance-monitor

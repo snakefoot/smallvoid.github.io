@@ -7,8 +7,8 @@ excerpt: 'How to reinstall the Help and Support service if it fails to function 
 type: post
 id: 548
 categories:
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
 tags: []
 ---
 If having problems with the [Help and Support service](/article/winnt-services-helpsvc.html), then one can try repair it:

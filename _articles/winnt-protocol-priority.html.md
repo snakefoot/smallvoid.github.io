@@ -7,10 +7,10 @@ excerpt: 'Change which network protocol to use first when looking for a resource
 type: post
 id: 420
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-nt4-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - netbeui
     - network-protocol

@@ -7,10 +7,10 @@ excerpt: 'Allow user interaction in command prompt scripts using environment var
 type: post
 id: 462
 categories:
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
+    - windows-nt4-command-prompt
+    - windows-xp-command-prompt
+    - windows-2000-command-prompt
+    - windows-2003-command-prompt
 tags:
     - batch-file
     - environment-variables

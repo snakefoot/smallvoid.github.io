@@ -7,12 +7,10 @@ excerpt: 'Where to find the cd-key for the current Windows install.'
 type: post
 id: 391
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-tags:
-    - cd-key
+    - windows-2003-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - cd-key
 ---

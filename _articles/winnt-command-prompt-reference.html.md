@@ -7,10 +7,10 @@ excerpt: 'The command prompt can be used to configure almost anything, and be us
 type: post
 id: 458
 categories:
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
+    - windows-nt4-command-prompt
+    - windows-xp-command-prompt
+    - windows-2000-command-prompt
+    - windows-2003-command-prompt
 tags: []
 ---
 Lists of the different commands available in Windows NT Command Prompt console:

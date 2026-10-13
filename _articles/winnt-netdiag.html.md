@@ -7,11 +7,9 @@ excerpt: 'NetDiag is a command line utility created by Microsoft that can be use
 type: post
 id: 508
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-tags:
-    - network-diagnostic
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-xp-utilities
 tags:
     - network-diagnostic
 ---

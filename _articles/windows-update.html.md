@@ -7,16 +7,16 @@ excerpt: 'Description of how Microsoft Windows requires constant updating to get
 type: post
 id: 228
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - hotfix
-    - 'Windows Update'
+    - windows-update
 ---
 Microsoft is not only famous for making software, Microsoft is also famous for making a lot of patches and updates. There are different types of updates:
 

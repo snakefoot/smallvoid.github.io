@@ -7,13 +7,13 @@ excerpt: 'Description of different causes and solutions to hard disk performance
 type: post
 id: 198
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - ATA
     - disk-performance

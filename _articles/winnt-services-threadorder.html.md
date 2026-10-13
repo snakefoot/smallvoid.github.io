@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Thread Ordering Server se
 type: post
 id: 707
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags: []
 ---
 ##### Description:

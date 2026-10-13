@@ -7,10 +7,8 @@ excerpt: 'SyncToy is an utility by Microsoft which can make the manual task of s
 type: post
 id: 517
 categories:
-    - Utilities
-    - Utilities
-tags:
-    - file-synchronization
+    - windows-xp-utilities
+    - windows-vista-utilities
 tags:
     - file-synchronization
 ---

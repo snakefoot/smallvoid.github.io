@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Disk Defragmenter/Optimiz
 type: post
 id: 799
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - defrag
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - defrag
 ---

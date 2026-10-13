@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Windows Defender service.
 type: post
 id: 715
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags: []
 ---
 ##### Description:

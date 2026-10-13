@@ -7,14 +7,14 @@ excerpt: 'How the security features in SMB signing can protect the network.'
 type: post
 id: 208
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
+    - windows-95-file-sharing
+    - windows-98-file-sharing
+    - windows-me-file-sharing
+    - windows-vista-file-sharing
 tags:
     - microsoft-network
     - network-performance

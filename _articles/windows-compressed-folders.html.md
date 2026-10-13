@@ -7,13 +7,13 @@ excerpt: 'Open zip and cab files in Windows Explorer like they were normal direc
 type: post
 id: 402
 categories:
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
+    - windows-nt4-desktop
+    - windows-xp-desktop
+    - windows-2000-desktop
+    - windows-2003-desktop
+    - windows-95-desktop
+    - windows-98-desktop
+    - windows-me-desktop
 tags:
     - archive
     - cab

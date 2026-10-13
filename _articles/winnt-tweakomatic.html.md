@@ -7,9 +7,9 @@ excerpt: 'Tweakomatic will take over where group policies cannot handle it any l
 type: post
 id: 515
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-xp-utilities
 tags:
     - group-policy
     - registry

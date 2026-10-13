@@ -7,11 +7,11 @@ excerpt: 'Extend the right-click context-menu of a folder to open a DOS command 
 type: post
 id: 120
 categories:
-    - Tips
-    - Tips
-    - Tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
 tags:
-    - 'Command Prompt'
+    - command-prompt
     - context-menu
     - windows-explorer
 ---

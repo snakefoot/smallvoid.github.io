@@ -7,15 +7,13 @@ excerpt: 'Utilities for extracting the the cd-key from the registry database.'
 type: post
 id: 163
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-tags:
-    - cd-key
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - cd-key
 ---

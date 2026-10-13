@@ -7,9 +7,7 @@ excerpt: 'How to increase the limit of how many files a DOS program can have ope
 type: post
 id: 98
 categories:
-    - 'Tweak Performance'
-tags:
-    - file-handles
+    - windows-me-performance
 tags:
     - file-handles
 ---

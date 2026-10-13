@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Program Compatibility Ass
 type: post
 id: 696
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - application-compatibility
     - user-account-protection

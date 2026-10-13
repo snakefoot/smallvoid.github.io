@@ -7,9 +7,9 @@ excerpt: 'Windows XP SP2 includes the ability to mark files downloaded from the 
 type: post
 id: 291
 categories:
-    - 'Internet Explorer (IE6)'
-    - 'Internet Explorer (IE7)'
-    - Tips
+    - web-browser-internet-explorer-ie6
+    - web-browser-internet-explorer-ie7
+    - windows-xp-tips
 tags:
     - alternative-data-stream
     - attachment-execution-services
@@ -17,7 +17,11 @@ tags:
     - ntfs
     - security-zone
     - trusted-sites
-    - 'attachment-manager,attachment-execution-services,trusted-sites,security-zone,ntfs,alternative-data-stream'
+    - attachment-manager
+    - attachment-execution-services
+    - security-zone
+    - ntfs
+    - alternative-data-stream
 ---
 Windows XP SP2 includes a new feature called Attachment Manager, which adds a security prompt when trying to open files marked as being downloaded from the Internet or received as e-mail attachments.  
   

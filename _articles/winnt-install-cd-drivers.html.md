@@ -7,10 +7,10 @@ excerpt: 'Avoid having to use a floppy disk when installing Windows NT on a mach
 type: post
 id: 484
 categories:
-    - 'Install CD'
-    - 'Install CD'
-    - 'Install CD'
-    - 'Install CD'
+    - windows-2000-install-cd
+    - windows-xp-install-cd
+    - windows-nt4-install-cd
+    - windows-2003-install-cd
 tags:
     - slipstream
     - unattended-install

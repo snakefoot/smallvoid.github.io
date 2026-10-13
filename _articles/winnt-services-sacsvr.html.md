@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Special Administration Co
 type: post
 id: 598
 categories:
-    - 'Services Guide'
+    - windows-2003-services-guide
 tags: []
 ---
 ##### Description:

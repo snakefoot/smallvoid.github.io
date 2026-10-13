@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Windows Media Player Netw
 type: post
 id: 724
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - media-player
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - media-player
 ---

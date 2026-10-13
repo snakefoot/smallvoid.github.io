@@ -7,7 +7,7 @@ excerpt: 'Outlook Express has can be used as a picture viewer.'
 type: post
 id: 335
 categories:
-    - 'Outlook Express'
+    - email-reader-outlook-express
 tags:
     - picture
     - slideshow

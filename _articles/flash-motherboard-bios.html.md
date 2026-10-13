@@ -7,13 +7,13 @@ excerpt: 'Description of different alternative ways for recovering from a bad BI
 type: post
 id: 272
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-95-troubleshoot
+    - windows-98-troubleshoot
+    - windows-me-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - BIOS
     - motherboard

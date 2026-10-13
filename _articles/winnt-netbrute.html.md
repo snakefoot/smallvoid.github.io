@@ -7,10 +7,10 @@ excerpt: 'NetBrute by Raw Logic Software can scan the network and display comput
 type: post
 id: 504
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - network-diagnostic
     - port-scanner

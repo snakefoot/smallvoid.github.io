@@ -7,9 +7,9 @@ excerpt: 'Configuring the TCPIP stack to increase the amount of concurrent conne
 type: post
 id: 192
 categories:
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
 tags:
     - network-performance
     - tcpip

@@ -7,13 +7,13 @@ excerpt: 'Description of how to configure a computer network without a DHCP serv
 type: post
 id: 140
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
+    - windows-nt4-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - boot-time
     - default-gateway

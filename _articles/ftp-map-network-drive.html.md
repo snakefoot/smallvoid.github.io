@@ -7,13 +7,13 @@ excerpt: 'Utilities for mounting a FTP folder as a mapped netwok drive.'
 type: post
 id: 737
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
+    - windows-nt4-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - drive-mount
     - file-system

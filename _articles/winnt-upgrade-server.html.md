@@ -7,12 +7,10 @@ excerpt: 'Utilities that can change the configuration of a Windows installation 
 type: post
 id: 451
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-tags:
-    - crippled
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - crippled
 ---

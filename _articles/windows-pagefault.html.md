@@ -7,11 +7,11 @@ excerpt: 'Description of how Windows optimizes the virtual memory to minimize th
 type: post
 id: 2588
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
+    - windows-vista-performance
 tags:
     - memory-manager
     - page-fault

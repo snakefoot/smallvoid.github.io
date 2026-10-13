@@ -7,12 +7,10 @@ excerpt: 'Description of how to extend the default command prompt to include mor
 type: post
 id: 460
 categories:
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
-tags:
-    - visual-style
+    - windows-nt4-command-prompt
+    - windows-xp-command-prompt
+    - windows-2000-command-prompt
+    - windows-2003-command-prompt
 tags:
     - visual-style
 ---

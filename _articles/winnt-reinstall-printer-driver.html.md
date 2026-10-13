@@ -7,10 +7,10 @@ excerpt: 'Changing printer drivers in Windows NT can cause problems, and can req
 type: post
 id: 467
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - drivers
     - printer

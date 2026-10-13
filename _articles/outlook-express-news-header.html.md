@@ -7,9 +7,7 @@ excerpt: 'When posting to a newsgroup, then a header is also sent which contains
 type: post
 id: 334
 categories:
-    - 'Outlook Express'
-tags:
-    - news-groups
+    - email-reader-outlook-express
 tags:
     - news-groups
 ---

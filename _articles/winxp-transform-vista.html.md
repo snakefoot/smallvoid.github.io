@@ -7,9 +7,7 @@ excerpt: 'Give your good old Windows XP a visual facelift with the transformatio
 type: post
 id: 349
 categories:
-    - Utilities
-tags:
-    - themes
+    - windows-xp-utilities
 tags:
     - themes
 ---

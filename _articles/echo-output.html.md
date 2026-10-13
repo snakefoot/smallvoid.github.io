@@ -7,9 +7,7 @@ excerpt: 'Description of the ECHO command and the possible ways to make output.'
 type: post
 id: 60
 categories:
-    - Tips
-tags:
-    - batch-file
+    - ms-dos-tips
 tags:
     - batch-file
 ---

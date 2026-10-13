@@ -7,11 +7,9 @@ excerpt: 'Device driver for the PC speaker so it can play WAV files in Windows 9
 type: post
 id: 226
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-tags:
-    - pc-speaker
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
 tags:
     - pc-speaker
 ---

@@ -7,11 +7,11 @@ excerpt: 'How to use the scancode map to modify the keyboard layout and disable 
 type: post
 id: 380
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
+    - windows-vista-tips
 tags:
     - keyboard
     - scancode-map

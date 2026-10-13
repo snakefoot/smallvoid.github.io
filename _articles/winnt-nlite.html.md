@@ -7,9 +7,9 @@ excerpt: 'Configure the perfect Windows installation before actually installing.
 type: post
 id: 489
 categories:
-    - 'Install CD'
-    - 'Install CD'
-    - 'Install CD'
+    - windows-2000-install-cd
+    - windows-xp-install-cd
+    - windows-2003-install-cd
 tags:
     - free-disk-space
     - nlite

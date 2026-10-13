@@ -7,8 +7,8 @@ excerpt: 'Change whether it should use the Internet to determine what applicatio
 type: post
 id: 411
 categories:
-    - Desktop
-    - Desktop
+    - windows-xp-desktop
+    - windows-vista-desktop
 tags:
     - file-association
     - unknown-file

@@ -7,14 +7,12 @@ excerpt: 'How to fix Adobe Reader X so it will work with Internet Explorer 11 (x
 type: post
 id: 839
 categories:
-    - 'Web Browser'
+    - web-browser-" rel="tag">Web Browser<
 tags:
     - acrobat-reader
     - enhanced-protected-mode
     - ie-plugin
     - pdf
-tags:
-    - enhanced-protected-mode
 ---
 > **\*Update\* 13 May 2014** Adobe have released Adobe Reader XI ver. 11.0.07 that includes 64 bit plugin, so this workaround is no longer needed.  
 >   

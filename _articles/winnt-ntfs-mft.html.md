@@ -7,11 +7,11 @@ excerpt: 'The Master File Table is the index for all files and directories place
 type: post
 id: 292
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
+    - windows-vista-performance
 tags:
     - disk-performance
     - file-system

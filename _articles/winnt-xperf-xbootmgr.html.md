@@ -7,7 +7,7 @@ excerpt: 'Windows Vista will automatically optimize the boot times, but there ca
 type: post
 id: 776
 categories:
-    - Troubleshoot
+    - windows-vista-troubleshoot
 tags:
     - boot-time
     - windows-performance-toolkit

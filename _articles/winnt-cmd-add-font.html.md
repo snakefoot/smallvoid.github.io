@@ -7,10 +7,10 @@ excerpt: 'How to use a different font in the command prompt than Lucida Console 
 type: post
 id: 733
 categories:
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
+    - windows-nt4-command-prompt
+    - windows-xp-command-prompt
+    - windows-2000-command-prompt
+    - windows-2003-command-prompt
 tags:
     - font
     - true-type

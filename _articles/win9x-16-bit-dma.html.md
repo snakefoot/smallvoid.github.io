@@ -7,11 +7,9 @@ excerpt: 'How to configure the size of the pre-allocated DMA buffer for use by 1
 type: post
 id: 97
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-tags:
-    - dma
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
 tags:
     - dma
 ---

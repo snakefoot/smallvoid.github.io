@@ -7,8 +7,8 @@ excerpt: 'Configure TCPIP receive window auto-tuning for HTTP connections for fa
 type: post
 id: 772
 categories:
-    - 'Internet Explorer (IE7)'
-    - Network
+    - web-browser-internet-explorer-ie7
+    - windows-vista-network
 tags:
     - network-performance
     - rwin

@@ -7,11 +7,9 @@ excerpt: 'Description and recommended settings for the Application Experience se
 type: post
 id: 658
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - application-compatibility
+    - windows-2003-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - application-compatibility
 ---

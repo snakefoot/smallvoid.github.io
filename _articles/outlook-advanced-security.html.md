@@ -7,9 +7,7 @@ excerpt: 'Utility that extends the confirmation dialog shown when an addon wants
 type: post
 id: 337
 categories:
-    - Outlook
-tags:
-    - outlook-addons
+    - email-reader-outlook
 tags:
     - outlook-addons
 ---

@@ -7,12 +7,10 @@ excerpt: 'The ability to store favorite locations in the registry can be quite u
 type: post
 id: 281
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-tags:
-    - regedit
+    - windows-2003-tips
+    - windows-me-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - regedit
 ---

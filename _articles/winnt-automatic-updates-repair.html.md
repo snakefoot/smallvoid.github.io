@@ -7,11 +7,11 @@ excerpt: 'Troubleshoot and repair Automatic Updates when it fails to perform Win
 type: post
 id: 734
 categories:
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - automatic-updates
-    - 'Windows Update'
+    - windows-update
 ---
 ##### Automatic Updates uses 100% CPU
 

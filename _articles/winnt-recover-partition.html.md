@@ -7,10 +7,10 @@ excerpt: 'When deleting a partition then only the boot sector is modified, so by
 type: post
 id: 473
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - boot-sector
     - fat32

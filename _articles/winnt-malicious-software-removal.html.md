@@ -7,10 +7,8 @@ excerpt: 'Security utility for checking if computer is infected with malware, an
 type: post
 id: 518
 categories:
-    - Utilities
-    - Utilities
-tags:
-    - virus
+    - windows-2003-utilities
+    - windows-xp-utilities
 tags:
     - virus
 ---

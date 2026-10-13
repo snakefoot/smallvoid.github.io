@@ -7,10 +7,8 @@ excerpt: 'The install files for Internet Explorer can be downloaded to perform o
 type: post
 id: 313
 categories:
-    - 'Internet Explorer (IE5)'
-    - 'Internet Explorer (IE6)'
-tags:
-    - install
+    - web-browser-internet-explorer-ie5
+    - web-browser-internet-explorer-ie6
 tags:
     - install
 ---

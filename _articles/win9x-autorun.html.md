@@ -7,9 +7,9 @@ excerpt: 'Configure whether to automatically launch application when inserting a
 type: post
 id: 110
 categories:
-    - Tips
-    - Tips
-    - Tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
 tags:
     - autorun
     - cdrom-drive

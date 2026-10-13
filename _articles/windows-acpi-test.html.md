@@ -7,9 +7,9 @@ excerpt: 'Utility to verify the system hardware and firmware (BIOS) compliance w
 type: post
 id: 355
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-98-utilities
+    - windows-me-utilities
 tags:
     - acpi
     - BIOS

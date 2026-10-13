@@ -7,10 +7,10 @@ excerpt: 'How the IPC$ share makes it possible for clients to access shares on t
 type: post
 id: 146
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
 tags:
     - anonymous-access
     - guest-account

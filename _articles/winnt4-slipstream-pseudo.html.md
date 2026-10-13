@@ -7,7 +7,7 @@ excerpt: 'Windows NT4 does not support slip streaming, but it is possible to mak
 type: post
 id: 488
 categories:
-    - 'Install CD'
+    - windows-nt4-install-cd
 tags:
     - slipstream
     - windows-install

@@ -7,9 +7,9 @@ excerpt: 'Deleting the password storage files to reset the Administrator passwor
 type: post
 id: 255
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - administrator
     - password

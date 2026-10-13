@@ -7,10 +7,8 @@ excerpt: 'MSN Messenger is an application by Microsoft that allows one to chat w
 type: post
 id: 469
 categories:
-    - Troubleshoot
-    - Troubleshoot
-tags:
-    - msn-messenger
+    - windows-2000-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - msn-messenger
 ---

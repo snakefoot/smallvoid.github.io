@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Removable Storage Manager
 type: post
 id: 585
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2000-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags: []
 ---
 ##### Description:

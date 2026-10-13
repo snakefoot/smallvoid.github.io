@@ -7,7 +7,7 @@ excerpt: 'How to check the ERRORLEVEL variable to get the return code of a progr
 type: post
 id: 64
 categories:
-    - Tips
+    - ms-dos-tips
 tags:
     - batch-file
     - errorlevel

@@ -7,10 +7,10 @@ excerpt: 'Enabling automatic login so one doesn''t have to type username and pas
 type: post
 id: 154
 categories:
-    - 'User Security'
-    - 'User Security'
-    - 'User Security'
-    - 'User Security'
+    - windows-2003-user-security
+    - windows-nt4-user-security
+    - windows-xp-user-security
+    - windows-2000-user-security
 tags:
     - automatic-login
     - user-account

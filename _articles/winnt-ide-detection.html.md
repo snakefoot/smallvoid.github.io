@@ -7,9 +7,9 @@ excerpt: 'Faster boot times by not spending time on detecting non-existing IDE d
 type: post
 id: 375
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-xp-performance
 tags:
     - ATA
     - boot-time

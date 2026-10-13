@@ -7,9 +7,9 @@ excerpt: 'How to configure a network adapter to be part of multiple subnets.'
 type: post
 id: 202
 categories:
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
 tags:
     - subnet
     - tcpip

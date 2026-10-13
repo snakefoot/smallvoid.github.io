@@ -7,11 +7,9 @@ excerpt: 'Collection of small utilities created by Microsoft to make life easier
 type: post
 id: 221
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-tags:
-    - resource-kit
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
 tags:
     - resource-kit
 ---

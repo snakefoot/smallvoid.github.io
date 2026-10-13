@@ -7,13 +7,13 @@ excerpt: 'Utilities that makes it easier to modify the Windows Explorer context 
 type: post
 id: 119
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - context-menu
     - file-association

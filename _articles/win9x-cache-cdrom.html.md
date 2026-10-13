@@ -7,9 +7,9 @@ excerpt: 'How to increase the size of the read ahead cache used for cdrom and dv
 type: post
 id: 101
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
 tags:
     - cdrom-drive
     - disk-performance

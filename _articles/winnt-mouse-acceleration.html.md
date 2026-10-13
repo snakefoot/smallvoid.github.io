@@ -7,9 +7,7 @@ excerpt: 'The settings to configure mouse acceleration are hidden away but can s
 type: post
 id: 399
 categories:
-    - Tips
-tags:
-    - mouse
+    - windows-xp-tips
 tags:
     - mouse
 ---

@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Remote Server Manager ser
 type: post
 id: 584
 categories:
-    - 'Services Guide'
+    - windows-2003-services-guide
 tags: []
 ---
 ##### Description:

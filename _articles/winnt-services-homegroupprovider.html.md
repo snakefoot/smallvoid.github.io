@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the HomeGroup Provider servic
 type: post
 id: 802
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - homegroup
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - homegroup
 ---

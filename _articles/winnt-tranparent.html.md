@@ -7,11 +7,9 @@ excerpt: 'Utility that can enhance any window with the transparent glass effect.
 type: post
 id: 343
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-tags:
-    - window-transparency
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-xp-utilities
 tags:
     - window-transparency
 ---

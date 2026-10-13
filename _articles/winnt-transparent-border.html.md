@@ -7,9 +7,7 @@ excerpt: 'How to disable blurring of windows in the background, and get full cle
 type: post
 id: 819
 categories:
-    - Desktop
-tags:
-    - aero
+    - windows-7-win7-desktop
 tags:
     - aero
 ---

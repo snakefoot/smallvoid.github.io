@@ -7,13 +7,13 @@ excerpt: 'Hiding a file-share by changing the name.'
 type: post
 id: 143
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
+    - windows-95-file-sharing
+    - windows-98-file-sharing
+    - windows-me-file-sharing
 tags:
     - microsoft-network
     - network-share

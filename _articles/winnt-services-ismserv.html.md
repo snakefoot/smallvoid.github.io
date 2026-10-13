@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Intersite Messaging servi
 type: post
 id: 554
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2000-services-guide
+    - windows-2003-services-guide
 tags: []
 ---
 ##### Description:

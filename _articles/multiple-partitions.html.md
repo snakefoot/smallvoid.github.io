@@ -7,14 +7,14 @@ excerpt: 'Describes the benefits and the costs of using multiple partitions.'
 type: post
 id: 72
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
+    - ms-dos-tips
 tags:
     - fat16
     - fat32

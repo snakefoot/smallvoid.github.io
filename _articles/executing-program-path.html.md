@@ -7,7 +7,7 @@ excerpt: 'Description of the PATH environment variable, and how to configure it.
 type: post
 id: 52
 categories:
-    - Tips
+    - ms-dos-tips
 tags:
     - environment-variables
     - path

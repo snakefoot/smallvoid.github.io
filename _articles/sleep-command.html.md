@@ -7,7 +7,7 @@ excerpt: 'How to create your own sleep / wait command, which be used in other ba
 type: post
 id: 66
 categories:
-    - Tips
+    - ms-dos-tips
 tags:
     - batch-file
     - choice

@@ -7,9 +7,9 @@ excerpt: 'How to reserve the upper memory block and load the dos enviroment in h
 type: post
 id: 90
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
 tags:
     - conventional-memory
     - upper-memory-block

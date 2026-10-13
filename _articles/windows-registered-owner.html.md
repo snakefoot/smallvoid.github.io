@@ -7,13 +7,13 @@ excerpt: 'How to change the name and company registered as owner of the Windows 
 type: post
 id: 276
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags: []
 ---
 Some times when installing Games and Applications then you get requested to verify that your name and company are correct. The default name and company presented to you each time is set during the installation.  

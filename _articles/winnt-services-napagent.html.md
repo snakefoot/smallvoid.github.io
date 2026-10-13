@@ -7,12 +7,10 @@ excerpt: 'Description and recommended settings for the Network Access Protection
 type: post
 id: 683
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - network-access-protection
+    - windows-xp-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - network-access-protection
 ---

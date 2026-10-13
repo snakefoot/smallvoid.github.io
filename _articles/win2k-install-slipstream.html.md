@@ -7,7 +7,7 @@ excerpt: 'Apply the service pack before making the install for a faster and more
 type: post
 id: 479
 categories:
-    - 'Install CD'
+    - windows-2000-install-cd
 tags:
     - free-disk-space
     - slipstream

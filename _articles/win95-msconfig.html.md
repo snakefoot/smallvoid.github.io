@@ -7,9 +7,7 @@ excerpt: 'Utility to see what applications are configured to load at Windows sta
 type: post
 id: 182
 categories:
-    - Utilities
-tags:
-    - msconfig
+    - windows-95-utilities
 tags:
     - msconfig
 ---

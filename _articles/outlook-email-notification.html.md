@@ -7,9 +7,7 @@ excerpt: 'Possible solutions when Outlook doesn''t recieve instant email notific
 type: post
 id: 339
 categories:
-    - Outlook
-tags:
-    - email-notification
+    - email-reader-outlook
 tags:
     - email-notification
 ---

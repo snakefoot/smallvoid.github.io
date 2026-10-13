@@ -7,13 +7,13 @@ excerpt: 'Add "Copy To Folder..." and "Move To Folder..." when right-clicking a 
 type: post
 id: 117
 categories:
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
+    - windows-nt4-desktop
+    - windows-xp-desktop
+    - windows-2000-desktop
+    - windows-2003-desktop
+    - windows-95-desktop
+    - windows-98-desktop
+    - windows-me-desktop
 tags:
     - context-menu
     - file-copy

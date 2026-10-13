@@ -7,7 +7,7 @@ excerpt: 'How to configure the Windows XP firewall rules for incoming connection
 type: post
 id: 429
 categories:
-    - Network
+    - windows-xp-network
 tags:
     - firewall
     - internet

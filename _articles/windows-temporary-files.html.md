@@ -7,13 +7,13 @@ excerpt: 'How temporary files cause file fragmentation and different RAM disk op
 type: post
 id: 235
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - defrag
     - ram-disk

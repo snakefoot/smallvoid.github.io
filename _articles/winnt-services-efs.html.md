@@ -7,14 +7,12 @@ excerpt: 'Description and recommended settings for the Encrypting File System (E
 type: post
 id: 800
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - encryption
     - file-system
     - ntfs
-tags:
-    - encryption
 ---
 ##### Description:
 

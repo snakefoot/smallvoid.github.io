@@ -7,8 +7,8 @@ excerpt: 'Disable legacy subsystems to prevent attackers from using these subsys
 type: post
 id: 371
 categories:
-    - 'User Security'
-    - 'User Security'
+    - windows-nt4-user-security
+    - windows-2000-user-security
 tags:
     - os2
     - posix

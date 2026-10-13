@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Windows Search service.'
 type: post
 id: 728
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - file-search
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - file-search
 ---

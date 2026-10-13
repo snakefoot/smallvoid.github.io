@@ -7,11 +7,9 @@ excerpt: 'Description and recommended settings for the Windows Management Instru
 type: post
 id: 621
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - wmi
+    - windows-2000-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags:
     - wmi
 ---

@@ -7,10 +7,10 @@ excerpt: 'How to configure the password encryption level for better security.'
 type: post
 id: 211
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
 tags:
     - encryption
     - ntlm

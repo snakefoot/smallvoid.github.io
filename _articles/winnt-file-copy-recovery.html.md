@@ -7,12 +7,12 @@ excerpt: 'When the media is filled with bad sectors, then one can still try to r
 type: post
 id: 786
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-98-troubleshoot
+    - windows-me-troubleshoot
+    - windows-xp-troubleshoot
+    - windows-vista-troubleshoot
 tags:
     - file-copy
     - file-recovery

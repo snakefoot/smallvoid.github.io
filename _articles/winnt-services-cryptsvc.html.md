@@ -7,10 +7,10 @@ excerpt: 'Description and recommended settings for the Cryptographic services.'
 type: post
 id: 532
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2003-services-guide
+    - windows-xp-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags: []
 ---
 ##### Description:

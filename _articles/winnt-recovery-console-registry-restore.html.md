@@ -7,9 +7,9 @@ excerpt: 'The Recovery Console allows one to restore the registry as part of sys
 type: post
 id: 252
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - recovery-console
     - system-recovery

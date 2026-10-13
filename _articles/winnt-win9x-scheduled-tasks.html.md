@@ -7,7 +7,7 @@ excerpt: 'When accessing the shares of a Win9x machine, then time is spend on ch
 type: post
 id: 441
 categories:
-    - Network
+    - windows-2000-network
 tags:
     - network-performance
     - network-share

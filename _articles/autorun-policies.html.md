@@ -7,13 +7,13 @@ excerpt: 'How to configure autorun for the different drive types.'
 type: post
 id: 111
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - autoplay
     - autorun

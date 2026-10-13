@@ -7,7 +7,7 @@ excerpt: 'Restrict access to removable storage devices to prevent misuse of them
 type: post
 id: 655
 categories:
-    - 'User Security'
+    - windows-vista-user-security
 tags:
     - access-control-list
     - removable-storage-devices

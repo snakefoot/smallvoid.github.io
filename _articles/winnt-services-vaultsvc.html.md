@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Credential Manager Servic
 type: post
 id: 827
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags: []
 ---
 ##### Description:

@@ -7,14 +7,12 @@ excerpt: 'Possible steps for repairing Windows Update'
 type: post
 id: 244
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-tags:
-    - 'Windows Update'
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-98-troubleshoot
+    - windows-me-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - windows-update
 ---

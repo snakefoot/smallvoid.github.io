@@ -7,11 +7,11 @@ excerpt: 'How to configure the computer not to announce itself on the Microsoft 
 type: post
 id: 206
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
+    - windows-vista-file-sharing
 tags:
     - master-browser
     - microsoft-network

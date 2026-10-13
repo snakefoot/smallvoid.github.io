@@ -7,8 +7,8 @@ excerpt: 'Network file server can ignore client file flush requests and thus inc
 type: post
 id: 449
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-vista-file-sharing
 tags:
     - file-cache
     - file-system

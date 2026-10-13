@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Windows Firewall/Internet
 type: post
 id: 553
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags:
     - default-gateway
     - firewall

@@ -7,12 +7,12 @@ excerpt: 'Applications optimized to run on single CPU systems, will perform wors
 type: post
 id: 826
 categories:
-    - Tips
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-7-win7-tips
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
+    - windows-vista-performance
 tags:
     - cpu
     - dos-emulator

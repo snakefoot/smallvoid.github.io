@@ -7,7 +7,7 @@ excerpt: 'Configure how many folder customizations Windows should remember.'
 type: post
 id: 404
 categories:
-    - Desktop
+    - windows-xp-desktop
 tags:
     - custom-folders
     - windows-explorer

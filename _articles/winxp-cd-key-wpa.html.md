@@ -7,7 +7,7 @@ excerpt: 'By re-activating Windows XP then one gets the option to change the cd-
 type: post
 id: 392
 categories:
-    - Tips
+    - windows-xp-tips
 tags:
     - cd-key
     - windows-product-activation

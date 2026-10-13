@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the User Profile Service.'
 type: post
 id: 709
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - user-account-control
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - user-account-control
 ---

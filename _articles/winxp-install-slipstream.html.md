@@ -7,7 +7,7 @@ excerpt: 'Apply the service pack before making the install for a faster and more
 type: post
 id: 487
 categories:
-    - 'Install CD'
+    - windows-xp-install-cd
 tags:
     - free-disk-space
     - slipstream

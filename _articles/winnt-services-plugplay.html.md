@@ -7,14 +7,12 @@ excerpt: 'Description and recommended settings for the Plug and Play service.'
 type: post
 id: 572
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - plug-and-play
+    - windows-2000-services-guide
+    - windows-nt4-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - plug-and-play
 ---

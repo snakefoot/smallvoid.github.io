@@ -7,11 +7,7 @@ excerpt: 'How to write a batch file with description of different commands avail
 type: post
 id: 46
 categories:
-    - Tips
-tags:
-    - batch-file
-autometa:
-    - ''
+    - ms-dos-tips
 tags:
     - batch-file
 ---

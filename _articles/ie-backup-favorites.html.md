@@ -7,7 +7,7 @@ excerpt: 'Internet Explorer favorites are stored as lnk shortcuts and can be exp
 type: post
 id: 263
 categories:
-    - 'Internet Explorer (IE5)'
+    - web-browser-internet-explorer-ie5
 tags:
     - backup
     - favorites

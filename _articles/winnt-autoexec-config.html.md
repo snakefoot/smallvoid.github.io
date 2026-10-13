@@ -7,10 +7,10 @@ excerpt: 'How to configure the MS-DOS subsystem using Autoexec.nt and Config.nt.
 type: post
 id: 23
 categories:
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
+    - windows-nt4-command-prompt
+    - windows-xp-command-prompt
+    - windows-2000-command-prompt
+    - windows-2003-command-prompt
 tags:
     - dos-emulator
     - subsystem

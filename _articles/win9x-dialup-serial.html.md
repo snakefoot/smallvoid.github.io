@@ -7,9 +7,9 @@ excerpt: 'Configure the hardware settings for the dialup modem and serial port f
 type: post
 id: 193
 categories:
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
 tags:
     - dialup-modem
     - serial-port

@@ -7,12 +7,12 @@ excerpt: 'Description of the nagle algorithm effects on the network throughput, 
 type: post
 id: 213
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-nt4-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
+    - windows-vista-network
+    - windows-7-win7-network
 tags:
     - delayed-ack
     - lan

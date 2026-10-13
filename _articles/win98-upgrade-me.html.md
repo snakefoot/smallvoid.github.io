@@ -7,9 +7,7 @@ excerpt: 'Update Windows 98 using the install files from Windows Me.'
 type: post
 id: 348
 categories:
-    - Utilities
-tags:
-    - 'Windows Update'
+    - windows-98-utilities
 tags:
     - windows-update
 ---

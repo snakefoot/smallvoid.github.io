@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the IMAPI CD-Burning COM serv
 type: post
 id: 551
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags: []
 ---
 ##### Description:

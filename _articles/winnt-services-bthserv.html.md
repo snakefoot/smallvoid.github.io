@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Bluetooth Support Service
 type: post
 id: 797
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - bluetooth
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - bluetooth
 ---

@@ -7,11 +7,11 @@ excerpt: 'Windows NT will perform a chkdsk at boot time after an improper shutdo
 type: post
 id: 186
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
+    - windows-vista-troubleshoot
 tags:
     - chkdsk
     - file-system

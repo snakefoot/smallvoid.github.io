@@ -7,7 +7,7 @@ excerpt: 'Windows Vista Software Licensing Manager makes it possible to extend t
 type: post
 id: 650
 categories:
-    - Troubleshoot
+    - windows-vista-troubleshoot
 tags:
     - activation-period
     - software-license-manager

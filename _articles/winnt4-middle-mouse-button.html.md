@@ -7,9 +7,7 @@ excerpt: 'How to enable the 3rd mouse button, so it can be used in applications 
 type: post
 id: 35
 categories:
-    - Tips
-tags:
-    - mouse
+    - windows-nt4-tips
 tags:
     - mouse
 ---

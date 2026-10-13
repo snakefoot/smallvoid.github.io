@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the SSDP Discovery service.'
 type: post
 id: 599
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-xp-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags: []
 ---
 ##### Description:

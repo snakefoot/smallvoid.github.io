@@ -7,10 +7,10 @@ excerpt: 'Change which network redirector to use first when looking for a resour
 type: post
 id: 419
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-nt4-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - distributed-file-system
     - network-redirector

@@ -7,9 +7,7 @@ excerpt: 'Microsoft Windows 98 updates put into a single package.'
 type: post
 id: 634
 categories:
-    - Utilities
-tags:
-    - 'Windows Update'
+    - windows-98-utilities
 tags:
     - windows-update
 ---

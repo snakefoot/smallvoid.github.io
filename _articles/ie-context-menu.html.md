@@ -7,11 +7,9 @@ excerpt: 'Extending the right click context menu in Internet Explorer with diffe
 type: post
 id: 321
 categories:
-    - 'Internet Explorer (IE4)'
-    - 'Internet Explorer (IE5)'
-    - 'Internet Explorer (IE6)'
-tags:
-    - context-menu
+    - web-browser-internet-explorer-ie4
+    - web-browser-internet-explorer-ie5
+    - web-browser-internet-explorer-ie6
 tags:
     - context-menu
 ---

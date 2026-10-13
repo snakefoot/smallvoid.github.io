@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Performance Logs &amp; Al
 type: post
 id: 691
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - performance-counters
     - performance-monitor

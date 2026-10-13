@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Certificate Propagation s
 type: post
 id: 662
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags: []
 ---
 ##### Description:

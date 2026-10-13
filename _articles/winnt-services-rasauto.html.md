@@ -7,14 +7,12 @@ excerpt: 'Description and recommended settings for the Remote Access Auto Connec
 type: post
 id: 577
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - dialup-modem
+    - windows-2000-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - dialup-modem
 ---

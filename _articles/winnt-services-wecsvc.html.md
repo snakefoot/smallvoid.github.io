@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Windows Event Collector s
 type: post
 id: 718
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - event-log
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - event-log
 ---

@@ -7,7 +7,7 @@ excerpt: 'Bring your old Windows 98 desktop into the new millenium.'
 type: post
 id: 347
 categories:
-    - Utilities
+    - windows-98-utilities
 tags:
     - revolutions-pack
     - themes

@@ -7,10 +7,10 @@ excerpt: 'Opportunistic locking delivers good network performance but older impl
 type: post
 id: 446
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
 tags:
     - network-share
     - opportunistic-locking

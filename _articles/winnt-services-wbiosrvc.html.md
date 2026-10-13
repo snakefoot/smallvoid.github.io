@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Windows Biometric Service
 type: post
 id: 814
 categories:
-    - 'Services Guide'
+    - windows-7-win7-services-guide
 tags: []
 ---
 ##### Description:

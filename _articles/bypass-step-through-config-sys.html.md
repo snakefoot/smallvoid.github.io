@@ -7,7 +7,7 @@ excerpt: 'How to bypass or single step through the startup files Config.sys and 
 type: post
 id: 58
 categories:
-    - Tips
+    - ms-dos-tips
 tags:
     - autoexec-bat
     - config-sys

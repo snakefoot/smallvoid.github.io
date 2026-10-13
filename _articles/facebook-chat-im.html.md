@@ -7,7 +7,7 @@ excerpt: ''
 type: post
 id: 840
 categories:
-    - Tips
+    - windows-7-win7-tips
 tags:
     - facebook
     - miranda-im

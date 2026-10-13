@@ -7,9 +7,9 @@ excerpt: 'Getting past the password protection in Windows 9x.'
 type: post
 id: 177
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-95-troubleshoot
+    - windows-98-troubleshoot
+    - windows-me-troubleshoot
 tags:
     - password
     - windows-login

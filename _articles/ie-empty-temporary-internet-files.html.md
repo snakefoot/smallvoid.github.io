@@ -7,12 +7,12 @@ excerpt: 'How to configure Internet Explorer, so it will empty its cache at prog
 type: post
 id: 133
 categories:
-    - 'Internet Explorer (IE4)'
-    - 'Internet Explorer (IE5)'
-    - 'Internet Explorer (IE6)'
-    - 'Internet Explorer (IE7)'
-    - 'Internet Explorer (IE8)'
-    - 'Internet Explorer (IE9)'
+    - web-browser-internet-explorer-ie4
+    - web-browser-internet-explorer-ie5
+    - web-browser-internet-explorer-ie6
+    - web-browser-internet-explorer-ie7
+    - web-browser-internet-explorer-ie8
+    - web-browser-internet-explorer-ie9
 tags:
     - cache
     - cookies

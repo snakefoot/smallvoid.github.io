@@ -7,10 +7,10 @@ excerpt: 'Description of how the Push Flag in the TCP Header can optimize networ
 type: post
 id: 833
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-nt4-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - network-performance
     - tcpip

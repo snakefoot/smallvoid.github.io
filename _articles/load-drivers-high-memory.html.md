@@ -7,7 +7,7 @@ excerpt: 'How load drivers in the upper memory block to free conventional memory
 type: post
 id: 43
 categories:
-    - 'Tweak Performance'
+    - ms-dos-performance
 tags:
     - conventional-memory
     - device-driver

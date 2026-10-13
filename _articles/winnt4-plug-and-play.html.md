@@ -7,7 +7,7 @@ excerpt: 'Windows NT4 supports by default not plug and play devices, but Microso
 type: post
 id: 465
 categories:
-    - Troubleshoot
+    - windows-nt4-troubleshoot
 tags:
     - plug-and-play
     - pnp

@@ -7,11 +7,9 @@ excerpt: 'Description and recommended settings for the Interactive Services Dete
 type: post
 id: 675
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - application-compatibility
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - application-compatibility
 ---

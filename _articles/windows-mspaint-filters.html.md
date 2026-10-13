@@ -7,13 +7,13 @@ excerpt: 'Microsoft Office graphic filters allows programs like Mspaint to work 
 type: post
 id: 238
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - gif
     - jpeg

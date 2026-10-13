@@ -7,7 +7,7 @@ excerpt: 'How to restore the tab session in Internet Explorer 8.'
 type: post
 id: 791
 categories:
-    - 'Internet Explorer (IE8)'
+    - web-browser-internet-explorer-ie8
 tags:
     - browsing-session
     - tab-session

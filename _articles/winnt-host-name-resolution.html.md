@@ -7,10 +7,10 @@ excerpt: 'Configure the priority of how it should lookup the physical network ad
 type: post
 id: 219
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-nt4-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - dns
     - host-name

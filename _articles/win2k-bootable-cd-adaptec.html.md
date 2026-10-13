@@ -7,9 +7,7 @@ excerpt: 'Using Adaptec Easy CD Creator 5.02d to make a bootable install cd for 
 type: post
 id: 483
 categories:
-    - 'Install CD'
-tags:
-    - bootdisk
+    - windows-2000-install-cd
 tags:
     - bootdisk
 ---

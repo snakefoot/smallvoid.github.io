@@ -7,12 +7,10 @@ excerpt: 'Description of how Windows services are hosted within the same process
 type: post
 id: 632
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-tags:
-    - windows-services
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - windows-services
 ---

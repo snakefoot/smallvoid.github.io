@@ -7,9 +7,9 @@ excerpt: 'Getting past a password protected screensaver by inserting a cd-rom.'
 type: post
 id: 176
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-95-troubleshoot
+    - windows-98-troubleshoot
+    - windows-me-troubleshoot
 tags:
     - autorun
     - password

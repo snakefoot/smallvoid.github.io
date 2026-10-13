@@ -7,10 +7,10 @@ excerpt: 'Description of the different situations where Windows NT can fail to b
 type: post
 id: 463
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - blue-screen-of-death
     - boot-manager

@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Windows Firewall service.
 type: post
 id: 719
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - firewall
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - firewall
 ---

@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the SL UI Notification Servic
 type: post
 id: 699
 categories:
-    - 'Services Guide'
+    - windows-vista-services-guide
 tags: []
 ---
 ##### Description:

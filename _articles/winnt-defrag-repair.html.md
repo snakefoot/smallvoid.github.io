@@ -7,11 +7,9 @@ excerpt: 'The disk defragmenter will fail to load if it not registered properly,
 type: post
 id: 476
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-tags:
-    - defrag
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - defrag
 ---

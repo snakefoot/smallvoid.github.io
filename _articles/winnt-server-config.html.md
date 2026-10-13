@@ -7,9 +7,9 @@ excerpt: 'Adjust the memory usage of the server service according to the server 
 type: post
 id: 370
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-2000-file-sharing
 tags:
     - microsoft-network
     - network-performance

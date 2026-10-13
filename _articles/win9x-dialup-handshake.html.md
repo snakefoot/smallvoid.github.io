@@ -7,9 +7,9 @@ excerpt: 'Make the dialup connection time faster by limiting the dialup protocol
 type: post
 id: 194
 categories:
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
 tags:
     - dialup-modem
     - tcpip

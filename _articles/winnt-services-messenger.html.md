@@ -7,10 +7,10 @@ excerpt: 'Description and recommended settings for the Messenger service.'
 type: post
 id: 561
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2000-services-guide
+    - windows-nt4-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags: []
 ---
 ##### Description:

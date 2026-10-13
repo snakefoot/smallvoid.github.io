@@ -7,9 +7,9 @@ excerpt: 'How to use the utility Netsh to reset or change the network configurat
 type: post
 id: 425
 categories:
-    - Network
-    - Network
-    - Network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - hardware-profile
     - netsh

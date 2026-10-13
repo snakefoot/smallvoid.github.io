@@ -7,9 +7,7 @@ excerpt: 'How to get a non-working Windows Firewall service started with a confi
 type: post
 id: 630
 categories:
-    - Troubleshoot
-tags:
-    - firewall
+    - windows-xp-troubleshoot
 tags:
     - firewall
 ---

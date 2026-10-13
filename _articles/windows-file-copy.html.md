@@ -7,13 +7,13 @@ excerpt: 'Enhance the file copy abilities of Windows Explorer'
 type: post
 id: 362
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - file-copy
     - windows-explorer

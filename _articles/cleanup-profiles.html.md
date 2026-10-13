@@ -7,11 +7,11 @@ excerpt: 'How to create different profiles for cleaning up the hard disk.'
 type: post
 id: 124
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - cleanup-tool
     - compress

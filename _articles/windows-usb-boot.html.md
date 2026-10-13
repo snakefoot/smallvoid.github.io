@@ -7,10 +7,10 @@ excerpt: 'How to make a DOS bootdisk on a USB pen drive.'
 type: post
 id: 762
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
+    - windows-vista-troubleshoot
 tags:
     - BIOS
     - bootdisk

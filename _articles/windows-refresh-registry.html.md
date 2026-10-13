@@ -7,15 +7,13 @@ excerpt: 'How one can reload the HKEY\_CURRENT\_USER registry hive without needi
 type: post
 id: 243
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-tags:
-    - windows-explorer
+    - windows-2003-tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - windows-explorer
 ---

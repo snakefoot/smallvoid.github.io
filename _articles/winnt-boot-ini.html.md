@@ -7,10 +7,10 @@ excerpt: 'Boot.ini is used by the Boot Manager to determine the installed operat
 type: post
 id: 251
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - boot-ini
     - boot-manager

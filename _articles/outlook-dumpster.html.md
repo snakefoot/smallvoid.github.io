@@ -7,7 +7,7 @@ excerpt: 'When deleting a mail in Outlook, then it can still be restored through
 type: post
 id: 338
 categories:
-    - Outlook
+    - email-reader-outlook
 tags:
     - dumpster
     - email

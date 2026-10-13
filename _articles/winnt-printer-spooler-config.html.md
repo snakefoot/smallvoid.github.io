@@ -7,10 +7,10 @@ excerpt: 'How to configure the priority and logging level of the Printer Spooler
 type: post
 id: 574
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - print-spooler
     - printer

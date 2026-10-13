@@ -7,12 +7,10 @@ excerpt: 'Protect against DLL injections to avoid performing malicous code.'
 type: post
 id: 453
 categories:
-    - 'User Security'
-    - 'User Security'
-    - 'User Security'
-    - 'User Security'
-tags:
-    - code-injection
+    - windows-2003-user-security
+    - windows-nt4-user-security
+    - windows-xp-user-security
+    - windows-2000-user-security
 tags:
     - code-injection
 ---

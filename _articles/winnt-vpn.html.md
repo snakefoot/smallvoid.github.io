@@ -7,9 +7,9 @@ excerpt: 'Virtual Private Network makes it possible to make a secure connection 
 type: post
 id: 359
 categories:
-    - Network
-    - Network
-    - Network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - ipsec
     - l2tp

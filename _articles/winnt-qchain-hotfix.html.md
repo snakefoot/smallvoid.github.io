@@ -7,12 +7,12 @@ excerpt: 'QChain is created by Microsoft and allows several hotfixes to be chain
 type: post
 id: 495
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2003-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - hotfix
-    - 'Windows Update'
+    - windows-update
 ---
 [QChain](http://www.microsoft.com/downloads/details.aspx?amp;displaylang=en&familyid=3C64D889-74F1-490B-A2FB-F15671A3B60C) makes it possible to install several hotfixes without needing to reboot after each hotfix. Useful when doing a reinstall of everything.
 > \\Q123456\_w2k\_sp2\_x86.exe -z -m  

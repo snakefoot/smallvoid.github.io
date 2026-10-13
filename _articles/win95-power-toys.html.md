@@ -7,10 +7,10 @@ excerpt: 'Power Toys are small utilities created by Microsoft to make life easie
 type: post
 id: 118
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
+    - windows-nt4-utilities
 tags:
     - compressed-folders
     - copy-path

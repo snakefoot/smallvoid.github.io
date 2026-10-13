@@ -7,13 +7,11 @@ excerpt: 'It is possible to open a command prompt during the GUI part of the Win
 type: post
 id: 477
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-tags:
-    - windows-install
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
+    - windows-vista-troubleshoot
 tags:
     - windows-install
 ---

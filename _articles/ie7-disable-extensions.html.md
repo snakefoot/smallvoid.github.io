@@ -7,9 +7,9 @@ excerpt: 'Disabling the browser helper objects can be useful when troubleshootin
 type: post
 id: 327
 categories:
-    - 'Internet Explorer (IE7)'
-    - 'Internet Explorer (IE8)'
-    - 'Internet Explorer (IE9)'
+    - web-browser-internet-explorer-ie7
+    - web-browser-internet-explorer-ie8
+    - web-browser-internet-explorer-ie9
 tags:
     - command-line-switches
     - ie-plugin

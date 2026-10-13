@@ -7,7 +7,7 @@ excerpt: 'Display Desktop icons with all possible colors.'
 type: post
 id: 169
 categories:
-    - Desktop
+    - windows-95-desktop
 tags:
     - icon
     - plus-pack

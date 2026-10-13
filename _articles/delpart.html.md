@@ -7,7 +7,7 @@ excerpt: 'Can delete a NTFS partition from DOS.'
 type: post
 id: 85
 categories:
-    - Utilities
+    - ms-dos-utilities
 tags:
     - fdisk
     - ntfs

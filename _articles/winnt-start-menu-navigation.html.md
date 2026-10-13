@@ -7,9 +7,9 @@ excerpt: 'Utilities to make it easier to browse the Start-menu and increase prod
 type: post
 id: 777
 categories:
-    - Desktop
-    - Desktop
-    - Desktop
+    - windows-xp-desktop
+    - windows-2000-desktop
+    - windows-2003-desktop
 tags:
     - file-search
     - shortcut-keys

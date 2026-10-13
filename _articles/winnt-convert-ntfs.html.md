@@ -7,10 +7,10 @@ excerpt: 'Description of the different issues that can arise when converting fro
 type: post
 id: 293
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - fat16
     - fat32

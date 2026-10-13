@@ -7,9 +7,9 @@ excerpt: 'Recovery Console can be useful when performing system recovery.'
 type: post
 id: 250
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - recovery-console
     - system-recovery

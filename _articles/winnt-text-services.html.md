@@ -7,7 +7,7 @@ excerpt: 'Windows includes text services to handle speech and handwritting recog
 type: post
 id: 377
 categories:
-    - 'Tweak Performance'
+    - windows-xp-performance
 tags:
     - handwriting-recognition
     - ms-office

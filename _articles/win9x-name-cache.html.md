@@ -7,9 +7,9 @@ excerpt: 'How to change the role of the computer to be "Network Server".'
 type: post
 id: 88
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
 tags:
     - disk-performance
     - file-cache

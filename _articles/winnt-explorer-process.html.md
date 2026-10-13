@@ -7,12 +7,10 @@ excerpt: 'Prevent that all Windows Explorer instances crashes just because one g
 type: post
 id: 374
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-tags:
-    - windows-explorer
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - windows-explorer
 ---

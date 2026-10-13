@@ -7,9 +7,9 @@ excerpt: 'List of the different settings available in Msdos.sys.'
 type: post
 id: 136
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-95-troubleshoot
+    - windows-98-troubleshoot
+    - windows-me-troubleshoot
 tags:
     - bootmenu
     - msdos-sys

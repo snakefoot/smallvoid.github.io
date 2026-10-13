@@ -7,11 +7,11 @@ excerpt: 'Description and recommended settings for the Windows Modules Installer
 type: post
 id: 725
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - automatic-updates
-    - 'Windows Update'
+    - windows-update
 ---
 ##### Description:
 

@@ -7,11 +7,9 @@ excerpt: 'Unlocking the hidden hardware diagnostic tool using a command line par
 type: post
 id: 159
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-tags:
-    - hwinfo
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
 tags:
     - hwinfo
 ---

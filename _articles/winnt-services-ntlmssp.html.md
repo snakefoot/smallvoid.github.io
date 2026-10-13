@@ -7,10 +7,10 @@ excerpt: 'Description and recommended settings for the NT LM Security Support Pr
 type: post
 id: 570
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2000-services-guide
+    - windows-nt4-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags:
     - ntlm
     - ntlm2

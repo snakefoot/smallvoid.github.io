@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Parental Controls service
 type: post
 id: 687
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - parental-control
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - parental-control
 ---

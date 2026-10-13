@@ -7,7 +7,7 @@ excerpt: 'Disabling system aliasing can free resources but will disable mounting
 type: post
 id: 448
 categories:
-    - 'File Sharing'
+    - windows-2003-file-sharing
 tags:
     - network-share
     - system-aliasing

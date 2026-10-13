@@ -7,11 +7,11 @@ excerpt: 'Description of ghost devices and how they can be removed in safemode.'
 type: post
 id: 268
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
+    - windows-vista-troubleshoot
+    - windows-7-win7-troubleshoot
 tags:
     - boot-time
     - device-manager

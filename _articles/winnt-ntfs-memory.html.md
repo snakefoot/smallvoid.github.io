@@ -7,8 +7,8 @@ excerpt: 'How to increase the amount of memory the NTFS filesystem can use for f
 type: post
 id: 378
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2003-performance
+    - windows-xp-performance
 tags:
     - disk-performance
     - file-system

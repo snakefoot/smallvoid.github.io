@@ -7,10 +7,10 @@ excerpt: 'How to increase the allowed amount of concurrent I/O request for a dis
 type: post
 id: 34
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - disk-performance
     - drivers

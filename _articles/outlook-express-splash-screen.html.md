@@ -7,10 +7,8 @@ excerpt: 'The splash screen can be useful to see if an application is actually s
 type: post
 id: 329
 categories:
-    - 'Outlook Express'
-    - 'Windows Mail (Vista)'
-tags:
-    - splash-screen
+    - email-reader-outlook-express
+    - email-reader-windows-mail-vista
 tags:
     - splash-screen
 ---

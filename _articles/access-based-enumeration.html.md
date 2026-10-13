@@ -7,7 +7,7 @@ excerpt: 'Windows 2003 addon which hides folders within a share, that the user c
 type: post
 id: 151
 categories:
-    - Utilities
+    - windows-2003-utilities
 tags:
     - access-control-list
     - ntfs

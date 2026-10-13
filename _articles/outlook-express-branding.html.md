@@ -7,9 +7,7 @@ excerpt: 'How to put the company name in the title of the Outlook Express applic
 type: post
 id: 328
 categories:
-    - 'Outlook Express'
-tags:
-    - branding
+    - email-reader-outlook-express
 tags:
     - branding
 ---

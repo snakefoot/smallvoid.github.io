@@ -7,12 +7,10 @@ excerpt: 'Description and recommended settings for the Windows Image Acquisition
 type: post
 id: 617
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - TWAIN
+    - windows-2003-services-guide
+    - windows-xp-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - TWAIN
 ---

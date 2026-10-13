@@ -7,10 +7,10 @@ excerpt: 'Decide the CPU priority when starting an application.'
 type: post
 id: 30
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - cpu
     - process-priority

@@ -7,9 +7,9 @@ excerpt: 'How to configure the password encryption level for better security.'
 type: post
 id: 210
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-95-file-sharing
+    - windows-98-file-sharing
+    - windows-me-file-sharing
 tags:
     - encryption
     - password

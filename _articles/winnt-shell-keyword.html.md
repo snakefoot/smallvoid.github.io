@@ -7,12 +7,10 @@ excerpt: 'How to use the shell keyword to quickly access special folders like th
 type: post
 id: 780
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-tags:
-    - windows-explorer
+    - windows-2003-tips
+    - windows-xp-tips
+    - windows-2000-tips
+    - windows-vista-tips
 tags:
     - windows-explorer
 ---

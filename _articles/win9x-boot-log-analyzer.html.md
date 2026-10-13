@@ -7,9 +7,9 @@ excerpt: 'Utility which scans the bootlog.txt and displays the time it took to l
 type: post
 id: 137
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
 tags:
     - boot-log-analyzer
     - boot-time

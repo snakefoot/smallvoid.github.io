@@ -7,12 +7,12 @@ excerpt: 'Disabling the page file to prevent Windows from unloading memory to th
 type: post
 id: 234
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2003-performance
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
+    - windows-xp-performance
+    - windows-vista-performance
 tags:
     - free-disk-space
     - page-file

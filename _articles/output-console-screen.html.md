@@ -7,7 +7,7 @@ excerpt: 'How to change the number of visible lines in a command prompt.'
 type: post
 id: 62
 categories:
-    - Tips
+    - ms-dos-tips
 tags: []
 ---
 If you one day is running a command driven program from a DOS-prompt like DB2 or for example an editor. Then running this command will enlarge the visible area which isn't bad when having a 17" monitor or bigger.

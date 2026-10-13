@@ -7,9 +7,7 @@ excerpt: 'Windows 7 / 2008 R2 does not include the NtBackup utility by default.'
 type: post
 id: 823
 categories:
-    - Troubleshoot
-tags:
-    - ntbackup
+    - windows-7-win7-troubleshoot
 tags:
     - ntbackup
 ---

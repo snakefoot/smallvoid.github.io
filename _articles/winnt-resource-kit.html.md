@@ -7,10 +7,10 @@ excerpt: 'Microsoft have created many utilities for management of the Windows NT
 type: post
 id: 493
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - administration-tools
     - resource-kit

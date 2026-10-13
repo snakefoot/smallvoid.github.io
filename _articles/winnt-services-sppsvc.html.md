@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Software Protection servi
 type: post
 id: 816
 categories:
-    - 'Services Guide'
+    - windows-7-win7-services-guide
 tags: []
 ---
 ##### Description:

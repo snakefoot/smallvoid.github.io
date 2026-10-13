@@ -7,15 +7,13 @@ excerpt: 'Update the DirectX runtime after installing new drivers to prevent con
 type: post
 id: 232
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-tags:
-    - directx
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-95-performance
+    - windows-98-performance
+    - windows-me-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - directx
 ---

@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Terminal Services Licensi
 type: post
 id: 606
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - terminal-services
+    - windows-2000-services-guide
+    - windows-2003-services-guide
 tags:
     - terminal-services
 ---

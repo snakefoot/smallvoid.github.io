@@ -7,11 +7,9 @@ excerpt: 'Using a batch file to configure the DOS prompt when starting it from t
 type: post
 id: 134
 categories:
-    - Tips
-    - Tips
-    - Tips
-tags:
-    - 'MS DOS'
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
 tags:
     - ms-dos
 ---

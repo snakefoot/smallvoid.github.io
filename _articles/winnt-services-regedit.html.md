@@ -7,10 +7,10 @@ excerpt: 'How to use the registry editor to configure the state of the Windows s
 type: post
 id: 633
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - regedit
     - windows-services

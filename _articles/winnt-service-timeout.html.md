@@ -7,12 +7,10 @@ excerpt: 'Change how long time to wait before a service is considered not respon
 type: post
 id: 381
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-tags:
-    - windows-services
+    - windows-2003-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - windows-services
 ---

@@ -7,10 +7,8 @@ excerpt: 'Uptime is a command line utility by Microsoft for displaying the time 
 type: post
 id: 506
 categories:
-    - Utilities
-    - Utilities
-tags:
-    - uptime
+    - windows-2000-utilities
+    - windows-nt4-utilities
 tags:
     - uptime
 ---

@@ -7,9 +7,9 @@ excerpt: 'Windows can activate NDIS 6 network hardware features for offloading t
 type: post
 id: 757
 categories:
-    - Network
-    - Network
-    - Network
+    - windows-2003-network
+    - windows-vista-network
+    - windows-7-win7-network
 tags:
     - netsh
     - network-interface-card

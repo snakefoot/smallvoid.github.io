@@ -7,10 +7,10 @@ excerpt: 'The command prompt allows one to use shortcut keys for easier navigati
 type: post
 id: 459
 categories:
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
+    - windows-nt4-command-prompt
+    - windows-xp-command-prompt
+    - windows-2000-command-prompt
+    - windows-2003-command-prompt
 tags:
     - keyboard
     - shortcut-keys

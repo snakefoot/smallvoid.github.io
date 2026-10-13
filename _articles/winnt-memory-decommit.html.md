@@ -7,8 +7,8 @@ excerpt: 'Memory manager should only mark a continuous memory block as free when
 type: post
 id: 379
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
 tags:
     - decommit
     - memory-manager

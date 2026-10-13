@@ -7,10 +7,10 @@ excerpt: 'Description of where and in what order programs are loaded at startup.
 type: post
 id: 184
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - boot-time
     - group-policy

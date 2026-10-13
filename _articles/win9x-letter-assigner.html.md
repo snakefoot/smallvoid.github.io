@@ -7,9 +7,9 @@ excerpt: 'Utility that allows one to change drive-letter assignments for hard di
 type: post
 id: 114
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
 tags:
     - drive-letter
     - partition

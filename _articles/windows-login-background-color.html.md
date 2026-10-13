@@ -7,13 +7,13 @@ excerpt: 'Changing the color of the desktop shown before a user has logged in.'
 type: post
 id: 300
 categories:
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
+    - windows-nt4-desktop
+    - windows-xp-desktop
+    - windows-2000-desktop
+    - windows-2003-desktop
+    - windows-95-desktop
+    - windows-98-desktop
+    - windows-me-desktop
 tags:
     - visual-style
     - windows-login

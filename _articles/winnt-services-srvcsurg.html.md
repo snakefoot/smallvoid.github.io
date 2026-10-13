@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Remote Administration ser
 type: post
 id: 579
 categories:
-    - 'Services Guide'
+    - windows-2003-services-guide
 tags: []
 ---
 ##### Description:

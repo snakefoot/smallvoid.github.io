@@ -7,11 +7,11 @@ excerpt: 'Microsoft security update MS05-026 blocks for viewing compressed HTML 
 type: post
 id: 290
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - compressed-html
     - ie-security

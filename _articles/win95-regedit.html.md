@@ -7,7 +7,7 @@ excerpt: 'Modified version of Windows 98 regedit, which can be used in Windows 9
 type: post
 id: 164
 categories:
-    - Utilities
+    - windows-95-utilities
 tags:
     - regedit
     - registry

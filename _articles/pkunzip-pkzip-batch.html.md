@@ -7,7 +7,7 @@ excerpt: 'How to wrap a batch file around the pkzip and pkunzip command line uti
 type: post
 id: 55
 categories:
-    - Tips
+    - ms-dos-tips
 tags:
     - backup
     - batch-file

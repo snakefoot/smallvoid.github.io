@@ -7,11 +7,9 @@ excerpt: 'Active Desktop makes it posssible to customize folders, and so the Win
 type: post
 id: 303
 categories:
-    - Desktop
-    - Desktop
-    - Desktop
-tags:
-    - active-desktop
+    - windows-2000-desktop
+    - windows-98-desktop
+    - windows-me-desktop
 tags:
     - active-desktop
 ---

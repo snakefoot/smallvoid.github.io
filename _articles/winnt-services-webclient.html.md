@@ -7,12 +7,10 @@ excerpt: 'Description and recommended settings for the WebClient service.'
 type: post
 id: 615
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - webdav
+    - windows-2003-services-guide
+    - windows-xp-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags:
     - webdav
 ---

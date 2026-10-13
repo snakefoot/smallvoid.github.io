@@ -7,10 +7,10 @@ excerpt: 'Configure whether to automatically launch application when inserting a
 type: post
 id: 112
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - autoplay
     - autorun

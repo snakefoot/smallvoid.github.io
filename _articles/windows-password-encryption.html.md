@@ -7,14 +7,14 @@ excerpt: 'The different password encryption algorithms available in the Microsof
 type: post
 id: 209
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
+    - windows-95-file-sharing
+    - windows-98-file-sharing
+    - windows-me-file-sharing
+    - windows-vista-file-sharing
 tags:
     - encryption
     - ntlm

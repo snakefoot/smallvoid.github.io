@@ -7,12 +7,10 @@ excerpt: 'Extend the level of informational messages during Windows startup and 
 type: post
 id: 385
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-tags:
-    - windows-login
+    - windows-2003-tips
+    - windows-xp-tips
+    - windows-2000-tips
+    - windows-vista-tips
 tags:
     - windows-login
 ---

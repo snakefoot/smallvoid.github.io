@@ -7,11 +7,11 @@ excerpt: 'CPU core temperature monitoring utilities, that can give alerts if thi
 type: post
 id: 350
 categories:
-    - Troubleshoot
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-7-win7-troubleshoot
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-xp-utilities
+    - windows-vista-utilities
 tags:
     - AMD
     - cpu

@@ -7,11 +7,9 @@ excerpt: 'Configure whether the registry editor should show the last registry lo
 type: post
 id: 390
 categories:
-    - Tips
-    - Tips
-    - Tips
-tags:
-    - regedit
+    - windows-2003-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - regedit
 ---

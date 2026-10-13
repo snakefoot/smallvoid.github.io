@@ -7,12 +7,12 @@ excerpt: 'Microsoft Java Virtual Machine (JVM) contains security flaws and shoul
 type: post
 id: 364
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - java
     - jvm

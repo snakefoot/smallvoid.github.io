@@ -7,7 +7,7 @@ excerpt: 'Changing the visual styles of the login and shutdown screens.'
 type: post
 id: 156
 categories:
-    - Desktop
+    - windows-xp-desktop
 tags:
     - welcome-screen
     - windows-login

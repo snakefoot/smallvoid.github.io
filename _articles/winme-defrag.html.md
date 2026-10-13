@@ -7,10 +7,8 @@ excerpt: 'The disk defragmenter in Windows Me is faster than the one released wi
 type: post
 id: 224
 categories:
-    - Utilities
-    - Utilities
-tags:
-    - defrag
+    - windows-95-utilities
+    - windows-98-utilities
 tags:
     - defrag
 ---

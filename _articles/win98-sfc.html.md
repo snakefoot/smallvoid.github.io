@@ -7,9 +7,7 @@ excerpt: 'System File Checker is able to verify that system files are intact.'
 type: post
 id: 179
 categories:
-    - Troubleshoot
-tags:
-    - system-file-checker
+    - windows-98-troubleshoot
 tags:
     - system-file-checker
 ---

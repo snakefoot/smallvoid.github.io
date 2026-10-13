@@ -7,7 +7,7 @@ excerpt: 'How to change the Windows XP license by updating the install files, so
 type: post
 id: 393
 categories:
-    - 'Install CD'
+    - windows-xp-install-cd
 tags:
     - cd-key
     - license

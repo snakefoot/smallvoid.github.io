@@ -7,11 +7,9 @@ excerpt: 'Description and recommended settings for the Portable Device Enumerato
 type: post
 id: 694
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - media-player
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - media-player
 ---

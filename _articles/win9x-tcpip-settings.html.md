@@ -7,9 +7,9 @@ excerpt: 'Description of the registry keys used for configuring the TCP/IP stack
 type: post
 id: 190
 categories:
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
 tags:
     - lan
     - max-transfer-unit

@@ -7,9 +7,7 @@ excerpt: 'How to reinstall Internet Explorer in Windows XP.'
 type: post
 id: 246
 categories:
-    - 'Internet Explorer (IE6)'
-tags:
-    - install
+    - web-browser-internet-explorer-ie6
 tags:
     - install
 ---

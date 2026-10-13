@@ -7,9 +7,9 @@ excerpt: 'How to increase the security of the Microsoft network by enabling SMB 
 type: post
 id: 212
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-2000-file-sharing
 tags:
     - microsoft-network
     - network-performance

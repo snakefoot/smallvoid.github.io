@@ -7,14 +7,12 @@ excerpt: 'Description and recommended settings for the Application Management se
 type: post
 id: 521
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - group-policy
+    - windows-2000-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - group-policy
 ---

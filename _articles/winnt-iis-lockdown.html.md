@@ -7,11 +7,9 @@ excerpt: 'IIS Lockdown is an utility by Microsoft for setting up Internet Inform
 type: post
 id: 510
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-tags:
-    - iis
+    - windows-2000-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - iis
 ---

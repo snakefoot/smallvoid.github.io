@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Wireless Zero Configurati
 type: post
 id: 624
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2000-services-guide
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags:
     - wep
     - wifi

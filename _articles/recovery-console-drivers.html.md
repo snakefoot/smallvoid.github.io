@@ -7,11 +7,9 @@ excerpt: 'Modify the Recovery Console installation so it will load 3rd party dri
 type: post
 id: 258
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-tags:
-    - recovery-console
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - recovery-console
 ---

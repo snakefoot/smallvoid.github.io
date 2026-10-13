@@ -7,12 +7,10 @@ excerpt: 'Change the default wallpaper folder used when changing the wallpaper i
 type: post
 id: 275
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-tags:
-    - wallpaper
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-nt4-tips
 tags:
     - wallpaper
 ---

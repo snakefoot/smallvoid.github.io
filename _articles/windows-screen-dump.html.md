@@ -7,17 +7,15 @@ excerpt: 'How to use the keyboard key "Print Screen" to make a screen dump.'
 type: post
 id: 237
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-tags:
-    - screendump
+    - windows-2003-tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
+    - windows-vista-tips
+    - windows-7-win7-tips
 tags:
     - screendump
 ---

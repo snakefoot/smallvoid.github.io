@@ -7,11 +7,11 @@ excerpt: 'Access Linux Ext2 / Ext3 partitions inside Microsoft Windows.'
 type: post
 id: 732
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
+    - windows-vista-utilities
 tags:
     - drive-mount
     - ext2

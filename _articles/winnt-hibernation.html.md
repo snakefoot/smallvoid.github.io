@@ -7,8 +7,8 @@ excerpt: 'Hibernation requires a file as big as the size of the physical memory,
 type: post
 id: 397
 categories:
-    - Tips
-    - Tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - free-disk-space
     - hibernation

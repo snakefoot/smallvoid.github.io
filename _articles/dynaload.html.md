@@ -7,7 +7,7 @@ excerpt: 'Allows one to load device drivers from the command prompt instead of u
 type: post
 id: 79
 categories:
-    - Utilities
+    - ms-dos-utilities
 tags:
     - cdrom-drive
     - device-driver

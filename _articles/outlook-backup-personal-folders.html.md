@@ -7,7 +7,7 @@ excerpt: 'Outlook stores the addresses and emails in a PST file, which one can b
 type: post
 id: 262
 categories:
-    - Outlook
+    - email-reader-outlook
 tags:
     - backup
     - personal-folders

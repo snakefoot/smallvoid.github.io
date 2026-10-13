@@ -7,8 +7,8 @@ excerpt: 'How to configure Internet Connection Sharing to configure a gateway to
 type: post
 id: 199
 categories:
-    - Network
-    - Network
+    - windows-98-network
+    - windows-me-network
 tags:
     - default-gateway
     - internet-connection-sharing

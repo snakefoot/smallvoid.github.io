@@ -7,11 +7,9 @@ excerpt: 'Description and recommended settings for the Secure Socket Tunneling P
 type: post
 id: 764
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - VPN
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - VPN
 ---

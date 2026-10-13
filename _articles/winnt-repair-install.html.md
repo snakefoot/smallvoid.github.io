@@ -7,8 +7,8 @@ excerpt: 'Different solutions for recovering a broken Windows installation.'
 type: post
 id: 395
 categories:
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - automatic-system-recovery
     - last-known-good-configuration

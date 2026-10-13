@@ -7,7 +7,7 @@ excerpt: 'Display the security tab for controlling NTFS permissions in Windows X
 type: post
 id: 514
 categories:
-    - Utilities
+    - windows-xp-utilities
 tags:
     - crippled
     - ntfs

@@ -7,7 +7,7 @@ excerpt: 'Utility to configure font smoothing for true type fonts in Windows 95.
 type: post
 id: 170
 categories:
-    - Utilities
+    - windows-95-utilities
 tags:
     - font
     - font-smoothing

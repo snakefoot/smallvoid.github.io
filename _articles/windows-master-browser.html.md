@@ -7,14 +7,14 @@ excerpt: 'The use of the master browser in the microsoft network, and how it is 
 type: post
 id: 204
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
+    - windows-95-file-sharing
+    - windows-98-file-sharing
+    - windows-me-file-sharing
+    - windows-vista-file-sharing
 tags:
     - master-browser
     - microsoft-network

@@ -7,7 +7,7 @@ excerpt: 'Utilities to make even more customizations to the Windows XP user inte
 type: post
 id: 342
 categories:
-    - Utilities
+    - windows-xp-utilities
 tags:
     - boot-screen
     - bootlogo

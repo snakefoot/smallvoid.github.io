@@ -7,11 +7,9 @@ excerpt: 'Qfecheck is a command line utility by Microsoft to list installed hotf
 type: post
 id: 492
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-tags:
-    - hotfix
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-xp-utilities
 tags:
     - hotfix
 ---

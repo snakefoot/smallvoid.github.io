@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Error Reporting service.'
 type: post
 id: 543
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-2003-services-guide
+    - windows-xp-services-guide
 tags: []
 ---
 ##### Description:

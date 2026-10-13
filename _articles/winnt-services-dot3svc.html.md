@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Wired AutoConfig service.
 type: post
 id: 729
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-xp-services-guide
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
 tags: []
 ---
 ##### Description:

@@ -7,7 +7,7 @@ excerpt: 'Directory listing in XML using VBScript.'
 type: post
 id: 643
 categories:
-    - Uncategorized
+    - uncategorized
 tags:
     - dir2xml
     - directory

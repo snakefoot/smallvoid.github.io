@@ -7,10 +7,10 @@ excerpt: 'Configure how the process scheduler should split up the processor slot
 type: post
 id: 29
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - cpu
     - process-priority

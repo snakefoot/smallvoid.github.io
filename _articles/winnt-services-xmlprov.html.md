@@ -7,8 +7,7 @@ excerpt: 'Description and recommended settings for the Network Provisioning serv
 type: post
 id: 569
 categories:
-    - 'Services Guide'
-tags: []
+    - windows-xp-services-guide
 ---
 ##### Description:
 

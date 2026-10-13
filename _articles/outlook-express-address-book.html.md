@@ -7,7 +7,7 @@ excerpt: 'Outlook Express Address Book stores the addresses in a WAB file, which
 type: post
 id: 261
 categories:
-    - 'Outlook Express'
+    - email-reader-outlook-express
 tags:
     - address-book
     - backup

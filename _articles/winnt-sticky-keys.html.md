@@ -7,9 +7,9 @@ excerpt: 'Sticky keys is an accessibility features, that can be activated with a
 type: post
 id: 400
 categories:
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - accessibility-tools
     - shortcut-keys

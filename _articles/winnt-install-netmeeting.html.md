@@ -7,8 +7,8 @@ excerpt: 'NetMeeting is an inter-message (IM) application by Microsoft which can
 type: post
 id: 468
 categories:
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - netmeeting
     - uninstall

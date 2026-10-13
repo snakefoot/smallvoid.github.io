@@ -7,11 +7,9 @@ excerpt: 'Where to find the cd-key for the current Windows install.'
 type: post
 id: 162
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-tags:
-    - cd-key
+    - windows-95-troubleshoot
+    - windows-98-troubleshoot
+    - windows-me-troubleshoot
 tags:
     - cd-key
 ---

@@ -7,13 +7,13 @@ excerpt: 'How to see the registry changes of a certain action by using the file 
 type: post
 id: 242
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - file-compare
     - process-monitor

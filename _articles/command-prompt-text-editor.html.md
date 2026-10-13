@@ -7,9 +7,7 @@ excerpt: 'How to use the copy command to copy from the keyboard and into a text 
 type: post
 id: 63
 categories:
-    - Tips
-tags:
-    - text-editor
+    - ms-dos-tips
 tags:
     - text-editor
 ---

@@ -7,10 +7,10 @@ excerpt: 'The registry editor is capable of editing an offline registry hive.'
 type: post
 id: 254
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - regedit
     - registry

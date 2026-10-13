@@ -7,13 +7,13 @@ excerpt: 'Utilities to recover lost passwords, which are only shown as asterisks
 type: post
 id: 361
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - password
     - password-recovery

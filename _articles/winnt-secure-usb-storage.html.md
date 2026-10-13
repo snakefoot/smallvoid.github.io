@@ -7,9 +7,9 @@ excerpt: 'USB makes it easy to attach a storage device and steal valuable data f
 type: post
 id: 456
 categories:
-    - 'User Security'
-    - 'User Security'
-    - 'User Security'
+    - windows-2003-user-security
+    - windows-xp-user-security
+    - windows-2000-user-security
 tags:
     - removable-storage-devices
     - usb

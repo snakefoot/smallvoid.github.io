@@ -7,11 +7,11 @@ excerpt: 'Lower the disk activity by disabling the updating of when a file was l
 type: post
 id: 26
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
+    - windows-vista-performance
 tags:
     - disk-performance
     - file-access-time

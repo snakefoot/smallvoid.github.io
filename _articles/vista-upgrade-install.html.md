@@ -7,9 +7,7 @@ excerpt: 'Installing Windows Vista without needing to install an older version o
 type: post
 id: 735
 categories:
-    - Troubleshoot
-tags:
-    - windows-install
+    - windows-vista-troubleshoot
 tags:
     - windows-install
 ---

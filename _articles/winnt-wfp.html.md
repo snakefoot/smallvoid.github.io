@@ -7,11 +7,9 @@ excerpt: 'Windows File Protection is able to keep the system files intact when o
 type: post
 id: 248
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-tags:
-    - system-file-protection
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - system-file-protection
 ---

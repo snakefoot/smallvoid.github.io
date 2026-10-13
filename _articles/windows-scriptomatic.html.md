@@ -7,14 +7,12 @@ excerpt: 'Scriptomatic makes it easy to extract system information through WMI u
 type: post
 id: 516
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-tags:
-    - wmi
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-98-utilities
+    - windows-me-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - wmi
 ---

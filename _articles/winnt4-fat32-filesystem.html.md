@@ -7,7 +7,7 @@ excerpt: 'SysInternals has created a FAT32 driver that allow one to mount and ac
 type: post
 id: 490
 categories:
-    - Utilities
+    - windows-nt4-utilities
 tags:
     - drive-mount
     - fat32

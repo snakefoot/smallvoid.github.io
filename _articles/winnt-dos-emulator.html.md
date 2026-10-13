@@ -7,10 +7,10 @@ excerpt: 'DOS box extensions for Windows NT to play the old DOS games one love s
 type: post
 id: 494
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-2003-utilities
+    - windows-nt4-utilities
+    - windows-xp-utilities
 tags:
     - dos-emulator
     - dos-subsystem

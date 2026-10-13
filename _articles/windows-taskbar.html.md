@@ -7,13 +7,13 @@ excerpt: 'Changing the behavior and visual appearance of the task bar.'
 type: post
 id: 304
 categories:
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
+    - windows-nt4-desktop
+    - windows-xp-desktop
+    - windows-2000-desktop
+    - windows-2003-desktop
+    - windows-95-desktop
+    - windows-98-desktop
+    - windows-me-desktop
 tags:
     - Desktop
     - quick-launch

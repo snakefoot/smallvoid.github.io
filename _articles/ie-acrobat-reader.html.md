@@ -7,8 +7,8 @@ excerpt: 'Acrobat Reader can be quite slow to open PDF files in Internet Explore
 type: post
 id: 319
 categories:
-    - 'Internet Explorer (IE5)'
-    - 'Internet Explorer (IE6)'
+    - web-browser-internet-explorer-ie5
+    - web-browser-internet-explorer-ie6
 tags:
     - acrobat-reader
     - ie-plugin

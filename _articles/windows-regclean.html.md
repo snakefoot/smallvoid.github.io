@@ -7,11 +7,11 @@ excerpt: 'Registry cleaner to remove entries from the registry.'
 type: post
 id: 354
 categories:
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
-    - Utilities
+    - windows-2000-utilities
+    - windows-95-utilities
+    - windows-98-utilities
+    - windows-me-utilities
+    - windows-nt4-utilities
 tags:
     - regclean
     - registry

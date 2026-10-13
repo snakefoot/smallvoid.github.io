@@ -7,7 +7,7 @@ excerpt: 'How to create a wireless network between two computers without needing
 type: post
 id: 828
 categories:
-    - Network
+    - windows-7-win7-network
 tags:
     - hotspot
     - network-router

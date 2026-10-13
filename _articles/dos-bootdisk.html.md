@@ -7,7 +7,7 @@ excerpt: 'The bootdisk can be used to install or repair the operating system on 
 type: post
 id: 83
 categories:
-    - Utilities
+    - ms-dos-utilities
 tags:
     - bootdisk
     - cdrom-drive

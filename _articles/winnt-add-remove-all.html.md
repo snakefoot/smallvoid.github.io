@@ -7,9 +7,9 @@ excerpt: 'Windows does not by default display all items that can be uninstalled 
 type: post
 id: 386
 categories:
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - control-panel
     - free-disk-space

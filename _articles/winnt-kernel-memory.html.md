@@ -7,10 +7,10 @@ excerpt: 'How the kernel memory area is divided into the different page pools.'
 type: post
 id: 264
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - kernel
     - memory-manager

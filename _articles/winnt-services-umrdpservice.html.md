@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the Remote Desktop Services U
 type: post
 id: 808
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - remote-desktop
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - remote-desktop
 ---

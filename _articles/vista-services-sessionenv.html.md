@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Terminal Services Configu
 type: post
 id: 705
 categories:
-    - 'Services Guide'
+    - windows-vista-services-guide
 tags:
     - remote-desktop
 tags:

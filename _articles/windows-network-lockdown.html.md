@@ -7,15 +7,13 @@ excerpt: 'There are several security issues one should take care of when having 
 type: post
 id: 308
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-tags:
-    - network-security
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
+    - windows-nt4-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - network-security
 ---

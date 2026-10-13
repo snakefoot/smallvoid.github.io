@@ -7,9 +7,9 @@ excerpt: 'Configure the behavior of auto completion in Internet Explorer.'
 type: post
 id: 317
 categories:
-    - 'Internet Explorer (IE4)'
-    - 'Internet Explorer (IE5)'
-    - 'Internet Explorer (IE6)'
+    - web-browser-internet-explorer-ie4
+    - web-browser-internet-explorer-ie5
+    - web-browser-internet-explorer-ie6
 tags:
     - autocomplete
     - autosuggest

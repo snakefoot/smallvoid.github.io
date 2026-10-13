@@ -7,9 +7,9 @@ excerpt: 'How use the extract utility for restoring a file from the Windows inst
 type: post
 id: 180
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-95-troubleshoot
+    - windows-98-troubleshoot
+    - windows-me-troubleshoot
 tags:
     - backup
     - cab

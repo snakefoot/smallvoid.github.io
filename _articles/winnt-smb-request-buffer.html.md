@@ -7,10 +7,10 @@ excerpt: 'Increasing the request buffer size can improve file sharing performanc
 type: post
 id: 439
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-2003-file-sharing
+    - windows-nt4-file-sharing
+    - windows-xp-file-sharing
+    - windows-2000-file-sharing
 tags:
     - microsoft-network
     - network-performance

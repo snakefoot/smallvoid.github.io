@@ -7,12 +7,12 @@ excerpt: 'Control how and when Automatic Updates (AU) should contact the Windows
 type: post
 id: 524
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - automatic-updates
-    - 'Windows Update'
+    - windows-update
 ---
 [Automatic Updates (AU)](/article/winnt-services-wuauserv.html) uses the following settings as current configuration (Applied when service is started):'
 - **Monitor the status of Automatic Updates:**

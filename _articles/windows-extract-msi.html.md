@@ -7,13 +7,13 @@ excerpt: 'The Microsoft Installer (MSI) Package file is a compressed archive, wh
 type: post
 id: 289
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-95-tips
+    - windows-98-tips
+    - windows-me-tips
+    - windows-nt4-tips
+    - windows-xp-tips
+    - windows-2000-tips
 tags:
     - command-line-switches
     - microsoft-installer-package

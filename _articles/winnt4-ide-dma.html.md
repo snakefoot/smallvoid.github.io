@@ -7,7 +7,7 @@ excerpt: 'How to configure Windows NT4 to use DMA for IDE ATA hard drives.'
 type: post
 id: 368
 categories:
-    - 'Tweak Performance'
+    - windows-nt4-performance
 tags:
     - ATA
     - dma

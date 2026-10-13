@@ -7,10 +7,10 @@ excerpt: 'How to configure memory size of the file cache for faster file operati
 type: post
 id: 265
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - disk-performance
     - file-cache

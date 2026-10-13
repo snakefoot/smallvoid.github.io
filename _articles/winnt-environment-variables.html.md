@@ -7,12 +7,10 @@ excerpt: 'Description of the different types of environment variables in the Win
 type: post
 id: 269
 categories:
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
-    - 'Command Prompt'
-tags:
-    - environment-variables
+    - windows-nt4-command-prompt
+    - windows-xp-command-prompt
+    - windows-2000-command-prompt
+    - windows-2003-command-prompt
 tags:
     - environment-variables
 ---

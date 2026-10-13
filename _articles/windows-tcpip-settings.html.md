@@ -7,13 +7,13 @@ excerpt: 'Increase the speed of the network connection by changing the TCP/IP se
 type: post
 id: 187
 categories:
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
+    - windows-nt4-network
+    - windows-xp-network
+    - windows-2000-network
+    - windows-2003-network
 tags:
     - lan
     - max-transfer-unit

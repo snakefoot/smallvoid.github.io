@@ -7,7 +7,7 @@ excerpt: 'Enable the Update Wizard without performing registration.'
 type: post
 id: 157
 categories:
-    - Troubleshoot
+    - windows-98-troubleshoot
 tags:
     - registration-wizard
     - update-wizard

@@ -7,11 +7,9 @@ excerpt: 'Description and recommended settings for the Microsoft iSCSI Initiator
 type: post
 id: 680
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - iscsi
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - iscsi
 ---

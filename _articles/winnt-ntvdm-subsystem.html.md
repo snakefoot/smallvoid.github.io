@@ -7,12 +7,12 @@ excerpt: 'For security measures then one should consider disabling the ability t
 type: post
 id: 825
 categories:
-    - Tips
-    - 'User Security'
-    - 'User Security'
-    - 'User Security'
-    - 'User Security'
-    - 'User Security'
+    - windows-7-win7-tips
+    - windows-2003-user-security
+    - windows-nt4-user-security
+    - windows-xp-user-security
+    - windows-2000-user-security
+    - windows-vista-user-security
 tags:
     - dos-emulator
     - subsystem

@@ -7,7 +7,7 @@ excerpt: 'How to install the Vista exFAT file system driver on Windows XP.'
 type: post
 id: 784
 categories:
-    - Troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - exFAT
     - file-system

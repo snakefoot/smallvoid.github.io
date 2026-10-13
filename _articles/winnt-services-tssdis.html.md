@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Terminal Services Session
 type: post
 id: 607
 categories:
-    - 'Services Guide'
+    - windows-2003-services-guide
 tags: []
 ---
 ##### Description:

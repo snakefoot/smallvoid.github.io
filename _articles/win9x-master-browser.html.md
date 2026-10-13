@@ -7,9 +7,9 @@ excerpt: 'How to configure whether Windows 95 / 98 / Me should participate in th
 type: post
 id: 203
 categories:
-    - 'File Sharing'
-    - 'File Sharing'
-    - 'File Sharing'
+    - windows-95-file-sharing
+    - windows-98-file-sharing
+    - windows-me-file-sharing
 tags:
     - master-browser
     - microsoft-network

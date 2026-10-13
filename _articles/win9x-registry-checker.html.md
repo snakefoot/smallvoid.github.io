@@ -7,8 +7,8 @@ excerpt: 'Scanreg command line switches for checking the Windows registry.'
 type: post
 id: 109
 categories:
-    - Tips
-    - Tips
+    - windows-98-tips
+    - windows-me-tips
 tags:
     - command-line-switches
     - registry-checker

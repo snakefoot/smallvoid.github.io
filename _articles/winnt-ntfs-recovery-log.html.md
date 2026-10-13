@@ -7,10 +7,10 @@ excerpt: 'How to change the size of the NTFS transaction log to handle peak load
 type: post
 id: 33
 categories:
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
-    - 'Tweak Performance'
+    - windows-2000-performance
+    - windows-2003-performance
+    - windows-nt4-performance
+    - windows-xp-performance
 tags:
     - chkdsk
     - disk-performance

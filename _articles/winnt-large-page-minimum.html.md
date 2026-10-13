@@ -7,9 +7,9 @@ excerpt: 'Configure the Page Size Extension feature of the processor which is us
 type: post
 id: 466
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - AGP
     - AMD

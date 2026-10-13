@@ -7,9 +7,7 @@ excerpt: 'Certain network routers doesn''t respond to DHCP requests that require
 type: post
 id: 741
 categories:
-    - Network
-tags:
-    - dhcp
+    - windows-vista-network
 tags:
     - dhcp
 ---

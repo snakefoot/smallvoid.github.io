@@ -7,7 +7,7 @@ excerpt: 'Windows Me will perform a scandisk after an improper shutdown when Win
 type: post
 id: 175
 categories:
-    - Troubleshoot
+    - windows-me-troubleshoot
 tags:
     - hard-disk-drive
     - scandisk

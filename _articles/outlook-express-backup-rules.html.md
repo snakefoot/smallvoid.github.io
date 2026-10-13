@@ -7,7 +7,7 @@ excerpt: 'Outlook Express message rules are stored in the Windows registry, whic
 type: post
 id: 331
 categories:
-    - 'Outlook Express'
+    - email-reader-outlook-express
 tags:
     - backup
     - message-rules

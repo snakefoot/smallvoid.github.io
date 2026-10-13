@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the System Restore service.'
 type: post
 id: 601
 categories:
-    - 'Services Guide'
+    - windows-xp-services-guide
 tags: []
 ---
 ##### Description:

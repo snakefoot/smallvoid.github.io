@@ -7,7 +7,7 @@ excerpt: 'Useful DOS utilities available on the Windows 95 CD, which also can be
 type: post
 id: 74
 categories:
-    - Utilities
+    - ms-dos-utilities
 tags:
     - conventional-memory
     - file-recovery

@@ -7,9 +7,9 @@ excerpt: 'Forcing the user to provide credentials before being allowed to use Wi
 type: post
 id: 215
 categories:
-    - Network
-    - Network
-    - Network
+    - windows-95-network
+    - windows-98-network
+    - windows-me-network
 tags:
     - user-account
     - windows-domain

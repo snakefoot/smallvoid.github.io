@@ -7,7 +7,7 @@ excerpt: 'Description of how TCP slow start can introduce latency for short livi
 type: post
 id: 834
 categories:
-    - Network
+    - windows-7-win7-network
 tags:
     - netsh
     - network-congestion

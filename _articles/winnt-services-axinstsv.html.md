@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the ActiveX Installer (AxInst
 type: post
 id: 793
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-    - 'Services Guide'
+    - windows-vista-services-guide
+    - windows-7-win7-services-guide
+    - windows-8-win8-services-guide
 tags:
     - activex
     - group-policy

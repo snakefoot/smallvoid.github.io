@@ -7,9 +7,9 @@ excerpt: 'Make Windows 9x redetect all hardware in case one is migrating to a ne
 type: post
 id: 139
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-95-troubleshoot
+    - windows-98-troubleshoot
+    - windows-me-troubleshoot
 tags:
     - device-manager
     - drivers

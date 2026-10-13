@@ -7,9 +7,7 @@ excerpt: 'Show the "Compatibility"-tab when selecting Properties for a shortcut.
 type: post
 id: 389
 categories:
-    - Tips
-tags:
-    - application-compatibility
+    - windows-2000-tips
 tags:
     - application-compatibility
 ---

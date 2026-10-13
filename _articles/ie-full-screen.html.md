@@ -7,11 +7,9 @@ excerpt: 'Different ways for starting Internet Explorer in full screen mode.'
 type: post
 id: 318
 categories:
-    - 'Internet Explorer (IE4)'
-    - 'Internet Explorer (IE5)'
-    - 'Internet Explorer (IE6)'
-tags:
-    - full-screen
+    - web-browser-internet-explorer-ie4
+    - web-browser-internet-explorer-ie5
+    - web-browser-internet-explorer-ie6
 tags:
     - full-screen
 ---

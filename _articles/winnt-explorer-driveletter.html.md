@@ -7,10 +7,10 @@ excerpt: 'Control in what order the drive letter and label should be shown in My
 type: post
 id: 414
 categories:
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
+    - windows-xp-desktop
+    - windows-2000-desktop
+    - windows-2003-desktop
+    - windows-vista-desktop
 tags:
     - visual-style
     - windows-explorer

@@ -7,9 +7,9 @@ excerpt: 'Active Desktop enables customization of folders like they were web pag
 type: post
 id: 305
 categories:
-    - Desktop
-    - Desktop
-    - Desktop
+    - windows-2000-desktop
+    - windows-98-desktop
+    - windows-me-desktop
 tags:
     - active-desktop
     - custom-folders

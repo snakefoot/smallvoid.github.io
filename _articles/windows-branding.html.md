@@ -7,13 +7,13 @@ excerpt: 'System Properties can be modified to display company name or company p
 type: post
 id: 299
 categories:
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
-    - Desktop
+    - windows-nt4-desktop
+    - windows-xp-desktop
+    - windows-2000-desktop
+    - windows-2003-desktop
+    - windows-95-desktop
+    - windows-98-desktop
+    - windows-me-desktop
 tags:
     - branding
     - oem

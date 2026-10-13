@@ -7,10 +7,10 @@ excerpt: 'List of the available command line switches for defrag.'
 type: post
 id: 744
 categories:
-    - Tips
-    - Tips
-    - Tips
-    - Tips
+    - windows-2003-tips
+    - windows-xp-tips
+    - windows-vista-tips
+    - windows-7-win7-tips
 tags:
     - command-line-switches
     - defrag

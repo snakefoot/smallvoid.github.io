@@ -7,10 +7,8 @@ excerpt: 'Description and recommended settings for the QoS RSVP service.'
 type: post
 id: 576
 categories:
-    - 'Services Guide'
-    - 'Services Guide'
-tags:
-    - quality-of-service
+    - windows-2000-services-guide
+    - windows-xp-services-guide
 tags:
     - quality-of-service
 ---

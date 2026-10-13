@@ -7,10 +7,10 @@ excerpt: 'Windows NT will fail to boot if it cannot find the files used to load 
 type: post
 id: 475
 categories:
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
-    - Troubleshoot
+    - windows-2000-troubleshoot
+    - windows-2003-troubleshoot
+    - windows-nt4-troubleshoot
+    - windows-xp-troubleshoot
 tags:
     - boot-manager
     - ntldr

@@ -7,7 +7,7 @@ excerpt: 'Backup and restore long filenames in DOS. Useful if working with DOS t
 type: post
 id: 75
 categories:
-    - Utilities
+    - ms-dos-utilities
 tags:
     - backup
     - doslfn
