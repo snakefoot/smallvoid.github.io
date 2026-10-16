@@ -43,17 +43,13 @@ layout: default
             {% assign unique_categories = all_categories | uniq | sort %}
             {% for cat in unique_categories %}
             {% assign category_url = cat | strip %}
-            {% assign words = cat | split: '-' %}
-            {% assign category_label = '' %}
-            {% for word in words %}
-            {% assign capitalized_word = word | capitalize %}
-            {% assign category_label = category_label | append: capitalized_word %}
-            {% unless forloop.last %}
-            {% assign category_label = category_label | append: ' ' %}
-            {% endunless %}
-            {% endfor %}
+            {% assign category_words = cat | replace: '-', ' ' | split: ' ' %}
+            {% assign category_label = category_words | join: ' ' | capitalize %}
+
             <li>
-                <a href="{{ '/articles/' | append: category_url | append: '/' | relative_url }}">{{ category_label | escape }}</a>
+                <a href="{{ '/articles/' | append: category_url | append: '/' | relative_url }}">
+                    {{ category_label | escape }}
+                </a>
             </li>
             {% endfor %}
         </ul>
