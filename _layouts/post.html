@@ -22,24 +22,7 @@ layout: default
     {% if page.tag or page.tags %}
     <div class="post-meta-tags">
         <strong>Tags:</strong>
-        {% assign all_tags = "" | split: "" %}
-        {% if page.tag %}
-        {% assign all_tags = all_tags | push: page.tag %}
-        {% endif %}
-        {% if page.tags %}
-        {% if page.tags.first %}
-        {% assign all_tags = all_tags | concat: page.tags %}
-        {% else %}
-        {% assign tag_string = page.tags | split: "," %}
-        {% for tag in tag_string %}
-        {% assign trimmed_tag = tag | strip %}
-        {% unless trimmed_tag == "" %}
-        {% assign all_tags = all_tags | push: trimmed_tag %}
-        {% endunless %}
-        {% endfor %}
-        {% endif %}
-        {% endif %}
-        {% assign unique_tags = all_tags | uniq | sort %}
+        {% assign unique_tags = page.tags | default: empty | uniq | sort %}
         {% for tag in unique_tags %}
         <a href="{{ page.url | relative_url }}">#{{ tag | escape }}</a>{% unless forloop.last %} {% endunless %}
         {% endfor %}
