@@ -50,7 +50,7 @@ description:
             {%- endif -%}
         {%- endfor -%}
 
-        {% assign version_words = version | replace: '-', ' ' | split: ' ' %}
+        {% assign version_words = version | replace: '-', ' ' | replace: '_', ' ' | split: ' ' %}
 <h2>{% for word in version_words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor %} ({{ version_total }} articles)</h2>
 <ul>
     {%- endif -%}
@@ -73,7 +73,7 @@ description:
         {%- endunless -%}
     {%- endfor -%}
 
-    {%- assign category_url = category | replace: '_', '/' -%}
+    {%- assign category_url = category | replace: '_', '/' | append: '/' -%}
 <li>
     <a href="{{ '/articles/' | append: category_url | relative_url }}">{%- if group_name == '' -%}{{ version | replace: '-', ' ' | capitalize | escape }}{%- else -%}{{ category_label | escape }}{%- endif -%}</a>
     ({{ category_total }})
