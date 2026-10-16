@@ -50,7 +50,7 @@ description:
             {%- endif -%}
         {%- endfor -%}
 
-        {% assign version_words = version | replace: '-', ' ' | split: ' ' %}
+        {% assign version_words = version | replace: '-', ' ' | replace: '_', ' ' | split: ' ' %}
         {% capture version_label %}{% for word in version_words %}{{- word | capitalize -}}{% unless forloop.last %} {% endunless %}{% endfor %}{% endcapture %}
 <h2>{{ version_label | strip }} ({{ version_total }} articles)</h2>
 <ul>
