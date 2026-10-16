@@ -7,8 +7,8 @@ excerpt: 'Troubleshoot and repair Automatic Updates when it fails to perform Win
 type: post
 id: 734
 categories:
-    - windows-2003-troubleshoot
-    - windows-xp-troubleshoot
+    - windows-2003_troubleshoot
+    - windows-xp_troubleshoot
 tags:
     - automatic-updates
     - windows-update

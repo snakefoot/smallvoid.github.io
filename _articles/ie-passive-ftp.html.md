@@ -7,10 +7,10 @@ excerpt: 'Internet Explorer can switch been active ftp and passive ftp mode.'
 type: post
 id: 316
 categories:
-    - web-browser-internet-explorer-ie4
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
-    - web-browser-internet-explorer-ie7
+    - web-browser_internet-explorer-ie4
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
+    - web-browser_internet-explorer-ie7
 tags:
     - ftp
     - ftp-client

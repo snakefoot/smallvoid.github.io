@@ -7,7 +7,7 @@ excerpt: 'Microsoft articles on how to offer and receive and remote assistance r
 type: post
 id: 431
 categories:
-    - windows-xp-network
+    - windows-xp_network
 tags:
     - remote-assistance
     - remote-desktop

@@ -7,9 +7,9 @@ excerpt: 'How to use the Secondary Logon service to start an application with di
 type: post
 id: 589
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-xp-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-xp_troubleshoot
 tags:
     - runas
     - scheduled-task

@@ -7,7 +7,7 @@ excerpt: 'Windows Vista will fail to boot if it cannot find the files used to lo
 type: post
 id: 754
 categories:
-    - windows-vista-troubleshoot
+    - windows-vista_troubleshoot
     - windows-7-win7-troubleshoot
 tags:
     - boot-manager

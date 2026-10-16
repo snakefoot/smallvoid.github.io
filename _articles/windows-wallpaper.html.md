@@ -7,9 +7,9 @@ excerpt: 'Configuring how the wallpaper should be displayed using registry setti
 type: post
 id: 294
 categories:
-    - windows-nt4-desktop
-    - windows-95-desktop
-    - windows-98-desktop
+    - windows-nt4_desktop
+    - windows-95_desktop
+    - windows-98_desktop
 tags:
     - background-picture
     - wallpaper

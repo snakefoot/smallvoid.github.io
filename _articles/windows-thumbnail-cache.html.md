@@ -7,11 +7,11 @@ excerpt: 'Thumbnail View uses a cache to allow quicker viewing of folders with p
 type: post
 id: 306
 categories:
-    - windows-xp-desktop
-    - windows-2000-desktop
-    - windows-2003-desktop
-    - windows-98-desktop
-    - windows-me-desktop
+    - windows-xp_desktop
+    - windows-2000_desktop
+    - windows-2003_desktop
+    - windows-98_desktop
+    - windows-me_desktop
 tags:
     - picture
     - thumbnail

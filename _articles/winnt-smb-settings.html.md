@@ -7,10 +7,10 @@ excerpt: 'Prepare the file servers to handle a higher loads and allow the client
 type: post
 id: 440
 categories:
-    - windows-2003-file-sharing
-    - windows-nt4-file-sharing
-    - windows-xp-file-sharing
-    - windows-2000-file-sharing
+    - windows-2003_file-sharing
+    - windows-nt4_file-sharing
+    - windows-xp_file-sharing
+    - windows-2000_file-sharing
 tags:
     - microsoft-network
     - network-performance

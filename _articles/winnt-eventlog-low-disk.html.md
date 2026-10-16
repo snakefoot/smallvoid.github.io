@@ -7,10 +7,10 @@ excerpt: 'Change the treshold of when to report that a disk is near its capacity
 type: post
 id: 382
 categories:
-    - windows-2003-tips
-    - windows-nt4-tips
-    - windows-xp-tips
-    - windows-2000-tips
+    - windows-2003_tips
+    - windows-nt4_tips
+    - windows-xp_tips
+    - windows-2000_tips
 tags:
     - event-log
     - hard-disk-drive

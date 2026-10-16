@@ -7,9 +7,9 @@ excerpt: 'Mount a Web Folder as a mapped network drive with help from the Webcli
 type: post
 id: 738
 categories:
-    - windows-xp-network
-    - windows-2003-network
-    - windows-vista-network
+    - windows-xp_network
+    - windows-2003_network
+    - windows-vista_network
 tags:
     - drive-mount
     - network-drive

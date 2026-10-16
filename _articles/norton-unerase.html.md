@@ -7,7 +7,7 @@ excerpt: 'File recovery utility that supports FAT32 partitions.'
 type: post
 id: 80
 categories:
-    - ms-dos-utilities
+    - ms-dos_utilities
 tags:
     - fat16
     - fat32

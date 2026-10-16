@@ -7,9 +7,9 @@ excerpt: 'How to use the services management snapin to configure the state of th
 type: post
 id: 629
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-xp-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-xp_troubleshoot
 tags:
     - windows-services
 ---

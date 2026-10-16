@@ -7,7 +7,7 @@ excerpt: 'How to get fdisk to create small FAT32 partitions with special paramet
 type: post
 id: 73
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - fat32
     - fdisk

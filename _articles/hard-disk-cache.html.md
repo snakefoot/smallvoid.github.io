@@ -7,14 +7,14 @@ excerpt: 'The hard disk performance is very dependent on the configuration of th
 type: post
 id: 340
 categories:
-    - windows-2000-performance
-    - windows-2003-performance
-    - windows-95-performance
-    - windows-98-performance
-    - windows-me-performance
-    - windows-nt4-performance
-    - windows-xp-performance
-    - windows-vista-performance
+    - windows-2000_performance
+    - windows-2003_performance
+    - windows-95_performance
+    - windows-98_performance
+    - windows-me_performance
+    - windows-nt4_performance
+    - windows-xp_performance
+    - windows-vista_performance
 tags:
     - disk-performance
     - file-cache

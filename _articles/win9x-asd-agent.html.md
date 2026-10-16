@@ -7,8 +7,8 @@ excerpt: 'Utility to diagnose what hardware devices have failed to start and hav
 type: post
 id: 166
 categories:
-    - windows-98-utilities
-    - windows-me-utilities
+    - windows-98_utilities
+    - windows-me_utilities
 tags:
     - drivers
     - hardware

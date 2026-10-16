@@ -7,9 +7,9 @@ excerpt: 'Kernel toys are small utilities created by Microsoft to make life easi
 type: post
 id: 220
 categories:
-    - windows-95-utilities
-    - windows-98-utilities
-    - windows-me-utilities
+    - windows-95_utilities
+    - windows-98_utilities
+    - windows-me_utilities
 tags:
     - powertoys
 ---

@@ -7,9 +7,9 @@ excerpt: 'Configure the path to the location of the install files whether on CD-
 type: post
 id: 158
 categories:
-    - windows-95-troubleshoot
-    - windows-98-troubleshoot
-    - windows-me-troubleshoot
+    - windows-95_troubleshoot
+    - windows-98_troubleshoot
+    - windows-me_troubleshoot
 tags:
     - cdrom-drive
     - hard-disk-drive

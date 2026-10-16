@@ -7,8 +7,8 @@ excerpt: 'How to configure the page algorithm, so it will not perform paging whe
 type: post
 id: 94
 categories:
-    - windows-98-performance
-    - windows-me-performance
+    - windows-98_performance
+    - windows-me_performance
 tags:
     - page-algorithm
     - page-file

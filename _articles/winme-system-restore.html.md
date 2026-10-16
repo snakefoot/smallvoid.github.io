@@ -7,7 +7,7 @@ excerpt: 'Details of how System Restore works in Windows Me and how to configure
 type: post
 id: 107
 categories:
-    - windows-me-troubleshoot
+    - windows-me_troubleshoot
 tags:
     - restore-point
     - system-file-protection

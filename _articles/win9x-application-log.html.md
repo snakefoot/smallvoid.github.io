@@ -7,8 +7,8 @@ excerpt: 'Save resources by disabling the Task Monitor and avoid the logging of 
 type: post
 id: 102
 categories:
-    - windows-98-performance
-    - windows-me-performance
+    - windows-98_performance
+    - windows-me_performance
 tags:
     - defrag
     - task-monitor

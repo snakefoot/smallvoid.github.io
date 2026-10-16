@@ -7,8 +7,8 @@ excerpt: 'Recover access to the content advisor configuration by resetting the p
 type: post
 id: 312
 categories:
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
 tags:
     - content-advisor
     - parental-control

@@ -7,9 +7,9 @@ excerpt: 'Configure the priority of how it should lookup the physical network ad
 type: post
 id: 216
 categories:
-    - windows-95-network
-    - windows-98-network
-    - windows-me-network
+    - windows-95_network
+    - windows-98_network
+    - windows-me_network
 tags:
     - dns
     - hosts-file

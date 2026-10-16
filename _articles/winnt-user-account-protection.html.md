@@ -7,7 +7,7 @@ excerpt: 'User Account Control (UAC) makes sure that daily tasks are not perform
 type: post
 id: 455
 categories:
-    - windows-vista-user-security
+    - windows-vista_user-security
 tags:
     - user-account-control
 ---

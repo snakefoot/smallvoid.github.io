@@ -7,9 +7,9 @@ excerpt: 'How to configure the size of continuous space it will look for when pe
 type: post
 id: 93
 categories:
-    - windows-95-performance
-    - windows-98-performance
-    - windows-me-performance
+    - windows-95_performance
+    - windows-98_performance
+    - windows-me_performance
 tags:
     - cluster-size
     - defrag

@@ -7,7 +7,7 @@ excerpt: 'Media Player 8 was included with Windows XP and never released as a st
 type: post
 id: 500
 categories:
-    - windows-2000-utilities
+    - windows-2000_utilities
 tags:
     - windows-media-player
 ---

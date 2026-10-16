@@ -7,10 +7,10 @@ excerpt: 'Description and recommended settings for the Health Key and Certificat
 type: post
 id: 673
 categories:
-    - windows-xp-services
-    - windows-vista-services
-    - windows-7-win7-services-guide
-    - windows-8-win8-services-guide
+    - windows-xp_services
+    - windows-vista_services
+    - windows-7-win7_services-guide
+    - windows-8-win8_services-guide
 tags:
     - network-access-protection
 ---

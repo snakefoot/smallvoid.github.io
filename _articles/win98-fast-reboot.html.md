@@ -7,7 +7,7 @@ excerpt: 'How to configure the fast shutdown feature in Windows 98.'
 type: post
 id: 106
 categories:
-    - windows-98-tips
+    - windows-98_tips
 tags:
     - reboot
     - restart

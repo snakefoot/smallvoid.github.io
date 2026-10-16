@@ -7,9 +7,9 @@ excerpt: 'Collection of Microsoft articles to help in troubleshooting dialup mod
 type: post
 id: 195
 categories:
-    - windows-95-network
-    - windows-98-network
-    - windows-me-network
+    - windows-95_network
+    - windows-98_network
+    - windows-me_network
 tags:
     - dialup-modem
     - hardware

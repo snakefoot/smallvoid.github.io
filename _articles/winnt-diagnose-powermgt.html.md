@@ -8,9 +8,9 @@ type: post
 id: 821
 categories:
     - windows-7-win7-tips
-    - windows-2003-troubleshoot
-    - windows-xp-troubleshoot
-    - windows-vista-troubleshoot
+    - windows-2003_troubleshoot
+    - windows-xp_troubleshoot
+    - windows-vista_troubleshoot
 tags:
     - power-management
 ---

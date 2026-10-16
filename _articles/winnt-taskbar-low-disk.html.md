@@ -7,7 +7,7 @@ excerpt: 'Display a warning when the when a hard disk is near its capacity'
 type: post
 id: 383
 categories:
-    - windows-xp-desktop
+    - windows-xp_desktop
 tags:
     - hard-disk-drive
     - taskbar

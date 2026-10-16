@@ -7,7 +7,7 @@ excerpt: 'Windows Vista does not have the classic logon screen, which has been r
 type: post
 id: 750
 categories:
-    - windows-vista-user-security
+    - windows-vista_user-security
 tags:
     - automatic-login
     - user-account

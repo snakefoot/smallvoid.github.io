@@ -7,9 +7,9 @@ excerpt: 'QChain is created by Microsoft and allows several hotfixes to be chain
 type: post
 id: 495
 categories:
-    - windows-2003-utilities
-    - windows-nt4-utilities
-    - windows-xp-utilities
+    - windows-2003_utilities
+    - windows-nt4_utilities
+    - windows-xp_utilities
 tags:
     - hotfix
     - windows-update

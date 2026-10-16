@@ -7,10 +7,10 @@ excerpt: 'Sharing violations on files placed on network shares are retried while
 type: post
 id: 445
 categories:
-    - windows-2003-file-sharing
-    - windows-nt4-file-sharing
-    - windows-xp-file-sharing
-    - windows-2000-file-sharing
+    - windows-2003_file-sharing
+    - windows-nt4_file-sharing
+    - windows-xp_file-sharing
+    - windows-2000_file-sharing
 tags:
     - network-share
     - sharing-violation

@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the ReadyBoost service.'
 type: post
 id: 698
 categories:
-    - windows-vista-services
+    - windows-vista_services
 tags:
     - disk-performance
     - file-cache

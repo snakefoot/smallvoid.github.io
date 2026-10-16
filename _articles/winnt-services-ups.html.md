@@ -7,10 +7,10 @@ excerpt: 'Description and recommended settings for the Uninterruptible Power Sup
 type: post
 id: 609
 categories:
-    - windows-2000-services
-    - windows-nt4-services
-    - windows-2003-services
-    - windows-xp-services
+    - windows-2000_services
+    - windows-nt4_services
+    - windows-2003_services
+    - windows-xp_services
 tags:
     - power-management
     - uninterruptible-power-supply

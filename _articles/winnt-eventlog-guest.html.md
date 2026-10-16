@@ -7,10 +7,10 @@ excerpt: 'The system event log can contain information, which can be used compro
 type: post
 id: 452
 categories:
-    - windows-2003-user-security
-    - windows-nt4-user-security
-    - windows-xp-user-security
-    - windows-2000-user-security
+    - windows-2003_user-security
+    - windows-nt4_user-security
+    - windows-xp_user-security
+    - windows-2000_user-security
 tags:
     - event-log
     - guest-account

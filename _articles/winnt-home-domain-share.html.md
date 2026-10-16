@@ -7,7 +7,7 @@ excerpt: 'By changing the workgroup of Windows XP Home, then it is possible to g
 type: post
 id: 749
 categories:
-    - windows-xp-file-sharing
+    - windows-xp_file-sharing
 tags:
     - crippled
     - microsoft-network

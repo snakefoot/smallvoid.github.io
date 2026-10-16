@@ -7,11 +7,11 @@ excerpt: 'Fix the background color for the icon text, so it doesn''t ruin your f
 type: post
 id: 344
 categories:
-    - windows-2000-utilities
-    - windows-95-utilities
-    - windows-98-utilities
-    - windows-me-utilities
-    - windows-nt4-utilities
+    - windows-2000_utilities
+    - windows-95_utilities
+    - windows-98_utilities
+    - windows-me_utilities
+    - windows-nt4_utilities
 tags:
     - icon
     - visual-style

@@ -7,9 +7,9 @@ excerpt: 'Windows Professional / Home edition includes limitation for not handli
 type: post
 id: 450
 categories:
-    - windows-nt4-file-sharing
-    - windows-xp-file-sharing
-    - windows-2000-file-sharing
+    - windows-nt4_file-sharing
+    - windows-xp_file-sharing
+    - windows-2000_file-sharing
 tags:
     - crippled
     - network-share

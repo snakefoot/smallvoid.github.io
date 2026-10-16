@@ -7,9 +7,9 @@ excerpt: 'How to activate performance counters for the different performance obj
 type: post
 id: 373
 categories:
-    - windows-2000-performance
-    - windows-2003-performance
-    - windows-xp-performance
+    - windows-2000_performance
+    - windows-2003_performance
+    - windows-xp_performance
 tags:
     - performance-counters
 ---

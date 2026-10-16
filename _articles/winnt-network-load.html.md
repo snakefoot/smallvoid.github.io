@@ -7,10 +7,10 @@ excerpt: 'Configure how the TCP/IP should respond when multiple network adapters
 type: post
 id: 426
 categories:
-    - windows-nt4-network
-    - windows-xp-network
-    - windows-2000-network
-    - windows-2003-network
+    - windows-nt4_network
+    - windows-xp_network
+    - windows-2000_network
+    - windows-2003_network
 tags:
     - network-interface-card
     - network-load-balancing

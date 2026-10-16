@@ -7,13 +7,13 @@ excerpt: 'Change when an application is considered as deadlocked and should be t
 type: post
 id: 278
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-95-troubleshoot
-    - windows-98-troubleshoot
-    - windows-me-troubleshoot
-    - windows-nt4-troubleshoot
-    - windows-xp-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-95_troubleshoot
+    - windows-98_troubleshoot
+    - windows-me_troubleshoot
+    - windows-nt4_troubleshoot
+    - windows-xp_troubleshoot
 tags: []
 ---
 It is possible to control how quickly windows automatically should end applications.  

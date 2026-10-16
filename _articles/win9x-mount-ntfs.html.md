@@ -7,9 +7,9 @@ excerpt: 'NTFS device driver for accessing NTFS partitions inside Windows 9x.'
 type: post
 id: 222
 categories:
-    - windows-95-utilities
-    - windows-98-utilities
-    - windows-me-utilities
+    - windows-95_utilities
+    - windows-98_utilities
+    - windows-me_utilities
 tags:
     - drive-mount
     - ntfs

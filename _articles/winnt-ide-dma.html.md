@@ -7,9 +7,9 @@ excerpt: 'How to configure Windows to use DMA for IDE ATA hard drives.'
 type: post
 id: 372
 categories:
-    - windows-2000-performance
-    - windows-2003-performance
-    - windows-xp-performance
+    - windows-2000_performance
+    - windows-2003_performance
+    - windows-xp_performance
 tags:
     - ATA
     - disk-performance

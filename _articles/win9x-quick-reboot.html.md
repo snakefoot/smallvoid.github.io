@@ -7,9 +7,9 @@ excerpt: 'How to use the Shift-key on the keyboard to activate faster reboot.'
 type: post
 id: 105
 categories:
-    - windows-95-tips
-    - windows-98-tips
-    - windows-me-tips
+    - windows-95_tips
+    - windows-98_tips
+    - windows-me_tips
 tags:
     - reboot
     - restart

@@ -7,7 +7,7 @@ excerpt: 'Outlook Express stores the emails in DBX files, which one can backup a
 type: post
 id: 260
 categories:
-    - email-reader-outlook-express
+    - email-reader_outlook-express
 tags:
     - backup
 ---

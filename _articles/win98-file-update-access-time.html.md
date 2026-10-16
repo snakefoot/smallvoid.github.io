@@ -7,7 +7,7 @@ excerpt: 'Lower the disk activity by disabling the updating of when a file was l
 type: post
 id: 100
 categories:
-    - windows-98-performance
+    - windows-98_performance
 tags:
     - disk-performance
     - file-access-time

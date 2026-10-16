@@ -7,11 +7,11 @@ excerpt: 'Description and recommended settings for the Routing and Remote Access
 type: post
 id: 587
 categories:
-    - windows-2000-services
-    - windows-2003-services
-    - windows-xp-services
-    - windows-vista-services
-    - windows-7-win7-services-guide
+    - windows-2000_services
+    - windows-2003_services
+    - windows-xp_services
+    - windows-vista_services
+    - windows-7-win7_services-guide
 tags:
     - internet-connection-sharing
     - network-router

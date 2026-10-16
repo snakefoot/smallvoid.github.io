@@ -7,7 +7,7 @@ excerpt: 'How to use the Choice program to present a set of options the user can
 type: post
 id: 65
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - batch-file
     - choice

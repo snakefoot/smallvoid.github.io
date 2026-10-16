@@ -7,10 +7,10 @@ excerpt: 'Microsoft Windbg makes it possible to diagnose what caused a BSOD, so 
 type: post
 id: 270
 categories:
-    - windows-2000-utilities
-    - windows-2003-utilities
-    - windows-nt4-utilities
-    - windows-xp-utilities
+    - windows-2000_utilities
+    - windows-2003_utilities
+    - windows-nt4_utilities
+    - windows-xp_utilities
 tags:
     - blue-screen-of-death
     - debugging-tools

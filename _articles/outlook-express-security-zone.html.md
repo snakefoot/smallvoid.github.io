@@ -7,7 +7,7 @@ excerpt: 'Changing Outlook Express to open emails in the Restricted Security zon
 type: post
 id: 284
 categories:
-    - email-reader-outlook-express
+    - email-reader_outlook-express
 tags:
     - security-zone
 ---

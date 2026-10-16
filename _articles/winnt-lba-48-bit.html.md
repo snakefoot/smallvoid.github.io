@@ -7,8 +7,8 @@ excerpt: 'Things to be aware of when using a hard disk larger than 137 gigabyte.
 type: post
 id: 398
 categories:
-    - windows-xp-tips
-    - windows-2000-tips
+    - windows-xp_tips
+    - windows-2000_tips
 tags:
     - hard-disk-drive
     - logical-block-addressing

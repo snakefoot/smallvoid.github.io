@@ -7,8 +7,8 @@ excerpt: 'Installing Active Desktop without needing to install Internet Explorer
 type: post
 id: 302
 categories:
-    - windows-nt4-desktop
-    - windows-95-desktop
+    - windows-nt4_desktop
+    - windows-95_desktop
 tags:
     - active-desktop
     - Desktop

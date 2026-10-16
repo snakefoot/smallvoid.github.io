@@ -7,10 +7,10 @@ excerpt: 'How to configure which port number to use for Netbios communcations.'
 type: post
 id: 148
 categories:
-    - windows-nt4-network
-    - windows-xp-network
-    - windows-2000-network
-    - windows-2003-network
+    - windows-nt4_network
+    - windows-xp_network
+    - windows-2000_network
+    - windows-2003_network
 tags:
     - dns
     - microsoft-network

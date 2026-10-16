@@ -7,7 +7,7 @@ excerpt: 'Power toys created by Microsoft to enhance Windows even more.'
 type: post
 id: 122
 categories:
-    - windows-xp-utilities
+    - windows-xp_utilities
 tags:
     - powertoys
 ---

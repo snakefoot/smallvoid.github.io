@@ -7,9 +7,9 @@ excerpt: 'Internet Options can be extended to easily configure other settings in
 type: post
 id: 287
 categories:
-    - web-browser-internet-explorer-ie4
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
+    - web-browser_internet-explorer-ie4
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
 tags:
     - internet-options
 ---

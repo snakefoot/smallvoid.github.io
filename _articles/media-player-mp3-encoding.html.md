@@ -7,7 +7,7 @@ excerpt: 'Configure the bit rate of the predefined quality levels for mp3 encodi
 type: post
 id: 280
 categories:
-    - windows-xp-tips
+    - windows-xp_tips
 tags:
     - media-player
     - mp3

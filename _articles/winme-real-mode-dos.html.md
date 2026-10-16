@@ -7,7 +7,7 @@ excerpt: 'Utilities for modifying the boot files to access real mode DOS in WinM
 type: post
 id: 223
 categories:
-    - windows-me-utilities
+    - windows-me_utilities
 tags:
     - real-mode
     - utility

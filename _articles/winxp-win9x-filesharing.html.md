@@ -7,7 +7,7 @@ excerpt: 'Activating the insecure guest account for easy file sharing.'
 type: post
 id: 149
 categories:
-    - windows-xp-file-sharing
+    - windows-xp_file-sharing
 tags:
     - guest-account
 ---

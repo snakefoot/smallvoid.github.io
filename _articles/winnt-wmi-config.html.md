@@ -7,10 +7,10 @@ excerpt: 'Description of how to repair the Windows Management Instrumentation (W
 type: post
 id: 620
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-xp-troubleshoot
-    - windows-vista-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-xp_troubleshoot
+    - windows-vista_troubleshoot
 tags:
     - wmi
 ---

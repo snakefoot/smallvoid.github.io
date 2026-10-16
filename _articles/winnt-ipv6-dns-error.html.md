@@ -7,9 +7,9 @@ excerpt: 'Before activating TCP/IP Version 6 then one should make sure that the 
 type: post
 id: 435
 categories:
-    - windows-xp-network
-    - windows-2003-network
-    - windows-vista-network
+    - windows-xp_network
+    - windows-2003_network
+    - windows-vista_network
 tags:
     - dns
     - ipv6

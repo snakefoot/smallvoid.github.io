@@ -7,7 +7,7 @@ excerpt: 'Description of the Upper Memory Block (UMB) and how to open access to 
 type: post
 id: 40
 categories:
-    - ms-dos-performance
+    - ms-dos_performance
 tags:
     - conventional-memory
     - emm386

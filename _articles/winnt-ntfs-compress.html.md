@@ -7,8 +7,8 @@ excerpt: 'NTFS compression can compress / decompress files on the fly and save d
 type: post
 id: 767
 categories:
-    - windows-xp-tips
-    - windows-vista-tips
+    - windows-xp_tips
+    - windows-vista_tips
 tags:
     - file-system
     - free-disk-space

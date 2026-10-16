@@ -8,11 +8,11 @@ type: post
 id: 826
 categories:
     - windows-7-win7-tips
-    - windows-2000-performance
-    - windows-2003-performance
-    - windows-nt4-performance
-    - windows-xp-performance
-    - windows-vista-performance
+    - windows-2000_performance
+    - windows-2003_performance
+    - windows-nt4_performance
+    - windows-xp_performance
+    - windows-vista_performance
 tags:
     - cpu
     - dos-emulator

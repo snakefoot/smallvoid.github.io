@@ -7,10 +7,10 @@ excerpt: 'Using access control lists to improve the security for NTFS partitions
 type: post
 id: 150
 categories:
-    - windows-2003-user-security
-    - windows-nt4-user-security
-    - windows-xp-user-security
-    - windows-2000-user-security
+    - windows-2003_user-security
+    - windows-nt4_user-security
+    - windows-xp_user-security
+    - windows-2000_user-security
 tags:
     - access-control-list
     - ntfs

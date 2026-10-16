@@ -7,9 +7,9 @@ excerpt: 'Enabling automatic login so one doesn''t have to type username and pas
 type: post
 id: 214
 categories:
-    - windows-95-network
-    - windows-98-network
-    - windows-me-network
+    - windows-95_network
+    - windows-98_network
+    - windows-me_network
 tags:
     - automatic-login
     - user-account

@@ -7,9 +7,9 @@ excerpt: 'Network connection status can be extended to also show errors besides 
 type: post
 id: 427
 categories:
-    - windows-xp-network
-    - windows-2000-network
-    - windows-2003-network
+    - windows-xp_network
+    - windows-2000_network
+    - windows-2003_network
 tags:
     - lan
     - retransmission

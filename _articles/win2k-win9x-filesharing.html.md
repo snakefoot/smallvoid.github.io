@@ -7,7 +7,7 @@ excerpt: 'Activating the insecure guest account for easy file sharing.'
 type: post
 id: 144
 categories:
-    - windows-2000-file-sharing
+    - windows-2000_file-sharing
 tags:
     - guest-account
     - microsoft-network

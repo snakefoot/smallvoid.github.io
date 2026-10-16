@@ -7,7 +7,7 @@ excerpt: 'When creating a bootable cd then one must provide a boot sector, which
 type: post
 id: 480
 categories:
-    - windows-2000-install-cd
+    - windows-2000_install-cd
 tags:
     - boot-sector
     - slipstream

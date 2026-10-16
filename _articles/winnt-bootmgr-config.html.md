@@ -7,7 +7,7 @@ excerpt: 'Description of the Boot Configuration Data (BCD) used to store the con
 type: post
 id: 755
 categories:
-    - windows-vista-troubleshoot
+    - windows-vista_troubleshoot
 tags:
     - boot-manager
 ---

@@ -7,9 +7,9 @@ excerpt: 'Internet Explorer has the ability to print web-pages and can put a cus
 type: post
 id: 323
 categories:
-    - web-browser-internet-explorer-ie4
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
+    - web-browser_internet-explorer-ie4
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
 tags:
     - footer
     - header

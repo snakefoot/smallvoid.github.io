@@ -7,8 +7,8 @@ excerpt: 'Description of the low disk space warning and how to disable it.'
 type: post
 id: 123
 categories:
-    - windows-98-tips
-    - windows-me-tips
+    - windows-98_tips
+    - windows-me_tips
 tags:
     - hard-disk-drive
 ---

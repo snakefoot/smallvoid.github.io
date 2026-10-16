@@ -7,8 +7,8 @@ excerpt: 'Allow multiple downloads and better AJAX performance by increasing HTT
 type: post
 id: 788
 categories:
-    - web-browser-internet-explorer-ie8
-    - web-browser-internet-explorer-ie9
+    - web-browser_internet-explorer-ie8
+    - web-browser_internet-explorer-ie9
 tags:
     - ajax
     - download

@@ -7,7 +7,7 @@ excerpt: 'How to configure the config.sys and autoexec.bat to use multiple start
 type: post
 id: 56
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - autoexec-bat
     - boot-time

@@ -7,8 +7,8 @@ excerpt: 'Certain applications cannot detect the installed cdrom drives when usi
 type: post
 id: 509
 categories:
-    - windows-2000-utilities
-    - windows-xp-utilities
+    - windows-2000_utilities
+    - windows-xp_utilities
 tags:
     - aspi
     - cdrom-drive

@@ -7,9 +7,9 @@ excerpt: 'Increasing the amount of spare stack pages to handle stack overflow by
 type: post
 id: 171
 categories:
-    - windows-95-troubleshoot
-    - windows-98-troubleshoot
-    - windows-me-troubleshoot
+    - windows-95_troubleshoot
+    - windows-98_troubleshoot
+    - windows-me_troubleshoot
 tags:
     - stack-pages
 ---

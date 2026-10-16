@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Distributed Link Tracking
 type: post
 id: 539
 categories:
-    - windows-2000-services
-    - windows-2003-services
+    - windows-2000_services
+    - windows-2003_services
 tags:
     - link-shortcut
     - link-tracking

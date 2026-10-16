@@ -7,10 +7,10 @@ excerpt: 'When printing a document, then the document is spooled into a temporar
 type: post
 id: 384
 categories:
-    - windows-2003-tips
-    - windows-nt4-tips
-    - windows-xp-tips
-    - windows-2000-tips
+    - windows-2003_tips
+    - windows-nt4_tips
+    - windows-xp_tips
+    - windows-2000_tips
 tags:
     - free-disk-space
     - print-spooler

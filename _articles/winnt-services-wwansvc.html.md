@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the WWAN AutoConfig Service.'
 type: post
 id: 815
 categories:
-    - windows-7-win7-services-guide
+    - windows-7-win7_services-guide
 tags:
     - GSM
     - CDMA

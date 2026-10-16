@@ -7,9 +7,9 @@ excerpt: 'How to increase the size of the page buffer to hold more memory pages 
 type: post
 id: 92
 categories:
-    - windows-95-performance
-    - windows-98-performance
-    - windows-me-performance
+    - windows-95_performance
+    - windows-98_performance
+    - windows-me_performance
 tags:
     - disk-performance
 ---

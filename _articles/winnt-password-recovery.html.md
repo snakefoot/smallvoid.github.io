@@ -7,10 +7,10 @@ excerpt: 'Utilities for offline editing of the password files to change the pass
 type: post
 id: 256
 categories:
-    - windows-2000-utilities
-    - windows-2003-utilities
-    - windows-nt4-utilities
-    - windows-xp-utilities
+    - windows-2000_utilities
+    - windows-2003_utilities
+    - windows-nt4_utilities
+    - windows-xp_utilities
 tags:
     - password
     - password-recovery

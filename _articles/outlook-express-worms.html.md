@@ -7,7 +7,7 @@ excerpt: 'Outlook Express can be used by malicious worms and virus to spread the
 type: post
 id: 330
 categories:
-    - email-reader-outlook-express
+    - email-reader_outlook-express
 tags:
     - virus
     - worms

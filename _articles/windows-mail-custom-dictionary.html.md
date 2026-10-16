@@ -7,7 +7,7 @@ excerpt: 'How to remove a word from the custom dictionary incase it has been spe
 type: post
 id: 644
 categories:
-    - email-reader-windows-mail-vista
+    - email-reader_windows-mail-vista
 tags:
     - dictionary
     - spell-checking

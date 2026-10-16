@@ -7,7 +7,7 @@ excerpt: 'IPv6 network tunnel interfaces makes you open for network attacks, and
 type: post
 id: 5351
 categories:
-    - windows-vista-network
+    - windows-vista_network
     - windows-7-win7-network
 tags:
     - 6to4

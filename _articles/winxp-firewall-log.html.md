@@ -7,7 +7,7 @@ excerpt: 'Windows XP firewall log can be used to monitor those who are trying to
 type: post
 id: 513
 categories:
-    - windows-xp-utilities
+    - windows-xp_utilities
 tags:
     - firewall
     - security

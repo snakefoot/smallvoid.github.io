@@ -7,14 +7,14 @@ excerpt: 'Mount a file folder as a drive-letter, like a shortcut to make it easi
 type: post
 id: 748
 categories:
-    - windows-2003-tips
-    - windows-98-tips
-    - windows-me-tips
-    - windows-nt4-tips
-    - windows-xp-tips
-    - windows-2000-tips
-    - ms-dos-tips
-    - windows-vista-tips
+    - windows-2003_tips
+    - windows-98_tips
+    - windows-me_tips
+    - windows-nt4_tips
+    - windows-xp_tips
+    - windows-2000_tips
+    - ms-dos_tips
+    - windows-vista_tips
 tags:
     - command-line-switches
     - drive-mount

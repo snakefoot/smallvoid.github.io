@@ -7,7 +7,7 @@ excerpt: 'Description of environment variables and how to configure them.'
 type: post
 id: 48
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - batch-file
     - environment-variables

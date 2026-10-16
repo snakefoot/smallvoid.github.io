@@ -7,7 +7,7 @@ excerpt: 'Windows has trouble with determining the size of the second level cach
 type: post
 id: 27
 categories:
-    - windows-nt4-performance
+    - windows-nt4_performance
 tags:
     - cpu
     - cpu-cache

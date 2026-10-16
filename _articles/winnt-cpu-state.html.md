@@ -7,8 +7,8 @@ excerpt: 'Use power management to throttle the processor when idle, and get a co
 type: post
 id: 768
 categories:
-    - windows-xp-performance
-    - windows-vista-performance
+    - windows-xp_performance
+    - windows-vista_performance
 tags:
     - AMD
     - cpu

@@ -7,9 +7,9 @@ excerpt: 'Windows NT hardware abstraction layer can be changed if the motherboar
 type: post
 id: 266
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-xp-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-xp_troubleshoot
 tags:
     - acpi
     - hardware-abstraction-layer

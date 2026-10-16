@@ -7,10 +7,10 @@ excerpt: 'Most Windows applications uses Winsock to perform TCPIP communication,
 type: post
 id: 326
 categories:
-    - windows-nt4-network
-    - windows-xp-network
-    - windows-2000-network
-    - windows-2003-network
+    - windows-nt4_network
+    - windows-xp_network
+    - windows-2000_network
+    - windows-2003_network
 tags:
     - network-performance
     - rwin

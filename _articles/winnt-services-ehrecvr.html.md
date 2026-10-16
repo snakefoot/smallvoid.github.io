@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Windows Media Center Rece
 type: post
 id: 721
 categories:
-    - windows-vista-services
-    - windows-7-win7-services-guide
+    - windows-vista_services
+    - windows-7-win7_services-guide
 tags:
     - media-center
 ---

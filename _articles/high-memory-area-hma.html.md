@@ -7,7 +7,7 @@ excerpt: 'Description of the High Memory Area (HMA), and how to open access to i
 type: post
 id: 39
 categories:
-    - ms-dos-performance
+    - ms-dos_performance
 tags:
     - config-sys
     - high-memory-area

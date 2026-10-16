@@ -7,7 +7,7 @@ excerpt: 'Changing the Max Transfer Unit (MTU) to avoid packet fragmentation and
 type: post
 id: 417
 categories:
-    - windows-nt4-network
+    - windows-nt4_network
 tags:
     - max-transfer-unit
     - tcpip

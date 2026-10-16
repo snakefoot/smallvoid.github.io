@@ -7,9 +7,9 @@ excerpt: 'Utility for creating group policy ADM files from registry files.'
 type: post
 id: 38
 categories:
-    - windows-2000-utilities
-    - windows-2003-utilities
-    - windows-xp-utilities
+    - windows-2000_utilities
+    - windows-2003_utilities
+    - windows-xp_utilities
 tags:
     - group-policy
     - registry

@@ -7,7 +7,7 @@ excerpt: 'Utility for changing the User Agent string for Internet Explorer 7.'
 type: post
 id: 646
 categories:
-    - web-browser-internet-explorer-ie7
+    - web-browser_internet-explorer-ie7
 tags:
     - user-agent
 ---

@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the SPP Notification Service.
 type: post
 id: 810
 categories:
-    - windows-7-win7-services-guide
+    - windows-7-win7_services-guide
 tags: []
 ---
 ##### Description:

@@ -7,13 +7,13 @@ excerpt: 'Windows Explorer allows one to specify what folder to display when lau
 type: post
 id: 273
 categories:
-    - windows-nt4-desktop
-    - windows-xp-desktop
-    - windows-2000-desktop
-    - windows-2003-desktop
-    - windows-95-tips
-    - windows-98-tips
-    - windows-me-tips
+    - windows-nt4_desktop
+    - windows-xp_desktop
+    - windows-2000_desktop
+    - windows-2003_desktop
+    - windows-95_tips
+    - windows-98_tips
+    - windows-me_tips
 tags:
     - command-line-switches
     - windows-explorer

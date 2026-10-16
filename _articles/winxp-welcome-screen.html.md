@@ -7,7 +7,7 @@ excerpt: 'How to enable the Welcome Screen and specify what users to display at 
 type: post
 id: 155
 categories:
-    - windows-xp-user-security
+    - windows-xp_user-security
 tags:
     - welcome-screen
 ---

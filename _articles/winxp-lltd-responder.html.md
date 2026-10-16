@@ -7,7 +7,7 @@ excerpt: 'The LLTD protocol makes it easier to get an overview of the available 
 type: post
 id: 651
 categories:
-    - windows-xp-network
+    - windows-xp_network
 tags:
     - link-layer-topology-discovery
     - lltd

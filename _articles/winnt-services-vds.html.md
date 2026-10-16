@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Virtual Disk service.'
 type: post
 id: 613
 categories:
-    - windows-2003-services
-    - windows-vista-services
-    - windows-7-win7-services-guide
+    - windows-2003_services
+    - windows-vista_services
+    - windows-7-win7_services-guide
 tags: []
 ---
 ##### Description:

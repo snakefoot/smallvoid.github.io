@@ -7,10 +7,10 @@ excerpt: 'How to reset the transaction log for the Distributed Transaction Coord
 type: post
 id: 541
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-xp-troubleshoot
-    - windows-vista-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-xp_troubleshoot
+    - windows-vista_troubleshoot
 tags:
     - msdtc
     - reinstall

@@ -7,7 +7,7 @@ excerpt: 'Enable caching of desktop.ini can improve the speed of browsing custom
 type: post
 id: 405
 categories:
-    - windows-xp-file-sharing
+    - windows-xp_file-sharing
 tags:
     - custom-folders
 ---

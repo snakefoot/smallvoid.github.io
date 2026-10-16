@@ -7,15 +7,15 @@ excerpt: 'Computer cannot start if no proper boot device exists, or if the activ
 type: post
 id: 752
 categories:
-    - ms-dos-tips
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-95-troubleshoot
-    - windows-98-troubleshoot
-    - windows-me-troubleshoot
-    - windows-nt4-troubleshoot
-    - windows-xp-troubleshoot
-    - windows-vista-troubleshoot
+    - ms-dos_tips
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-95_troubleshoot
+    - windows-98_troubleshoot
+    - windows-me_troubleshoot
+    - windows-nt4_troubleshoot
+    - windows-xp_troubleshoot
+    - windows-vista_troubleshoot
 tags:
     - boot-manager
     - hard-disk-drive

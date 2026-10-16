@@ -7,10 +7,10 @@ excerpt: 'Description of the registry keys used for configuring the TCP/IP stack
 type: post
 id: 416
 categories:
-    - windows-nt4-network
-    - windows-xp-network
-    - windows-2000-network
-    - windows-2003-network
+    - windows-nt4_network
+    - windows-xp_network
+    - windows-2000_network
+    - windows-2003_network
 tags:
     - lan
     - max-transfer-unit

@@ -7,7 +7,7 @@ excerpt: 'How to configure Himem.sys so it will not perform memory testing.'
 type: post
 id: 45
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - himem-sys
     - memory-testing

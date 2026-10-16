@@ -7,7 +7,7 @@ excerpt: 'Registry settings for changing the user interface of Internet Explorer
 type: post
 id: 196
 categories:
-    - web-browser-internet-explorer-ie7
+    - web-browser_internet-explorer-ie7
 tags:
     - command-bar
     - menu-bar

@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the BranchCache Service.'
 type: post
 id: 798
 categories:
-    - windows-7-win7-services-guide
-    - windows-8-win8-services-guide
+    - windows-7-win7_services-guide
+    - windows-8-win8_services-guide
 tags:
     - branchcache
 ---

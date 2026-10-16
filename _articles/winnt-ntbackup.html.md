@@ -7,9 +7,9 @@ excerpt: 'Increase the size of the buffers used by NtBackup to perform faster ba
 type: post
 id: 253
 categories:
-    - windows-2003-tips
-    - windows-xp-tips
-    - windows-2000-tips
+    - windows-2003_tips
+    - windows-xp_tips
+    - windows-2000_tips
 tags:
     - ntbackup
 ---

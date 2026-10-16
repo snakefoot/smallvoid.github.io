@@ -7,8 +7,8 @@ excerpt: 'Microsoft Windows can speed up the launch of application by prefetchin
 type: post
 id: 366
 categories:
-    - windows-2003-performance
-    - windows-xp-performance
+    - windows-2003_performance
+    - windows-xp_performance
 tags:
     - defrag
     - logical-prefetcher

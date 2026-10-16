@@ -7,8 +7,8 @@ excerpt: 'Keep the screensaver from starting when doing file defragmentation.'
 type: post
 id: 161
 categories:
-    - windows-98-tips
-    - windows-me-tips
+    - windows-98_tips
+    - windows-me_tips
 tags:
     - defrag
     - screensaver

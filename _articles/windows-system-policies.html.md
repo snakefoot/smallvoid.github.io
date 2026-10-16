@@ -7,11 +7,11 @@ excerpt: 'System Policies are useful when wanting to enforce a certain configura
 type: post
 id: 310
 categories:
-    - windows-95-network
-    - windows-98-network
-    - windows-me-network
-    - windows-nt4-network
-    - windows-2000-network
+    - windows-95_network
+    - windows-98_network
+    - windows-me_network
+    - windows-nt4_network
+    - windows-2000_network
 tags:
     - system-policies
     - windows-domain

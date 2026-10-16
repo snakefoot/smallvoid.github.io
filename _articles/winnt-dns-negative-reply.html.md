@@ -7,9 +7,9 @@ excerpt: 'By not caching negative DNS lookups then one will quickly recover in c
 type: post
 id: 433
 categories:
-    - windows-xp-network
-    - windows-2000-network
-    - windows-2003-network
+    - windows-xp_network
+    - windows-2000_network
+    - windows-2003_network
 tags:
     - address-resolution-protocol
     - dns

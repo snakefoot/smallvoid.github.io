@@ -7,7 +7,7 @@ excerpt: 'Improve the performance of high speed I/O devices by allowing them to 
 type: post
 id: 28
 categories:
-    - windows-nt4-performance
+    - windows-nt4_performance
 tags: []
 ---
 There is a limit for how much memory the system can lock for I/O (Input/Output) operations. Increasing the limit might benefit applications or drivers, which are highly dependent on highspeed network or harddisk access, as it will allow a larger amount of outstanding I/O.  

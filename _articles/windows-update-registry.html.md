@@ -7,13 +7,13 @@ excerpt: 'How to add and remove registry entries from the Windows registry using
 type: post
 id: 241
 categories:
-    - windows-2003-tips
-    - windows-95-tips
-    - windows-98-tips
-    - windows-me-tips
-    - windows-nt4-tips
-    - windows-xp-tips
-    - windows-2000-tips
+    - windows-2003_tips
+    - windows-95_tips
+    - windows-98_tips
+    - windows-me_tips
+    - windows-nt4_tips
+    - windows-xp_tips
+    - windows-2000_tips
 tags:
     - regedit
     - registry

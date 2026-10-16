@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Universal Plug and Play D
 type: post
 id: 610
 categories:
-    - windows-xp-services
-    - windows-vista-services
-    - windows-7-win7-services-guide
+    - windows-xp_services
+    - windows-vista_services
+    - windows-7-win7_services-guide
 tags: []
 ---
 ##### Description:

@@ -7,7 +7,7 @@ excerpt: 'Different Microsoft articles telling how to setup a mail-server, news-
 type: post
 id: 428
 categories:
-    - windows-2000-network
+    - windows-2000_network
 tags:
     - ftp
     - ftp-server

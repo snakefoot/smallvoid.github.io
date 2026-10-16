@@ -7,7 +7,7 @@ excerpt: 'By changing the license on the install cd, then one don''t have to sup
 type: post
 id: 485
 categories:
-    - windows-2000-install-cd
+    - windows-2000_install-cd
 tags:
     - cd-key
 ---

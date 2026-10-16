@@ -7,10 +7,10 @@ excerpt: 'Description and recommended settings for the Terminal Services service
 type: post
 id: 605
 categories:
-    - windows-2000-services
-    - windows-2003-services
-    - windows-xp-services
-    - windows-vista-services
+    - windows-2000_services
+    - windows-2003_services
+    - windows-xp_services
+    - windows-vista_services
 tags:
     - fast-user-switching
     - remote-assistance

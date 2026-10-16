@@ -7,10 +7,10 @@ excerpt: 'Prevent the Windows kernel core from being paged to disk.'
 type: post
 id: 369
 categories:
-    - windows-2000-performance
-    - windows-2003-performance
-    - windows-nt4-performance
-    - windows-xp-performance
+    - windows-2000_performance
+    - windows-2003_performance
+    - windows-nt4_performance
+    - windows-xp_performance
 tags:
     - kernel
     - page-file

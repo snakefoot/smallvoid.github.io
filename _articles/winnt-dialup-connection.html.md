@@ -7,8 +7,8 @@ excerpt: 'Make dialup modem faster at etablishing a connection and with better c
 type: post
 id: 423
 categories:
-    - windows-xp-network
-    - windows-2000-network
+    - windows-xp_network
+    - windows-2000_network
 tags:
     - dialup-modem
     - flow-control

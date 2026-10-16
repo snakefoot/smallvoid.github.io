@@ -7,7 +7,7 @@ excerpt: 'XPInfo was developed in the proces of trying to discover how Windows P
 type: post
 id: 498
 categories:
-    - windows-xp-utilities
+    - windows-xp_utilities
 tags:
     - windows-product-activation
 ---

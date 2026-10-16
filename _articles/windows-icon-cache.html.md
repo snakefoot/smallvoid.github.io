@@ -7,14 +7,14 @@ excerpt: 'The icon cache can become corrupted and lead to icons being garbled.'
 type: post
 id: 285
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-95-troubleshoot
-    - windows-98-troubleshoot
-    - windows-me-troubleshoot
-    - windows-nt4-troubleshoot
-    - windows-xp-troubleshoot
-    - windows-vista-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-95_troubleshoot
+    - windows-98_troubleshoot
+    - windows-me_troubleshoot
+    - windows-nt4_troubleshoot
+    - windows-xp_troubleshoot
+    - windows-vista_troubleshoot
 tags:
     - icon-cache
     - icons

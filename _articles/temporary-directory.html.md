@@ -7,7 +7,7 @@ excerpt: 'Description of the temporary directory, and how to change the location
 type: post
 id: 50
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - environment-variables
     - free-disk-space

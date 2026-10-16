@@ -7,7 +7,7 @@ excerpt: 'Description of how a disk cache will help HDD performance, and how to 
 type: post
 id: 44
 categories:
-    - ms-dos-performance
+    - ms-dos_performance
 tags:
     - autoexec-bat
     - disk-performance

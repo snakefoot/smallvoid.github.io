@@ -7,10 +7,10 @@ excerpt: 'Control what should happen when a shortcut is detected as being broken
 type: post
 id: 32
 categories:
-    - windows-2000-performance
-    - windows-2003-performance
-    - windows-nt4-performance
-    - windows-xp-performance
+    - windows-2000_performance
+    - windows-2003_performance
+    - windows-nt4_performance
+    - windows-xp_performance
 tags:
     - link-shortcut
     - link-tracking

@@ -7,7 +7,7 @@ excerpt: 'Mounts NTFS partitions in DOS, so one can access the files.'
 type: post
 id: 77
 categories:
-    - ms-dos-utilities
+    - ms-dos_utilities
 tags:
     - bootdisk
     - drive-mount

@@ -7,7 +7,7 @@ excerpt: 'Description of the options available for styling the DOS prompt.'
 type: post
 id: 49
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - visual-style
 ---

@@ -7,10 +7,10 @@ excerpt: 'Execute commands when opening the command prompt to configure the comm
 type: post
 id: 461
 categories:
-    - windows-nt4-command-prompt
-    - windows-xp-command-prompt
-    - windows-2000-command-prompt
-    - windows-2003-command-prompt
+    - windows-nt4_command-prompt
+    - windows-xp_command-prompt
+    - windows-2000_command-prompt
+    - windows-2003_command-prompt
 tags:
     - autorun
 ---

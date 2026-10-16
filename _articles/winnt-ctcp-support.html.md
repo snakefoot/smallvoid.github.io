@@ -7,8 +7,8 @@ excerpt: 'Compound TCP (CTCP) can improve the throughput for high bandwidth and 
 type: post
 id: 789
 categories:
-    - windows-2003-network
-    - windows-vista-network
+    - windows-2003_network
+    - windows-vista_network
     - windows-7-win7-network
 tags:
     - netsh

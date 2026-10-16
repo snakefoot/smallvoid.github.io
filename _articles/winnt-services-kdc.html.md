@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Keberos Key Distribution 
 type: post
 id: 557
 categories:
-    - windows-2000-services
-    - windows-2003-services
+    - windows-2000_services
+    - windows-2003_services
 tags: []
 ---
 ##### Description:

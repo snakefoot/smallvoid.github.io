@@ -7,9 +7,9 @@ excerpt: 'Windows XP SP2 includes the ability to mark files downloaded from the 
 type: post
 id: 291
 categories:
-    - web-browser-internet-explorer-ie6
-    - web-browser-internet-explorer-ie7
-    - windows-xp-tips
+    - web-browser_internet-explorer-ie6
+    - web-browser_internet-explorer-ie7
+    - windows-xp_tips
 tags:
     - alternative-data-stream
     - attachment-execution-services

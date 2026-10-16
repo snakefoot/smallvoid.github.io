@@ -7,7 +7,7 @@ excerpt: 'Starting Outlook in safemode can be useful when troubleshooting Outloo
 type: post
 id: 336
 categories:
-    - email-reader-outlook
+    - email-reader_outlook
 tags:
     - command-line-switches
     - safemode

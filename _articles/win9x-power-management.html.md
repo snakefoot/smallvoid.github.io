@@ -7,9 +7,9 @@ excerpt: 'Power Management support is not supported very well by Windows 9x and 
 type: post
 id: 99
 categories:
-    - windows-95-performance
-    - windows-98-performance
-    - windows-me-performance
+    - windows-95_performance
+    - windows-98_performance
+    - windows-me_performance
 tags:
     - power-management
 ---

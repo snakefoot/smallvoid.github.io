@@ -7,10 +7,10 @@ excerpt: 'How to prevent access for anonymous to see available shares and user a
 type: post
 id: 145
 categories:
-    - windows-2003-user-security
-    - windows-nt4-user-security
-    - windows-xp-user-security
-    - windows-2000-user-security
+    - windows-2003_user-security
+    - windows-nt4_user-security
+    - windows-xp_user-security
+    - windows-2000_user-security
 tags:
     - anonymous-access
     - guest-account

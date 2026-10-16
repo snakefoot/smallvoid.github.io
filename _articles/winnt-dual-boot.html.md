@@ -7,10 +7,10 @@ excerpt: 'Dual booting several versions of Windows can be useful if running soft
 type: post
 id: 464
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-nt4-troubleshoot
-    - windows-xp-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-nt4_troubleshoot
+    - windows-xp_troubleshoot
 tags:
     - boot-manager
     - dual-boot

@@ -7,7 +7,7 @@ excerpt: 'Internet Explorer powertoys adds additional useful features for viewin
 type: post
 id: 352
 categories:
-    - web-browser-internet-explorer-ie4
+    - web-browser_internet-explorer-ie4
 tags:
     - powertoys
 ---

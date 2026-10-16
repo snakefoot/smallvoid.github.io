@@ -7,7 +7,7 @@ excerpt: 'Outlook can be minimized to the system tray so it will not be filling 
 type: post
 id: 333
 categories:
-    - email-reader-outlook
+    - email-reader_outlook
 tags:
     - system-tray
 ---

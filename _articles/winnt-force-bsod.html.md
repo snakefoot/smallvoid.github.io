@@ -7,9 +7,9 @@ excerpt: 'Using a special keyboard shortcut to create a blue screen of death wit
 type: post
 id: 388
 categories:
-    - windows-2003-tips
-    - windows-xp-tips
-    - windows-2000-tips
+    - windows-2003_tips
+    - windows-xp_tips
+    - windows-2000_tips
 tags:
     - blue-screen-of-death
     - keyboard

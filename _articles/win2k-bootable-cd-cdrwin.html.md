@@ -7,7 +7,7 @@ excerpt: 'Using CDRWIN to make a bootable install cd for Windows 2000.'
 type: post
 id: 481
 categories:
-    - windows-2000-install-cd
+    - windows-2000_install-cd
 tags:
     - bootdisk
 ---

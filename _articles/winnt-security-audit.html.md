@@ -7,7 +7,7 @@ excerpt: 'Audit policies can be created to record unsuccessful logon attempts in
 type: post
 id: 437
 categories:
-    - windows-2000-user-security
+    - windows-2000_user-security
 tags:
     - event-log
     - user-account

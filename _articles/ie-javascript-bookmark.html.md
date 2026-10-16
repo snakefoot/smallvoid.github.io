@@ -7,9 +7,9 @@ excerpt: 'Special javascript bookmarks makes it possible to execute scripts on t
 type: post
 id: 314
 categories:
-    - web-browser-internet-explorer-ie4
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
+    - web-browser_internet-explorer-ie4
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
 tags:
     - favorites
     - java-script

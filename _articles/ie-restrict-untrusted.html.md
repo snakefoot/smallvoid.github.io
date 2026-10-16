@@ -7,9 +7,9 @@ excerpt: 'Internet Explorer can be locked down so only trusted websites can acti
 type: post
 id: 283
 categories:
-    - web-browser-internet-explorer-ie4
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
+    - web-browser_internet-explorer-ie4
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
 tags:
     - activex
     - cookies

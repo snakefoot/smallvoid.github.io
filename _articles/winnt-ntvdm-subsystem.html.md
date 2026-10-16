@@ -8,11 +8,11 @@ type: post
 id: 825
 categories:
     - windows-7-win7-tips
-    - windows-2003-user-security
-    - windows-nt4-user-security
-    - windows-xp-user-security
-    - windows-2000-user-security
-    - windows-vista-user-security
+    - windows-2003_user-security
+    - windows-nt4_user-security
+    - windows-xp_user-security
+    - windows-2000_user-security
+    - windows-vista_user-security
 tags:
     - dos-emulator
     - subsystem

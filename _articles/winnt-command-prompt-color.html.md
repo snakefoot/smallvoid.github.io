@@ -7,10 +7,10 @@ excerpt: 'How to change the text color and background color in the command promp
 type: post
 id: 24
 categories:
-    - windows-nt4-command-prompt
-    - windows-xp-command-prompt
-    - windows-2000-command-prompt
-    - windows-2003-command-prompt
+    - windows-nt4_command-prompt
+    - windows-xp_command-prompt
+    - windows-2000_command-prompt
+    - windows-2003_command-prompt
 tags:
     - visual-style
 ---

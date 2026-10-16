@@ -7,7 +7,7 @@ excerpt: 'Schtasks.exe from Windows XP that have been modified so it can be used
 type: post
 id: 507
 categories:
-    - windows-2000-utilities
+    - windows-2000_utilities
 tags:
     - scheduled-task
     - task-scheduler

@@ -7,10 +7,10 @@ excerpt: 'List of the available command line switches for scandisk.'
 type: post
 id: 128
 categories:
-    - windows-95-tips
-    - windows-98-tips
-    - windows-me-tips
-    - ms-dos-tips
+    - windows-95_tips
+    - windows-98_tips
+    - windows-me_tips
+    - ms-dos_tips
 tags:
     - command-line-switches
     - scandisk

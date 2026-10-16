@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Smart Card Removal Policy
 type: post
 id: 700
 categories:
-    - windows-vista-services
-    - windows-7-win7-services-guide
+    - windows-vista_services
+    - windows-7-win7_services-guide
 tags:
     - smart-card
 ---

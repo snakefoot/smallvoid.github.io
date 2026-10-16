@@ -7,8 +7,8 @@ excerpt: 'Change whether the file search assistant should look through only regi
 type: post
 id: 407
 categories:
-    - windows-xp-desktop
-    - windows-2003-desktop
+    - windows-xp_desktop
+    - windows-2003_desktop
 tags:
     - file-search
     - indexing-service

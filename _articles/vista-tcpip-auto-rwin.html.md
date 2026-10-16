@@ -7,7 +7,7 @@ excerpt: 'Not all network routers supports the tcpip receive window scaling flag
 type: post
 id: 436
 categories:
-    - windows-vista-network
+    - windows-vista_network
     - windows-7-win7-network
 tags:
     - lan

@@ -7,9 +7,9 @@ excerpt: 'How to configure the size of the Temporary Internet Files cache.'
 type: post
 id: 132
 categories:
-    - web-browser-internet-explorer-ie4
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
+    - web-browser_internet-explorer-ie4
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
 tags:
     - cache
     - free-disk-space

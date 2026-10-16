@@ -7,7 +7,7 @@ excerpt: 'How to increase the number of icons displayed for "Your most popular s
 type: post
 id: 836
 categories:
-    - web-browser-internet-explorer-ie9
+    - web-browser_internet-explorer-ie9
 tags:
     - browsing-session
     - tab-session

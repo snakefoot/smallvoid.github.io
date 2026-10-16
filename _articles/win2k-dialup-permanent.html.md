@@ -7,7 +7,7 @@ excerpt: 'How to use the dialup modem when turning it on after Windows startup.'
 type: post
 id: 424
 categories:
-    - windows-2000-network
+    - windows-2000_network
 tags:
     - dialup-modem
 ---

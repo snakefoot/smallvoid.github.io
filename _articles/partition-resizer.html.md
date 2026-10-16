@@ -7,7 +7,7 @@ excerpt: 'Change the size of the existing partitions without needing to reformat
 type: post
 id: 84
 categories:
-    - ms-dos-utilities
+    - ms-dos_utilities
 tags:
     - fat16
     - fat32

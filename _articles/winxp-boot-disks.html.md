@@ -7,7 +7,7 @@ excerpt: 'Using floppy disks to perform the install of Windows XP.'
 type: post
 id: 497
 categories:
-    - windows-xp-utilities
+    - windows-xp_utilities
 tags:
     - bootdisk
     - cdrom-drive

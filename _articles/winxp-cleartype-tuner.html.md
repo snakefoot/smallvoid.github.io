@@ -7,7 +7,7 @@ excerpt: 'ClearType font smoothing can improve how text is displayed in Windows 
 type: post
 id: 505
 categories:
-    - windows-xp-utilities
+    - windows-xp_utilities
 tags:
     - cleartype
     - font

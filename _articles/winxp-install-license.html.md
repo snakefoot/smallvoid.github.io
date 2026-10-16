@@ -7,7 +7,7 @@ excerpt: 'Change the install license by updating the install files for Windows X
 type: post
 id: 486
 categories:
-    - windows-xp-install-cd
+    - windows-xp_install-cd
 tags: []
 ---
 There are 3 types of licenses :

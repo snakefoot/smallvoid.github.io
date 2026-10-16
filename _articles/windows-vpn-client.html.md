@@ -7,9 +7,9 @@ excerpt: 'VPN client to create a secure network connection to any server support
 type: post
 id: 358
 categories:
-    - windows-98-network
-    - windows-me-network
-    - windows-nt4-network
+    - windows-98_network
+    - windows-me_network
+    - windows-nt4_network
 tags:
     - ipsec
     - l2tp

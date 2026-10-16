@@ -7,13 +7,13 @@ excerpt: 'Use Windows Explorer to browse a remote internet server by adding it a
 type: post
 id: 739
 categories:
-    - windows-98-network
-    - windows-me-network
-    - windows-nt4-network
-    - windows-xp-network
-    - windows-2000-network
-    - windows-2003-network
-    - windows-vista-network
+    - windows-98_network
+    - windows-me_network
+    - windows-nt4_network
+    - windows-xp_network
+    - windows-2000_network
+    - windows-2003_network
+    - windows-vista_network
 tags:
     - ftp
     - ftp-client

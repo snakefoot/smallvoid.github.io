@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Terminal Services UserMod
 type: post
 id: 706
 categories:
-    - windows-vista-services
+    - windows-vista_services
 tags:
     - remote-desktop
 tags:

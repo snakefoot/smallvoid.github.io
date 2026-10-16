@@ -7,12 +7,12 @@ excerpt: 'Description and recommended settings for the Secondary Logon service.'
 type: post
 id: 588
 categories:
-    - windows-2000-services
-    - windows-2003-services
-    - windows-xp-services
-    - windows-vista-services
-    - windows-7-win7-services-guide
-    - windows-8-win8-services-guide
+    - windows-2000_services
+    - windows-2003_services
+    - windows-xp_services
+    - windows-vista_services
+    - windows-7-win7_services-guide
+    - windows-8-win8_services-guide
 tags:
     - runas
 ---

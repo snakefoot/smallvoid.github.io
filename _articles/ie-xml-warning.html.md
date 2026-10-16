@@ -7,9 +7,9 @@ excerpt: 'Internet Explorer is restricted to not run scripts when viewing local 
 type: post
 id: 324
 categories:
-    - web-browser-internet-explorer-ie6
-    - web-browser-internet-explorer-ie7
-    - web-browser-internet-explorer-ie8
+    - web-browser_internet-explorer-ie6
+    - web-browser_internet-explorer-ie7
+    - web-browser_internet-explorer-ie8
 tags:
     - security-zone
     - trusted-sites

@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the WLAN AutoConfig service.'
 type: post
 id: 730
 categories:
-    - windows-vista-services
-    - windows-7-win7-services-guide
+    - windows-vista_services
+    - windows-7-win7_services-guide
 tags:
     - wifi
     - wireless-network

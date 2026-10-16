@@ -7,7 +7,7 @@ excerpt: 'How to backup the state of having performed Windows Product Activation
 type: post
 id: 394
 categories:
-    - windows-xp-troubleshoot
+    - windows-xp_troubleshoot
 tags:
     - windows-product-activation
 ---

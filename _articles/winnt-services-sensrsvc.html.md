@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Adaptive Brightness servi
 type: post
 id: 794
 categories:
-    - windows-7-win7-services-guide
+    - windows-7-win7_services-guide
 tags:
     - power-management
 ---

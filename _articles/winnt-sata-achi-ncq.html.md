@@ -8,7 +8,7 @@ type: post
 id: 824
 categories:
     - windows-7-win7-tips
-    - windows-vista-performance
+    - windows-vista_performance
 tags:
     - disk-performance
     - hard-disk-drive

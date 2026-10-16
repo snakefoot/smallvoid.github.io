@@ -7,7 +7,7 @@ excerpt: 'How to create a batch file that works like a dir command but only list
 type: post
 id: 54
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - batch-file
 ---

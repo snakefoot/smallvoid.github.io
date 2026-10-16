@@ -7,7 +7,7 @@ excerpt: 'How to use environment variables to detect that a batch file is execut
 type: post
 id: 47
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - batch-file
 ---

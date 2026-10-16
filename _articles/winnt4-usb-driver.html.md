@@ -7,7 +7,7 @@ excerpt: 'Open access to USB devices in Windows NT4 by installing these USB driv
 type: post
 id: 491
 categories:
-    - windows-nt4-utilities
+    - windows-nt4_utilities
 tags:
     - removable-storage-devices
     - usb

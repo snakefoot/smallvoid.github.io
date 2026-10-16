@@ -7,7 +7,7 @@ excerpt: 'System File Protection makes sure that critical system files are not o
 type: post
 id: 178
 categories:
-    - windows-me-troubleshoot
+    - windows-me_troubleshoot
 tags:
     - system-file-protection
 ---

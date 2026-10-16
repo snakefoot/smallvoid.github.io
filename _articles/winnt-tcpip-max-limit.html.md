@@ -7,10 +7,10 @@ excerpt: 'Windows is configured by default to handle 1000 to 2000 concurrent tcp
 type: post
 id: 434
 categories:
-    - windows-nt4-network
-    - windows-xp-network
-    - windows-2000-network
-    - windows-2003-network
+    - windows-nt4_network
+    - windows-xp_network
+    - windows-2000_network
+    - windows-2003_network
 tags:
     - crippled
     - ephemeral

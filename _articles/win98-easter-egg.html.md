@@ -7,7 +7,7 @@ excerpt: 'Easter egg that allows one to see the names of those behind Windows 98
 type: post
 id: 167
 categories:
-    - windows-98-tips
+    - windows-98_tips
 tags:
     - easter-egg
 ---

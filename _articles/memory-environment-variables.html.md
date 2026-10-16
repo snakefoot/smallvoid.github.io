@@ -7,7 +7,7 @@ excerpt: 'How to increase the memory available for environment variables at the 
 type: post
 id: 57
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - conventional-memory
     - environment-variables

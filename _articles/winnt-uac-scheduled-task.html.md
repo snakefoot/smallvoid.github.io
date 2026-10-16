@@ -7,7 +7,7 @@ excerpt: 'Launch application with administrator rights without the User Account 
 type: post
 id: 774
 categories:
-    - windows-vista-user-security
+    - windows-vista_user-security
 tags:
     - scheduled-task
     - user-account-control

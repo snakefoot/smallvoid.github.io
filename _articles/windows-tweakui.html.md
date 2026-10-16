@@ -7,11 +7,11 @@ excerpt: 'Microsoft powertoy for changing hidden settings in Microsoft Windows.'
 type: post
 id: 351
 categories:
-    - windows-2000-utilities
-    - windows-95-utilities
-    - windows-98-utilities
-    - windows-me-utilities
-    - windows-nt4-utilities
+    - windows-2000_utilities
+    - windows-95_utilities
+    - windows-98_utilities
+    - windows-me_utilities
+    - windows-nt4_utilities
 tags:
     - powertoys
     - tweak-ui

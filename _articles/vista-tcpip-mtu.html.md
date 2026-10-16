@@ -7,7 +7,7 @@ excerpt: 'Changing the Max Transfer Unit (MTU) to avoid packet fragmentation and
 type: post
 id: 656
 categories:
-    - windows-vista-network
+    - windows-vista_network
     - windows-7-win7-network
 tags:
     - max-transfer-unit

@@ -7,7 +7,7 @@ excerpt: 'Display popup when System File Protection in Windows Me is activated.'
 type: post
 id: 174
 categories:
-    - windows-me-troubleshoot
+    - windows-me_troubleshoot
 tags:
     - system-file-protection
 ---

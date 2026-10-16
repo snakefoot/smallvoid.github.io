@@ -7,7 +7,7 @@ excerpt: 'Very good Norton Commander (NC) clone, which is perfect for a boot dis
 type: post
 id: 76
 categories:
-    - ms-dos-utilities
+    - ms-dos_utilities
 tags:
     - file-manager
     - long-filenames

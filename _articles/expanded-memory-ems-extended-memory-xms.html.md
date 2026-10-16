@@ -7,7 +7,7 @@ excerpt: 'Description of the Expanded Memory Specification (EMS) and how to use 
 type: post
 id: 41
 categories:
-    - ms-dos-performance
+    - ms-dos_performance
 tags:
     - config-sys
     - emm386

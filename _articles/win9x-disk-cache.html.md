@@ -7,9 +7,9 @@ excerpt: 'How to configure the disk cache for faster file operations.'
 type: post
 id: 89
 categories:
-    - windows-95-performance
-    - windows-98-performance
-    - windows-me-performance
+    - windows-95_performance
+    - windows-98_performance
+    - windows-me_performance
 tags:
     - disk-performance
     - file-cache

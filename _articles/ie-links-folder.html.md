@@ -7,9 +7,9 @@ excerpt: 'Deleting the Links folder from the Internet Explorer bookmarks.'
 type: post
 id: 320
 categories:
-    - web-browser-internet-explorer-ie4
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
+    - web-browser_internet-explorer-ie4
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
 tags:
     - favorites
 ---

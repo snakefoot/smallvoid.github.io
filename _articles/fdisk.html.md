@@ -7,7 +7,7 @@ excerpt: 'Disk partitioning utility which is able handle hard disks larger than 
 type: post
 id: 81
 categories:
-    - ms-dos-utilities
+    - ms-dos_utilities
 tags:
     - fdisk
     - format

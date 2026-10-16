@@ -7,9 +7,9 @@ excerpt: 'Shortcuts to network shares visited will automatically be added to My 
 type: post
 id: 412
 categories:
-    - windows-xp-desktop
-    - windows-2000-desktop
-    - windows-2003-desktop
+    - windows-xp_desktop
+    - windows-2000_desktop
+    - windows-2003_desktop
 tags:
     - network-places
 ---

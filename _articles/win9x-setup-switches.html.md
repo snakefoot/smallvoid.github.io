@@ -7,9 +7,9 @@ excerpt: 'Useful command line switches that can be used when installing Windows 
 type: post
 id: 173
 categories:
-    - windows-95-troubleshoot
-    - windows-98-troubleshoot
-    - windows-me-troubleshoot
+    - windows-95_troubleshoot
+    - windows-98_troubleshoot
+    - windows-me_troubleshoot
 tags:
     - command-line-switches
 ---

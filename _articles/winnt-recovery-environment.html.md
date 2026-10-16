@@ -7,7 +7,7 @@ excerpt: 'Windows Vista includes a Windows Preinstallation Environment, which al
 type: post
 id: 753
 categories:
-    - windows-vista-troubleshoot
+    - windows-vista_troubleshoot
 tags:
     - preinstallation-environment
     - system-recovery

@@ -7,8 +7,8 @@ excerpt: 'Configure Windows Search index filters to perform indexing of document
 type: post
 id: 785
 categories:
-    - windows-xp-tips
-    - windows-vista-tips
+    - windows-xp_tips
+    - windows-vista_tips
 tags:
     - file-search
     - indexing-service

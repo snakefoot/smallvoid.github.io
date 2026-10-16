@@ -7,7 +7,7 @@ excerpt: 'Hidden Control Panel applet that includes more options for account man
 type: post
 id: 153
 categories:
-    - windows-xp-user-security
+    - windows-xp_user-security
 tags:
     - crippled
     - user-account

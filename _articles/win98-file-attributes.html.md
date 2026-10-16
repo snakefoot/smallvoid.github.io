@@ -7,7 +7,7 @@ excerpt: 'Display the file attributes in the detail view of Windows Explorer for
 type: post
 id: 168
 categories:
-    - windows-98-desktop
+    - windows-98_desktop
 tags:
     - windows-explorer
 ---

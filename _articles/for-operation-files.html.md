@@ -7,7 +7,7 @@ excerpt: 'How to use the FOR keyword to perform an operation on a collection of 
 type: post
 id: 70
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - batch-file
 ---

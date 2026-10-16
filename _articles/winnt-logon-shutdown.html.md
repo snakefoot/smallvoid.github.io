@@ -7,10 +7,10 @@ excerpt: 'Extend the login dialog with the option to shutdown the computer witho
 type: post
 id: 457
 categories:
-    - windows-2003-user-security
-    - windows-nt4-user-security
-    - windows-xp-user-security
-    - windows-2000-user-security
+    - windows-2003_user-security
+    - windows-nt4_user-security
+    - windows-xp_user-security
+    - windows-2000_user-security
 tags:
     - windows-login
 ---

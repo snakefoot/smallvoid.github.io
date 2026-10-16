@@ -7,7 +7,7 @@ excerpt: 'How to use the FOR keyword in a batch file to search all available par
 type: post
 id: 71
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - batch-file
     - file-search

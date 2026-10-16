@@ -7,9 +7,9 @@ excerpt: 'Windows XP SP2 extends the Internet Explorer with a popup blocking fea
 type: post
 id: 322
 categories:
-    - web-browser-internet-explorer-ie6
-    - web-browser-internet-explorer-ie7
-    - web-browser-internet-explorer-ie8
+    - web-browser_internet-explorer-ie6
+    - web-browser_internet-explorer-ie7
+    - web-browser_internet-explorer-ie8
 tags:
     - popup-blocking
     - popups

@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Storage Service.'
 type: post
 id: 811
 categories:
-    - windows-7-win7-services-guide
+    - windows-7-win7_services-guide
 tags:
     - group-policy
     - removable-storage-devices

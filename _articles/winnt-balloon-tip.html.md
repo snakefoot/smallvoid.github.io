@@ -7,8 +7,8 @@ excerpt: 'Configure what balloon tips Windows should display above the system tr
 type: post
 id: 403
 categories:
-    - windows-xp-desktop
-    - windows-2003-desktop
+    - windows-xp_desktop
+    - windows-2003_desktop
 tags:
     - balloon-tip
 ---

@@ -7,9 +7,9 @@ excerpt: 'How to configure the location of WMI logs and how verbose the logs sho
 type: post
 id: 376
 categories:
-    - windows-2000-performance
-    - windows-2003-performance
-    - windows-xp-performance
+    - windows-2000_performance
+    - windows-2003_performance
+    - windows-xp_performance
 tags:
     - cimon
     - wbem

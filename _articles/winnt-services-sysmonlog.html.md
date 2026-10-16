@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Performance Logs and Aler
 type: post
 id: 571
 categories:
-    - windows-2000-services
-    - windows-2003-services
-    - windows-xp-services
+    - windows-2000_services
+    - windows-2003_services
+    - windows-xp_services
 tags:
     - performance-counters
     - performance-monitor

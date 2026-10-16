@@ -7,7 +7,7 @@ excerpt: 'How to exclude a file so System Restore doesn''t monitor the file or p
 type: post
 id: 108
 categories:
-    - windows-me-troubleshoot
+    - windows-me_troubleshoot
 tags:
     - system-restore
 ---

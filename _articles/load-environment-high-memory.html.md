@@ -7,7 +7,7 @@ excerpt: 'Load DOS environment in the upper memory block to free conventional me
 type: post
 id: 42
 categories:
-    - ms-dos-performance
+    - ms-dos_performance
 tags:
     - config-sys
     - conventional-memory

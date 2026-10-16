@@ -7,9 +7,9 @@ excerpt: 'VMM32.VXD is an archive of VXD files, and some have reported improved 
 type: post
 id: 96
 categories:
-    - windows-95-performance
-    - windows-98-performance
-    - windows-me-performance
+    - windows-95_performance
+    - windows-98_performance
+    - windows-me_performance
 tags:
     - conventional-memory
     - upper-memory-block

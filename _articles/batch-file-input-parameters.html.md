@@ -7,7 +7,7 @@ excerpt: 'How batch files gets input parameters and how to access these paramete
 type: post
 id: 69
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - batch-file
     - environment-variables

@@ -7,7 +7,7 @@ excerpt: 'Guides and file packages for creating a bootable CD-ROM, which Windows
 type: post
 id: 227
 categories:
-    - windows-98-utilities
+    - windows-98_utilities
 tags:
     - bootdisk
 ---

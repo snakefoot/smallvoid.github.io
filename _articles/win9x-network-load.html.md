@@ -7,9 +7,9 @@ excerpt: 'Configure how the TCP/IP should respond when multiple network adapters
 type: post
 id: 200
 categories:
-    - windows-95-network
-    - windows-98-network
-    - windows-me-network
+    - windows-95_network
+    - windows-98_network
+    - windows-me_network
 tags:
     - network-interface-card
     - network-load-balancing

@@ -7,9 +7,9 @@ excerpt: 'Before making changes to the registry database, then it can be a very 
 type: post
 id: 472
 categories:
-    - windows-2000-utilities
-    - windows-2003-utilities
-    - windows-xp-utilities
+    - windows-2000_utilities
+    - windows-2003_utilities
+    - windows-xp_utilities
 tags:
     - registry
 ---

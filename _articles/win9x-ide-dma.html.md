@@ -7,9 +7,9 @@ excerpt: 'How to configure Windows 9x to use DMA for IDE ATA hard drives.'
 type: post
 id: 87
 categories:
-    - windows-95-performance
-    - windows-98-performance
-    - windows-me-performance
+    - windows-95_performance
+    - windows-98_performance
+    - windows-me_performance
 tags:
     - ATA
     - cpu

@@ -7,9 +7,9 @@ excerpt: 'System File Checker is able to verify that system files are intact.'
 type: post
 id: 247
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-xp-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-xp_troubleshoot
 tags:
     - system-file-checker
     - system-file-protection

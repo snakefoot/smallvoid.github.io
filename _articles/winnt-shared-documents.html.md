@@ -7,7 +7,7 @@ excerpt: 'The shared documents folder allows multiple users to exchange document
 type: post
 id: 406
 categories:
-    - windows-xp-desktop
+    - windows-xp_desktop
 tags:
     - shared-documents
 ---

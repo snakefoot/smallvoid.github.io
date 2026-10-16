@@ -7,10 +7,10 @@ excerpt: 'Improve the precision and smoothness of your ps/2 device by increasing
 type: post
 id: 36
 categories:
-    - windows-2003-tips
-    - windows-nt4-tips
-    - windows-xp-tips
-    - windows-2000-tips
+    - windows-2003_tips
+    - windows-nt4_tips
+    - windows-xp_tips
+    - windows-2000_tips
 tags:
     - mouse
     - ps2

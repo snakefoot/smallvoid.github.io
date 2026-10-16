@@ -7,9 +7,9 @@ excerpt: 'Driver Verifier can be used to stress device drivers and can detect if
 type: post
 id: 471
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-xp-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-xp_troubleshoot
 tags:
     - blue-screen-of-death
     - driver-verifier

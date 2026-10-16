@@ -7,8 +7,8 @@ excerpt: 'How to install the NetBEUI protocol eventhough no longer a supported n
 type: post
 id: 432
 categories:
-    - windows-xp-network
-    - windows-2003-network
+    - windows-xp_network
+    - windows-2003_network
 tags:
     - netbeui
     - network-protocol

@@ -7,7 +7,7 @@ excerpt: 'Utility to see what applications are configured to load at Windows sta
 type: post
 id: 185
 categories:
-    - windows-2000-utilities
+    - windows-2000_utilities
 tags:
     - msconfig
 ---

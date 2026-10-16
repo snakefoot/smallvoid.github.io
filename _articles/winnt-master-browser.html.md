@@ -7,11 +7,11 @@ excerpt: 'How to configure the way Microsoft Windows participates in the master 
 type: post
 id: 205
 categories:
-    - windows-2003-file-sharing
-    - windows-nt4-file-sharing
-    - windows-xp-file-sharing
-    - windows-2000-file-sharing
-    - windows-vista-file-sharing
+    - windows-2003_file-sharing
+    - windows-nt4_file-sharing
+    - windows-xp_file-sharing
+    - windows-2000_file-sharing
+    - windows-vista_file-sharing
 tags:
     - master-browser
     - microsoft-network

@@ -7,9 +7,9 @@ excerpt: 'Increasing the DOS prompt refresh rate to make the display smoother.'
 type: post
 id: 165
 categories:
-    - windows-95-tips
-    - windows-98-tips
-    - windows-me-tips
+    - windows-95_tips
+    - windows-98_tips
+    - windows-me_tips
 tags: []
 ---
 Windows 9x makes it possible to open a DOS prompt without leaving Windows. The DOS prompt is almost like any other window, except that the window is polled for changes with a certain time interval.  

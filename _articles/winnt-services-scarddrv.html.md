@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Smart Card Helper service
 type: post
 id: 597
 categories:
-    - windows-2000-services
-    - windows-xp-services
+    - windows-2000_services
+    - windows-xp_services
 tags:
     - smart-card
 ---

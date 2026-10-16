@@ -7,10 +7,10 @@ excerpt: 'Configure the path to the location of the install files whether on CD-
 type: post
 id: 249
 categories:
-    - windows-2000-troubleshoot
-    - windows-2003-troubleshoot
-    - windows-nt4-troubleshoot
-    - windows-xp-troubleshoot
+    - windows-2000_troubleshoot
+    - windows-2003_troubleshoot
+    - windows-nt4_troubleshoot
+    - windows-xp_troubleshoot
 tags: []
 ---
 When installing new components then it uses the following registry keys to find the Install-CD:

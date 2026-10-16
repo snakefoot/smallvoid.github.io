@@ -7,13 +7,13 @@ excerpt: 'How to change the cluster size of a partition with description of the 
 type: post
 id: 131
 categories:
-    - windows-2000-performance
-    - windows-2003-performance
-    - windows-95-performance
-    - windows-98-performance
-    - windows-me-performance
-    - windows-nt4-performance
-    - windows-xp-performance
+    - windows-2000_performance
+    - windows-2003_performance
+    - windows-95_performance
+    - windows-98_performance
+    - windows-me_performance
+    - windows-nt4_performance
+    - windows-xp_performance
 tags:
     - allocation-unit
     - cluster-size

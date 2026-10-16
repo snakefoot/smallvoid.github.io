@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the BitLocker Drive Encryptio
 type: post
 id: 796
 categories:
-    - windows-7-win7-services-guide
-    - windows-8-win8-services-guide
+    - windows-7-win7_services-guide
+    - windows-8-win8_services-guide
 tags:
     - bitlocker
     - encryption

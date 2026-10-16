@@ -7,7 +7,7 @@ excerpt: 'How to rewrite the master boot record with fdisk to disable a boot-sec
 type: post
 id: 61
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - boot-sector
     - fdisk

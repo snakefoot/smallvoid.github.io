@@ -7,9 +7,9 @@ excerpt: 'Windows Explorer sends a Change Notification request to the remote ser
 type: post
 id: 443
 categories:
-    - windows-2003-file-sharing
-    - windows-xp-file-sharing
-    - windows-2000-file-sharing
+    - windows-2003_file-sharing
+    - windows-xp_file-sharing
+    - windows-2000_file-sharing
 tags:
     - network-performance
     - network-share

@@ -7,7 +7,7 @@ excerpt: 'Description of the special switch for MEM to diagnose conventional mem
 type: post
 id: 53
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - batch-file
     - conventional-memory

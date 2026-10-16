@@ -7,7 +7,7 @@ excerpt: 'Outlook Express can be configured to perform certain actions when an e
 type: post
 id: 332
 categories:
-    - email-reader-outlook-express
+    - email-reader_outlook-express
 tags:
     - message-rules
     - spam

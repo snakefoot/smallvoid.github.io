@@ -8,10 +8,10 @@ type: post
 id: 350
 categories:
     - windows-7-win7-troubleshoot
-    - windows-2000-utilities
-    - windows-2003-utilities
-    - windows-xp-utilities
-    - windows-vista-utilities
+    - windows-2000_utilities
+    - windows-2003_utilities
+    - windows-xp_utilities
+    - windows-vista_utilities
 tags:
     - AMD
     - cpu

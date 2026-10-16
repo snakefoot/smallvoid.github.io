@@ -7,7 +7,7 @@ excerpt: 'To play DVD''s in Windows Media Player one needs to buy a license for 
 type: post
 id: 501
 categories:
-    - windows-xp-utilities
+    - windows-xp_utilities
 tags:
     - dvd-drive
     - mpeg2

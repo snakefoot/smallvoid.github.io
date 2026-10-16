@@ -7,10 +7,10 @@ excerpt: 'Unlocker displays the open file handles, when trying to delete or move
 type: post
 id: 519
 categories:
-    - windows-2000-utilities
-    - windows-2003-utilities
-    - windows-xp-utilities
-    - windows-vista-utilities
+    - windows-2000_utilities
+    - windows-2003_utilities
+    - windows-xp_utilities
+    - windows-vista_utilities
 tags: []
 ---
 [Unlocker](http://ccollomb.free.fr/unlocker/ "Cedrick 'nitch' Collomb") is an explorer extension that makes it possible to see/close other processes handles to a file. This allows one to delete/modify a file even if it is in use by another program (Though the other program might fail by such an action).  

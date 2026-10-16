@@ -7,7 +7,7 @@ excerpt: 'The System Information applet can be modified to display OEM name and 
 type: post
 id: 645
 categories:
-    - windows-vista-desktop
+    - windows-vista_desktop
 tags:
     - branding
     - oem

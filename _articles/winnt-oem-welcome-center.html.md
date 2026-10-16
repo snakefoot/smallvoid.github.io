@@ -7,7 +7,7 @@ excerpt: 'The Welcome Center applet can be modified to display OEM name and logo
 type: post
 id: 771
 categories:
-    - windows-vista-desktop
+    - windows-vista_desktop
 tags:
     - branding
     - oem

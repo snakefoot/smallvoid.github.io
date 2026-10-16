@@ -7,7 +7,7 @@ excerpt: 'Configure the perfect Windows installation before actually installing.
 type: post
 id: 652
 categories:
-    - windows-vista-install-cd
+    - windows-vista_install-cd
 tags:
     - free-disk-space
     - slipstream

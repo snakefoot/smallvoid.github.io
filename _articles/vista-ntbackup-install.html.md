@@ -7,7 +7,7 @@ excerpt: 'Windows Vista / 2008 does not include the NtBackup utility by default.
 type: post
 id: 478
 categories:
-    - windows-vista-troubleshoot
+    - windows-vista_troubleshoot
 tags:
     - ntbackup
 ---

@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Resultant Set of Policy P
 type: post
 id: 586
 categories:
-    - windows-2003-services
+    - windows-2003_services
 tags: []
 ---
 ##### Description:

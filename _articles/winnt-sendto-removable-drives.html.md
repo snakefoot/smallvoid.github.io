@@ -7,7 +7,7 @@ excerpt: 'Configure whether it should display removable drives like Floppy, DVD 
 type: post
 id: 647
 categories:
-    - windows-vista-desktop
+    - windows-vista_desktop
 tags:
     - context-menu
     - network-drive

@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Peer Name Resolution Prot
 type: post
 id: 688
 categories:
-    - windows-vista-services
-    - windows-7-win7-services-guide
-    - windows-8-win8-services-guide
+    - windows-vista_services
+    - windows-7-win7_services-guide
+    - windows-8-win8_services-guide
 tags:
     - netPeerTcpBinding
     - PNRP

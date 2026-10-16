@@ -7,7 +7,7 @@ excerpt: 'Windows Messenger is an inter-message (IM) application created by Micr
 type: post
 id: 470
 categories:
-    - windows-xp-troubleshoot
+    - windows-xp_troubleshoot
 tags:
     - free-disk-space
     - windows-messenger

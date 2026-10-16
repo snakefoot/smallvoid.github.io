@@ -7,10 +7,10 @@ excerpt: 'The HTTP 1.1 specification dictates that a browser should only be allo
 type: post
 id: 309
 categories:
-    - web-browser-internet-explorer-ie4
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
-    - web-browser-internet-explorer-ie7
+    - web-browser_internet-explorer-ie4
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
+    - web-browser_internet-explorer-ie7
 tags:
     - download
     - network-performance

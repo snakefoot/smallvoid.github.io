@@ -7,7 +7,7 @@ excerpt: 'How to use the diskcopy command to copy floppy disks using only one fl
 type: post
 id: 59
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags:
     - diskcopy
     - floppy-disk

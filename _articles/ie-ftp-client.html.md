@@ -7,10 +7,10 @@ excerpt: 'Internet Explorer can be used for simple FTP browsing.'
 type: post
 id: 315
 categories:
-    - web-browser-internet-explorer-ie4
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
-    - web-browser-internet-explorer-ie7
+    - web-browser_internet-explorer-ie4
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
+    - web-browser_internet-explorer-ie7
 tags:
     - download
     - ftp

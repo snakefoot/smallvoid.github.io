@@ -7,7 +7,7 @@ excerpt: 'How to check if a filename or directory exists'
 type: post
 id: 68
 categories:
-    - ms-dos-tips
+    - ms-dos_tips
 tags: []
 ---
 It can be useful in [batch files](/article/batch-file.html) to know whether a file or folder exists. One can use files as semaphores and for inter proces communication (IPC).  

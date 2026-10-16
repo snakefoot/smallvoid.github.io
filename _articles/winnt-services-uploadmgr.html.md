@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Upload Manager service.'
 type: post
 id: 611
 categories:
-    - windows-2003-services
-    - windows-xp-services
+    - windows-2003_services
+    - windows-xp_services
 tags: []
 ---
 ##### Description:

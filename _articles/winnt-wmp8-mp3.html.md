@@ -7,7 +7,7 @@ excerpt: 'To record audio as MP3 in Windows Media Player then one needs to buy a
 type: post
 id: 502
 categories:
-    - windows-xp-utilities
+    - windows-xp_utilities
 tags:
     - mp3
     - windows-media-player

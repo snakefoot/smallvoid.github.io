@@ -7,8 +7,8 @@ excerpt: 'Increase the winsock send buffer to make file uploading faster (Ex. fi
 type: post
 id: 325
 categories:
-    - web-browser-internet-explorer-ie5
-    - web-browser-internet-explorer-ie6
+    - web-browser_internet-explorer-ie5
+    - web-browser_internet-explorer-ie6
 tags:
     - network-performance
     - send-window

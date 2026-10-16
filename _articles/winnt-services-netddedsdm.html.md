@@ -7,10 +7,10 @@ excerpt: 'Description and recommended settings for the Network DDE DSDM service.
 type: post
 id: 567
 categories:
-    - windows-2000-services
-    - windows-nt4-services
-    - windows-2003-services
-    - windows-xp-services
+    - windows-2000_services
+    - windows-nt4_services
+    - windows-2003_services
+    - windows-xp_services
 tags:
     - network-dde
 ---

@@ -7,9 +7,9 @@ excerpt: 'Description of where and in what order programs are loaded at startup.
 type: post
 id: 181
 categories:
-    - windows-95-troubleshoot
-    - windows-98-troubleshoot
-    - windows-me-troubleshoot
+    - windows-95_troubleshoot
+    - windows-98_troubleshoot
+    - windows-me_troubleshoot
 tags:
     - boot-time
     - msconfig

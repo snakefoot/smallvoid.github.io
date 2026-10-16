@@ -7,9 +7,9 @@ excerpt: 'Optimize the boot time of Windows by using the DOS disk cache until th
 type: post
 id: 103
 categories:
-    - windows-95-performance
-    - windows-98-performance
-    - windows-me-performance
+    - windows-95_performance
+    - windows-98_performance
+    - windows-me_performance
 tags:
     - boot-time
     - disk-performance

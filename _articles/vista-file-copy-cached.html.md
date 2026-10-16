@@ -7,7 +7,7 @@ excerpt: 'Configure the file copying method to use cached I/O requests instead o
 type: post
 id: 742
 categories:
-    - windows-vista-performance
+    - windows-vista_performance
 tags:
     - disk-performance
     - file-cache
