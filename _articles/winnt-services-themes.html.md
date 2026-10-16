@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the Themes service.'
 type: post
 id: 608
 categories:
-    - windows-2003-services-guide
-    - windows-xp-services-guide
-    - windows-vista-services-guide
+    - windows-2003-services
+    - windows-xp-services
+    - windows-vista-services
     - windows-7-win7-services-guide
 tags: []
 ---

@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the DFS Replication service.'
 type: post
 id: 665
 categories:
-    - windows-vista-services-guide
+    - windows-vista-services
 tags: []
 ---
 ##### Description:

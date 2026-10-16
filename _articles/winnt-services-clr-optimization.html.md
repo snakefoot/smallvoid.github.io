@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Microsoft .NET Framework 
 type: post
 id: 679
 categories:
-    - windows-vista-services-guide
+    - windows-vista-services
     - windows-7-win7-services-guide
 tags: []
 ---

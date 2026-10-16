@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the WinHTTP Web Proxy Auto Di
 type: post
 id: 623
 categories:
-    - windows-2003-services-guide
-    - windows-vista-services-guide
+    - windows-2003-services
+    - windows-vista-services
     - windows-7-win7-services-guide
 tags: []
 ---

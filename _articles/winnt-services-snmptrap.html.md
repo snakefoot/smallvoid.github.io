@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the SNMP Trap service.'
 type: post
 id: 701
 categories:
-    - windows-vista-services-guide
+    - windows-vista-services
     - windows-7-win7-services-guide
 tags:
     - SNMP

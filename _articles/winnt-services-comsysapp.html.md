@@ -7,9 +7,9 @@ excerpt: 'Description and recommended settings for the COM+ System Application s
 type: post
 id: 531
 categories:
-    - windows-2003-services-guide
-    - windows-xp-services-guide
-    - windows-vista-services-guide
+    - windows-2003-services
+    - windows-xp-services
+    - windows-vista-services
     - windows-7-win7-services-guide
     - windows-8-win8-services-guide
 tags: []

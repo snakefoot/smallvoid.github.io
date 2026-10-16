@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the Internet Connection Shari
 type: post
 id: 803
 categories:
-    - windows-2000-services-guide
-    - windows-vista-services-guide
+    - windows-2000-services
+    - windows-vista-services
     - windows-7-win7-services-guide
     - windows-8-win8-services-guide
 tags:

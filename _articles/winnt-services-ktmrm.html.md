@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the KtmRm for Distributed Tra
 type: post
 id: 677
 categories:
-    - windows-vista-services-guide
+    - windows-vista-services
     - windows-7-win7-services-guide
     - windows-8-win8-services-guide
 tags: []

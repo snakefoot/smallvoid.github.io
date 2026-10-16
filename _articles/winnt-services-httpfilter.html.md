@@ -7,8 +7,8 @@ excerpt: 'Description and recommended settings for the HTTP SSL service.'
 type: post
 id: 549
 categories:
-    - windows-2003-services-guide
-    - windows-xp-services-guide
+    - windows-2003-services
+    - windows-xp-services
 tags: []
 ---
 ##### Description:

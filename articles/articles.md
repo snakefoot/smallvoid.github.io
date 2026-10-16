@@ -54,7 +54,7 @@ description:
     {% assign group_name = category | remove_first: prefix %}
 
 <li>
-<a href="{{ '/windows/' | append: version | append: '/' | append: group_name | append: '/' | relative_url }}">
+<a href="{{ '/articles/' | append: version | append: '/' | append: group_name | append: '/' | relative_url }}">
 {{ group_name | replace: "-", " " | capitalize }}
 </a>
 ({{ category_total }})

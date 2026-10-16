@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Desktop Window Manager Se
 type: post
 id: 664
 categories:
-    - windows-vista-services-guide
+    - windows-vista-services
     - windows-7-win7-services-guide
 tags:
     - aero

@@ -1,5 +1,5 @@
 ---
-title: Windows 2000 Services Guide
+title: Windows 2003 Services Guide
 date: '2006-11-14T23:28:05+01:00'
 permalink: /articles/windows-2003/services/
 author: Snakefoot

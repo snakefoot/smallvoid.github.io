@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Software Licensing servic
 type: post
 id: 702
 categories:
-    - windows-vista-services-guide
+    - windows-vista-services
 tags: []
 ---
 ##### Description:

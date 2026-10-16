@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Windows CardSpace service
 type: post
 id: 712
 categories:
-    - windows-vista-services-guide
+    - windows-vista-services
     - windows-7-win7-services-guide
 tags:
     - windows-cardspace

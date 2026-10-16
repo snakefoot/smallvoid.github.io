@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Fast User Switching Compa
 type: post
 id: 545
 categories:
-    - windows-xp-services-guide
+    - windows-xp-services
 tags:
     - fast-user-switching
     - terminal-services

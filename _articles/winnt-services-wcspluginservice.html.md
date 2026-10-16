@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Windows Color System serv
 type: post
 id: 713
 categories:
-    - windows-vista-services-guide
+    - windows-vista-services
     - windows-7-win7-services-guide
 tags: []
 ---

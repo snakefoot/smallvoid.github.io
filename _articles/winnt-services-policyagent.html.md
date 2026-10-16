@@ -7,10 +7,10 @@ excerpt: 'Description and recommended settings for the IPSEC services.'
 type: post
 id: 555
 categories:
-    - windows-2000-services-guide
-    - windows-2003-services-guide
-    - windows-xp-services-guide
-    - windows-vista-services-guide
+    - windows-2000-services
+    - windows-2003-services
+    - windows-xp-services
+    - windows-vista-services
     - windows-7-win7-services-guide
     - windows-8-win8-services-guide
 tags:

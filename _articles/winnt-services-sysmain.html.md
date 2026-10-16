@@ -7,7 +7,7 @@ excerpt: 'Description and recommended settings for the Superfetch service.'
 type: post
 id: 703
 categories:
-    - windows-vista-services-guide
+    - windows-vista-services
     - windows-7-win7-services-guide
 tags:
     - disk-performance
