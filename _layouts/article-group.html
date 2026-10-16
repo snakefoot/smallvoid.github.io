@@ -6,11 +6,11 @@ layout: default
 {% assign version = path_parts[1] %}
 {% assign group_name = path_parts.last | remove: ".md" %}
 {% assign category_filter = version | append: "-" | append: group_name %}
+{% assign articles = site.articles | sort: "title" %}
 
 <h1>{{ page.title | escape }}</h1>
 
 <ul class="article-list">
-    {% assign articles = site.articles | sort: "title" %}
     {% for post in articles %}
     {% if post.categories contains category_filter %}
     <li>
@@ -19,6 +19,7 @@ layout: default
                 {{ post.title | escape }}
             </a>
         </h2>
+
         {% if post.excerpt %}
         <p>{{ post.excerpt | strip_html | escape }}</p>
         {% endif %}
