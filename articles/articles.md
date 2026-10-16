@@ -21,46 +21,56 @@ description:
 {%- assign all_categories = all_categories | sort -%}
 {%- assign current_version = "" -%}
 
-{%- for category in all_categories %}
-{%- assign category_parts = category | split: '_' -%}
-{%- assign version = category_parts | first -%}
-{%- assign group_name = category_parts | slice: 1, 99 | join: '_' -%}
+{%- for category in all_categories -%}
+    {%- assign category_parts = category | split: '_' -%}
+    {%- assign version = category_parts | first -%}
+    {%- assign group_name = category_parts | slice: 1, 99 | join: '_' -%}
 
-{%- if version != current_version %}
-{%- if current_version != "" %}
+    {%- if version != current_version -%}
+        {%- if current_version != "" %}
 </ul>
-{%- endif %}
-{%- assign current_version = version -%}
-{%- assign version_total = 0 -%}
-
-{%- for post in site.articles -%}
-    {%- assign post_has_version = false -%}
-    {%- for post_category in post.categories -%}
-        {%- assign post_version = post_category | split: '_' | first -%}
-        {%- if post_version == version -%}
-            {%- assign post_has_version = true -%}
         {%- endif -%}
-    {%- endfor -%}
-    {%- if post_has_version -%}
-        {%- assign version_total = version_total | plus: 1 -%}
-    {%- endif -%}
-{%- endfor -%}
+        {%- assign current_version = version -%}
+        {%- assign version_total = 0 -%}
 
-{%- assign version_words = version | replace: '-', ' ' | split: ' ' %}
+        {%- for post in site.articles -%}
+            {%- assign post_has_version = false -%}
+            {%- for post_category in post.categories -%}
+                {%- assign post_version = post_category | split: '_' | first -%}
+                {%- if post_version == version -%}
+                    {%- assign post_has_version = true -%}
+                {%- endif -%}
+            {%- endfor -%}
+            {%- if post_has_version -%}
+                {%- assign version_total = version_total | plus: 1 -%}
+            {%- endif -%}
+        {%- endfor -%}
+
+        {%- assign version_words = version | replace: '-', ' ' | split: ' ' %}
 <h2>{% for word in version_words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor %} ({{ version_total }} articles)</h2>
 <ul>
-{%- endif %}
-
-{%- assign category_total = 0 -%}
-{%- for post in site.articles -%}
-    {%- if post.categories contains category -%}
-        {%- assign category_total = category_total | plus: 1 -%}
     {%- endif -%}
-{%- endfor -%}
 
-{%- assign group_words = group_name | replace: '-', ' ' | split: ' ' %}
+    {%- assign category_total = 0 -%}
+    {%- for post in site.articles -%}
+        {%- if post.categories contains category -%}
+            {%- assign category_total = category_total | plus: 1 -%}
+        {%- endif -%}
+    {%- endfor -%}
+
+    {%- assign group_words = group_name | replace: '-', ' ' | split: ' ' -%}
+    {%- assign category_url = group_name | replace: '_', '-' -%}
+    {%- assign version_url = version | replace: '_', '-' -%}
+    {%- assign category_label = '' -%}
+    {%- for word in group_words -%}
+        {%- assign capitalized_word = word | capitalize -%}
+        {%- assign category_label = category_label | append: capitalized_word -%}
+        {%- unless forloop.last -%}
+            {%- assign category_label = category_label | append: ' ' -%}
+        {%- endunless -%}
+    {%- endfor %}
 <li>
-    <a href="{{ '/articles/' | append: version | append: '/' | append: group_name | replace: '_', '-' | append: '/' | relative_url }}">{% for word in group_words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor %}</a>
+    <a href="{{ '/articles/' | append: version_url | append: '/' | append: category_url | append: '/' | relative_url }}">{{ category_label }}</a>
     ({{ category_total }})
 </li>
 {%- endfor %}
