@@ -44,7 +44,7 @@ layout: default
             {% for cat in unique_categories %}
             <li>
                 <a href="{{ '/articles/' | append: cat | replace_first: '-', '/' | append: '/' | relative_url }}">
-                    {{ cat | replace: '-', ' ' | split: ' ' | join: ' ' | capitalize | escape }}
+                    {{ cat | replace: '-', ' ' | split: ' ' | capitalize | join: ' ' | escape }}
                 </a>
             </li>
             {% endfor %}

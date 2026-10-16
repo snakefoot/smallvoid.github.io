@@ -36,8 +36,7 @@ description:
 {%- endfor -%}
 
 {%- if version_total > 0 %}
-
-<h2>{{ version | replace: "-", " " | capitalize }} ({{ version_total }} articles)</h2>
+<h2>{{ version | replace: "-", " " | split: ' ' | capitalize | join: ' ' | escape }} ({{ version_total }} articles)</h2>
 
 {% assign categories = categories | sort %}
 
