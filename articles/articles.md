@@ -49,9 +49,9 @@ description:
 {% assign category_total = 0 %}
 
     {% for post in site.articles %}
-      {% if post.categories contains category %}
-        {% assign category_total = category_total | plus: 1 %}
-      {% endif %}
+        {% if post.categories contains category %}
+            {% assign category_total = category_total | plus: 1 %}
+        {% endif %}
     {% endfor %}
 
     {% assign group_name = category | remove_first: prefix %}
@@ -63,7 +63,7 @@ description:
         </a>
         ({{ category_total }})
     </li>
-{% endfor %}
+    {% endfor %}
 </ul>
 {%- endif -%}
 {%- endfor %}
