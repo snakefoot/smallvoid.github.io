@@ -24,9 +24,9 @@ description:
 {%- assign current_version = "" -%}
 
 {%- for category in all_categories -%}
-    {%- assign category_parts = category | split: "_" -%}
+    {%- assign category_parts = category | split: '_' -%}
     {%- assign version = category_parts | first -%}
-    {%- assign group_name = category_parts | slice: 1, 99 | join: " " -%}
+    {%- assign group_name = category | remove_first: version | remove_first: '_' -%}
 
     {%- if version != current_version -%}
         {%- if current_version != "" -%}
