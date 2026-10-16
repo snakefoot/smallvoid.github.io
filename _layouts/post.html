@@ -60,8 +60,8 @@ layout: default
             {% assign unique_categories = all_categories | uniq | sort %}
             {% for cat in unique_categories %}
             <li>
-                <a href="{{ '/articles/' | append: cat | relative_url }}">
-                    {{ cat | replace: "-", " " | capitalize | escape }}
+                <a href="{{ '/articles/' | append: cat | replace_first: '-', '/' | append: '/' | relative_url }}">
+                    {{ cat | replace: '-', ' ' | split: ' ' | join: ' ' | capitalize | escape }}
                 </a>
             </li>
             {% endfor %}
