@@ -36,7 +36,11 @@ description:
 {%- endfor -%}
 
 {%- if version_total > 0 %}
-<h2>{{ version | replace: "-", " " | split: ' ' | capitalize | join: ' ' | escape }} ({{ version_total }} articles)</h2>
+<h2>
+{% assign version_words = version | replace: '-', ' ' | split: ' ' %}
+{% for word in version_words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor %}
+({{ version_total }} articles)
+</h2>
 
 {% assign categories = categories | sort %}
 
@@ -51,13 +55,14 @@ description:
     {% endfor %}
 
     {% assign group_name = category | remove_first: prefix %}
+    {% assign group_words = group_name | replace: '-', ' ' | split: ' ' %}
 
-<li>
-<a href="{{ '/articles/' | append: version | append: '/' | append: group_name | append: '/' | relative_url }}">
-{{ group_name | replace: '-', ' ' | split: ' ' | join: ' ' | capitalize | escape }}
-</a>
-({{ category_total }})
-</li>
+    <li>
+        <a href="{{ '/articles/' | append: version | append: '/' | append: group_name | append: '/' | relative_url }}">
+            {% for word in group_words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor %}
+        </a>
+        ({{ category_total }})
+    </li>
 {% endfor %}
 </ul>
 {%- endif -%}

@@ -42,9 +42,10 @@ layout: default
             {% endif %}
             {% assign unique_categories = all_categories | uniq | sort %}
             {% for cat in unique_categories %}
+            {% assign words = cat | replace: '-', ' ' | split: ' ' %}
             <li>
                 <a href="{{ '/articles/' | append: cat | replace_first: '-', '/' | append: '/' | relative_url }}">
-                    {{ cat | replace: '-', ' ' | split: ' ' | capitalize | join: ' ' | escape }}
+                    {% for word in words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor %}
                 </a>
             </li>
             {% endfor %}
