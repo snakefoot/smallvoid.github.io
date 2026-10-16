@@ -8,7 +8,7 @@ type: post
 id: 779
 categories:
     - windows-vista_tips
-    - windows-7-win7-tips
+    - windows-7-win7_tips
 tags:
     - control-panel
     - windows-explorer

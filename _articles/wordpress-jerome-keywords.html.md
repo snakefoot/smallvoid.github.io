@@ -7,7 +7,7 @@ excerpt: 'Description of the different updates and fixes available for Jerome''s
 type: post
 id: 746
 categories:
-    - Uncategorized
+    - uncategorized
 tags:
     - jerome-keywords
     - tagging

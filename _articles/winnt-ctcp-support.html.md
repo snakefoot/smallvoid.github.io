@@ -9,7 +9,7 @@ id: 789
 categories:
     - windows-2003_network
     - windows-vista_network
-    - windows-7-win7-network
+    - windows-7-win7_network
 tags:
     - netsh
     - network-congestion

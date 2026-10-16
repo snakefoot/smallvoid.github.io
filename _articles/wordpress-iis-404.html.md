@@ -7,7 +7,7 @@ excerpt: 'Creating a custom 404 page for WordPress running on IIS.'
 type: post
 id: 770
 categories:
-    - Uncategorized
+    - uncategorized
 tags:
     - iis
     - wordpress

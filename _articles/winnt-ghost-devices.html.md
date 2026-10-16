@@ -11,7 +11,7 @@ categories:
     - windows-2003_troubleshoot
     - windows-xp_troubleshoot
     - windows-vista_troubleshoot
-    - windows-7-win7-troubleshoot
+    - windows-7-win7_troubleshoot
 tags:
     - boot-time
     - device-manager

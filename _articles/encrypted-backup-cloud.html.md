@@ -7,7 +7,7 @@ excerpt: 'Create removable encrypted hard-disk-image, and use that for Windows B
 type: post
 id: 5291
 categories:
-    - windows-7-win7-tips
+    - windows-7-win7_tips
 tags:
     - backup
     - bitlocker

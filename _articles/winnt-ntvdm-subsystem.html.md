@@ -7,7 +7,7 @@ excerpt: 'For security measures then one should consider disabling the ability t
 type: post
 id: 825
 categories:
-    - windows-7-win7-tips
+    - windows-7-win7_tips
     - windows-2003_user-security
     - windows-nt4_user-security
     - windows-xp_user-security

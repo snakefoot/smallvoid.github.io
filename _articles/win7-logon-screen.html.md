@@ -7,7 +7,7 @@ excerpt: 'Microsoft Windows 7 no longer have the classic logon screen, which has
 type: post
 id: 822
 categories:
-    - windows-7-win7-tips
+    - windows-7-win7_tips
 tags:
     - branding
     - login-screen

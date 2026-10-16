@@ -7,7 +7,7 @@ excerpt: 'Windows 7 sidebar will by default not allow applications that requires
 type: post
 id: 813
 categories:
-    - windows-7-win7-tips
+    - windows-7-win7_tips
 tags:
     - sidebar
     - user-account-control

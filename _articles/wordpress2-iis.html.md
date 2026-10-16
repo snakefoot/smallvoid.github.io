@@ -7,7 +7,7 @@ excerpt: 'Required modifications for Wordpress 2 to make it work on IIS.'
 type: post
 id: 127
 categories:
-    - Uncategorized
+    - uncategorized
 tags:
     - iis
     - wordpress

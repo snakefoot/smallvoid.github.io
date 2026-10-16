@@ -7,7 +7,7 @@ excerpt: 'CPU core temperature monitoring utilities, that can give alerts if thi
 type: post
 id: 350
 categories:
-    - windows-7-win7-troubleshoot
+    - windows-7-win7_troubleshoot
     - windows-2000_utilities
     - windows-2003_utilities
     - windows-xp_utilities

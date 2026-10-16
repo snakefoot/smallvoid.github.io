@@ -8,7 +8,7 @@ type: post
 id: 754
 categories:
     - windows-vista_troubleshoot
-    - windows-7-win7-troubleshoot
+    - windows-7-win7_troubleshoot
 tags:
     - boot-manager
     - system-recovery

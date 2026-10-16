@@ -7,7 +7,7 @@ excerpt: 'Native Command Queuing (NCQ) can improve hard disk performance, as it 
 type: post
 id: 824
 categories:
-    - windows-7-win7-tips
+    - windows-7-win7_tips
     - windows-vista_performance
 tags:
     - disk-performance

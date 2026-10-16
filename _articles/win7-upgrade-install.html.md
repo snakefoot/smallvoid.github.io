@@ -7,7 +7,7 @@ excerpt: 'Install Windows 7 using only the upgrade DVD without needing to instal
 type: post
 id: 820
 categories:
-    - windows-7-win7-tips
+    - windows-7-win7_tips
 tags:
     - windows-install
 ---

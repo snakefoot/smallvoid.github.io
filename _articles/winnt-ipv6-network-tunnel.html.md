@@ -8,7 +8,7 @@ type: post
 id: 5351
 categories:
     - windows-vista_network
-    - windows-7-win7-network
+    - windows-7-win7_network
 tags:
     - 6to4
     - ipv4

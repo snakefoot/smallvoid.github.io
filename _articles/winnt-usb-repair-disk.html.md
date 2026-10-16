@@ -7,7 +7,7 @@ excerpt: 'How to create a bootable Windows 7 System Repair disc on an USB pen dr
 type: post
 id: 829
 categories:
-    - windows-7-win7-troubleshoot
+    - windows-7-win7_troubleshoot
 tags:
     - bootdisk
     - system-recovery

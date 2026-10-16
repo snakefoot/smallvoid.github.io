@@ -15,7 +15,7 @@ categories:
     - windows-xp_tips
     - windows-2000_tips
     - windows-vista_tips
-    - windows-7-win7-tips
+    - windows-7-win7_tips
 tags:
     - screendump
 ---

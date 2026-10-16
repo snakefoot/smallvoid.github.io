@@ -7,7 +7,7 @@ excerpt: 'Windows 7 introduces a new taskbar design (aka. superbar), that should
 type: post
 id: 812
 categories:
-    - windows-7-win7-desktop
+    - windows-7-win7_desktop
 tags:
     - aero
     - taskbar

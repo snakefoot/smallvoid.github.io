@@ -7,7 +7,7 @@ excerpt: 'Diagnose what is preventing your computer from entering sleep mode, or
 type: post
 id: 821
 categories:
-    - windows-7-win7-tips
+    - windows-7-win7_tips
     - windows-2003_troubleshoot
     - windows-xp_troubleshoot
     - windows-vista_troubleshoot

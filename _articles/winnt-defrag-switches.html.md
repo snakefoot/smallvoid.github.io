@@ -10,7 +10,7 @@ categories:
     - windows-2003_tips
     - windows-xp_tips
     - windows-vista_tips
-    - windows-7-win7-tips
+    - windows-7-win7_tips
 tags:
     - command-line-switches
     - defrag
