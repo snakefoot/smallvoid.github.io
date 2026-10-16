@@ -55,7 +55,7 @@ description:
 
 <li>
 <a href="{{ '/articles/' | append: version | append: '/' | append: group_name | append: '/' | relative_url }}">
-{{ group_name | replace: "-", " " | capitalize }}
+{{ group_name | replace: '-', ' ' | split: ' ' | join: ' ' | capitalize | escape }}
 </a>
 ({{ category_total }})
 </li>
