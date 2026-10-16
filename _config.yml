@@ -15,6 +15,12 @@ baseurl: ""
 collections:
   articles:
     output: true
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: post
 
 # Theme settings
 markdown: kramdown
