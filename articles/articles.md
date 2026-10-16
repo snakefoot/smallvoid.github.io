@@ -50,7 +50,7 @@ description:
             {%- endif -%}
         {%- endfor -%}
 
-        {%- assign version_words = version | replace: '-', ' ' | split: ' ' %}
+        {% assign version_words = version | replace: '-', ' ' | split: ' ' %}
 <h2>{% for word in version_words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor %} ({{ version_total }} articles)</h2>
 <ul>
     {%- endif -%}
