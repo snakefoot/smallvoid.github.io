@@ -39,7 +39,7 @@ description:
             {%- assign post_categories = post.categories | default: empty -%}
             {%- assign post_has_version = false -%}
             {%- for post_category in post_categories -%}
-                {%- assign post_version = post_category | split: "_" | first -%}
+                {%- assign post_version = post_category | split: '_' | first -%}
                 {%- if post_version == version -%}
                     {%- assign post_has_version = true -%}
                     {%- break -%}
@@ -50,7 +50,7 @@ description:
             {%- endif -%}
         {%- endfor -%}
 
-        {%- assign version_words = version | replace: "-", " " | split: " " -%}
+        {%- assign version_words = version | replace: '-', ' ' | split: ' ' %}
 <h2>{% for word in version_words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor %} ({{ version_total }} articles)</h2>
 <ul>
     {%- endif -%}
@@ -63,7 +63,7 @@ description:
         {%- endif -%}
     {%- endfor -%}
 
-    {%- assign group_words = group_name | replace: "-", " " | split: " " -%}
+    {%- assign group_words = group_name | replace: '-', ' ' | split: ' ' -%}
     {%- assign category_label = '' -%}
     {%- for word in group_words -%}
         {%- assign capitalized_word = word | capitalize -%}
@@ -73,9 +73,9 @@ description:
         {%- endunless -%}
     {%- endfor -%}
 
-    {%- assign category_url = category | replace: "_", "/" -%}
+    {%- assign category_url = category | replace: '_', '/' -%}
 <li>
-    <a href="{{ '/articles/' | append: category_url | append: '/' | relative_url }}">{{ category_label | escape }}</a>
+    <a href="{{ '/articles/' | append: category_url | relative_url }}">{%- if group_name == '' -%}{{ version | replace: '-', ' ' | capitalize | escape }}{%- else -%}{{ category_label | escape }}{%- endif -%}</a>
     ({{ category_total }})
 </li>
 {%- endfor -%}
