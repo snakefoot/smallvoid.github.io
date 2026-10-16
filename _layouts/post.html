@@ -42,12 +42,18 @@ layout: default
             {% endif %}
             {% assign unique_categories = all_categories | uniq | sort %}
             {% for cat in unique_categories %}
-            {% assign words = cat | replace: '-', ' ' | split: ' ' %}
-            {% capture category_label %}{% for word in words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor %}{% endcapture %}
+            {% assign category_url = cat | strip %}
+            {% assign words = cat | split: '-' %}
+            {% assign category_label = '' %}
+            {% for word in words %}
+            {% assign capitalized_word = word | capitalize %}
+            {% assign category_label = category_label | append: capitalized_word %}
+            {% unless forloop.last %}
+            {% assign category_label = category_label | append: ' ' %}
+            {% endunless %}
+            {% endfor %}
             <li>
-                <a href="{{ '/articles/' | append: cat | append: '/' | relative_url }}">
-                    {{ category_label | strip | escape }}
-                </a>
+                <a href="{{ '/articles/' | append: category_url | append: '/' | relative_url }}">{{ category_label | escape }}</a>
             </li>
             {% endfor %}
         </ul>
