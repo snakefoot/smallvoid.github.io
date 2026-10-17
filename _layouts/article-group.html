@@ -5,7 +5,11 @@ layout: default
 {% assign path_parts = page.path | split: "/" %}
 {% assign version = path_parts[1] %}
 {% assign group_name = path_parts.last | remove: ".md" %}
-{% assign category_filter = version | append: "_" | append: group_name %}
+{% if path_parts.size == 2 %}
+    {% assign category_filter = group_name %}
+{% else %}
+    {% assign category_filter = version | append: "_" | append: group_name %}
+{% endif %}
 {% assign articles = site.articles | sort: "title" %}
 
 <h1>{{ page.title | escape }}</h1>
