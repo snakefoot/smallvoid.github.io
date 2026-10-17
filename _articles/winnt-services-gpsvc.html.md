@@ -11,8 +11,6 @@ categories:
     - windows-7-win7_services-guide
 tags:
     - group-policy
-tags:
-    - group-policy
 ---
 ##### Description:
 

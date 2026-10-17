@@ -10,8 +10,6 @@ categories:
     - windows-vista_services
 tags:
     - remote-desktop
-tags:
-    - remote-desktop
 ---
 ##### Description:
 
