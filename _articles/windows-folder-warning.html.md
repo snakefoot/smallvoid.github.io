@@ -7,10 +7,12 @@ excerpt: 'Active Desktop makes it posssible to customize folders, and so the Win
 type: post
 id: 303
 categories:
-    - windows-2000_desktop
-    - windows-98_desktop
-    - windows-me_desktop
+    - windows-2000_tips
+    - windows-98_tips
+    - windows-me_tips
 tags:
+    - desktop
+    - windows-explorer
     - active-desktop
 ---
 With the introduction of the Active desktop it became possible to configure how folders should be displayed when using explorer.  
