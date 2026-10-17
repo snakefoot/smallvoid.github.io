@@ -1,5 +1,5 @@
 ---
-title: 'Create shortcut to &quot;Run...&quot; in the Start Menu'
+title: 'Create shortcut to "Run..." in the Start Menu'
 date: '2006-01-31T00:46:39+01:00'
 permalink: /article/windows-start-menu-run.html
 author: Snakefoot

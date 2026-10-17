@@ -1,5 +1,5 @@
 ---
-title: 'Using &quot;Send To&quot; for easy access to useful actions'
+title: 'Using "Send To" for easy access to useful actions'
 date: '2000-01-01T00:38:15+01:00'
 permalink: /article/sendto-shortcut.html
 author: Snakefoot
