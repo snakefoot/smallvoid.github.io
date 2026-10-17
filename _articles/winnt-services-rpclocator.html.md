@@ -26,7 +26,7 @@ tags:
  Note after installing WinXP SP2 one might get the following error:
 > *Event ID: 1000  
 >  RPC locator has encountered a problem and needs to be closed.*   
->  More Info [MS KB904767](http://support.microsoft.com/kb/904767 "You may receive a "RPC locator has encountered a problem and needs to be closed" error message when you install Windows XP Service Pack 2 on a computer [Q904767]")
+>  More Info [MS KB904767](http://support.microsoft.com/kb/904767 "You may receive a 'RPC locator has encountered a problem and needs to be closed' error message when you install Windows XP Service Pack 2 on a computer [Q904767]")
 
  Note in Windows Vista and later versions of Windows, this service does not provide any functionality and is present for application compatibility.  
 ##### Recommended State:

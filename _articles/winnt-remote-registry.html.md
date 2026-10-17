@@ -24,7 +24,7 @@ By default it is possible to access another computer registry remote. One can co
 
  Note to access the [remote registry service](/article/winnt-services-remoteregistry.html) over the network, just open your registry editor, and in the menu select "Registry" -&gt; "Connect Network Registry"  
   
- Note Windows 2003 blocks for accessing the registry remotely, to remove this block one have to change permissions for "winreg" to allow "Administrators" to have "Full Control" and give "Local Service" access to "Read". More Info [MS KB555335](http://support.microsoft.com/kb/555335 "Can't access "Remote Registry" Service after upgrading to Windows 2003 [Q555335]")  
+ Note Windows 2003 blocks for accessing the registry remotely, to remove this block one have to change permissions for "winreg" to allow "Administrators" to have "Full Control" and give "Local Service" access to "Read". More Info [MS KB555335](http://support.microsoft.com/kb/555335 "Can't access 'Remote Registry' Service after upgrading to Windows 2003 [Q555335]")  
   
  More Info [MS KB153183](http://support.microsoft.com/kb/153183 "How to Restrict Access to the Registry from a Remote Computer [Q153183]")  
  More Info [MS KB185873](http://support.microsoft.com/kb/185873 "Reg.exe Displays Access Denied Error When Querying Registry [Q185873]")  

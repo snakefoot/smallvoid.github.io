@@ -41,7 +41,7 @@ tags: []
  More Info [MS KB283073](http://support.microsoft.com/kb/283073 "How to Disable the System Restore Configuration User Interface [Q283073]")  
  More Info [MS KB295299](http://support.microsoft.com/kb/295299 "HOW TO: Use the System Restore Utility with Windows Management Instrumentation in Windows XP [Q295299]")  
  More Info [MS KB299904](http://support.microsoft.com/kb/299904 "The System Restore Utility May Be Suspended on a System Drive Even Though There Is Enough Disk Space [Q299904]")  
- More Info [MS KB301224](http://support.microsoft.com/kb/301224 "System Restore "Restore Points" Are Missing or Deleted [Q301224]")  
+ More Info [MS KB301224](http://support.microsoft.com/kb/301224 "System Restore 'Restore Points' Are Missing or Deleted [Q301224]")  
  More Info [MS KB302796](http://support.microsoft.com/kb/302796 "Troubleshooting System Restore in Windows XP [Q302796]")  
  More Info [MS KB306084](http://support.microsoft.com/kb/306084 "HOW TO: Restore the Operating System to a Previous State in Windows XP [Q306084]")  
  More Info [MS KB310405](http://support.microsoft.com/kb/310405 "How to Turn On and Turn Off System Restore in Windows XP [Q310405]")  

@@ -31,7 +31,7 @@ tags:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\BackupRestore\]  
 >  UseMicrosoftProvider = 0  
 >   
->  More Info [MS KB833829](http://support.microsoft.com/kb/833829 "The "Disable volume shadow copy" option is unavailable in the Windows Server 2003 backup utility [Q833829]")
+>  More Info [MS KB833829](http://support.microsoft.com/kb/833829 "The 'Disable volume shadow copy' option is unavailable in the Windows Server 2003 backup utility [Q833829]")
 
  Note if performing a defrag of a volume containing shadow copies, then the defragger can trigger the Volume Shadow Copy service to record all the cluster moving, which will fill the entire shadow copy storage area. VSS will delete the oldest shadow copies to make room, so all or some shadow copies will be lost. Changing the [cluster size](/article/cluster-hard-disk-partition.html) to 16K for the volumes containing shadow copies should solve the problem. More Info [MS KB312067](http://support.microsoft.com/kb/312067 "Shadow copies may be lost when you defragment a volume")  
   

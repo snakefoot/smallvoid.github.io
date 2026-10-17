@@ -33,7 +33,7 @@ tags:
  Note when the RPC service fails to contact a remote computer / server / domain (ex. not able to resolve DNS name, not able to ping IP address, not having a [working TCPIP stack](/article/winnt-netsh.html), not having the proper trust relations, all resources on the remote computer are used up), then one might get the following error:
 > *The RPC Server is Unavailable  
 >   
->  More Info [MS KB224370](http://support.microsoft.com/kb/224370 "Troubleshooting "RPC Server is Unavailable" in Windows [Q224370]")*
+>  More Info [MS KB224370](http://support.microsoft.com/kb/224370 "Troubleshooting 'RPC Server is Unavailable' in Windows [Q224370]")*
 
  More Info [MS KB154596](http://support.microsoft.com/kb/154596 "HOWTO: Configure RPC Dynamic Port Allocation to Work with Firewall [Q154596]")  
  More Info [MS KB171307](http://support.microsoft.com/kb/171307 "How to Disable SAP Broadcast for RPC Service [Q171307]")  

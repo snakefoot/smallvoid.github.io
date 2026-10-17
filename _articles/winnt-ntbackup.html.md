@@ -28,7 +28,7 @@ To optimize the performance of NTBackup one can adjust the following registry se
   
  More Info [MS KB104169](http://support.microsoft.com/kb/104169 "Files That Are Automatically Skipped by the Backup Program (NTBackup.exe) During the Backup and Restore Processes [Q104169]")  
  More Info [MS KB233427](http://support.microsoft.com/kb/233427 "Files and Folders Not Backed Up Using the Ntbackup.exe Tool [Q233427]")  
- More Info [MS KB300439](http://support.microsoft.com/kb/300439 "How to Use Command Line Parameters With the "Ntbackup" Command [Q300439]") (How to use command-line)  
+ More Info [MS KB300439](http://support.microsoft.com/kb/300439 "How to Use Command Line Parameters With the 'Ntbackup' Command [Q300439]") (How to use command-line)  
  More Info [MS KB308422](http://support.microsoft.com/kb/308422 "HOW TO: Use Backup to Back Up Files and Folders on Your Computer in Windows XP [Q308422]") (How to backup files)  
  More Info [MS KB309340](http://support.microsoft.com/kb/309340 "HOW TO: Use Backup to Restore Files and Folders on Your Computer in Windows XP [Q309340]") (How to restore files)  
  More Info [MS KB320820](http://support.microsoft.com/kb/320820 "How to Use the Backup Utility to Back Up Files and Folders in Windows XP Home Edition [Q320820]")  

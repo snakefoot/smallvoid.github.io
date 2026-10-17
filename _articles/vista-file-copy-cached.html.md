@@ -28,7 +28,12 @@ Windows Vista changes the behavior of the file copying operations, by using non-
 >   
 >  More Info [MS KB941673](http://support.microsoft.com/kb/941673 "After you add the CopyFileBufferedSynchronousIo registry entry in Windows Vista, a file copies only slightly more quickly when you use Windows Explorer to copy the file to another computer") (Hotfix is required)
 
- Note Microsoft have identified several performance issues in Windows Vista, and created several patches that address some of these issues. [MS KB938194](http://support.microsoft.com/kb/938194 "An update is available that improves the compatibility and reliability of Windows Vista"), [MS KB938979](http://support.microsoft.com/kb/938979 "An update is available that improves the performance and reliability of Windows Vista"), [MS KB941649](http://support.microsoft.com/kb/941649 "An update is available that improves the compatibility, reliability, and stability of Windows Vista"), [MS KB941600](http://support.microsoft.com/kb/941600 "Cumulative update rollup for USB core components in Windows Vista"), [MS KB943899](http://support.microsoft.com/kb/943899 "An update that improves the performance, responsiveness, and reliability of Windows Vista is available") (Will over time be available on Windows Update, and will be part of Vista SP1).  
+ Note Microsoft have identified several performance issues in Windows Vista, and created several patches that address some of these issues:
+ - More Info [MS KB938194](http://support.microsoft.com/kb/938194 "An update is available that improves the compatibility and reliability of Windows Vista")
+ - More Info [MS KB938979](http://support.microsoft.com/kb/938979 "An update is available that improves the performance and reliability of Windows Vista")
+ - More Info [MS KB941649](http://support.microsoft.com/kb/941649 "An update is available that improves the compatibility, reliability, and stability of Windows Vista")
+ - More Info [MS KB941600](http://support.microsoft.com/kb/941600 "Cumulative update rollup for USB core components in Windows Vista")
+ - More Info [MS KB943899](http://support.microsoft.com/kb/943899 "An update that improves the performance, responsiveness, and reliability of Windows Vista is available") (Will over time be available on Windows Update, and will be part of Vista SP1)
   
  Related [Slow file copy caused by automatic tuning of TCP/IP RWIN](/article/vista-tcpip-auto-rwin.html)  
   

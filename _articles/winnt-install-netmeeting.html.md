@@ -26,6 +26,6 @@ NetMeeting is installed no matter if you want it or not. It is possible to unins
  Note if using WinXP and actually want to use NetMeeting, then one can add it to the Start-menu by executing this command:
 > conf  
 >   
->  More Info [MS KB298327](http://support.microsoft.com/kb/298327 "NetMeeting Is Not Available on the Windows XP "Communications" Menu [Q298327]")
+>  More Info [MS KB298327](http://support.microsoft.com/kb/298327 "NetMeeting Is Not Available on the Windows XP 'Communications' Menu [Q298327]")
 
  More Info [Microsoft NetMeeting "How-To" Guide](http://support.microsoft.com/support/netmeeting/howto/default.asp)  

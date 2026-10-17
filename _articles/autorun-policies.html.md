@@ -78,7 +78,7 @@ Windows is by default configured to poll all devices every second to check if th
   
  More Info [MS KB136214](http://support.microsoft.com/kb/136214 "How to Test Autorun.inf Files [Q136214]")  
  More Info [MS KB177880](http://support.microsoft.com/kb/177880 "CD-ROM Does Not Run Automatically When Inserted [Q177880]")  
- More Info [MS KB967715](http://support.microsoft.com/kb/967715 "How to correct "disable Autorun registry key" enforcement in Windows")  
+ More Info [MS KB967715](http://support.microsoft.com/kb/967715 "How to correct 'disable Autorun registry key' enforcement in Windows")  
   
  To disable the polling of CD-ROM/DVD devices:  
   

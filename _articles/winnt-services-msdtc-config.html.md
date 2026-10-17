@@ -29,7 +29,7 @@ tags:
   - Msdtc -resetlog
   - Net start msdtc
    
-   More Info [MS KB240038](http://support.microsoft.com/kb/240038 "INFO: The "msdtc -remove" Command Shows Errors [Q240038]")  
+   More Info [MS KB240038](http://support.microsoft.com/kb/240038 "INFO: The 'msdtc -remove' Command Shows Errors [Q240038]")  
    More Info [MS KB279786](http://support.microsoft.com/kb/279786 "HOWTO: Reinstall MS DTC for a Nonclustered Windows 2000 Server [Q279786]")  
    More Info [MS KB873160](http://support.microsoft.com/kb/873160 "You may receive a 7391 error message in SQLOLEDB when you run a distributed transaction against a linked server after you install Windows XP Service Pack 2 or Windows XP Tablet PC Edition 2005 [Q873160]")
 

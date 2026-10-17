@@ -72,7 +72,7 @@ Windows XP started using balloon tips heavily, as an attempt to help the average
 >  EnableBalloonNotificationsLocal = 0  
 >  EnableBalloonNotificationsRemote = 0  
 >   
->  More Info [MS KB831582](http://support.microsoft.com/kb/831582 "No network printer notifications appear even though the "Show informational notifications for network printers" check box is selected in Windows XP [Q831582]")
+>  More Info [MS KB831582](http://support.microsoft.com/kb/831582 "No network printer notifications appear even though the 'Show informational notifications for network printers' check box is selected in Windows XP [Q831582]")
 
  <a name="SECURITY_CENTER"></a> To disable the [Security Center](/article/winnt-services-wscsvc.html) notification balloon tips:
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Security Center\]  

@@ -44,7 +44,7 @@ The following happens when an application requests a network resource using the 
 >  DisableDfs = 1 (Default = 0)  
 >   
 >  More Info [MS KB259398](http://support.microsoft.com/kb/259398 "SceCli Event ID 1001 and UserEnv Event ID 1000 When Dfs Client Is Disabled [Q259398]")  
->  More Info [MS KB314494](http://support.microsoft.com/kb/314494 "Group Policies Are Not Applied The Way You Expect; "Event ID 1058" and "Event ID 1030" Errors in the Application Log [Q314494]")
+>  More Info [MS KB314494](http://support.microsoft.com/kb/314494 "Group Policies Are Not Applied The Way You Expect; 'Event ID 1058' and 'Event ID 1030' Errors in the Application Log [Q314494]")
 
  Note MUP.SYS is usually the last driver being shown before launching the operating system, and if there is a problem with loading Windows, then it might seem like MUP.SYS is causing the problem (But it is not).  
   

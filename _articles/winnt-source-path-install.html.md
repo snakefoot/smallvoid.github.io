@@ -24,7 +24,7 @@ When installing new components then it uses the following registry keys to find 
 >  \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows \\CurrentVersion \\Setup\]  
 >  Installation Sources = "D:\\i386" (MULTI\_SZ - Use Regedt32.exe)  
 >   
->  More Info [MS KB168645](http://support.microsoft.com/kb/168645 "Error: Please Insert the Compaq SSD into Drive "CD-ROM" [Q168645]")  
+>  More Info [MS KB168645](http://support.microsoft.com/kb/168645 "Error: Please Insert the Compaq SSD into Drive 'CD-ROM' [Q168645]")  
 >  More Info [MS KB323003](http://support.microsoft.com/kb/323003 "HOW TO: Change the Location of the Installation Files in Windows 2000 [Q323003]")  
 >  More Info [MS KB811260](http://support.microsoft.com/kb/811260 "Prompted to Insert Your Windows XP CD-ROM During Setup When the CD-ROM Is in the CD-ROM Drive [Q811260]")  
 >  More Info [MS KB833615](http://support.microsoft.com/kb/833615 "The Specify Windows Installation File Location and the Specify Windows Service Pack Installation File Location Group Policy objects do not behave as described on the Explain tab [Q833615]")

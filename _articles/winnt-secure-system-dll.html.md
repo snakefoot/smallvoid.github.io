@@ -26,7 +26,7 @@ If a malicious user can interactively log on your computer. Then the user can lo
 >  More Info [MS KB218473](http://support.microsoft.com/kb/218473 "Restricting Changes to Base System Objects [Q218473]")  
 >  More Info [MS KB222159](http://support.microsoft.com/kb/222159 "Symbolic Link Case Sensitivity Exploit Bypasses System Security [Q222159]")  
 >  More Info [MS KB244995](http://support.microsoft.com/kb/244995 "Base System Object Restrictions Are Not Enabled by Default [Q244995]")  
->  More Info [MS KB253821](http://support.microsoft.com/kb/253821 "System Error 85 with "NET USE" Command [Q253821]")
+>  More Info [MS KB253821](http://support.microsoft.com/kb/253821 "System Error 85 with 'NET USE' Command [Q253821]")
 
  There is a search order which is used when an application requests a DLL.
 1. Look in the application folder

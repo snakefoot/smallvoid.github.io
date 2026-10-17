@@ -67,6 +67,6 @@ Each NTFS partition has a Master File Table(MFT), which is used when looking up 
  More Info [MS KB227350](http://support.microsoft.com/kb/227350 "Files Excluded by the Disk Defragmenter Tool [Q227350]")  
  More Info [MS KB303079](http://support.microsoft.com/kb/303079 "How to Locate and Correct Disk Space Problems on NTFS Volumes [Q303079]")  
  More Info [MS KB315688](http://support.microsoft.com/kb/315688 "How to Locate and Correct Disk Space Problems on NTFS Volumes in Windows XP [Q315688]")  
- More Info [MS KB320397](http://support.microsoft.com/kb/320397 "You receive an "NTLDR is missing" error message when you start your computer [Q320397]")  
+ More Info [MS KB320397](http://support.microsoft.com/kb/320397 "You receive an 'NTLDR is missing' error message when you start your computer [Q320397]")  
   
  Credits [littleharbor.com](http://www.littleharbor.com/ntfs-details.htm)

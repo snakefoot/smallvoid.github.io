@@ -27,6 +27,6 @@ With the introduction of the Active desktop it became possible to configure how 
  More Info [MS KB181689](http://support.microsoft.com/kb/181689 "INFO: Purpose and Format of Folder.htt [Q181689]")  
  More Info [MS KB182000](http://support.microsoft.com/kb/182000 "How to Customize a Folder for Web View [Q182000]")  
  More Info [MS KB184785](http://support.microsoft.com/kb/184785 "Windows 98 Program Files Folder Is Displayed Incorrectly [Q184785]")  
- More Info [MS KB228035](http://support.microsoft.com/kb/228035 "Removing the "Show Files" Link in Windows Explorer [Q228035]")  
+ More Info [MS KB228035](http://support.microsoft.com/kb/228035 "Removing the 'Show Files' Link in Windows Explorer [Q228035]")  
   
  Credits [win98central.com](http://win98central.com/)

@@ -26,13 +26,13 @@ tags:
 3. In the right pane double click **Impersonate a client after authentication**
 4. Press **Add...** to enable other users to impersonate other accounts
  
- More Info [MS KB821546](http://support.microsoft.com/kb/821546 "Overview of the "Impersonate a Client After Authentication" and the "Create Global Objects" Security Settings [Q821546]")  
+ More Info [MS KB821546](http://support.microsoft.com/kb/821546 "Overview of the 'Impersonate a Client After Authentication' and the 'Create Global Objects' Security Settings [Q821546]")  
   
  Note one can also run applications as another user from the command line using "RUNAS", though in Win2k it will prompt for password unless using [Sanur](http://www.commandline.co.uk/sanur/ "Runas Automation Utility"), [CPUA](http://www.joeware.net/ "Create Process As User - Joe Richards"), [LSrunas](http://www.lansweeper.com/ls/lsrunas.aspx "LanSweeper RunAs") or [Steel Run-As](http://www.steelsonic.com/). WinXP Professional (Not Home) extends "RUNAS" with the /savecred option where one is only prompted for the password once. To see all options available:
 > runas /?  
 >   
->  More Info [MS KB294676](http://support.microsoft.com/kb/294676 "HOW TO: Enable and Use the "Run As" Command When Running Programs [Q294676]")  
->  More Info [MS KB893677](http://support.microsoft.com/kb/893677 "You receive the "Game requires Administrative rights to play" error message when you try to play a game in Windows XP Professional [Q893677]")
+>  More Info [MS KB294676](http://support.microsoft.com/kb/294676 "HOW TO: Enable and Use the 'Run As' Command When Running Programs [Q294676]")  
+>  More Info [MS KB893677](http://support.microsoft.com/kb/893677 "You receive the 'Game requires Administrative rights to play' error message when you try to play a game in Windows XP Professional [Q893677]")
 
  Note in WinNT4 one can use the Super User Service Starter SUSS.EXE and the tool SU.EXE (Found in the NT reskit):
 > SUSS.EXE -install  

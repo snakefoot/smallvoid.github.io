@@ -62,7 +62,7 @@ It is possible to make the logon automatically, which is very convenient when us
  More info [MS KB234333](http://support.microsoft.com/kb/234333 "Prompt for User Credentials After Specifying Not to Be Prompted [Q234333]")  
  More info [MS KB234562](http://support.microsoft.com/kb/234562 "How to Enable Automatic Logon in Windows 2000 Pro [Q234562]")  
  More info [MS KB282866](http://support.microsoft.com/kb/282866 "HOW TO: Automatically Log On a User Account in Windows XP [Q282866]")  
- More info [MS KB300433](http://support.microsoft.com/kb/300433 "The "Administrator Logon" Dialog Box May Be Hidden Under the Welcome Screen or "The System Could Not Log You on" Message May Be Displayed [Q300433]")  
+ More info [MS KB300433](http://support.microsoft.com/kb/300433 "The 'Administrator Logon' Dialog Box May Be Hidden Under the Welcome Screen or 'The System Could Not Log You on' Message May Be Displayed [Q300433]")  
  More info [MS KB310584](http://support.microsoft.com/kb/310584 "How to Enable Automatic Logon in Windows 2000 [Q310584]")  
  More info [MS KB315231](http://support.microsoft.com/kb/315231 "How to Enable Automatic Logon in Windows XP [Q315231]")  
  More info [MS KB324737](http://support.microsoft.com/kb/324737 "How to Enable Automatic Logon in Windows 2003 [Q324737]")  

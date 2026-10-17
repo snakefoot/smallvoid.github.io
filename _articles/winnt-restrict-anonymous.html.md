@@ -38,7 +38,7 @@ By standard it is possible for anonymous users to use NULL sessions to view:
 >   
 >  More info [MS KB143474](http://support.microsoft.com/kb/143474 "Restricting Information Available to Anonymous Logon Users [Q143474]")  
 >  More info [MS KB246261](http://support.microsoft.com/kb/246261 "How to Use the RestrictAnonymous Registry Value in Windows 2000 [Q246261]")  
->  More info [MS KB296405](http://support.microsoft.com/kb/296405 "The "RestrictAnonymous" Registry Value May Break the Trust to a Windows 2000 Domain [Q296405]")  
+>  More info [MS KB296405](http://support.microsoft.com/kb/296405 "The 'RestrictAnonymous' Registry Value May Break the Trust to a Windows 2000 Domain [Q296405]")  
 >  More info [MS KB328459](http://support.microsoft.com/kb/328459 "Troubleshooting Server Message Block Inbound Connection Limit in Windows Peer-to-Peer Workgroup [Q328459]")  
 >  More info [MS KB837964](http://support.microsoft.com/kb/837964 "Security issues with LDAP NULL base connections [Q837964]")
 

@@ -28,7 +28,7 @@ Windows NT is very sensitive about changes in the boot devices (compared to Win9
    More Info [MS KB220845](http://support.microsoft.com/kb/220845 "Adding Third-Party or Updated Driver During Windows Setup [Q220845]")  
    More Info [MS KB295116](http://support.microsoft.com/kb/295116 "A Description of the Windows XP Setup Function Keys [Q295116]")  
    More Info [MS KB314859](http://support.microsoft.com/kb/314859 "Limited OEM Driver Support Is Available with F6 During Windows XP Setup [Q314859]")  
-   More Info [MS KB822051](http://support.microsoft.com/kb/822051 "How to troubleshoot "Stop 0x0000007B" error messages that occur when you run Windows 2000 Setup [Q822051]") (Replaces MS KB271274)  
+   More Info [MS KB822051](http://support.microsoft.com/kb/822051 "How to troubleshoot 'Stop 0x0000007B' error messages that occur when you run Windows 2000 Setup [Q822051]") (Replaces MS KB271274)  
     
    Related [Include 3rd party controller drivers using unattended install](/article/recovery-console-drivers.html)
 - **When moving an existing Windows NT install to different hardware:**  

@@ -38,7 +38,7 @@ tags:
  Note if having disabled this service, and then try to repair a network connection, one will get the following error message:
 > *The following steps of the repair operation failed: Purging the DNS Resolver Cache. Please contact your network administrator or ISP.*   
 >   
-> More Info [MS KB913631](http://support.microsoft.com/kb/913631 "Error message that is similar to the following when you use the Repair option for a local area connection in Windows XP: "The following steps of the repair operation failed" [Q913631]")
+> More Info [MS KB913631](http://support.microsoft.com/kb/913631 "Error message that is similar to the following when you use the Repair option for a local area connection in Windows XP: 'The following steps of the repair operation failed' [Q913631]")
 
  Related [Configure how long to cache negative DNS replies](/article/winnt-dns-negative-reply.html)  
  Related [Microsoft TCP/IP Version 6 (IPv6) can cause slow DNS](/article/winnt-ipv6-dns-error.html)  

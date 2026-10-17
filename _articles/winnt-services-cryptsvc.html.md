@@ -36,7 +36,7 @@ tags: []
  Related [Fix a non-working Windows Update](/article/repair-windows-update.html)  
   
  More Info [MS KB281458](http://support.microsoft.com/kb/281458 "Error Message When You Install a Windows 2000 Service Pack or Product Update [Q281458]")  
- More Info [MS KB316524](http://support.microsoft.com/kb/316524 "You receive an "Administrators only" error message when you try to visit the Windows Update Web site or the Microsoft Update Web site [Q316524]")  
+ More Info [MS KB316524](http://support.microsoft.com/kb/316524 "You receive an 'Administrators only' error message when you try to visit the Windows Update Web site or the Microsoft Update Web site [Q316524]")  
  More Info [MS KB813442](http://support.microsoft.com/kb/813442 "Detecting Digital Signing Issues in Windows XP [Q813442]")  
  More Info [MS KB813444](http://support.microsoft.com/kb/813444 "HOW TO: Troubleshoot Situations Where You Cannot Connect to Secure Web Sites by Using Internet Explorer in Windows XP [Q813444]")  
  More Info [MS KB822798](http://support.microsoft.com/kb/822798 "You Cannot Install Updates or You Are Prompted to Install Updates That You Have Already Installed [Q822798]") (Replaces MS KB326815)  

@@ -34,5 +34,5 @@ When right-clicking a file or folder in Windows Explorer, then the context-menu 
  
  Related [SendTo X - Adds a send to any folder](/article/win95-power-toys.html)  
   
- More Info [MS KB141017](http://support.microsoft.com/kb/141017 "How to Add Items to the "Send To" list [Q141017]")  
- More Info [MS KB310270](http://support.microsoft.com/kb/310270 "How to Add Items to the "Send To" Menu in Windows XP [Q310270]")  
+ More Info [MS KB141017](http://support.microsoft.com/kb/141017 "How to Add Items to the 'Send To' list [Q141017]")  
+ More Info [MS KB310270](http://support.microsoft.com/kb/310270 "How to Add Items to the 'Send To' Menu in Windows XP [Q310270]")  

@@ -27,7 +27,7 @@ The [NT Loader](/article/winnt-update-boot-manager.html) (NTLDR) is part of the 
 - Ntdetect.com
 - [Boot.ini](/article/winnt-boot-ini.html)
  
- If using Windows 2000/XP then one can restore the boot files using the [Recovery Console](/article/winnt-recovery-console.html), and copy the NtLdr and Ntdetect.com (NOT Boot.ini) from the Windows 2000/XP install CD to the boot partition. And if using Windows XP then one can try to rebuild the boot.ini file using the recovery console command "bootcfg /rebuild". More Info [MS KB318728](http://support.microsoft.com/kb/318728 "How to troubleshoot the "NTLDR Is Missing" error message in Windows 2000 [Q318728]")  
+ If using Windows 2000/XP then one can restore the boot files using the [Recovery Console](/article/winnt-recovery-console.html), and copy the NtLdr and Ntdetect.com (NOT Boot.ini) from the Windows 2000/XP install CD to the boot partition. And if using Windows XP then one can try to rebuild the boot.ini file using the recovery console command "bootcfg /rebuild". More Info [MS KB318728](http://support.microsoft.com/kb/318728 "How to troubleshoot the 'NTLDR Is Missing' error message in Windows 2000 [Q318728]")  
   
  If using Windows NT4/2000/XP then one can create a custom bootable floppy containing the boot files. Where the Boot.ini points to the boot partition, so when booting from the floppy it will load Windows NT from the boot partition and allow one to repair the boot files within Windows NT. More Info [MS KB119467](http://support.microsoft.com/kb/119467 "How to Create a Bootable Disk for an NTFS or FAT Partition [Q119467]")  
   

@@ -26,7 +26,7 @@ Windows XP changes the filesearch functionality to only to look for registered f
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\ContentIndex\]  
 >  FilterFilesWithUnknownExtensions = 1 (Default = 0)  
 >   
->  More Info [MS KB309173](http://support.microsoft.com/kb/309173 "Using the "A Word or Phrase in the File" Search Criterion May Not Work [Q309173]")
+>  More Info [MS KB309173](http://support.microsoft.com/kb/309173 "Using the 'A Word or Phrase in the File' Search Criterion May Not Work [Q309173]")
  
  To make it use the classic search without assistant, set this STRING value in the registry (Will make it stop accessing the Internet for search tips):
  > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\CabinetState\]  

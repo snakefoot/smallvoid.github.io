@@ -57,7 +57,7 @@ The hard disk is extremely slow compared to physical memory (RAM), but provides 
  
 ##### How to configure write caching?
 
-- Windows 2000 SP3 / XP SP2 - Requires the utility **Dskcache.exe** to enable **Power Protected** write cache. More Info [MS KB811392](http://support.microsoft.com/kb/811392 "Obtain the Dskcache.exe Tool to Configure the "Power Protected" Write Cache Option [Q811392]"), [MS KB332023](http://support.microsoft.com/kb/332023 "Slow Disk Performance When Write Caching Is Enabled [Q332023]")
+- Windows 2000 SP3 / XP SP2 - Requires the utility **Dskcache.exe** to enable **Power Protected** write cache. More Info [MS KB811392](http://support.microsoft.com/kb/811392 "Obtain the Dskcache.exe Tool to Configure the 'Power Protected' Write Cache Option [Q811392]"), [MS KB332023](http://support.microsoft.com/kb/332023 "Slow Disk Performance When Write Caching Is Enabled [Q332023]")
 - Windows 2003 / Vista - The option with the misleading name "Enable Advanced Performance", which can be found on the "Policies"-tab for each hard disk device in the "Device Manager" (Have to activate "Optimize for performance" and "Enable write caching on the disk").
 - Windows 7 - The option is called "Turn off Windows write-cache buffer flushing on the device.", which can be found on the "Policies"-tab for each hard disk device in the "Device Manager" (Have to activate "Enable write caching on the device")
  

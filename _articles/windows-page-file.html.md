@@ -152,7 +152,7 @@ When using Windows NT operating systems, then the best configuration for the pag
  Note in WinNT+ there is an option to [Clear the Windows Paging File at Shutdown (MS KB182086)](http://support.microsoft.com/kb/182086 "How to Clear the Windows Paging File at Shutdown [Q182086]") and it is not recommended for the home user. It will increase the time it takes to shutdown because it has to write zero's in the whole pagefile on the HDD. The reason for enabling clearing is to avoid that a very skilled person can open the pagefile and spy on the things you were doing while logged in (It requires that the person has physical access to the machine).  
   
  More Info [MS KB175639](http://support.microsoft.com/kb/175639 "Windows 95/98 and Windows NT 4.0 Can Share Virtual Memory [Q175639]")  
- More Info [MS KB837869](http://support.microsoft.com/kb/837869 "Error message when you when you start or play a Microsoft game: "Your system is low on virtual memory" [Q837869]")  
+ More Info [MS KB837869](http://support.microsoft.com/kb/837869 "Error message when you when you start or play a Microsoft game: 'Your system is low on virtual memory' [Q837869]")  
  More Info [MS KB889654](http://support.microsoft.com/kb/889654 "How to determine the appropriate page file size for 64-bit versions of Windows Server 2003 or Windows XP [Q889654]")  
   
  Related [Disable the page file to avoid using the slow HDD](/article/windows-disable-page-file.html)  

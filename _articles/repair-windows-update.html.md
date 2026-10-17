@@ -88,5 +88,5 @@ There can be several causes for errors when using [windowsupdate.microsoft.com](
  More Info [Windows Update Troubleshooter](http://v4.windowsupdate.microsoft.com/troubleshoot/)  
  More Info [MS KB241234](http://support.microsoft.com/kb/241234 "WINUP-Third-Party Products That Conflict with Windows Update [Q241234]")  
  More Info [MS KB313817](http://support.microsoft.com/kb/313817 "Error Message: Connection Reset by Peer [Q313817]")  
- More Info [MS KB319585](http://support.microsoft.com/kb/319585 "WINUP: "Software Update Incomplete, This Windows Update Software Did Not Update Successfully" Error Message When You Visit the Windows Update Web Site [Q319585]")  
+ More Info [MS KB319585](http://support.microsoft.com/kb/319585 "WINUP: 'Software Update Incomplete, This Windows Update Software Did Not Update Successfully' Error Message When You Visit the Windows Update Web Site [Q319585]")  
  More Info [MS KB813444](http://support.microsoft.com/kb/813444 "HOW TO: Troubleshoot Situations Where You Cannot Complete MSN Sign-up or Connect to SSL Secured (128-Bit) Web Sites by Using Internet Explorer in Windows XP [Q813444]")  

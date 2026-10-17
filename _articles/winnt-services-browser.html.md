@@ -35,7 +35,7 @@ tags:
 > *MShome is not accessible. You might not have permission to use this network resource. Contact the administrator of this server to find out if you have access permissions.*   
 >   
 >  More Info [MS KB318030](http://support.microsoft.com/kb/318030 "You cannot access shared files and folders or browse computers in the workgroup [Q318030]")  
->  More Info [MS KB913619](http://support.microsoft.com/kb/913619 "Error message in Windows XP: "MShome is not accessible" [Q913619]")
+>  More Info [MS KB913619](http://support.microsoft.com/kb/913619 "Error message in Windows XP: 'MShome is not accessible' [Q913619]")
 
  More Info [Microsoft Technet](http://www.microsoft.com/technet/prodtechnol/windows2000serv/reskit/tcpip/part4/tcpappi.asp "Appendix I - Windows 2000 Browser Service")  
  More Info [MS KB188001](http://support.microsoft.com/kb/188001 "Description of the Microsoft Computer Browser Service [Q188001]")  

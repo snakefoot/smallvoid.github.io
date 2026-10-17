@@ -66,7 +66,7 @@ The order of which applications are loaded and where they are loaded from:
 >  \[HKEY\_LOCAL\_MACHINE \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\System\]  
 >  SynchronousMachineGroupPolicy = 1 (0 = Do not wait for domain controller to apply machine policies)  
 >   
->  More Info [MS KB304970](http://support.microsoft.com/kb/304970 "Scripts May Not Run Before Windows Explorer Starts Even Though the "Run Logon Scripts Synchronously" Setting is Enabled [Q304970]")  
+>  More Info [MS KB304970](http://support.microsoft.com/kb/304970 "Scripts May Not Run Before Windows Explorer Starts Even Though the 'Run Logon Scripts Synchronously' Setting is Enabled [Q304970]")  
 >  More Info [MS KB305293](http://support.microsoft.com/kb/305293 "Description of the Windows XP Professional Fast Logon Optimization Feature [Q305293]")
 
  Note Winlogon.exe controls the login process, by loading user registry, applying user group policies, and the launch of UserInit.exe. The UserInit.exe performs login scripts and executes program specified in Shell=. One can configure the behavior of Winlogon.exe:
@@ -84,7 +84,7 @@ The order of which applications are loaded and where they are loaded from:
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control\\ Windows\]  
 >  NoPopUpsOnBoot = 1 (0 = Show popup messages during bootup)  
 >   
->  More Info [MS KB924690](http://support.microsoft.com/kb/924690 "Error message when you start Windows Server 2003 SP1 for the first time: "Windows could not be started as configured" [Q924690]")
+>  More Info [MS KB924690](http://support.microsoft.com/kb/924690 "Error message when you start Windows Server 2003 SP1 for the first time: 'Windows could not be started as configured' [Q924690]")
 
  Related [Use SHIFT-key to prevent launch of 6-15](/article/windows-startup-order.html)  
   

@@ -59,7 +59,7 @@ The 32 bit Windows can address 4 GB memory, which for each process it divided in
 >   
 >  More Info [MS KB189327](http://support.microsoft.com/kb/189327 "How To Map Adapter RAM into Process Address Space [Q189327]")  
 >  More Info [MS KB247904](http://support.microsoft.com/kb/247904 "How to Configure the Paged Address Pool and System Page Table Entry Memory Areas [Q247904]")  
->  More Info [MS KB256004](http://support.microsoft.com/kb/256004 "How to troubleshoot "STOP 0x0000003F" and "STOP 0x000000D8" error messages [Q256004]")  
+>  More Info [MS KB256004](http://support.microsoft.com/kb/256004 "How to troubleshoot 'STOP 0x0000003F' and 'STOP 0x000000D8' error messages [Q256004]")  
 >  More Info [MS KB313707](http://support.microsoft.com/kb/313707 "XADM: An Exchange 2000 Server with the "/3GB" Switch in the Boot.ini File May Lose Network Connectivity Under a Heavy Messaging Load [Q313707]")  
 >  More Info [MS KB818894](http://support.microsoft.com/kb/818894 "Changes to increase the number of open files in Windows 2000, in Windows 2003, and in Windows XP [Q818894]")
 

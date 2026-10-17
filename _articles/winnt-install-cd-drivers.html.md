@@ -84,7 +84,7 @@ When installing Windows NT on a drive connected to a 3rd party controller, which
  More Info [MS KB155197](http://support.microsoft.com/kb/155197 "HOWTO: Unattended Setup Parameters for Unattend.txt File (MS KB155197) [Q155197]")  
  More Info [MS KB166028](http://support.microsoft.com/kb/166028 "INFO: Installing Third-Party Video Drivers with Txtsetup.oem Unattended (MS KB166028) [Q166028]")  
  More Info [MS KB254078](http://support.microsoft.com/kb/254078 "How to Add OEM Plug and Play Drivers to Windows Installations (MS KB254078) [Q254078]")  
- More Info [MS KB255771](http://support.microsoft.com/kb/255771 "How to Minimize the Installed "Footprint" of Windows 2000 Professional [Q255771]")  
+ More Info [MS KB255771](http://support.microsoft.com/kb/255771 "How to Minimize the Installed 'Footprint' of Windows 2000 Professional [Q255771]")  
  More Info [MS KB314479](http://support.microsoft.com/kb/314479 "How to Add OEM Plug and Play Drivers to Windows XP [Q314479]")  
  More Info [MS KB816299](http://support.microsoft.com/kb/816299 "HOW TO: Create an Unattended Installation of Third-Party Mass Storage Drivers in Windows Server 2003")  
   

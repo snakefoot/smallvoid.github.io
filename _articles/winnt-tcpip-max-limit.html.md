@@ -35,7 +35,7 @@ To keep the TCP/IP stack from taking all resources on the computer, there are di
 >   
 >  More Info [The Cable Guy - Ephemeral, Reserved, and Blocked Port Behavior](http://www.microsoft.com/technet/community/columns/cableguy/cg1205.mspx)  
 >  More Info [MS KB196271](http://support.microsoft.com/kb/196271 "Unable to Connect from TCP Ports Above 5000 [Q196271]")  
->  More Info [MS KB319502](http://support.microsoft.com/kb/319502 "PRB: "WSAEADDRESSINUSE" Error Message When You Try to Connect Through an Anonymous Port After You Increase the IMAP Connection Limit [Q319502]")  
+>  More Info [MS KB319502](http://support.microsoft.com/kb/319502 "PRB: WSAEADDRESSINUSE Error Message When You Try to Connect Through an Anonymous Port After You Increase the IMAP Connection Limit [Q319502]")  
 >  More Info [MS KB319504](http://support.microsoft.com/kb/319504 "Error Message: The Name Limit for the Local Computer Network Adapter Card Was Exceeded [Q319504]")  
 >  More Info [MS KB328476](http://support.microsoft.com/kb/328476 "TCP/IP Settings for SQL Server Drivers When Pooling Is Disabled [Q328476]")  
 >  More Info [MS KB836429](http://support.microsoft.com/kb/836429 "'The server is not operational' message in the Migration.log file when you use the ADMT Ver.2 in Win2k3 or in Win2k [Q836429]")

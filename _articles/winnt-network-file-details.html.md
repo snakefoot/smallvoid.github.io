@@ -34,7 +34,7 @@ When opening a file over a network, then besides requesting the file contents, t
 
  Note the latest service pack for Win2k(SP4) / WinXP(SP1) has to be applied first before it will recognize these registry entries.  
   
- More Info [MS KB321126](http://support.microsoft.com/kb/321126 "The "Look In" and "Save As" Boxes in Common Dialog Boxes Are Slow [Q321126]")  
+ More Info [MS KB321126](http://support.microsoft.com/kb/321126 "The 'Look In' and 'Save As' Boxes in Common Dialog Boxes Are Slow [Q321126]")  
  More Info [MS KB829700](http://support.microsoft.com/kb/829700 "Slow Network Performance When You Open a File That Is Located in a Shared Folder on a Remote Network Computer [Q829700]")  
   
  Credits [www.jsifaq.com](http://www.jsifaq.com/)
