@@ -22,7 +22,7 @@ It is possible to log unsuccessful logins to your machine, to detect if someone 
  
  Note audits can also be useful when trying to figure out what keeps an application from working when started with user-privileges. The audits can show the failures that occurs when the application tries to access the needed folders and registry-entries. One can then change the Access Control List (ACL) for these resources, so access is granted when having user-privileges.  
   
- More info [MS KB300549](http://support.microsoft.com/kb/300549 "How To Enable and Apply Security Auditing in Windows 2000 [Q300549]")  
- More info [MS KB310399](http://support.microsoft.com/kb/310399 "How To Audit User Access of Files, Folders, and Printers in Windows XP [Q310399]")  
- More info [MS KB315416](http://support.microsoft.com/kb/315416 "HOW TO: Use Group Policy to Audit Registry Keys in Windows 2000 [Q315416]")  
- More info [MS KB324739](http://support.microsoft.com/kb/324739 "HOW TO: Use Group Policy to Audit Registry Keys in Windows Server 2003 [Q324739]")  
+ More info <a href="https://www.bing.com/search?q=KB%20300549%20Q300549" rel="nofollow" title="How To Enable and Apply Security Auditing in Windows 2000 [Q300549]">MS KB300549</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20310399%20Q310399" rel="nofollow" title="How To Audit User Access of Files, Folders, and Printers in Windows XP [Q310399]">MS KB310399</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20315416%20Q315416" rel="nofollow" title="HOW TO: Use Group Policy to Audit Registry Keys in Windows 2000 [Q315416]">MS KB315416</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20324739%20Q324739" rel="nofollow" title="HOW TO: Use Group Policy to Audit Registry Keys in Windows Server 2003 [Q324739]">MS KB324739</a>  

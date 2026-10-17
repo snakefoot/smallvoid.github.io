@@ -16,7 +16,7 @@ Microsoft have created the exFAT filesystem to better support flash drives. It i
   
  The exFAT/FAT64 filesystem is only supported for Windows Vista/2008/CE 6.0, and it is not possible by default to access exFAT partitions from other versions of Windows.  
   
- Microsoft have now released an [official driver update for Windows XP](http://www.microsoft.com/downloads/details.aspx?FamilyID=1cbe3906-ddd1-4ca2-b727-c2dff5e30f61), that allows one to access exFAT partitions. More Info [MS KB955704](http://support.microsoft.com/kb/955704 "Description of the exFAT file system driver update package")
+ Microsoft have now released an [official driver update for Windows XP](http://www.microsoft.com/downloads/details.aspx?FamilyID=1cbe3906-ddd1-4ca2-b727-c2dff5e30f61), that allows one to access exFAT partitions. More Info <a href="https://www.bing.com/search?q=KB%20955704%20Q955704" rel="nofollow" title="Description of the exFAT file system driver update package">MS KB955704</a>
 
 ##### Unofficial way of installing exFAT support
 

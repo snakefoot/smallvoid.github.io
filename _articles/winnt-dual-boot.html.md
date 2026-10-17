@@ -25,14 +25,14 @@ By default when installing Windows NT on top of an existing Windows operating sy
 - Install the older version of Windows on a new primary partition, and then change the active partition back to the hard disk partition containing the newer version of Windows with the [recovery console](/article/winnt-recovery-console.html) command **fixboot**. Then use the [recovery console](/article/winnt-recovery-console.html) command **bootcfg** to configure the boot manager to include the older version of Windows on the other partition.
  
  Microsoft has created several dual boot articles:
-- [Dual-Booting Windows NT 4.0 and Windows 2000 on NTFS Partitions (MS KB184299)](http://support.microsoft.com/kb/184299)
-- [How to Dual Boot Windows 98 and Windows NT 4.0 with FAT16 or NTFS Volumes (MS KB243896)](http://support.microsoft.com/kb/243896)
-- [How to Set Up Dual Boot After You Install Windows (MS KB153762)](http://support.microsoft.com/kb/153762)
-- [Restoring Windows NT Dual Boot After Installing Windows 95 (MS KB136547)](http://support.microsoft.com/kb/136547)
-- [How to Triple Boot to Windows NT, Windows 95/98, and MS-DOS (MS KB157992)](http://support.microsoft.com/kb/157992)
-- [How to Multiple Boot Windows XP, Windows 2000, Windows NT, Windows 95, Windows 98, Windows Me, and MS-DOS (MS KB217210)](http://support.microsoft.com/kb/217210)
-- [Removing Windows NT from a Windows 95/98 Dual-Boot Installation (MS KB171444)](http://support.microsoft.com/kb/171444)
-- [How to Remove Windows 98 When It Is Part of a Dual Boot with Windows 2000 (MS KB285480)](http://support.microsoft.com/kb/285480)
-- [How To Create a Multiple-Boot System in Windows XP (MS KB306559)](http://support.microsoft.com/kb/306559)
+- <a href="https://www.bing.com/search?q=KB+184299+Q184299" rel="nofollow">Dual-Booting Windows NT 4.0 and Windows 2000 on NTFS Partitions (MS KB184299)</a>
+- <a href="https://www.bing.com/search?q=KB+243896+Q243896" rel="nofollow">How to Dual Boot Windows 98 and Windows NT 4.0 with FAT16 or NTFS Volumes (MS KB243896)</a>
+- <a href="https://www.bing.com/search?q=KB+153762+Q153762" rel="nofollow">How to Set Up Dual Boot After You Install Windows (MS KB153762)</a>
+- <a href="https://www.bing.com/search?q=KB+136547+Q136547" rel="nofollow">Restoring Windows NT Dual Boot After Installing Windows 95 (MS KB136547)</a>
+- <a href="https://www.bing.com/search?q=KB+157992+Q157992" rel="nofollow">How to Triple Boot to Windows NT, Windows 95/98, and MS-DOS (MS KB157992)</a>
+- <a href="https://www.bing.com/search?q=KB+217210+Q217210" rel="nofollow">How to Multiple Boot Windows XP, Windows 2000, Windows NT, Windows 95, Windows 98, Windows Me, and MS-DOS (MS KB217210)</a>
+- <a href="https://www.bing.com/search?q=KB+171444+Q171444" rel="nofollow">Removing Windows NT from a Windows 95/98 Dual-Boot Installation (MS KB171444)</a>
+- <a href="https://www.bing.com/search?q=KB+285480+Q285480" rel="nofollow">How to Remove Windows 98 When It Is Part of a Dual Boot with Windows 2000 (MS KB285480)</a>
+- <a href="https://www.bing.com/search?q=KB+306559+Q306559" rel="nofollow">How To Create a Multiple-Boot System in Windows XP (MS KB306559)</a>
  
  Credits [labmice.net](http://www.labmice.net)

@@ -30,26 +30,26 @@ If having a laptop which you use in different networks (Home, Work, Customer, et
  Repair/reinit the TCP/IP protocol if it has gone bad (Useful as WinXP cannot uninstall the TCPIP stack):
 > netsh int ip reset  
 >   
->  More info [MS KB299357](http://support.microsoft.com/kb/299357 "How to reset TCP/IP by using the NetShell utility [Q299357]")
+>  More info <a href="https://www.bing.com/search?q=KB%20299357%20Q299357" rel="nofollow" title="How to reset TCP/IP by using the NetShell utility [Q299357]">MS KB299357</a>
 
  Repair/re-init the Winsock interface if it has gone bad (Available in WinXP SP2 and Win2k3 SP1):
 > netsh winsock reset  
 >   
->  More info [Repair Winsock and TCP/IP in WinXP/Win2k3 (MS KB811259)](http://support.microsoft.com/kb/811259 "How to determine and recover from Winsock2 corruption [Q811259]")  
->  More info [Repair Winsock and TCP/IP in Win2k (MS KB837333)](http://support.microsoft.com/kb/837333 "How to repair network or modem connectivity issues in Windows 2000 [Q837333]")  
->  More info [Repair network for a Win2k Domain Controller (MS KB299451)](http://support.microsoft.com/kb/299451 "HOW TO: Remove and Reinstall TCP/IP on a Windows 2000 Domain Controllerr")  
->  More info [Repair network for a Win2k3 Domain Controller (MS KB325356)](http://support.microsoft.com/kb/325356 "How to remove and reinstall TCP/IP on a Windows Server 2003 domain controller [Q325356]")
+>  More info <a href="https://www.bing.com/search?q=KB+811259+Q811259" title="How to determine and recover from Winsock2 corruption [Q811259]" rel="nofollow">Repair Winsock and TCP/IP in WinXP/Win2k3 (MS KB811259)</a>  
+>  More info <a href="https://www.bing.com/search?q=KB+837333+Q837333" title="How to repair network or modem connectivity issues in Windows 2000 [Q837333]" rel="nofollow">Repair Winsock and TCP/IP in Win2k (MS KB837333)</a>  
+>  More info <a href="https://www.bing.com/search?q=KB+299451+Q299451" title="HOW TO: Remove and Reinstall TCP/IP on a Windows 2000 Domain Controllerr" rel="nofollow">Repair network for a Win2k Domain Controller (MS KB299451)</a>  
+>  More info <a href="https://www.bing.com/search?q=KB+325356+Q325356" title="How to remove and reinstall TCP/IP on a Windows Server 2003 domain controller [Q325356]" rel="nofollow">Repair network for a Win2k3 Domain Controller (MS KB325356)</a>
 
  Note WinXP includes an option called **Alternative Configuration**, which is used when in a network without an available DHCP server, without needing to fiddle with netsh.
 - On the **Start**-menu, click **Control Panel**.
 - Click **Network and Internet Connections** and click **Network Connections**.
 - Right-click the wanted connection and select **Properties**.
 - Select **Internet Protocol (TCP/IP)** and press **Properties**.
-- If the normal configuration is DHCP, then the **Alternate Configuration**-tab should be available. More info [MS KB283676](http://support.microsoft.com/kb/283676 "How to use the Alternate Configuration feature for multiple network connectivity in Windows XP [Q283676]")
+- If the normal configuration is DHCP, then the **Alternate Configuration**-tab should be available. More info <a href="https://www.bing.com/search?q=KB%20283676%20Q283676" rel="nofollow" title="How to use the Alternate Configuration feature for multiple network connectivity in Windows XP [Q283676]">MS KB283676</a>
  
- More info [How to Use the Netsh.exe Tool and Command-Line Switches (MS KB242468)](http://support.microsoft.com/kb/242468)  
- More info [Using NETSH to Change from Static IP to DHCP in Windows 2000 - (MS KB257748)](http://support.microsoft.com/kb/257748)  
- More info [NetSh Dump Does Not Completely Configure and Enable the RRAS (MS KB254249)](http://support.microsoft.com/kb/254249)  
- More info [How to Use the Netsh Utility to Export and Import DHCP Scopes (MS KB281626)](http://support.microsoft.com/kb/281626)  
+ More info <a href="https://www.bing.com/search?q=KB+242468+Q242468" rel="nofollow">How to Use the Netsh.exe Tool and Command-Line Switches (MS KB242468)</a>  
+ More info <a href="https://www.bing.com/search?q=KB+257748+Q257748" rel="nofollow">Using NETSH to Change from Static IP to DHCP in Windows 2000 - (MS KB257748)</a>  
+ More info <a href="https://www.bing.com/search?q=KB+254249+Q254249" rel="nofollow">NetSh Dump Does Not Completely Configure and Enable the RRAS (MS KB254249)</a>  
+ More info <a href="https://www.bing.com/search?q=KB+281626+Q281626" rel="nofollow">How to Use the Netsh Utility to Export and Import DHCP Scopes (MS KB281626)</a>  
   
  Credits [is-it-true.org](http://www.is-it-true.org/)

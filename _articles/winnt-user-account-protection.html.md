@@ -27,7 +27,7 @@ Many users give themselves Administrator rights even for daily tasks, so if atta
  
  If an application marks itself as a Vista ready with a [requestedExecutionLevel manifest](http://msdn.microsoft.com/en-us/library/bb756929.aspx), then it will not be virtualized but will be denied access instead.  
   
- Applications are only virtualized when UAC is enabled, so disabling UAC also disables the protection of virtualization. More Info [MS KB927387](http://support.microsoft.com/kb/927387 "Common file and registry virtualization issues in Windows Vista")  
+ Applications are only virtualized when UAC is enabled, so disabling UAC also disables the protection of virtualization. More Info <a href="https://www.bing.com/search?q=KB%20927387%20Q927387" rel="nofollow" title="Common file and registry virtualization issues in Windows Vista">MS KB927387</a>  
   
 ##### User Confirmation Dialog
 

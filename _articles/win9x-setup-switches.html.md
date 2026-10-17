@@ -24,5 +24,5 @@ Some of the more exciting command line switches:
   - **/p j** forces Windows to use ACPI/PnP (Useful if having a newer ACPI BIOS not recognized by Windows 98 Machines.inf)
   - **/p g=3**  makes the setup give more verbose debug information. Good when having problems with installing and one need to identify the problem area.
  
- More Info [MS KB128400](http://support.microsoft.com/kb/128400 "Windows 95 Setup Switches [Q128400]")  
- More Info [MS KB186111](http://support.microsoft.com/kb/186111 "Description of the Windows 95, Windows 98, and Windows Me Setup Switches [Q186111]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20128400%20Q128400" rel="nofollow" title="Windows 95 Setup Switches [Q128400]">MS KB128400</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20186111%20Q186111" rel="nofollow" title="Description of the Windows 95, Windows 98, and Windows Me Setup Switches [Q186111]">MS KB186111</a>  

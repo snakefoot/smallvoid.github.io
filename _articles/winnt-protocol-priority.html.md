@@ -30,11 +30,11 @@ When a network service/redirector (Like Microsoft Network or Novell Network) nee
 1. Open **Control Panel**
 2. Double click **Network and Dial-Up Connections**
 3. In the menu select **Advanced** and select **Advanced Settings...**
-  - Vista will only display the Advanced menu-item when pressing the ALT-key. More Info [MS KB935310](http://support.microsoft.com/kb/935310 "You experience connectivity issues").
+  - Vista will only display the Advanced menu-item when pressing the ALT-key. More Info <a href="https://www.bing.com/search?q=KB%20935310%20Q935310" rel="nofollow" title="You experience connectivity issues">MS KB935310</a>.
 4. Select the **Adapter and Bindings** tab and in **Advanced Settings - Connections** select the network connection to configure bindings for.
 5. In **Bindings for Local Area Connections:** set the order of protocols for each service for the selected connection.
  
- More Info [MS KB266771](http://support.microsoft.com/kb/266771 "HOW TO: Change the Binding Order in Windows 2000 [Q266771]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20266771%20Q266771" rel="nofollow" title="HOW TO: Change the Binding Order in Windows 2000 [Q266771]">MS KB266771</a>  
   
  Related [Configure the priority of network adapters and gateways](/article/network-gateway-metric.html)  
  Related [Configure the priority of networks known by the MUP](/article/winnt-network-priority.html)  

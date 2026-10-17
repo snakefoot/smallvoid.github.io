@@ -34,9 +34,9 @@ If using an Hard disk drive (HDD) larger than 137 gigabyte (GB), then one might 
 >   
 >  The file or directory C:\\[$MFT](/article/winnt-ntfs-mft.html) is corrupt and unreadable. please run the chkdsk utility*
 
- More Info [MS KB303013](http://support.microsoft.com/kb/303013 "How to Enable 48-bit Logical Block Addressing Support for ATAPI Disk Drives in Windows XP [Q303013]")  
- More Info [MS KB305098](http://support.microsoft.com/kb/305098 "48-bit LBA Support for ATAPI Disk Drives in Windows 2000 [Q305098]")  
- More Info [MS KB314695](http://support.microsoft.com/kb/314695 "Mirrored Drives Larger Than 137 GB Perform Slowly [Q314695]") (ATAPI.SYS is updated in Win2k SP3)  
- More Info [MS KB331958](http://support.microsoft.com/kb/331958 "Hard Disk May Become Corrupted When Entering Standby or Hibernation or When Writing a Memory Dump [Q331958]") (ATAPI.SYS Update for WinXP SP1)  
+ More Info <a href="https://www.bing.com/search?q=KB%20303013%20Q303013" rel="nofollow" title="How to Enable 48-bit Logical Block Addressing Support for ATAPI Disk Drives in Windows XP [Q303013]">MS KB303013</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20305098%20Q305098" rel="nofollow" title="48-bit LBA Support for ATAPI Disk Drives in Windows 2000 [Q305098]">MS KB305098</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20314695%20Q314695" rel="nofollow" title="Mirrored Drives Larger Than 137 GB Perform Slowly [Q314695]">MS KB314695</a> (ATAPI.SYS is updated in Win2k SP3)  
+ More Info <a href="https://www.bing.com/search?q=KB%20331958%20Q331958" rel="nofollow" title="Hard Disk May Become Corrupted When Entering Standby or Hibernation or When Writing a Memory Dump [Q331958]">MS KB331958</a> (ATAPI.SYS Update for WinXP SP1)  
   
  Credits [jsifaq.com](http://www.jsifaq.com/)

@@ -29,5 +29,5 @@ To backup the favorite bookmarks in Internet Explorer(IE) 5:
 >  \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\User Shell folders\]  
 >  Favorites = "C:\\Windows\\Favorites"  
 >   
->  More Info [MS KB158787](http://support.microsoft.com/kb/158787 "How to Establish a Common Favorites Folder with Windows NT [Q158787]")  
->  More Info [MS KB167124](http://support.microsoft.com/kb/167124 "Favorites Entries Lost During Internet Explorer Installation [Q167124]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20158787%20Q158787" rel="nofollow" title="How to Establish a Common Favorites Folder with Windows NT [Q158787]">MS KB158787</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20167124%20Q167124" rel="nofollow" title="Favorites Entries Lost During Internet Explorer Installation [Q167124]">MS KB167124</a>

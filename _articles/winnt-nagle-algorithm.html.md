@@ -37,18 +37,18 @@ When a file is sent over the network the file is chopped up in small packets, wh
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters \\Interfaces \\{Adapter-id}\]  
 >  TcpAckFrequency = 2 (Default=2, 1=Disables delayed ACK, 2-n = If n outstanding ACKs before timed interval, sent ACK)  
 >   
->  More Info [MS KB328890](http://support.microsoft.com/kb/328890 "New Registry Entry for Controlling the TCP Acknowledgment (ACK) Behavior in Windows XP and in Windows Server 2003 [Q328890]")  
->  More Info [MS KB815230](http://support.microsoft.com/kb/815230 "Changing the TcpAckFrequency Value to 1 Does Not Have Any Effect [Q815230]") (XP/2003 needs hotfix or SP2 for it to work)  
->  More Info [MS KB935458](http://support.microsoft.com/kb/935458 "The behavior of TCP acknowledgments (ACKs) does not change after you modify the TcpAckFrequency registry entry in Windows Vista") (Vista/2008 needs hotfix or SP1 for it to work)  
->  More Info [MS KB2020559](http://support.microsoft.com/kb/2020559 "On a Microsoft Windows Server 2008 R2 Fail over cluster with a Hyper-V guest with many pass-through disks, the machine configuration may take some time to come online") (Applies also to Win7/Win2008 R2)
+>  More Info <a href="https://www.bing.com/search?q=KB%20328890%20Q328890" rel="nofollow" title="New Registry Entry for Controlling the TCP Acknowledgment (ACK) Behavior in Windows XP and in Windows Server 2003 [Q328890]">MS KB328890</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20815230%20Q815230" rel="nofollow" title="Changing the TcpAckFrequency Value to 1 Does Not Have Any Effect [Q815230]">MS KB815230</a> (XP/2003 needs hotfix or SP2 for it to work)  
+>  More Info <a href="https://www.bing.com/search?q=KB%20935458%20Q935458" rel="nofollow" title="The behavior of TCP acknowledgments (ACKs) does not change after you modify the TcpAckFrequency registry entry in Windows Vista">MS KB935458</a> (Vista/2008 needs hotfix or SP1 for it to work)  
+>  More Info <a href="https://www.bing.com/search?q=KB%202020559%20Q2020559" rel="nofollow" title="On a Microsoft Windows Server 2008 R2 Fail over cluster with a Hyper-V guest with many pass-through disks, the machine configuration may take some time to come online">MS KB2020559</a> (Applies also to Win7/Win2008 R2)
 
  To configure the interval timeout in Windows 2000/XP/2003:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters \\Interfaces \\{Adapter-id}\]  
 >  TcpDelAckTicks = 1 (Default=2, 0=Disables delayed ACK, 1-6 = 100-600 ms)  
 >   
->  More Info [MS KB311833](http://support.microsoft.com/kb/311833 "The TcpDelAckTicks Registry Value Has No Effects on Ack Timeouts [Q311833]") (Win2000 requires SP3)  
->  More Info [MS KB321098](http://support.microsoft.com/kb/321098 "Slow Network Performance Occurs If You Copy Files to a Windows 2000 Domain Controller [Q321098]")  
->  More Info [MS KB321169](http://support.microsoft.com/kb/321169 "Slow SMB Performance When You Copy Files from Windows XP to a Windows 2000 Domain Controller [Q321169]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20311833%20Q311833" rel="nofollow" title="The TcpDelAckTicks Registry Value Has No Effects on Ack Timeouts [Q311833]">MS KB311833</a> (Win2000 requires SP3)  
+>  More Info <a href="https://www.bing.com/search?q=KB%20321098%20Q321098" rel="nofollow" title="Slow Network Performance Occurs If You Copy Files to a Windows 2000 Domain Controller [Q321098]">MS KB321098</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20321169%20Q321169" rel="nofollow" title="Slow SMB Performance When You Copy Files from Windows XP to a Windows 2000 Domain Controller [Q321169]">MS KB321169</a>
 
  To configure the interval timeout in WinNT SP4 (Go to the Services-key and do a search for "TCPIP" to find the different adapters using TCPIP):
  > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\{Adapter-Name} \\Parameters \\Tcpip\]  
@@ -73,5 +73,5 @@ When a file is sent over the network the file is chopped up in small packets, wh
 - **100 MegaBit**: TcpAckFrequency = 5 (RWIN = 17 KByte)
 - **10 MegaBit**: TcpAckFrequency = 2 (RWIN = 8 KByte)
  
- More Info [MS KB214397](http://support.microsoft.com/kb/214397 "INFO: Design Issues - Sending Small Data Segments Over TCP w/Winsock [Q214397]")  
- More Info [MS KB823764](http://support.microsoft.com/kb/823764 "Slow Performance Occurs When You Copy Data to a TCP Server by Using a Windows Sockets API Program [Q823764]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20214397%20Q214397" rel="nofollow" title="INFO: Design Issues - Sending Small Data Segments Over TCP w/Winsock [Q214397]">MS KB214397</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20823764%20Q823764" rel="nofollow" title="Slow Performance Occurs When You Copy Data to a TCP Server by Using a Windows Sockets API Program [Q823764]">MS KB823764</a>  

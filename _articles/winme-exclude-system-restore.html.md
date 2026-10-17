@@ -17,7 +17,7 @@ tags:
 1. Make a copy of C:\\Windows\\System\\Restore\\Filelist.xml and save it as Filelist.txt in the same folder
 2. Edit Filelist.txt using notepad and add &lt;REC&gt;C:\\ThePath\\TheFile.ext&lt;REC&gt; to the &lt;Exclude&gt; section
 3. Disable System Restore by opening Control Panel -&gt; System -&gt; Performance -&gt; File System -&gt; Troubleshooting and check "Disable System Restore"
-4. Shutdown your system and boot using a [Windows Me startup disk](http://support.microsoft.com/kb/267287 "How to Create a Startup Disk in Windows Me [Q267287]") (To avoid the System File Protection)
+4. Shutdown your system and boot using a <a href="https://www.bing.com/search?q=KB+267287+Q267287" title="How to Create a Startup Disk in Windows Me [Q267287]" rel="nofollow">Windows Me startup disk</a> (To avoid the System File Protection)
 5. In DOS browse to C:\\Windows\\System\\Restore
 6. Rename Filelist.xml to Filelist.old (To make a backup)
 7. Rename Filelist.txt to Filelist.xml

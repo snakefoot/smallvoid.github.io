@@ -22,8 +22,8 @@ There is a limit for how many concurrent SCSI Request Block (SRB) Windows can ma
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\MINIPORT\_ADAPTER \\Parameters \\DeviceX\]  
 >  NumberOfRequests = 64 (Default = 16, Max = 512)  
 >   
->  More Info [MS KB240314](http://support.microsoft.com/kb/240314 "INFO: Restriction on the Number of Concurrent I/O Requests Setting [Q240314]")  
->  More Info [MS KB329075](http://support.microsoft.com/kb/329075 "Dmio Reports Event ID 30 with Status of 0xC000009A [Q329075]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20240314%20Q240314" rel="nofollow" title="INFO: Restriction on the Number of Concurrent I/O Requests Setting [Q240314]">MS KB240314</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20329075%20Q329075" rel="nofollow" title="Dmio Reports Event ID 30 with Status of 0xC000009A [Q329075]">MS KB329075</a>
 
  When a request is sent to the SCSI device it is done with a Scatter/Gather list, which specifies the physical memory blocks used for the transfer. The list is default limited to max 17 elements (1 element is the list itself), but it is not a problem if the miniport driver is capable of using large continuously memory buffers (&gt;4 KByte). Incase the miniport driver is limited to 4 KByte memory blocks, the I/O request will only be 64 KByte (4 KByte\*16), then increasing the limit of the Scatter/Gather list might help performance:
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\MINIPORT\_ADAPTER \\Parameters \\DeviceX\]  

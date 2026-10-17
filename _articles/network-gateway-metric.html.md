@@ -43,18 +43,18 @@ If you are able to connect to several gateways/routers to other networks, it is 
 4. Double click **Internet Protocol (TCP/IP)**
 5. Press **Advanced**-button and it is possible to configure gateways and interface metric
  
- Note Automatic Metric is a new feature in WinXP, which automatically assign a metric value according to interface bandwidth (Not latency), the higher bandwidth the lower the metric. More Info [MS KB299540](http://support.microsoft.com/kb/299540 "An Explanation of the Automatic Metric Feature for Internet Protocol Routes [Q299540]")  
+ Note Automatic Metric is a new feature in WinXP, which automatically assign a metric value according to interface bandwidth (Not latency), the higher bandwidth the lower the metric. More Info <a href="https://www.bing.com/search?q=KB%20299540%20Q299540" rel="nofollow" title="An Explanation of the Automatic Metric Feature for Internet Protocol Routes [Q299540]">MS KB299540</a>  
   
  Note if two network interfaces have the same metric value, then their priority is based on the network binding order. To configure the network binding order in Win2k/WinXP:
 1. Open **Control Panel**
 2. Double click **Network and Dial-Up Connections**
 3. In the menu select **Advanced** and select **Advanced Settings...**
-  - Vista/Win7 will only display the Advanced menu-item when pressing the ALT-key. More Info [MS KB2526067](http://support.microsoft.com/kb/2526067 "How to change the network connection priority in Windows 7 [Q299540/KB299540]").
+  - Vista/Win7 will only display the Advanced menu-item when pressing the ALT-key. More Info <a href="https://www.bing.com/search?q=KB%202526067%20Q2526067" rel="nofollow" title="How to change the network connection priority in Windows 7 [Q299540/KB299540]">MS KB2526067</a>.
 4. Select the **Adapter and Bindings**-tab and change the priority of the network **Connections**.
  
- More Info [MS KB140859](http://support.microsoft.com/kb/140859 "TCP/IP Routing Basics for Windows NT [Q140859]")  
- More Info [MS KB164214](http://support.microsoft.com/kb/164214 "Distance Vector Routing Basics [Q164214]")  
- More Info [MS KB894564](http://support.microsoft.com/kb/894564 "How to change the binding order of network adapters in Windows XP and in Windows 2000 [Q894564]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20140859%20Q140859" rel="nofollow" title="TCP/IP Routing Basics for Windows NT [Q140859]">MS KB140859</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20164214%20Q164214" rel="nofollow" title="Distance Vector Routing Basics [Q164214]">MS KB164214</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20894564%20Q894564" rel="nofollow" title="How to change the binding order of network adapters in Windows XP and in Windows 2000 [Q894564]">MS KB894564</a>  
  More Info [Cable Guy - Default Gateway Behavior for TCP/IP](http://www.microsoft.com/technet/community/columns/cableguy/cg0903.mspx "September 2003 - Default Gateway Behavior for Windows TCP/IP")  
   
  Credits [www.jsifaq.com](http://www.jsifaq.com/)

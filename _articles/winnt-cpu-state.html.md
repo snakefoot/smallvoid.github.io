@@ -29,7 +29,7 @@ The first multi CPU machines was intended to be power houses for crushing any ob
 
 ##### Saving power on Windows XP
 
- Microsoft has released a patch for Windows XP (Included in SP3), which fixes the problems of handling ACPI processor performance states on multi CPU computers. More Info [MS KB896256](http://support.microsoft.com/kb/896256 "Computers that are running WinXP SP2 and that are equipped with multiple processors that support processor power management features may experience decreased performance").  
+ Microsoft has released a patch for Windows XP (Included in SP3), which fixes the problems of handling ACPI processor performance states on multi CPU computers. More Info <a href="https://www.bing.com/search?q=KB%20896256%20Q896256" rel="nofollow" title="Computers that are running WinXP SP2 and that are equipped with multiple processors that support processor power management features may experience decreased performance">MS KB896256</a>.  
   
  Windows XP will by default be configured to use the power scheme "Home/Office Desk", which normally will prevent WinXP from throttling the CPU. One can change or configure the power scheme by using Power Options from the Control Panel:
 - Minimal Power Management - Will enable CPU throttling if having installed the relevant processor driver (Recommended).

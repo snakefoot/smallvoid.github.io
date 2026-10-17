@@ -27,8 +27,8 @@ Microsoft Office installs filters that enables MS Paint to handle new formats li
   
  Note if using Windows 9x the registry file supplied with Graphics Filters will not work (Unicode). Instead use this [MS Paint Codecs Fix](http://smallvoid.orgfree.com/?file=mspaint_fix.zip) to apply the registry settings.  
   
- Note if using Win95/WinNT4 one might need to update Mspaint.exe first. More Info [MS KB162500](http://support.microsoft.com/kb/162500 "Invalid Page Fault Opening File in Microsoft Paint [Q162500]").  
+ Note if using Win95/WinNT4 one might need to update Mspaint.exe first. More Info <a href="https://www.bing.com/search?q=KB%20162500%20Q162500" rel="nofollow" title="Invalid Page Fault Opening File in Microsoft Paint [Q162500]">MS KB162500</a>.  
   
- More Info [MS KB193354](http://support.microsoft.com/kb/193354 "Cannot Save JPEG Files with Picture It! Express or Paint [Q193354]")  
- More Info [MS KB298580](http://support.microsoft.com/kb/298580 "Some Office Graphics Filters Are Not Available in Microsoft Paint [Q298580]")  
- More Info [MS KB299953](http://support.microsoft.com/kb/299953 "You May Be Unable to Save .jpg Files with Microsoft Paint After You Install Office 2000 SR1 or SP2 [Q299953]")
+ More Info <a href="https://www.bing.com/search?q=KB%20193354%20Q193354" rel="nofollow" title="Cannot Save JPEG Files with Picture It! Express or Paint [Q193354]">MS KB193354</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20298580%20Q298580" rel="nofollow" title="Some Office Graphics Filters Are Not Available in Microsoft Paint [Q298580]">MS KB298580</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20299953%20Q299953" rel="nofollow" title="You May Be Unable to Save .jpg Files with Microsoft Paint After You Install Office 2000 SR1 or SP2 [Q299953]">MS KB299953</a>

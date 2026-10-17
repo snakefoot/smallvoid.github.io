@@ -24,9 +24,9 @@ Windows Vista includes a new Boot Manager (BootMgr) that replaces the old [NT Lo
 >   
 >  The Windows Boot Configuration Data file is missing required information  
 >   
->  More Info [MS KB919529](http://support.microsoft.com/kb/927391 "Windows Vista no longer starts after you install an earlier version of the Windows operating system in a dual-boot configuration")  
->  More Info [MS KB927391](http://support.microsoft.com/kb/927391 "Error message when you start Windows Vista: 'The Windows Boot Configuration Data file is missing required information'")  
->  More Info [MS KB2622803](http://support.microsoft.com/kb/2622803 "You receive Error message: 'Bootmgr is missing Press Ctrl+Alt+Del to restart' when starting Windows")
+>  More Info <a href="https://www.bing.com/search?q=KB%20919529%20Q919529" rel="nofollow" title="Windows Vista no longer starts after you install an earlier version of the Windows operating system in a dual-boot configuration">MS KB919529</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20927391%20Q927391" rel="nofollow" title="Error message when you start Windows Vista: 'The Windows Boot Configuration Data file is missing required information'">MS KB927391</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%202622803%20Q2622803" rel="nofollow" title="You receive Error message: 'Bootmgr is missing Press Ctrl+Alt+Del to restart' when starting Windows">MS KB2622803</a>
 
  Check points for fixing missing boot-manager:
 - Check that your [boot device is configured properly](/article/no-boot-device-found.html)

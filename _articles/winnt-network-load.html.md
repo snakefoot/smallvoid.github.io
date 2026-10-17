@@ -29,10 +29,10 @@ It is possible to have the OS to balance the network load for the computer when 
   
  The SingleResponse says that it should only send one IP address when WINS does a name query request.  
   
- More Info [MS KB131736](http://support.microsoft.com/kb/131736 "TCP/IP: Load Balancing vs. Distributed Network Sessions [Q131736]")  
- More Info [MS KB175767](http://support.microsoft.com/kb/175767 "Expected Behavior of Multiple Adapters on Same Network [Q175767]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20131736%20Q131736" rel="nofollow" title="TCP/IP: Load Balancing vs. Distributed Network Sessions [Q131736]">MS KB131736</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20175767%20Q175767" rel="nofollow" title="Expected Behavior of Multiple Adapters on Same Network [Q175767]">MS KB175767</a>  
   
- Note there is also a technology called [Windows NT Load Balancing Service (WLBS - NT4)](http://support.microsoft.com/kb/232997 "Convergence in Windows NT Load Balancing Service [Q232997]") or [Network Load Balancing (NBL - Win2k+)](http://support.microsoft.com/kb/240997 "Configuring Network Load Balancing [Q240997]"), which handles clustering of several machines to act like a single unit. The cluster of several machines can provide redundancy for critical applications and higher load handling. The above registry settings does not have anything to do with this kind of service.  
+ Note there is also a technology called <a href="https://www.bing.com/search?q=KB+232997+Q232997" title="Convergence in Windows NT Load Balancing Service [Q232997]") or [Network Load Balancing (NBL - Win2k+)](http://support.microsoft.com/kb/240997 "Configuring Network Load Balancing [Q240997]" rel="nofollow">Windows NT Load Balancing Service (WLBS - NT4)</a>, which handles clustering of several machines to act like a single unit. The cluster of several machines can provide redundancy for critical applications and higher load handling. The above registry settings does not have anything to do with this kind of service.  
   
  Note not all applications supports that the underlying TCP/IP layer responds with random IP-addresses. Instead one can try to setup [Manual load balancing using metric](/article/network-gateway-metric.html).  
   

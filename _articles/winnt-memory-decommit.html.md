@@ -42,8 +42,8 @@ All applications uses memory, and while running they can make different requests
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Session Manager\]  
 >  HeapDecommitFreeBlockThreshold = 262144 (Default = 0)  
 >   
->  More Info [MS KB315407](http://support.microsoft.com/kb/315407 "The HeapDecommitFreeBlockThreshold registry key [Q315407]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20315407%20Q315407" rel="nofollow" title="The HeapDecommitFreeBlockThreshold registry key [Q315407]">MS KB315407</a>
 
  More Info [MSDN](http://msdn.microsoft.com/en-us/library/ms810627.aspx) (Managing Virtual Memory in Win32)  
- More Info [MS KB325044](http://support.microsoft.com/kb/325044 "How to troubleshoot virtual memory fragmentation in Exchange Server 2003 and Exchange 2000 Server [Q325044]")  
- More Info [MS KB815372](http://support.microsoft.com/kb/815372 "How to optimize memory usage in Exchange Server 2003 [Q815372]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20325044%20Q325044" rel="nofollow" title="How to troubleshoot virtual memory fragmentation in Exchange Server 2003 and Exchange 2000 Server [Q325044]">MS KB325044</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20815372%20Q815372" rel="nofollow" title="How to optimize memory usage in Exchange Server 2003 [Q815372]">MS KB815372</a>  

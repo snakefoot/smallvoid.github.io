@@ -45,7 +45,7 @@ Windows Vista includes a new Boot Manager (BootMgr) that replaces the old [NT Lo
 - **onecpu** - on / off  
    Forces only the boot CPU to be used in a computer that has more than one logical processor.
 - **pae** - Default / ForceEnable / ForceDisable  
-   Enables Physical Address Extensions (PAE) which means that it extends the use of the CPU memory registers from 32 bit to 36 bit and allows it to address up to 64 GByte RAM. By default PAE is disabled unless DEP is activated. More Info [MS KB929605](http://support.microsoft.com/kb/929605 "The system memory that is reported in the System Information dialog box in Windows Vista is less than you expect if 4 GB of RAM is installed")
+   Enables Physical Address Extensions (PAE) which means that it extends the use of the CPU memory registers from 32 bit to 36 bit and allows it to address up to 64 GByte RAM. By default PAE is disabled unless DEP is activated. More Info <a href="https://www.bing.com/search?q=KB%20929605%20Q929605" rel="nofollow" title="The system memory that is reported in the System Information dialog box in Windows Vista is less than you expect if 4 GB of RAM is installed">MS KB929605</a>
 - **quietboot** - on / off  
    Controls the display of a high-resolution bitmap in place of the Windows boot screen display and animation. This picture is located in the system file "winload.exe.mui" and the picture is called "Aurora". To change the picture, then one has to replace the system file with another.
 - **removememory** - Megabytes  

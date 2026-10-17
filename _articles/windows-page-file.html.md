@@ -39,7 +39,7 @@ When using Windows NT operating systems, then the best configuration for the pag
  
 ##### How to calculate the necessary page file size?
 
- Windows will by default configure the pagefile size to be 1.5 times the total RAM (With a maximum of 3 times of total RAM), and this will satisfy most computer configurations. The default configuration of 1.5 times the total RAM comes from the Windows Server environment, where the page file is used for complete memory dump analysis. More Info [MS KB254649](http://support.microsoft.com/kb/254649 "Overview of memory dump file options for Windows Server 2003, Windows XP, and Windows 2000") [MS KB237740](http://support.microsoft.com/kb/237740 "How to overcome the 4,095 MB paging file size limit in Windows")  
+ Windows will by default configure the pagefile size to be 1.5 times the total RAM (With a maximum of 3 times of total RAM), and this will satisfy most computer configurations. The default configuration of 1.5 times the total RAM comes from the Windows Server environment, where the page file is used for complete memory dump analysis. More Info <a href="https://www.bing.com/search?q=KB%20254649%20Q254649" rel="nofollow" title="Overview of memory dump file options for Windows Server 2003, Windows XP, and Windows 2000">MS KB254649</a> <a href="https://www.bing.com/search?q=KB%20237740%20Q237740" rel="nofollow" title="How to overcome the 4,095 MB paging file size limit in Windows">MS KB237740</a>  
   
  The term "commit charge" specifies how much memory the system is using a the moment. If the commit charge is higher than the available RAM, then the system performance will be low (Recommended to have enough RAM to handle peak commit charge). If the commit charge comes close to the total amount of memory available (RAM + pagefile) then applications will start crashing, and Windows might crash as well.  
 - To monitor the commit charge use the Task Manager (CTRL+SHIFT+ESC) and go to the Performance-tab. The **Commit Charge (K) Peak** shows the maximum memory usage since system start, and usually one should have more RAM installed than this number. There are also some pretty graphs that will show the current commit charge: 
@@ -117,28 +117,28 @@ When using Windows NT operating systems, then the best configuration for the pag
   
  Note WinNT+ will not be able to create a proper memory dump for debugging purpose if the pagefile is disabled or too small. The pagefile is accessed with low level file operations to avoid the NTFS overhead. This allows use of the pagefile to save the dump even if the rest of the subsystems have crashed. Therefore if the pagefile is too small, then it cannot be used to contain the dump.  
   
- More Info [MS KB197379](http://support.microsoft.com/kb/197379 "Configuring page files for optimization and recovery in Windows Server 2003, in Windows 2000, and in Windows NT [Q197379]")  
- More Info [MS KB314482](http://support.microsoft.com/kb/314482 "How to configure paging files for optimization and recovery in Windows XP [Q314482]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20197379%20Q197379" rel="nofollow" title="Configuring page files for optimization and recovery in Windows Server 2003, in Windows 2000, and in Windows NT [Q197379]">MS KB197379</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20314482%20Q314482" rel="nofollow" title="How to configure paging files for optimization and recovery in Windows XP [Q314482]">MS KB314482</a>  
 ##### How to configure the page file properties in Windows
 
- To setup pagefile in Win9x [MS KB259184](http://support.microsoft.com/kb/259184 "How to Increase the Memory Capability of Your Computer [Q259184]"):
+ To setup pagefile in Win9x <a href="https://www.bing.com/search?q=KB%20259184%20Q259184" rel="nofollow" title="How to Increase the Memory Capability of Your Computer [Q259184]">MS KB259184</a>:
 1. Start Button -&gt; Settings -&gt; Control Panel -&gt; System -&gt; Performance tab -&gt; Virtual Memory.
 2. Select "Let me specify my own virtual memory settings".
 3. Set minimum and maximum size.
  
- To setup pagefile in WinNT [MS KB123747](http://support.microsoft.com/kb/123747 "Moving the Windows Default Paging and Spool File [Q123747]"):
+ To setup pagefile in WinNT <a href="https://www.bing.com/search?q=KB%20123747%20Q123747" rel="nofollow" title="Moving the Windows Default Paging and Spool File [Q123747]">MS KB123747</a>:
 1. Start Button -&gt; Settings -&gt; Control Panel -&gt; System -&gt; Performance tab.
 2. Under "Virtual Memory" press the "Change..." button.
 3. Check "Let me specify my own Virtual Memory Settings".
 4. Set initial and maximum size.
  
- To setup pagefile in Win2k [MS KB123747](http://support.microsoft.com/kb/123747 "Moving the Windows Default Paging and Spool File [Q123747]"):
+ To setup pagefile in Win2k <a href="https://www.bing.com/search?q=KB%20123747%20Q123747" rel="nofollow" title="Moving the Windows Default Paging and Spool File [Q123747]">MS KB123747</a>:
 1. Start Button -&gt; Settings -&gt; Control Panel -&gt; System -&gt; Advanced tab.
 2. Under "Performance" press "Performance Options..." button.
 3. Under "Virtual Memory" press "Change..." button.
 4. Set initial and maximum size.
  
- To setup pagefile in WinXP [MS KB307886](http://support.microsoft.com/kb/307886 "HOW TO: Move the Paging File in Windows XP [Q307886]"):
+ To setup pagefile in WinXP <a href="https://www.bing.com/search?q=KB%20307886%20Q307886" rel="nofollow" title="HOW TO: Move the Paging File in Windows XP [Q307886]">MS KB307886</a>:
 1. Start Button -&gt; Control Panel -&gt; Performance and Maintenance -&gt; System -&gt; Advanced tab.
 2. Under the "Performance" section press "Settings" button.
 3. Under the "Virtual Memory" section press the "Change..." button.
@@ -149,11 +149,11 @@ When using Windows NT operating systems, then the best configuration for the pag
 2. Untick "Automatically manage paging file size for all drives"
 3. Set initial and maximum size (or just tick "Automatically manage paging file size for all drives" back again, and leave it be).
  
- Note in WinNT+ there is an option to [Clear the Windows Paging File at Shutdown (MS KB182086)](http://support.microsoft.com/kb/182086 "How to Clear the Windows Paging File at Shutdown [Q182086]") and it is not recommended for the home user. It will increase the time it takes to shutdown because it has to write zero's in the whole pagefile on the HDD. The reason for enabling clearing is to avoid that a very skilled person can open the pagefile and spy on the things you were doing while logged in (It requires that the person has physical access to the machine).  
+ Note in WinNT+ there is an option to <a href="https://www.bing.com/search?q=KB+182086+Q182086" title="How to Clear the Windows Paging File at Shutdown [Q182086]" rel="nofollow">Clear the Windows Paging File at Shutdown (MS KB182086)</a> and it is not recommended for the home user. It will increase the time it takes to shutdown because it has to write zero's in the whole pagefile on the HDD. The reason for enabling clearing is to avoid that a very skilled person can open the pagefile and spy on the things you were doing while logged in (It requires that the person has physical access to the machine).  
   
- More Info [MS KB175639](http://support.microsoft.com/kb/175639 "Windows 95/98 and Windows NT 4.0 Can Share Virtual Memory [Q175639]")  
- More Info [MS KB837869](http://support.microsoft.com/kb/837869 "Error message when you when you start or play a Microsoft game: 'Your system is low on virtual memory' [Q837869]")  
- More Info [MS KB889654](http://support.microsoft.com/kb/889654 "How to determine the appropriate page file size for 64-bit versions of Windows Server 2003 or Windows XP [Q889654]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20175639%20Q175639" rel="nofollow" title="Windows 95/98 and Windows NT 4.0 Can Share Virtual Memory [Q175639]">MS KB175639</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20837869%20Q837869" rel="nofollow" title="Error message when you when you start or play a Microsoft game: 'Your system is low on virtual memory' [Q837869]">MS KB837869</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20889654%20Q889654" rel="nofollow" title="How to determine the appropriate page file size for 64-bit versions of Windows Server 2003 or Windows XP [Q889654]">MS KB889654</a>  
   
  Related [Disable the page file to avoid using the slow HDD](/article/windows-disable-page-file.html)  
  Related [Make sure your IDE HDD is performing at its best](/article/troubleshoot-hdd-dma.html)  

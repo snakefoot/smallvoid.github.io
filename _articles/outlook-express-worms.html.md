@@ -21,4 +21,4 @@ Many worm vira makes use of OE to email the vira to everyone in the address book
  
  In case one need to send an email with HTML then one can change this for the new email by selecting "Format" in the menu for the window containing the new mail and change it to "Rich Text(HTML)".  
   
- More Info [MS KB291387](http://support.microsoft.com/kb/291387 "Using virus protection features in Outlook Express 6 [Q291387]")
+ More Info <a href="https://www.bing.com/search?q=KB%20291387%20Q291387" rel="nofollow" title="Using virus protection features in Outlook Express 6 [Q291387]">MS KB291387</a>

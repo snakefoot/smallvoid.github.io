@@ -23,7 +23,7 @@ It is possible to enable/disable the autorun for a CDROM drive through the devic
 4. Select the tab **Settings**
 5. Uncheck **Auto Insert Notification**
  
- More Info [MS KB312475](http://support.microsoft.com/kb/312475 "CD-ROM Does Not Run Automatically After You Insert It into Your CD-ROM or DVD-ROM Drive [Q312475]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20312475%20Q312475" rel="nofollow" title="CD-ROM Does Not Run Automatically After You Insert It into Your CD-ROM or DVD-ROM Drive [Q312475]">MS KB312475</a>  
   
  Note one can disable Autorun for Audio CDs alone:
 1. Double click **My Computer**
@@ -32,7 +32,7 @@ It is possible to enable/disable the autorun for a CDROM drive through the devic
 4. Select the registered file type **AudioCD** and press the **Edit...** button ("Advanced"-button if WinMe)
 5. Select the default action (in bold) and press **Set Default** so no action is performed when an Audio CD is inserted
  
- More Info [MS KB126025](http://support.microsoft.com/kb/126025 "How to Disable the Feature That Allows CD-ROMs and Audio CDs to Run Automatically [Q126025]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20126025%20Q126025" rel="nofollow" title="How to Disable the Feature That Allows CD-ROMs and Audio CDs to Run Automatically [Q126025]">MS KB126025</a>  
   
  Related [Configure Autorun for different drives using policies](/article/autorun-policies.html)  
  Related [Configure Drive Letter for the CD-ROM drive](/article/assign-drive-letter.html)  

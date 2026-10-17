@@ -31,13 +31,13 @@ The [Windows File Protection](/article/winnt-wfp.html) is constantly checking wh
 > *Windows File Protection could not initiate a scan of protected system files.  
 >   
 >  The specific error code is 0x000006ba \[The RPC server is unavailable.\].*   
->  More Info [MS KB296241](http://support.microsoft.com/kb/296241 "Windows File Protection May Not Start [Q296241]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20296241%20Q296241" rel="nofollow" title="Windows File Protection May Not Start [Q296241]">MS KB296241</a>
 
  Note to see all options for the System File Checker:
  > SFC /?
 
- More Info [MS KB222471](http://support.microsoft.com/kb/222471 "Description of the Windows System File Checker Tool [Q222471]")  
- More Info [MS KB310747](http://support.microsoft.com/kb/310747 "Description of Windows XP and Windows Server 2003 System File Checker (Sfc.exe) [Q310747]")  
- More Info [MS KB900910](http://support.microsoft.com/kb/900910 "You are prompted to insert a Windows XP SP2 CD when you try to run the System File Checker tool on a Windows XP SP2-based computer [Q900910]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20222471%20Q222471" rel="nofollow" title="Description of the Windows System File Checker Tool [Q222471]">MS KB222471</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20310747%20Q310747" rel="nofollow" title="Description of Windows XP and Windows Server 2003 System File Checker (Sfc.exe) [Q310747]">MS KB310747</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20900910%20Q900910" rel="nofollow" title="You are prompted to insert a Windows XP SP2 CD when you try to run the System File Checker tool on a Windows XP SP2-based computer [Q900910]">MS KB900910</a>  
   
  Related [How to configure Windows File Protection](/article/winnt-wfp.html)  

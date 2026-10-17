@@ -20,25 +20,25 @@ The default [Max Transfer Unit (MTU) size](/article/tcpip-mtu-size.html) for eth
   > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters \\Interfaces \\{Adapter-id/GUID}\]  
   >  MTU = 1500  
   >   
-  >  More Info [MS KB900926](http://support.microsoft.com/kb/900926 "Recommended TCP/IP settings for WAN links with a MTU size of less than 576 [Q900926]")
+  >  More Info <a href="https://www.bing.com/search?q=KB%20900926%20Q900926" rel="nofollow" title="Recommended TCP/IP settings for WAN links with a MTU size of less than 576 [Q900926]">MS KB900926</a>
 - Point-To-Point Protocol (PPP) MTU for Modem DialUp Networking(DUN) or over Ethernet (PPPoE):
   > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\NdisWan \\Parameters \\Protocols \\0\]  
   >  ProtocolType = 0x00000800  
   >  PPPProtocolType = 0x00000021  
   >  ProtocolMTU = 1500  
   >   
-  >  More Info [MS KB283165](http://support.microsoft.com/kb/283165 "HOW TO: Change the PPPoE MTU Size in Windows XP [Q283165]")  
-  >  More Info [MS KB826159](http://support.microsoft.com/kb/826159 "HOW TO: Change the Default Maximum Transmission Unit (MTU) Size Settings for PPP Connections or for VPN Connections [Q826159]")
+  >  More Info <a href="https://www.bing.com/search?q=KB%20283165%20Q283165" rel="nofollow" title="HOW TO: Change the PPPoE MTU Size in Windows XP [Q283165]">MS KB283165</a>  
+  >  More Info <a href="https://www.bing.com/search?q=KB%20826159%20Q826159" rel="nofollow" title="HOW TO: Change the Default Maximum Transmission Unit (MTU) Size Settings for PPP Connections or for VPN Connections [Q826159]">MS KB826159</a>
   
-   More Info [MS KB283070](http://support.microsoft.com/kb/283070 "HOW TO: Create a PPPoE Connection in Windows XP [Q283070]")  
-   More Info [MS KB317496](http://support.microsoft.com/kb/317496 "HOW TO: Create a PPPoE Connection in Windows Server 2003 [Q317496]")
+   More Info <a href="https://www.bing.com/search?q=KB%20283070%20Q283070" rel="nofollow" title="HOW TO: Create a PPPoE Connection in Windows XP [Q283070]">MS KB283070</a>  
+   More Info <a href="https://www.bing.com/search?q=KB%20317496%20Q317496" rel="nofollow" title="HOW TO: Create a PPPoE Connection in Windows Server 2003 [Q317496]">MS KB317496</a>
 - Virtual Private Network (VPN) Tunnel MTU:
   > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\NdisWan \\Parameters \\Protocols \\0\]  
   >  ProtocolType = 0x00000800  
   >  PPPProtocolType = 0x00000021  
   >  TunnelMTU = 1400  
   >   
-  >  More Info [MS KB826159](http://support.microsoft.com/kb/826159 "HOW TO: Change the Default Maximum Transmission Unit (MTU) Size Settings for PPP Connections or for VPN Connections [Q826159]")
+  >  More Info <a href="https://www.bing.com/search?q=KB%20826159%20Q826159" rel="nofollow" title="HOW TO: Change the Default Maximum Transmission Unit (MTU) Size Settings for PPP Connections or for VPN Connections [Q826159]">MS KB826159</a>
  
  Related [Configure Max Transfer Unit (MTU) in Windows NT4](/article/winnt4-tcpip-mtu.html)  
  Related [Configure Max Transfer Unit (MTU) in Windows Vista/2008/7](/article/vista-tcpip-mtu.html)  

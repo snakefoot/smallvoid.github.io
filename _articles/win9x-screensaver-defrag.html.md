@@ -26,4 +26,4 @@ If the Screensaver starts running while performing a defrag of a HDD partition t
   
  Also Read [Defrag partitions to speed up file access](/article/defrag-hard-disk-partition.html)  
   
- More Info [MS KB229057](http://support.microsoft.com/kb/229057 "Correct Instructions for Disabling Screen Saver During Defrag.exe [Q229057]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20229057%20Q229057" rel="nofollow" title="Correct Instructions for Disabling Screen Saver During Defrag.exe [Q229057]">MS KB229057</a>  

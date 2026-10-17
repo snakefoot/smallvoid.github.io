@@ -18,7 +18,7 @@ tags:
 
  Enables Windows-based programs (Like the Web Publishing Wizard) to create, access, and modify Internet-based files on Internet file servers using the WebDAV protocol. The WebDAV protocol is a file access protocol described in eXtendible Markup Language (XML) that travels over the Hypertext Transfer Protocol (HTTP).  
   
- Note this service interferes when accessing remote files and can cause long delays when accessing My Network Places. More Info [MS KB832161](http://support.microsoft.com/kb/832161 "You experience a delay when you use your Windows XP computer to log on to a domain or to connect to a network resource [Q832161]")  
+ Note this service interferes when accessing remote files and can cause long delays when accessing My Network Places. More Info <a href="https://www.bing.com/search?q=KB%20832161%20Q832161" rel="nofollow" title="You experience a delay when you use your Windows XP computer to log on to a domain or to connect to a network resource [Q832161]">MS KB832161</a>  
   
  Note XP SP2 disables the use of the less secure "Basic Authentication", but one can enable it by setting this DWORD:
 > HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\WebClient \\Parameters\]  
@@ -26,19 +26,19 @@ tags:
 >   
 >  Note in Windows Vista the value 1 means that it will allow basic authentication for only SSL sites, and the value 2 means that it will allow basic authentication for all sites.  
 >   
->  More Info [MS KB841215](http://support.microsoft.com/kb/841215 "You cannot connect to a document library in Windows SharePoint Services by using Windows shell commands or by using Explorer View [Q841215]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20841215%20Q841215" rel="nofollow" title="You cannot connect to a document library in Windows SharePoint Services by using Windows shell commands or by using Explorer View [Q841215]">MS KB841215</a>
 
  Note if the WebDAV folder contains more than a 1000 files, then XP might fail to enumerate all the files in the folder, as there is a max size limit when downloading the directory listing:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\WebClient \\Parameters\]  
 >  FileAttributesLimitInBytes = 10000000 (Max size in bytes for a directory listing)  
 >   
->  More Info [MS KB912152](http://support.microsoft.com/kb/912152 "You cannot access a WebDAV Web folder from a Windows XP-based client computer")
+>  More Info <a href="https://www.bing.com/search?q=KB%20912152%20Q912152" rel="nofollow" title="You cannot access a WebDAV Web folder from a Windows XP-based client computer">MS KB912152</a>
 
  Note if trying to access a file larger than 50 MByte in a WebDAV folder, then XP might fail to download the file, as there is a max size limit when downloading files:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\WebClient \\Parameters\]  
 >  FileSizeLimitInBytes = 50000000 (Max size in bytes for a file download)  
 >   
->  More Info [MS KB900900](http://support.microsoft.com/kb/900900 "You may receive an error message when you try to download a file that is larger than 50000000 bytes from a Web folder on a computer that is running Windows XP with Service Pack 1 or with Service Pack 2")
+>  More Info <a href="https://www.bing.com/search?q=KB%20900900%20Q900900" rel="nofollow" title="You may receive an error message when you try to download a file that is larger than 50000000 bytes from a Web folder on a computer that is running Windows XP with Service Pack 1 or with Service Pack 2">MS KB900900</a>
 
    
  Related [Mapping WebDAV folder as a network drive letter](/article/winnt-webdav-network-drive.html)

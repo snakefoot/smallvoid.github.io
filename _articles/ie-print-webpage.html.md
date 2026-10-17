@@ -37,10 +37,10 @@ When printing web-pages from Internet Explorer (Ex. an online book), then Intern
 <tr><td>&amp;b&amp;b</td><td>The text immediately following the first "&amp;b" is centered, while the text following the second is right-justified.</td></tr>
 </table>
 
- More Info [MS KB306786](http://support.microsoft.com/kb/306786 "How to Print a Web Page in Internet Explorer 5.5 [Q306786]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20306786%20Q306786" rel="nofollow" title="How to Print a Web Page in Internet Explorer 5.5 [Q306786]">MS KB306786</a>  
   
  Note when printing HTML mails in Outlook, then it will use the Page Setup settings in Internet Explorer. If the margins are set to small, then it might cut off a part of the page. Setting all four margins to .75 should solve this.  
   
- Note when printing HTML mails in Outlook Express, then it will use the font size currently selected in Internet Explorer. If the text is too small or too large, then it can be adjusted by starting Internet Explorer and in the menu select **View** and change the **Text Size**. More Info [MS KB276435](http://support.microsoft.com/kb/276435 "OLEXP: Large or Small Font Printing Message from Outlook Express [Q276435]")  
+ Note when printing HTML mails in Outlook Express, then it will use the font size currently selected in Internet Explorer. If the text is too small or too large, then it can be adjusted by starting Internet Explorer and in the menu select **View** and change the **Text Size**. More Info <a href="https://www.bing.com/search?q=KB%20276435%20Q276435" rel="nofollow" title="OLEXP: Large or Small Font Printing Message from Outlook Express [Q276435]">MS KB276435</a>  
   
  Credits [Internet-Explorer-Tutorials.com](http://internet-explorer-tutorials.com/)

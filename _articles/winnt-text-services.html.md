@@ -34,10 +34,10 @@ It is possible to control applications through a speech interface, which can be 
   >  \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\CTF \\MSUTB\]  
   >  ShowDeskBand = 1
  
- More Info [MS KB313176](http://support.microsoft.com/kb/313176 "Programs May Start, Quit, Lose, and Gain Focus Randomly [Q313176]")  
- More Info [MS KB316215](http://support.microsoft.com/kb/316215 "PRB: Internet Explorer Stops Responding and Other System Performance Issues [Q316215]")  
- More Info [MS KB316768](http://support.microsoft.com/kb/316768 "OFFXP: Computer Runs Slowly When You Use Handwriting Recognition and Speech Recognition Components [Q316768]")  
- More Info [MS KB827323](http://support.microsoft.com/kb/827323 "How to turn off the Office XP Language Bar [Q827323]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20313176%20Q313176" rel="nofollow" title="Programs May Start, Quit, Lose, and Gain Focus Randomly [Q313176]">MS KB313176</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20316215%20Q316215" rel="nofollow" title="PRB: Internet Explorer Stops Responding and Other System Performance Issues [Q316215]">MS KB316215</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20316768%20Q316768" rel="nofollow" title="OFFXP: Computer Runs Slowly When You Use Handwriting Recognition and Speech Recognition Components [Q316768]">MS KB316768</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20827323%20Q827323" rel="nofollow" title="How to turn off the Office XP Language Bar [Q827323]">MS KB827323</a>  
   
  To uninstall speech recognition (ctfmon.exe) from MS Office (All Windows versions):
 - Quit all Office programs
@@ -48,6 +48,6 @@ It is possible to control applications through a speech interface, which can be 
 - In the **Choose installation options for all Office applications and tools**-dialog expand **Office Shared Features**
 - Set **Alternative User Input** to **Not Available** and click **Update**
  
- More Info [MS KB282599](http://support.microsoft.com/kb/282599 "OFFXP: What Is CTFMON and What Does It Do? [Q282599]")  
- More Info [MS KB326526](http://support.microsoft.com/kb/326526 "HOW TO: Turn Off the Speech Recognition and Handwriting Recognition Features in Office XP [Q326526]")  
- More Info [MS KB823586](http://support.microsoft.com/kb/823586 "HOW TO: Turn Off the Speech Recognition and Handwriting Recognition Features in Office 2003 [Q823586]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20282599%20Q282599" rel="nofollow" title="OFFXP: What Is CTFMON and What Does It Do? [Q282599]">MS KB282599</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20326526%20Q326526" rel="nofollow" title="HOW TO: Turn Off the Speech Recognition and Handwriting Recognition Features in Office XP [Q326526]">MS KB326526</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20823586%20Q823586" rel="nofollow" title="HOW TO: Turn Off the Speech Recognition and Handwriting Recognition Features in Office 2003 [Q823586]">MS KB823586</a>  

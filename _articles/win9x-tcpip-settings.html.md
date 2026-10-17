@@ -35,7 +35,7 @@ It is recommended to read [how to configure TCPIP for optimal performance](/arti
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\VxD \\MSTCP \\Parameters\]  
  >  GlobalMaxTcpWindowSize = 17520 (DWORD Standard Range 0-65535, Window Scaling Range 0-1GByte, Default not set)  
  >   
- >  GlobalMaxTcpWindoSize = 17520 (Win98 Spelling Error, Best to set both, More info [MS KB239731](http://support.microsoft.com/kb/239731 "Unable to Set the TCP/IP GlobalMaxTcpWindowSize Parameter in Windows 98 [Q239731]"))
+ >  GlobalMaxTcpWindoSize = 17520 (Win98 Spelling Error, Best to set both, More info <a href="https://www.bing.com/search?q=KB%20239731%20Q239731" rel="nofollow" title="Unable to Set the TCP/IP GlobalMaxTcpWindowSize Parameter in Windows 98 [Q239731]">MS KB239731</a>)
 
  **Time To Live** (TTL):
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\VxD \\MSTCP\]  
@@ -57,7 +57,7 @@ It is recommended to read [how to configure TCPIP for optimal performance](/arti
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\VxD \\MSTCP\]  
  >  Tcp1323Opts = "3" (Both Disabled = "0", Window Scaling Only = "1", Timestamp Only = "2", Both Enabled = "3", Default = No value; only initiate the options if requested.)  
 >   
->  More Info [MS KB239705](http://support.microsoft.com/kb/239705 "RFC 1323 Options Can Not Be Enabled in Windows 95 and Windows 98 [Q239705]") Fix [MS KB236926](http://support.microsoft.com/kb/236926 "Windows 95 and Windows 98 TCP/IP May Retransmit Packets Prematurely [Q236926]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20239705%20Q239705" rel="nofollow" title="RFC 1323 Options Can Not Be Enabled in Windows 95 and Windows 98 [Q239705]">MS KB239705</a> Fix <a href="https://www.bing.com/search?q=KB%20236926%20Q236926" rel="nofollow" title="Windows 95 and Windows 98 TCP/IP May Retransmit Packets Prematurely [Q236926]">MS KB236926</a>
 
  **Max Duplicate Acknowledgments** (ACK's) (Winsock2 Only):
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\VxD \\MSTCP\\ Parameters\]  
@@ -65,7 +65,7 @@ It is recommended to read [how to configure TCPIP for optimal performance](/arti
 
  Note none of the above settings are created by default, so to revert to default values then just remove the settings.  
   
- More Info [MS KB182108](http://support.microsoft.com/kb/182108 "Availability of Windows Sockets 2.0 for Windows 95 [Q182108]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20182108%20Q182108" rel="nofollow" title="Availability of Windows Sockets 2.0 for Windows 95 [Q182108]">MS KB182108</a>  
  More Info [Windows TCP/IP Registry Entries \[Q158474\]](http://support.microsoft.com/kb/158474)  
  More Info [MS TCP/IP and Windows 95 Networking](http://www.microsoft.com/technet/archive/win95/mstcpip.mspx)  
   

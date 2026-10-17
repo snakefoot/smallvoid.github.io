@@ -17,4 +17,4 @@ Windows 95 OSR2 included a new utility called HWINFO, that makes it easier to di
 
 > HWINFO **/UI**
 
- More Info [MS KB185956](http://support.microsoft.com/kb/185956 "Description of the Microsoft Hardware Diagnostic Tool [Q185956]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20185956%20Q185956" rel="nofollow" title="Description of the Microsoft Hardware Diagnostic Tool [Q185956]">MS KB185956</a>  

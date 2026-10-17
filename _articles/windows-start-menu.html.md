@@ -37,5 +37,5 @@ Speed up the start menu by configuring the delay before a folder in the Start Me
 >  \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Advanced\]  
 >  IntelliMenus = "No" ("Yes"=Enabled, "No"=Disabled)
 
- More Info [MS KB214831](http://support.microsoft.com/kb/214831 "When You Point to a Menu the Submenu May Not Appear [Q214831]")  
- More Info [MS KB257128](http://support.microsoft.com/kb/257128 "Enable Personalized Favorites Menu Feature Does Not Take Effect Immediately [Q257128]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20214831%20Q214831" rel="nofollow" title="When You Point to a Menu the Submenu May Not Appear [Q214831]">MS KB214831</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20257128%20Q257128" rel="nofollow" title="Enable Personalized Favorites Menu Feature Does Not Take Effect Immediately [Q257128]">MS KB257128</a>  

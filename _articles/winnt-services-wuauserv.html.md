@@ -30,11 +30,11 @@ tags:
  Related [Configure and troubleshoot Automatic Updates](/article/winnt-automatic-updates-repair.html)  
  Related [Fix a non-working Windows Update](/article/repair-windows-update.html)  
   
- More Info [MS KB283629](http://support.microsoft.com/kb/283629 "HOW TO: Configure Automatic Updates to Prompt You Before You Download Updates in Windows XP [Q283629]")  
- More Info [MS KB294871](http://support.microsoft.com/kb/294871 "Description of the Automatic Update Feature in Windows XP [Q294871]")  
- More Info [MS KB306525](http://support.microsoft.com/kb/306525 "HOW TO: Configure and Use Automatic Updates in Windows XP [Q306525]")  
- More Info [MS KB327838](http://support.microsoft.com/kb/327838 "HOW TO: Schedule Automatic Updates in Windows XP and Windows 2000 [Q327838]")  
- More Info [MS KB327850](http://support.microsoft.com/kb/327850 "HOW TO: Configure and Use Automatic Updates in Windows 2000 [Q327850]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20283629%20Q283629" rel="nofollow" title="HOW TO: Configure Automatic Updates to Prompt You Before You Download Updates in Windows XP [Q283629]">MS KB283629</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20294871%20Q294871" rel="nofollow" title="Description of the Automatic Update Feature in Windows XP [Q294871]">MS KB294871</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20306525%20Q306525" rel="nofollow" title="HOW TO: Configure and Use Automatic Updates in Windows XP [Q306525]">MS KB306525</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20327838%20Q327838" rel="nofollow" title="HOW TO: Schedule Automatic Updates in Windows XP and Windows 2000 [Q327838]">MS KB327838</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20327850%20Q327850" rel="nofollow" title="HOW TO: Configure and Use Automatic Updates in Windows 2000 [Q327850]">MS KB327850</a>  
   
 ##### Recommended state:
 

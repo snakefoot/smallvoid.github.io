@@ -17,7 +17,7 @@ When using the Welcome Screen then there are different ways to change its appear
 
 > C:\\Documents And Settings\\All Users\\Application Data\\Microsoft\\User Account Pictures\\Default Pictures  
 >   
->  More Info [MS KB292434](http://support.microsoft.com/kb/292434 "HOW TO: Add or Change a User's Picture in Windows XP [Q292434]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20292434%20Q292434" rel="nofollow" title="HOW TO: Add or Change a User's Picture in Windows XP [Q292434]">MS KB292434</a>
 
  The Welcome Screen allows one to see if there are any unread email for a certain account. It is possible to disable this feature:  
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\UnreadMail\]  
@@ -28,8 +28,8 @@ When using the Welcome Screen then there are different ways to change its appear
 >  \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\UnreadMail\]  
 >  Message Count = 0  
 >   
->  More Info [MS KB304148](http://support.microsoft.com/kb/304148 "Overview of the Mail Notification Display on the Windows XP Welcome Screen [Q304148]")  
->  More Info [MS KB831403](http://support.microsoft.com/kb/831403 "Description of the Outlook Unread Mail Count functionality in Outlook 2003 [Q831403]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20304148%20Q304148" rel="nofollow" title="Overview of the Mail Notification Display on the Windows XP Welcome Screen [Q304148]">MS KB304148</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20831403%20Q831403" rel="nofollow" title="Description of the Outlook Unread Mail Count functionality in Outlook 2003 [Q831403]">MS KB831403</a>
 
  The Welcome Screen can also show how many programs other users are running, when using [Fast User Switching](/article/winnt-services-fus.html). To disable the diplay of Program Running, set the following registry key to 0 and change its permissions to read-only:
 > \[HKEY\_CURRENT\_USER \\SessionInformation\]  

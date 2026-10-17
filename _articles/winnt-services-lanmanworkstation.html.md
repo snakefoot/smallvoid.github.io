@@ -27,7 +27,7 @@ tags:
  
  Note if wanting the functionality of this service on the local machine, but doesn't want it to access the network, then it can be a good idea to have the network component "Client for Microsoft Networks network" installed, but not attached to the installed network-adapter.  
   
- More Info [MS KB197157](http://support.microsoft.com/kb/197157 "Workstation Service Does Not Start [Q197157]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20197157%20Q197157" rel="nofollow" title="Workstation Service Does Not Start [Q197157]">MS KB197157</a>  
   
 ##### Recommended State:
 

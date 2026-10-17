@@ -27,15 +27,15 @@ tags:
  Related [Reinstalling printer drivers](/article/winnt-reinstall-printer-driver.html)  
  Related [Change printer spool directory](/article/winnt-print-spool-folder.html)  
   
- More Info [MS KB161734](http://support.microsoft.com/kb/161734 "Windows NT and Windows 2000 Print Browsing Architecture [Q161734]")  
- More Info [MS KB278455](http://support.microsoft.com/kb/278455 "How to Set Up a Clustered Print Server [Q278455]")  
- More Info [MS KB300392](http://support.microsoft.com/kb/300392 "HOW TO: Install and Configure a File and Print Server in Windows 2000 [Q300392]")  
- More Info [MS KB305402](http://support.microsoft.com/kb/305402 "HOW TO: Change Printing Preferences on Print Server for All Connected Users [Q305402]")  
- More Info [MS KB313058](http://support.microsoft.com/kb/313058 "How To Configure Internet Printing in Windows 2000 [Q313058]")  
- More Info [MS KB313725](http://support.microsoft.com/kb/313725 "HOW TO: Configure Printer Settings in Windows 2000 Server [Q313725]")  
- More Info [MS KB323428](http://support.microsoft.com/kb/323428 "HOW TO: Configure Internet Printing in Windows Server 2003 [Q323428]")  
- More Info [MS KB324078](http://support.microsoft.com/kb/324078 "HOW TO: Install and Configure Print Services for UNIX [Q324078]")  
- More Info [MS KB325860](http://support.microsoft.com/kb/325860 "HOW TO: Install and Configure a File and Print Server in Windows Server 2003 [Q325860]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20161734%20Q161734" rel="nofollow" title="Windows NT and Windows 2000 Print Browsing Architecture [Q161734]">MS KB161734</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20278455%20Q278455" rel="nofollow" title="How to Set Up a Clustered Print Server [Q278455]">MS KB278455</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20300392%20Q300392" rel="nofollow" title="HOW TO: Install and Configure a File and Print Server in Windows 2000 [Q300392]">MS KB300392</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20305402%20Q305402" rel="nofollow" title="HOW TO: Change Printing Preferences on Print Server for All Connected Users [Q305402]">MS KB305402</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20313058%20Q313058" rel="nofollow" title="How To Configure Internet Printing in Windows 2000 [Q313058]">MS KB313058</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20313725%20Q313725" rel="nofollow" title="HOW TO: Configure Printer Settings in Windows 2000 Server [Q313725]">MS KB313725</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20323428%20Q323428" rel="nofollow" title="HOW TO: Configure Internet Printing in Windows Server 2003 [Q323428]">MS KB323428</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20324078%20Q324078" rel="nofollow" title="HOW TO: Install and Configure Print Services for UNIX [Q324078]">MS KB324078</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20325860%20Q325860" rel="nofollow" title="HOW TO: Install and Configure a File and Print Server in Windows Server 2003 [Q325860]">MS KB325860</a>  
   
 ##### Recommended State:
 

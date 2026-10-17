@@ -25,8 +25,8 @@ The default configuration of WinXP is to use Simple Filesharing, which is just a
   > \[HKEY\_LOCAK\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Lsa\]  
   >  ForceGuest = 0  
   >   
-  >  More Info [MS KB290403](http://support.microsoft.com/kb/290403 "How to Set Security in Windows XP Professional That Is Installed in a Workgroup [Q290403]")  
-  >  More Info [MS KB307874](http://support.microsoft.com/kb/307874 "How to Set Security in Windows XP Professional That Is Installed in a Workgroup [Q307874]")
+  >  More Info <a href="https://www.bing.com/search?q=KB%20290403%20Q290403" rel="nofollow" title="How to Set Security in Windows XP Professional That Is Installed in a Workgroup [Q290403]">MS KB290403</a>  
+  >  More Info <a href="https://www.bing.com/search?q=KB%20307874%20Q307874" rel="nofollow" title="How to Set Security in Windows XP Professional That Is Installed in a Workgroup [Q307874]">MS KB307874</a>
  
  It is advised to create an account with a secure password for each user, who should have access to a share. But some times it is just too cumbersome, even if one creates a group containing all the users which should have access.  
   
@@ -71,4 +71,4 @@ The default configuration of WinXP is to use Simple Filesharing, which is just a
   
  More Info [Windows XP Professional File Sharing](http://www.practicallynetworked.com/sharing/xp_filesharing/index.htm)  
  More Info [Windows XP Professional Security Policies](http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/sotopnode.mspx)  
- More info [MS KB304040](http://support.microsoft.com/kb/304040 "Description of File Sharing and Permissions in Windows XP [Q304040]")  
+ More info <a href="https://www.bing.com/search?q=KB%20304040%20Q304040" rel="nofollow" title="Description of File Sharing and Permissions in Windows XP [Q304040]">MS KB304040</a>  

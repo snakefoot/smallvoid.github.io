@@ -40,14 +40,14 @@ tags:
   > \[HKEY\_CURRENT\_USER\\ Software\\ Microsoft\\ WAB\\ WAB4\\ Wab File Name\]
 5. Double click the (Default) entry and change it to the wanted location.
  
- More Info [MS KB270670](http://support.microsoft.com/kb/270670 "OLEXP: How to Back Up and Recover Outlook Express Data [Q270670]")  
- More Info [MS KB156828](http://support.microsoft.com/kb/156828 "How to Change the Location of the Windows Address Book [Q156828]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20270670%20Q270670" rel="nofollow" title="OLEXP: How to Back Up and Recover Outlook Express Data [Q270670]">MS KB270670</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20156828%20Q156828" rel="nofollow" title="How to Change the Location of the Windows Address Book [Q156828]">MS KB156828</a>  
 ##### Sharing contacts between Outlook Express and Outlook:
 
  It is possible to make Outlook Express uses the Outlook Contact folder as Address Book instead of the WAB file. The Outlook contacts are stored in the [.PST file](/article/outlook-backup-personal-folders.html).
 > \[HKEY\_CURRENT\_USER \\SOFTWARE \\Microsoft \\Wab \\Wab4\]  
 >  UseOutlook = 1 (1 = Outlook Express will start Outlook and use its Contact folder)  
 >   
->  More Info [MS KB269777](http://support.microsoft.com/kb/269777 "OLEXP: Error Message: Address Book Failed to Load [Q269777]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20269777%20Q269777" rel="nofollow" title="OLEXP: Error Message: Address Book Failed to Load [Q269777]">MS KB269777</a>
 
  Credits [tomsterdam.com](http://tomsterdam.com/)

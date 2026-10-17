@@ -17,20 +17,20 @@ Microsoft provides a simple firewall in Windows XP that protects from incoming t
   
  Technet articles for XP SP2:
 
-- [How to script netsh to configure Windows Firewall features in Windows XP Service Pack 2 (MS KB843090)](http://support.microsoft.com/kb/839980)
-- [Description of the Windows Firewall feature in Windows XP Service Pack 2 (MS KB843090)](http://support.microsoft.com/kb/843090)
-- [How to configure the Windows Firewall feature in Windows XP Service Pack 2 (MS KB875356)](http://support.microsoft.com/kb/875356)
-- [Troubleshooting Windows Firewall settings in Windows XP Service Pack 2 (MS KB875357)](http://support.microsoft.com/kb/875357)
+- <a href="https://www.bing.com/search?q=KB+843090+Q843090" rel="nofollow">How to script netsh to configure Windows Firewall features in Windows XP Service Pack 2 (MS KB843090)</a>
+- <a href="https://www.bing.com/search?q=KB+843090+Q843090" rel="nofollow">Description of the Windows Firewall feature in Windows XP Service Pack 2 (MS KB843090)</a>
+- <a href="https://www.bing.com/search?q=KB+875356+Q875356" rel="nofollow">How to configure the Windows Firewall feature in Windows XP Service Pack 2 (MS KB875356)</a>
+- <a href="https://www.bing.com/search?q=KB+875357+Q875357" rel="nofollow">Troubleshooting Windows Firewall settings in Windows XP Service Pack 2 (MS KB875357)</a>
  
  Technet articles for XP and XP with Service Pack 1:
-- [Description of the Windows XP Internet Connection Firewall (MS KB320855)](http://support.microsoft.com/kb/320855)
-- [Description of a Personal Firewall (MS KB321050)](http://support.microsoft.com/kb/321050)
-- [HOW TO: Enable or Disable Internet Connection Firewall in Windows XP (MS KB283673)](http://support.microsoft.com/kb/283673)
-- [HOW TO: Determine Which Program Uses or Blocks Specific Transmission Control Protocol Ports in Windows (MS KB281336)](http://support.microsoft.com/kb/281336)
-- [Service redirection does not apply to Internet Connection Firewall (MS KB297942)](http://support.microsoft.com/kb/297942)
-- [The Internet Connection Firewall Can Prevent Browsing and File Sharing (MS KB298804)](http://support.microsoft.com/kb/298804)
-- [How to Manually Open Ports in Internet Connection Firewall in Windows XP (MS KB308127)](http://support.microsoft.com/kb/308127)
-- [HOW TO: Turn On the Internet Connection Firewall Feature in Windows Server 2003 (MS KB317530)](http://support.microsoft.com/kb/317530)
+- <a href="https://www.bing.com/search?q=KB+320855+Q320855" rel="nofollow">Description of the Windows XP Internet Connection Firewall (MS KB320855)</a>
+- <a href="https://www.bing.com/search?q=KB+321050+Q321050" rel="nofollow">Description of a Personal Firewall (MS KB321050)</a>
+- <a href="https://www.bing.com/search?q=KB+283673+Q283673" rel="nofollow">HOW TO: Enable or Disable Internet Connection Firewall in Windows XP (MS KB283673)</a>
+- <a href="https://www.bing.com/search?q=KB+281336+Q281336" rel="nofollow">HOW TO: Determine Which Program Uses or Blocks Specific Transmission Control Protocol Ports in Windows (MS KB281336)</a>
+- <a href="https://www.bing.com/search?q=KB+297942+Q297942" rel="nofollow">Service redirection does not apply to Internet Connection Firewall (MS KB297942)</a>
+- <a href="https://www.bing.com/search?q=KB+298804+Q298804" rel="nofollow">The Internet Connection Firewall Can Prevent Browsing and File Sharing (MS KB298804)</a>
+- <a href="https://www.bing.com/search?q=KB+308127+Q308127" rel="nofollow">How to Manually Open Ports in Internet Connection Firewall in Windows XP (MS KB308127)</a>
+- <a href="https://www.bing.com/search?q=KB+317530+Q317530" rel="nofollow">HOW TO: Turn On the Internet Connection Firewall Feature in Windows Server 2003 (MS KB317530)</a>
  
  To configure if the WinXP SP1 firewall should allow ping:
 1. In Control Panel double click "Networking and Internet Connections"

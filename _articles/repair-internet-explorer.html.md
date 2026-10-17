@@ -20,7 +20,7 @@ Internet Explorer (IE) can become corrupted, so it no longer works. This usually
     
   [Clear the Temporary Internet Files cache](/article/ie-temporary-internet-files.html)  
     
-   More info [MS KB260650](http://support.microsoft.com/kb/260650 "Internet Explorer Does Not Save Graphics Files in the Proper Format [Q260650]")
+   More info <a href="https://www.bing.com/search?q=KB%20260650%20Q260650" rel="nofollow" title="Internet Explorer Does Not Save Graphics Files in the Proper Format [Q260650]">MS KB260650</a>
 - **Delete the cookies**  
    Cookies are used by websites to identify you and might be used for storing passwords or spying on your actions. Cookies can become corrupted and affect the access to a web-site. Only solution is to delete the corrupted cookies, which can be located in the directory containing [Temporary Internet Files](/article/ie-temporary-internet-files.html)
 - **Restore Internet-Security-Policy to default :**  
@@ -30,11 +30,11 @@ Internet Explorer (IE) can become corrupted, so it no longer works. This usually
     
    Note one might want to consider in a repair situation to uncheck "Enable third-party browser extensions (requires restart)" to disable funny 3rd party plugins, but it will also keep other valid programs from integrating with Internet Explorer.  
     
-   More info [MS KB298931](http://support.microsoft.com/kb/298931 "How to Disable Third-Party Tool Bands and Browser Helper Objects [Q298931]")
+   More info <a href="https://www.bing.com/search?q=KB%20298931%20Q298931" rel="nofollow" title="How to Disable Third-Party Tool Bands and Browser Helper Objects [Q298931]">MS KB298931</a>
 - **Restore Internet Explorer as the default browser :**  
    Control Panel -&gt; Internet Options -&gt; Programs-tab -&gt; Tick "Internet Explorer should check to see if it is the default" and press Apply-button  
     
-   More info [MS KB177054](http://support.microsoft.com/kb/177054 "OLEXP: Internet Shortcuts in Outlook Express Do Not Start Web Browser [Q177054]")
+   More info <a href="https://www.bing.com/search?q=KB%20177054%20Q177054" rel="nofollow" title="OLEXP: Internet Shortcuts in Outlook Express Do Not Start Web Browser [Q177054]">MS KB177054</a>
 - **Restore the toolbars:**  
    Use the registry editor (regedit) to delete the following values (Perform an export first):
   > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Internet Explorer \\Toolbar \\Explorer\]  
@@ -56,7 +56,7 @@ Internet Explorer (IE) can become corrupted, so it no longer works. This usually
     
    Note one should also check for other 3rd Party software (Ex. Browser Helper Objects), which might "integrate" with Internet Explorer (Ex. popup stoppers), check Add/Remove Programs in Control Panel and uninstall anything that might affect Internet Explorer.  
     
-   More info [MS KB320159](http://support.microsoft.com/kb/320159 "Home Page Setting Changes Unexpectedly, or You Cannot Change Your Home Page Setting [Q320159]")
+   More info <a href="https://www.bing.com/search?q=KB%20320159%20Q320159" rel="nofollow" title="Home Page Setting Changes Unexpectedly, or You Cannot Change Your Home Page Setting [Q320159]">MS KB320159</a>
 - **Check that the HOSTS file do not contain any extra entries**  
    If having trouble accessing certain sites or pictures, then it might be caused by the [hosts file](/article/windows-hosts-file.html) blocking access. Check that it only contains a single entry "127.0.0.1 localhost".
 - **Check if firewall or antivirus is blocking access :**  
@@ -85,10 +85,10 @@ Internet Explorer (IE) can become corrupted, so it no longer works. This usually
    Note if using WinXP SP2 then one can just run this command:
   > "%ProgramFiles%\\Internet Explorer\\iexplore.exe" /rereg  
   >   
-  >  More Info [MS KB870700](http://support.microsoft.com/kb/870700 "How to troubleshoot problems accessing secure Web pages with Internet Explorer 6 Service Pack 2 [Q870700]")
+  >  More Info <a href="https://www.bing.com/search?q=KB%20870700%20Q870700" rel="nofollow" title="How to troubleshoot problems accessing secure Web pages with Internet Explorer 6 Service Pack 2 [Q870700]">MS KB870700</a>
   
-   More Info [MS KB180176](http://support.microsoft.com/kb/180176 "'Open in New Window' Command Does Not Work in Internet Explorer [Q180176]")  
-   More Info [MS KB281679](http://support.microsoft.com/kb/281679 "You Cannot Open New Internet Explorer Window or Nothing Happens After You Click a Link [Q281679]") (Previous MS KB272322)
+   More Info <a href="https://www.bing.com/search?q=KB%20180176%20Q180176" rel="nofollow" title="'Open in New Window' Command Does Not Work in Internet Explorer [Q180176]">MS KB180176</a>  
+   More Info <a href="https://www.bing.com/search?q=KB%20281679%20Q281679" rel="nofollow" title="You Cannot Open New Internet Explorer Window or Nothing Happens After You Click a Link [Q281679]">MS KB281679</a> (Previous MS KB272322)
 - **Try the IE Repair Tool**  
    There is a repair function in Internet Explorer(IE) which can check if you have gotten incorrect files installed or wrong registry entries.  
     
@@ -106,8 +106,8 @@ Internet Explorer (IE) can become corrupted, so it no longer works. This usually
     
    In WinXP the IE Repair tool doesn't work, one can instead try to [Reinstall IE](/article/winnt-reinstall-ie.html).  
     
-   More info [MS KB194177](http://support.microsoft.com/kb/194177 "Description of the Internet Explorer Repair Tool for IE5 [Q194177]")  
-   More info [MS KB236579](http://support.microsoft.com/kb/236579 "The Repair Internet Explorer Tool Is Missing [Q236579]")
+   More info <a href="https://www.bing.com/search?q=KB%20194177%20Q194177" rel="nofollow" title="Description of the Internet Explorer Repair Tool for IE5 [Q194177]">MS KB194177</a>  
+   More info <a href="https://www.bing.com/search?q=KB%20236579%20Q236579" rel="nofollow" title="The Repair Internet Explorer Tool Is Missing [Q236579]">MS KB236579</a>
 - **Restore some DLLs which IE uses :**  
   > Shdocvw.dll  
   >  Shell32.dll  
@@ -118,7 +118,7 @@ Internet Explorer (IE) can become corrupted, so it no longer works. This usually
   >  Inseng.dll  
   >  Browseui.dll
   
-   More Info [MS KB321915](http://support.microsoft.com/kb/321915 "'Incompatible Version of the RPC Stub' Error Message with the InstallShield Program [Q321915]") (mcrepair.exe)  
+   More Info <a href="https://www.bing.com/search?q=KB%20321915%20Q321915" rel="nofollow" title="'Incompatible Version of the RPC Stub' Error Message with the InstallShield Program [Q321915]">MS KB321915</a> (mcrepair.exe)  
     
    Related [Use extract.exe to restore a system file in Win9x/Me](/article/win9x-extract-restore.html)  
    Related [The System File Checker in Win2k/WinXP](/article/winnt-sfc.html)

@@ -29,11 +29,11 @@ tags:
 > Event ID - 10005  
 >  Description - DCOM got error "The service cannot be started, either because it is disabled or because it has no enabled devices associated with it. " attempting to start the service BITS with arguments "" in order to run the server: { 4991D34B-80A1-4291-83B6-3328366B9097 }
 
- Note if BITS fails to start or operate properly, then stop the service and reset the download queue by deleting the two files listed below. Can also find the files by doing a search for "qmgr" files [MS KB920649](http://support.microsoft.com/kb/920649 "You cannot download new updates from a server that is running Windows Server Update Services"), or if using Windows Vista then use the [BITS Repair Tool](http://support.microsoft.com/kb/940520 "An update is available to fix a Background Intelligent Transfer Service (BITS) crash on a Windows Vista-based computer"):
+ Note if BITS fails to start or operate properly, then stop the service and reset the download queue by deleting the two files listed below. Can also find the files by doing a search for "qmgr" files <a href="https://www.bing.com/search?q=KB%20920649%20Q920649" rel="nofollow" title="You cannot download new updates from a server that is running Windows Server Update Services">MS KB920649</a>, or if using Windows Vista then use the <a href="https://www.bing.com/search?q=KB+940520+Q940520" title="An update is available to fix a Background Intelligent Transfer Service (BITS) crash on a Windows Vista-based computer" rel="nofollow">BITS Repair Tool</a>:
 > %ALLUSERSPROFILE%\\Application Data\\Microsoft\\Network\\Downloader\\**qmgr0.dat**  
 >  %ALLUSERSPROFILE%\\Application Data\\Microsoft\\Network\\Downloader\\**qmgr1.dat**
 
- More Info [MS KB326460](http://support.microsoft.com/kb/326460 "'Service-Specific Error Code -2147944102' Error Message If You Try to Start the Background Intelligent Transfer Service (BITS) Service [Q326460]") (Previous MS KB326607)  
+ More Info <a href="https://www.bing.com/search?q=KB%20326460%20Q326460" rel="nofollow" title="'Service-Specific Error Code -2147944102' Error Message If You Try to Start the Background Intelligent Transfer Service (BITS) Service [Q326460]">MS KB326460</a> (Previous MS KB326607)  
  More Info [BITSAdmin Tool](http://msdn.microsoft.com/library/en-us/bits/bits/bitsadmin_tool.asp) [Examples](http://msdn.microsoft.com/library/en-us/bits/bits/bitsadmin_examples.asp)  
   
 ##### Recommended State:

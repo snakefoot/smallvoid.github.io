@@ -24,7 +24,7 @@ tags:
 > *Event ID: 7023  
 >  Description: The Application Management Service terminated with the following error: The specified module could not be found.  
 >   
->  More Info [MS KB328213](http://support.microsoft.com/kb/328213 "Adding or removing a program may generate Event ID 7023 [Q328213]")*
+>  More Info <a href="https://www.bing.com/search?q=KB%20328213%20Q328213" rel="nofollow" title="Adding or removing a program may generate Event ID 7023 [Q328213]">MS KB328213</a>*
 
 ##### Recommended State:
 

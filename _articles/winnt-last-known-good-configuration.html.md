@@ -32,16 +32,16 @@ There is performed a backup of the system configuration, after each successful l
 >  \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\Select\]  
 >  LastKnownGood = XXX  
 >   
->  More Info [MS KB100010](http://support.microsoft.com/kb/100010 "What are Control Sets? What is CurrentControlSet? [Q100010]")  
->  More Info [MS KB142033](http://support.microsoft.com/kb/142033 "Restoring Previous ControlSet After Using LastKnownGood [Q142033]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20100010%20Q100010" rel="nofollow" title="What are Control Sets? What is CurrentControlSet? [Q100010]">MS KB100010</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20142033%20Q142033" rel="nofollow" title="Restoring Previous ControlSet After Using LastKnownGood [Q142033]">MS KB142033</a>
 
  Note it is possible to configure whether the LKGC should be created after every login:
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows NT \\CurrentVersion \\Winlogon\]  
 >  ReportBootOk = 1 (Enabled = 1, Disabled = 0, Default = No Value; Enabled)  
 >   
->  More Info [MS KB136441](http://support.microsoft.com/kb/136441 "Last Known Good Always Restores Original Boot Settings [Q136441]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20136441%20Q136441" rel="nofollow" title="Last Known Good Always Restores Original Boot Settings [Q136441]">MS KB136441</a>
 
  Note to make best use of LKGC, then after making a "critical" change and restarted, then don't login right away (Or [Automatic Login](/article/winnt-automatic-logon.html)). Instead wait about a minute after the login screen has shown itself, so that services etc. can load completely and if no errors occurs then login.  
   
- More Info [MS KB101790](http://support.microsoft.com/kb/101790 "Information on Last Known Good Control Set [Q101790]")  
- More Info [MS KB307852](http://support.microsoft.com/kb/307852 "How to start your computer by using the Last Known Good Configuration feature in Windows XP [Q307852]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20101790%20Q101790" rel="nofollow" title="Information on Last Known Good Control Set [Q101790]">MS KB101790</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20307852%20Q307852" rel="nofollow" title="How to start your computer by using the Last Known Good Configuration feature in Windows XP [Q307852]">MS KB307852</a>  

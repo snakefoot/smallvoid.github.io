@@ -46,10 +46,10 @@ If needing to access the registry database on a system that is no longer bootabl
   - Boot into the Recovery Console again to exchange the now hopefully fixed registry database back (winnt/system32/config)
   - Boot Windows and it will now be using the fixed registry database
  
- Note WinXP has a new feature called [Registry Repair and Recovery (MS KB815011)](http://support.microsoft.com/kb/815011 "Cannot Disable the Registry Repair and Recovery Feature in Windows XP SP1 [Q815011]") and it is usually activated when starting WinXP. But it is also activated when loading an offline hive, which can have the undesired effect that the loaded hive is modifying behind your back. One can disable this feature in WinXP SP1 in case one is afraid that the "Repair" feature will do more harm than good:
+ Note WinXP has a new feature called <a href="https://www.bing.com/search?q=KB+815011+Q815011" title="Cannot Disable the Registry Repair and Recovery Feature in Windows XP SP1 [Q815011]" rel="nofollow">Registry Repair and Recovery (MS KB815011)</a> and it is usually activated when starting WinXP. But it is also activated when loading an offline hive, which can have the undesired effect that the loaded hive is modifying behind your back. One can disable this feature in WinXP SP1 in case one is afraid that the "Repair" feature will do more harm than good:
 > \[HKEY\_LOCAL\_MACHINE\\ System \\CurrentControlSet \\Control \\Session Manager \\Configuration Manager\]  
 >  SelfHealingEnabled = 0
 
- More Info [MS KB146050](http://support.microsoft.com/kb/146050 "Modifying Ntuser.dat Hive So New Users Get Defined Settings [Q146050]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20146050%20Q146050" rel="nofollow" title="Modifying Ntuser.dat Hive So New Users Get Defined Settings [Q146050]">MS KB146050</a>  
   
  Credits [jsifaq.com](http://jsifaq.com/)

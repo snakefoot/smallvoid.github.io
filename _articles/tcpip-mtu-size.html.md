@@ -64,8 +64,8 @@ When using a network, one is sending and receiving packets. On large networks li
   
  Note [VPN](/article/winnt-vpn.html) creates an encryption overhead (encryption, padding, checksum, etc.), which adds about 100 bytes to the TCPIP-payload. This overhead must not exceed the MTU of the connection as the packets will become fragmented. When the other side receives an encrypted packet it inspects the checksum and it will fail if the packet has been tampered with (fragmented).  
   
- More info [MS KB140375](http://support.microsoft.com/kb/140375 "Default MTU Size for Different Network Topology [Q140375]")  
- More info [MS KB159211](http://support.microsoft.com/kb/159211 "Diagnoses and Treatment of Black Hole Routers [Q159211]")  
- More info [MS KB314496](http://support.microsoft.com/kb/314496 "Default MTU Size for Different Network Topology [Q314496]")  
+ More info <a href="https://www.bing.com/search?q=KB%20140375%20Q140375" rel="nofollow" title="Default MTU Size for Different Network Topology [Q140375]">MS KB140375</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20159211%20Q159211" rel="nofollow" title="Diagnoses and Treatment of Black Hole Routers [Q159211]">MS KB159211</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20314496%20Q314496" rel="nofollow" title="Default MTU Size for Different Network Topology [Q314496]">MS KB314496</a>  
   
  Related [Recommended settings for the TCP/IP stack](/article/windows-tcpip-settings.html)

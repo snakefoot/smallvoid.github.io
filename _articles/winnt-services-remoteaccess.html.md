@@ -26,19 +26,19 @@ tags:
  
  When disabled the option "Incoming Connections" will disappear from "Network Connections" Control Panel.  
   
- More Info [MS KB178993](http://support.microsoft.com/kb/178993 "How to Use Static Routes with Routing and Remote Access Service [Q178993]")  
- More Info [MS KB234025](http://support.microsoft.com/kb/234025 "Some Registry Entries Missing When Enabling Logging Features in RRAS [Q234025]")  
- More Info [MS KB241540](http://support.microsoft.com/kb/241540 "OSPF over RRAS Dial-on-Demand and VPN Connections in Windows 2000 [Q241540]")  
- More Info [MS KB241545](http://support.microsoft.com/kb/241545 "How to Implement RIP Over RRAS in Windows 2000 [Q241545]")  
- More Info [MS KB254322](http://support.microsoft.com/kb/254322 "Conflicts Between Services Requesting Use of Network Address Translation Modules [Q254322]")  
- More Info [MS KB256644](http://support.microsoft.com/kb/256644 "Description of Remote Access Wizards [Q256644]")  
- More Info [MS KB299801](http://support.microsoft.com/kb/299801 "HOW TO: Configure a Windows 2000 Server as a Network Address Translation Server [Q299801]")  
- More Info [MS KB300434](http://support.microsoft.com/kb/300434 "HOW TO: Allow Remote Users to Access Your Network in Windows 2000 [Q300434]")  
- More Info [MS KB313564](http://support.microsoft.com/kb/313564 "HOW TO: Configure Routing and Remote Access Tracing in Windows 2000 [Q313564]")  
- More Info [MS KB321516](http://support.microsoft.com/kb/321516 "How to Use the Windows 2000 Routing and Remote Access Service or ISA Server with a DSL Router for Internet Access [Q321516]")  
- More Info [MS KB816110](http://support.microsoft.com/kb/816110 "HOW TO: Configure Routing and Remote Access Tracing in Windows Server 2003 [Q816110]")  
- More Info [MS KB816573](http://support.microsoft.com/kb/816573 "HOW TO: Configure a VPN Server to Act as a Router in Windows Server 2003 [Q816573]")  
- More Info [MS KB816581](http://support.microsoft.com/kb/816581 "ow to configure Network Address Translation in Windows Server 2003 [Q816581]") (Replaces MS KB324264)  
+ More Info <a href="https://www.bing.com/search?q=KB%20178993%20Q178993" rel="nofollow" title="How to Use Static Routes with Routing and Remote Access Service [Q178993]">MS KB178993</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20234025%20Q234025" rel="nofollow" title="Some Registry Entries Missing When Enabling Logging Features in RRAS [Q234025]">MS KB234025</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20241540%20Q241540" rel="nofollow" title="OSPF over RRAS Dial-on-Demand and VPN Connections in Windows 2000 [Q241540]">MS KB241540</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20241545%20Q241545" rel="nofollow" title="How to Implement RIP Over RRAS in Windows 2000 [Q241545]">MS KB241545</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20254322%20Q254322" rel="nofollow" title="Conflicts Between Services Requesting Use of Network Address Translation Modules [Q254322]">MS KB254322</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20256644%20Q256644" rel="nofollow" title="Description of Remote Access Wizards [Q256644]">MS KB256644</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20299801%20Q299801" rel="nofollow" title="HOW TO: Configure a Windows 2000 Server as a Network Address Translation Server [Q299801]">MS KB299801</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20300434%20Q300434" rel="nofollow" title="HOW TO: Allow Remote Users to Access Your Network in Windows 2000 [Q300434]">MS KB300434</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20313564%20Q313564" rel="nofollow" title="HOW TO: Configure Routing and Remote Access Tracing in Windows 2000 [Q313564]">MS KB313564</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20321516%20Q321516" rel="nofollow" title="How to Use the Windows 2000 Routing and Remote Access Service or ISA Server with a DSL Router for Internet Access [Q321516]">MS KB321516</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20816110%20Q816110" rel="nofollow" title="HOW TO: Configure Routing and Remote Access Tracing in Windows Server 2003 [Q816110]">MS KB816110</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20816573%20Q816573" rel="nofollow" title="HOW TO: Configure a VPN Server to Act as a Router in Windows Server 2003 [Q816573]">MS KB816573</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20816581%20Q816581" rel="nofollow" title="ow to configure Network Address Translation in Windows Server 2003 [Q816581]">MS KB816581</a> (Replaces MS KB324264)  
   
 ##### Recommended State:
 

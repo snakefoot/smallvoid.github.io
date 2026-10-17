@@ -40,5 +40,5 @@ tags:
  
  Note after a move there might still be leftover files at the original location, to find those files do a search for the filename "outbox.dbx" and "inbox.dbx".  
   
- More Info [MS KB230208](http://support.microsoft.com/kb/230208 "OLEXP: How to Back Up E-mail Messages in Outlook Express 5 [Q230208]")  
- More Info [MS KB270670](http://support.microsoft.com/kb/270670 "OLEXP: How to Back Up and Recover Outlook Express Data [Q270670]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20230208%20Q230208" rel="nofollow" title="OLEXP: How to Back Up E-mail Messages in Outlook Express 5 [Q230208]">MS KB230208</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20270670%20Q270670" rel="nofollow" title="OLEXP: How to Back Up and Recover Outlook Express Data [Q270670]">MS KB270670</a>  

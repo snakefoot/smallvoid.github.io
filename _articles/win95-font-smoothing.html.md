@@ -17,4 +17,4 @@ tags:
   
  It also adds the option [Show icons using all possible colors](/article/win95-desktop-colors.html), and the cool.dll with many nice icons.  
   
- More Info [MS KB194148](http://support.microsoft.com/kb/194148 "Effects Tab Missing in Display Properties Dialog Box")
+ More Info <a href="https://www.bing.com/search?q=KB%20194148%20Q194148" rel="nofollow" title="Effects Tab Missing in Display Properties Dialog Box">MS KB194148</a>

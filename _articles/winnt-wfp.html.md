@@ -68,9 +68,9 @@ The Windows file protection(WFP) is made to avoid overwriting DLLs with older ve
   > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows NT\\ CurrentVersion \\Winlogon\]  
   >  SFCShowProgress=1 (Default - 0 (Disabled))
  
- More Info [MS KB222473](http://support.microsoft.com/kb/222473 "Registry Settings for Windows File Protection (MS KB222473) [Q222473]")  
- More Info [MS KB222193](http://support.microsoft.com/kb/222193 "Description of the Windows 2000 Windows File Protection Feature (MS KB222193) [Q222193]")  
- More Info [MS KB271484](http://support.microsoft.com/kb/271484 "Files and Folders Are Added to Your System After Service Pack Is Installed [Q271484]")  
- More Info [MS KB290402](http://support.microsoft.com/kb/290402 "HOW TO: Remove the Service Pack Restore Files and Folders in Windows (MS KB290402) [Q290402]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20222473%20Q222473" rel="nofollow" title="Registry Settings for Windows File Protection (MS KB222473) [Q222473]">MS KB222473</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20222193%20Q222193" rel="nofollow" title="Description of the Windows 2000 Windows File Protection Feature (MS KB222193) [Q222193]">MS KB222193</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20271484%20Q271484" rel="nofollow" title="Files and Folders Are Added to Your System After Service Pack Is Installed [Q271484]">MS KB271484</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20290402%20Q290402" rel="nofollow" title="HOW TO: Remove the Service Pack Restore Files and Folders in Windows (MS KB290402) [Q290402]">MS KB290402</a>  
   
  Credits [is-it-true.org](http://www.is-it-true.org/)

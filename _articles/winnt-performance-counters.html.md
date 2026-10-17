@@ -20,9 +20,9 @@ Performance counters are enabled by default to allow applications such as [Perfo
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\**Service Name** \\Performance\]  
 >  Disable Performance Counters = 1  
 >   
->  More Info [MS KB179456](http://support.microsoft.com/kb/179456 "Extensible Counters in Performance Monitor [Q179456]")  
->  More Info [MS KB248993](http://support.microsoft.com/kb/248993 "PRB: Performance Object Is Not Displayed in Performance Monitor [Q248993]")  
->  More Info [MS KB266416](http://support.microsoft.com/kb/266416 "How to Troubleshoot WinMgmt-Based Performance Counter Errors [Q266416]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20179456%20Q179456" rel="nofollow" title="Extensible Counters in Performance Monitor [Q179456]">MS KB179456</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20248993%20Q248993" rel="nofollow" title="PRB: Performance Object Is Not Displayed in Performance Monitor [Q248993]">MS KB248993</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20266416%20Q266416" rel="nofollow" title="How to Troubleshoot WinMgmt-Based Performance Counter Errors [Q266416]">MS KB266416</a>
 
  There is a PhysicalDisk object, which allows monitoring of physical disks and logical drives. Windows 2000 monitors the physical disks by default, and it can be turned off by running this command and perform a reboot:
 >  DISKPERF -N  
@@ -33,8 +33,8 @@ Performance counters are enabled by default to allow applications such as [Perfo
 >   
 >  Note Windows XP only activates monitoring of the physical disks and logical drives on demand.  
 >   
->  More Info [MS KB253251](http://support.microsoft.com/kb/253251 "Using Diskperf in Windows 2000 [Q253251]")  
->  More Info [MS KB296187](http://support.microsoft.com/kb/296187 "Application Log Events Generated When You Start Performance Counter Query [Q296187]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20253251%20Q253251" rel="nofollow" title="Using Diskperf in Windows 2000 [Q253251]">MS KB253251</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20296187%20Q296187" rel="nofollow" title="Application Log Events Generated When You Start Performance Counter Query [Q296187]">MS KB296187</a>
 
  There is an I/O counter, which monitors the I/O for each process (Can be seen in the Task Manager with the columns I/O Writes, I/O Other, etc.). If this monitoring information is not important then one can disable it with this DWORD registry key:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Session Manager \\I/O System\]  

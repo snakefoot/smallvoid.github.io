@@ -28,11 +28,11 @@ tags:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters\]  
 >  DataBasePath = "C:\\Etc"
 
- More Info [MS KB101927](http://support.microsoft.com/kb/101927 "The Lmhosts File for TCP/IP in Windows [Q101927]")  
- More Info [MS KB105997](http://support.microsoft.com/kb/105997 "Differences Between the HOSTS and LMHOSTS Files in Windows NT [Q105997]")  
- More Info [MS KB180094](http://support.microsoft.com/kb/180094 "How to Write an LMHOSTS File for Domain Validation and Other Name Resolution Issues [Q180094]")  
- More Info [MS KB180099](http://support.microsoft.com/kb/180099 "Troubleshooting LMHOSTS Name Resolution Issues [Q180099]")  
- More Info [MS KB314108](http://support.microsoft.com/kb/314108 "How to Write an LMHOSTS File for Domain Validation and Other Name Resolution Issues [Q314108]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20101927%20Q101927" rel="nofollow" title="The Lmhosts File for TCP/IP in Windows [Q101927]">MS KB101927</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20105997%20Q105997" rel="nofollow" title="Differences Between the HOSTS and LMHOSTS Files in Windows NT [Q105997]">MS KB105997</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20180094%20Q180094" rel="nofollow" title="How to Write an LMHOSTS File for Domain Validation and Other Name Resolution Issues [Q180094]">MS KB180094</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20180099%20Q180099" rel="nofollow" title="Troubleshooting LMHOSTS Name Resolution Issues [Q180099]">MS KB180099</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20314108%20Q314108" rel="nofollow" title="How to Write an LMHOSTS File for Domain Validation and Other Name Resolution Issues [Q314108]">MS KB314108</a>  
   
 ##### Recommended State:
 

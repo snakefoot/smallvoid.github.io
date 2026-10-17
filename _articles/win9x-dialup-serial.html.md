@@ -34,4 +34,4 @@ To configure your modem:
 5. Select the **Port Settings**-fan and change the **Bits Per Second**(BPS) to 115200 or higher, and make sure **Flowcontrol** is set to Hardware
 6. On the **Port Settings**-fan press the **Advanced**-button and activate the FIFO buffer and turn the sliders all the way up.
  
- More info [MS KB131016](http://support.microsoft.com/kb/131016 "Settings for the 16550 UART FIFO Buffer [Q131016]")  
+ More info <a href="https://www.bing.com/search?q=KB%20131016%20Q131016" rel="nofollow" title="Settings for the 16550 UART FIFO Buffer [Q131016]">MS KB131016</a>  

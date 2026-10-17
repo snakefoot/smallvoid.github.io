@@ -27,8 +27,8 @@ If having opened access to the [Upper Memory Block (UMB)](/article/upper-memory-
 
  Note that if there is not enough free memory for the device to load in the UMB, then the device is loaded in the conventional memory. Therefore it might be a good idea to [Check how much memory each TSR program uses](/article/mem-conventional-memory.html) and then order the loading of the TSR programs so the UMB is packed completely.  
   
- More Info [MS KB151718](http://support.microsoft.com/kb/151718 "Managing Memory in MS-DOS Mode [Q151718]")  
- More Info [MS KB72183](http://support.microsoft.com/kb/72183 "Loading MS-DOS 5.0 TSRs and Device Drivers into UMBs [Q72183]")  
- More Info [MS KB96028](http://support.microsoft.com/kb/96028 "Using /S Switch with LOADHIGH [Q96028]")  
- More Info [MS KB95555](http://support.microsoft.com/kb/95555 "Overview of Memory-Management Functionality in MS-DOS [Q95555]")  
- More Info [MS KB76820](http://support.microsoft.com/kb/76820 "Programs Don't Load into Upper Memory Area [Q76820]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20151718%20Q151718" rel="nofollow" title="Managing Memory in MS-DOS Mode [Q151718]">MS KB151718</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2072183%20Q72183" rel="nofollow" title="Loading MS-DOS 5.0 TSRs and Device Drivers into UMBs [Q72183]">MS KB72183</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2096028%20Q96028" rel="nofollow" title="Using /S Switch with LOADHIGH [Q96028]">MS KB96028</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2095555%20Q95555" rel="nofollow" title="Overview of Memory-Management Functionality in MS-DOS [Q95555]">MS KB95555</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2076820%20Q76820" rel="nofollow" title="Programs Don't Load into Upper Memory Area [Q76820]">MS KB76820</a>  

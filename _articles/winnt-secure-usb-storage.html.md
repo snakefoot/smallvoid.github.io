@@ -26,7 +26,7 @@ The ability to use USB stick and HDD makes it easy to transfer files from one co
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\UsbStor\]  
 >  Start = 4  
 >   
->  More Info [MS KB823732](http://support.microsoft.com/kb/823732 "How to disable the use of USB storage devices [Q823732]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20823732%20Q823732" rel="nofollow" title="How to disable the use of USB storage devices [Q823732]">MS KB823732</a>
 
  Restrict write access to any USB storage device for any user (WinXP SP2+):
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control \\StorageDevicePolicies\]  

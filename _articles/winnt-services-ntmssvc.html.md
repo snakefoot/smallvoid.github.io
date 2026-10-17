@@ -23,14 +23,14 @@ tags: []
  Note if the Removable Storage database have become corrupted, then this service will fail to respond. This will cause applications like [Ntbackup](/article/winnt-ntbackup.html) to hang and not load properly. To clear the database, make a backup of the contents in this folder and then empty the folder:
 > C:\\Windows\\System32\\Ntmsdata  
 >   
->  More Info [MS KB235032](http://support.microsoft.com/kb/235032 "Problems with a Damaged Removable Storage Manager Database [Q235032]")  
->  More Info [MS KB248800](http://support.microsoft.com/kb/248800 "Removable Storage Manager Reports Automatic Library Configuration Error Messages [Q248800]")  
->  More Info [MS KB316500](http://support.microsoft.com/kb/316500 "The Removable Storage Service Hangs on Startup [Q316500]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20235032%20Q235032" rel="nofollow" title="Problems with a Damaged Removable Storage Manager Database [Q235032]">MS KB235032</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20248800%20Q248800" rel="nofollow" title="Removable Storage Manager Reports Automatic Library Configuration Error Messages [Q248800]">MS KB248800</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20316500%20Q316500" rel="nofollow" title="The Removable Storage Service Hangs on Startup [Q316500]">MS KB316500</a>
 
- More Info [MS KB226932](http://support.microsoft.com/kb/226932 "Windows 2000 Removable Storage Manager Performs Tasks Sequentially [Q226932]")  
- More Info [MS KB235032](http://support.microsoft.com/kb/235032 "Event ID 129 for Removable Storage Manager After Reboot [Q235032]")  
- More Info [MS KB240856](http://support.microsoft.com/kb/240856 "Removable Storage Manager Terms and Definitions [Q240856]")  
- More Info [MS KB250468](http://support.microsoft.com/kb/250468 "How Removable Storage Manager and Programs Recognize Media [Q250468]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20226932%20Q226932" rel="nofollow" title="Windows 2000 Removable Storage Manager Performs Tasks Sequentially [Q226932]">MS KB226932</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20235032%20Q235032" rel="nofollow" title="Event ID 129 for Removable Storage Manager After Reboot [Q235032]">MS KB235032</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20240856%20Q240856" rel="nofollow" title="Removable Storage Manager Terms and Definitions [Q240856]">MS KB240856</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20250468%20Q250468" rel="nofollow" title="How Removable Storage Manager and Programs Recognize Media [Q250468]">MS KB250468</a>  
   
 ##### Recommended State:
 

@@ -25,4 +25,4 @@ Windows XP displays by default shares from other computers the following way:
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer\]  
 >  ToggleCommentPosition = 1 (0 = Default)  
 >   
->  More Info [MS KB330193](http://support.microsoft.com/kb/330193 "The computer description appears before the computer name in Windows XP [Q330193]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20330193%20Q330193" rel="nofollow" title="The computer description appears before the computer name in Windows XP [Q330193]">MS KB330193</a>

@@ -25,10 +25,10 @@ Smart Drive (SMARTDRV) is a disk cache driver, which creates a disk cache in the
   
  Note smart drive can also be loaded into the [Upper Memory Block](/article/load-drivers-high-memory.html) to free conventional memory.  
   
- More Info [MS KB81377](http://support.microsoft.com/kb/81377 "SMARTDrive /double_buffer Cannot Load into UMBs [Q81377]")  
- More Info [MS KB81607](http://support.microsoft.com/kb/81607 "Rebooting from a Batch File with SMARTDRV.EXE Loaded [Q81607]")  
- More Info [MS KB82709](http://support.microsoft.com/kb/82709 "SMARTDRV Cache Status -- What Does the Buffering Value Mean? [Q82709]")  
- More Info [MS KB83376](http://support.microsoft.com/kb/83376 "SMARTDrive ElementSize Should Precede CacheSizes [Q83376]")  
- More Info [MS KB84706](http://support.microsoft.com/kb/84706 "Troubleshooting SMARTDrive Version 4.0 [Q84706]")  
- More Info [MS KB95531](http://support.microsoft.com/kb/95531 "SMARTDrive: Maximum Cache Size [Q95531]")  
- More Info [MS KB241458](http://support.microsoft.com/kb/241458 "HOWTO: Speed the Preinstallation Process for Windows 9x [Q241458]")  
+ More Info <a href="https://www.bing.com/search?q=KB%2081377%20Q81377" rel="nofollow" title="SMARTDrive /double_buffer Cannot Load into UMBs [Q81377]">MS KB81377</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2081607%20Q81607" rel="nofollow" title="Rebooting from a Batch File with SMARTDRV.EXE Loaded [Q81607]">MS KB81607</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2082709%20Q82709" rel="nofollow" title="SMARTDRV Cache Status -- What Does the Buffering Value Mean? [Q82709]">MS KB82709</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2083376%20Q83376" rel="nofollow" title="SMARTDrive ElementSize Should Precede CacheSizes [Q83376]">MS KB83376</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2084706%20Q84706" rel="nofollow" title="Troubleshooting SMARTDrive Version 4.0 [Q84706]">MS KB84706</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2095531%20Q95531" rel="nofollow" title="SMARTDrive: Maximum Cache Size [Q95531]">MS KB95531</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20241458%20Q241458" rel="nofollow" title="HOWTO: Speed the Preinstallation Process for Windows 9x [Q241458]">MS KB241458</a>  

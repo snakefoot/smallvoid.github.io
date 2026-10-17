@@ -38,4 +38,4 @@ Active Desktop includes a feature that allows one to minimize all active Windows
   
  Note to create your own Send-To "Desktop (create shortcut)", create a new text-file and rename it "Desktop (create shortcut).desklink" (Or copy it from the Send To folder for the Default user).  
   
- More Info [MS KB190355](http://support.microsoft.com/kb/190355 "How to Re-create the Show Desktop Icon on Quick Launch Toolbar [Q190355]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20190355%20Q190355" rel="nofollow" title="How to Re-create the Show Desktop Icon on Quick Launch Toolbar [Q190355]">MS KB190355</a>  

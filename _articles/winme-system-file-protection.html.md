@@ -28,10 +28,10 @@ In an attempt to become more user friendly Microsoft decided that the user shoul
   
  Related [Display System file protection notifications](/article/winme-sfp-notification.html)  
   
- More Info [MS KB253571](http://support.microsoft.com/kb/253571 "Description of the System File Protection Feature [Q253571]")  
- More Info [MS KB260195](http://support.microsoft.com/kb/260195 "Description of the Sfplog.txt File [Q260195]")  
- More Info [MS KB265371](http://support.microsoft.com/kb/265371 "How to Extract and Replace a Protected File in Windows Me [Q265371]")  
- More Info [MS KB266714](http://support.microsoft.com/kb/266714 "SFP Cannot Function When System.cat File Is Corrupt or Missing [Q266714]")  
- More Info [MS KB267282](http://support.microsoft.com/kb/267282 "A Description of the Sfpdb.sfp Database File [Q267282]")  
- More Info [MS KB274090](http://support.microsoft.com/kb/274090 "System File Checker Is Not Included in Windows Millennium Edition [Q274090]")  
- More Info [MS KB275156](http://support.microsoft.com/kb/275156 "How to Determine if a File Is Protected by System File Protection [Q275156]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20253571%20Q253571" rel="nofollow" title="Description of the System File Protection Feature [Q253571]">MS KB253571</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20260195%20Q260195" rel="nofollow" title="Description of the Sfplog.txt File [Q260195]">MS KB260195</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20265371%20Q265371" rel="nofollow" title="How to Extract and Replace a Protected File in Windows Me [Q265371]">MS KB265371</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20266714%20Q266714" rel="nofollow" title="SFP Cannot Function When System.cat File Is Corrupt or Missing [Q266714]">MS KB266714</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20267282%20Q267282" rel="nofollow" title="A Description of the Sfpdb.sfp Database File [Q267282]">MS KB267282</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20274090%20Q274090" rel="nofollow" title="System File Checker Is Not Included in Windows Millennium Edition [Q274090]">MS KB274090</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20275156%20Q275156" rel="nofollow" title="How to Determine if a File Is Protected by System File Protection [Q275156]">MS KB275156</a>  

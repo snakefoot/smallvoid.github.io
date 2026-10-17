@@ -27,7 +27,7 @@ tags: []
  Note to start the system restore wizard from a command prompt (F.ex. if booting into "Safe Mode with Command Prompt"):
 > %windir%\\system32\\restore\\rstrui.exe  
 >   
->  More Info [MS KB304449](http://support.microsoft.com/kb/304449 "How to start the System Restore tool at a command prompt in Windows XP [Q304449]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20304449%20Q304449" rel="nofollow" title="How to start the System Restore tool at a command prompt in Windows XP [Q304449]">MS KB304449</a>
 
  Note if restored the system to a restore point before WinXP being activated, then one can try to reactivate without contacting Microsoft:
 1. Boot into Safe-mode and go to the folder %systemroot%\\system32
@@ -38,14 +38,14 @@ tags: []
  Note if System Restore fails to create restore points or operate properly, then one can try to reinstall it by running this command:
  > rundll32.exe advpack.dll,LaunchINFSection %Windir%\\Inf\\sr.inf
 
- More Info [MS KB283073](http://support.microsoft.com/kb/283073 "How to Disable the System Restore Configuration User Interface [Q283073]")  
- More Info [MS KB295299](http://support.microsoft.com/kb/295299 "HOW TO: Use the System Restore Utility with Windows Management Instrumentation in Windows XP [Q295299]")  
- More Info [MS KB299904](http://support.microsoft.com/kb/299904 "The System Restore Utility May Be Suspended on a System Drive Even Though There Is Enough Disk Space [Q299904]")  
- More Info [MS KB301224](http://support.microsoft.com/kb/301224 "System Restore 'Restore Points' Are Missing or Deleted [Q301224]")  
- More Info [MS KB302796](http://support.microsoft.com/kb/302796 "Troubleshooting System Restore in Windows XP [Q302796]")  
- More Info [MS KB306084](http://support.microsoft.com/kb/306084 "HOW TO: Restore the Operating System to a Previous State in Windows XP [Q306084]")  
- More Info [MS KB310405](http://support.microsoft.com/kb/310405 "How to Turn On and Turn Off System Restore in Windows XP [Q310405]")  
- More Info [MS KB814833](http://support.microsoft.com/kb/814833 "PRB: Windows System Restore Does Not Monitor Windows Installer Patch (.msp) Files [Q814833]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20283073%20Q283073" rel="nofollow" title="How to Disable the System Restore Configuration User Interface [Q283073]">MS KB283073</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20295299%20Q295299" rel="nofollow" title="HOW TO: Use the System Restore Utility with Windows Management Instrumentation in Windows XP [Q295299]">MS KB295299</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20299904%20Q299904" rel="nofollow" title="The System Restore Utility May Be Suspended on a System Drive Even Though There Is Enough Disk Space [Q299904]">MS KB299904</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20301224%20Q301224" rel="nofollow" title="System Restore 'Restore Points' Are Missing or Deleted [Q301224]">MS KB301224</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20302796%20Q302796" rel="nofollow" title="Troubleshooting System Restore in Windows XP [Q302796]">MS KB302796</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20306084%20Q306084" rel="nofollow" title="HOW TO: Restore the Operating System to a Previous State in Windows XP [Q306084]">MS KB306084</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20310405%20Q310405" rel="nofollow" title="How to Turn On and Turn Off System Restore in Windows XP [Q310405]">MS KB310405</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20814833%20Q814833" rel="nofollow" title="PRB: Windows System Restore Does Not Monitor Windows Installer Patch (.msp) Files [Q814833]">MS KB814833</a>  
  More Info [MSDN: FAQ Regarding System Restore in WinXP](http://microsoft.com/technet/itcommunity/Newsgroups/FAQSRWXP.asp "Frequently Asked Questions Regarding System Restore in Windows XP")  
  More Info [Technet: Microsoft Windows XP System Restore](http://msdn.microsoft.com/library/en-us/dnwxp/html/windowsxpsystemrestore.asp)  
   

@@ -18,4 +18,4 @@ By default this limit was controlled by the FILES= setting in Config.sys. Window
 > \[386Enh\]  
 >  PerVMFiles = 100 (Default - 30 Range 30-225)
 
- More Info [MS KB269030](http://support.microsoft.com/kb/269030 "How to Increase Available File Handles for MS-DOS-Based Programs in Windows Millennium Edition [Q269030]")
+ More Info <a href="https://www.bing.com/search?q=KB%20269030%20Q269030" rel="nofollow" title="How to Increase Available File Handles for MS-DOS-Based Programs in Windows Millennium Edition [Q269030]">MS KB269030</a>

@@ -30,9 +30,9 @@ The network protocol stack has been rewritten in Windows Vista, so it will be ev
  Note one can disable the autotunning completely, and lock the RWIN to 65536 bytes:
  > netsh interface tcp set global autotuninglevel=disabled
 
- More Info [MS KB929868](http://support.microsoft.com/kb/929868 "A Web site sends data very slowly or drops the data completely when you use Windows Vista Enterprise")  
- More Info [MS KB932170](http://support.microsoft.com/kb/932170 "When you copy large files to or from earlier operating systems, the copy operation may be slower than expected on some Windows Vista-based computers")  
- More Info [MS KB935400](http://support.microsoft.com/kb/935400 "It takes a very long time to download an e-mail message from a POP3 server in Outlook 2007")  
+ More Info <a href="https://www.bing.com/search?q=KB%20929868%20Q929868" rel="nofollow" title="A Web site sends data very slowly or drops the data completely when you use Windows Vista Enterprise">MS KB929868</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20932170%20Q932170" rel="nofollow" title="When you copy large files to or from earlier operating systems, the copy operation may be slower than expected on some Windows Vista-based computers">MS KB932170</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20935400%20Q935400" rel="nofollow" title="It takes a very long time to download an e-mail message from a POP3 server in Outlook 2007">MS KB935400</a>  
  More Info [MSDN - WSAIoctl function controls the mode of a socket](http://msdn2.microsoft.com/en-us/library/ms741621.aspx)  
  More Info [The Cable Guy - TCP Receive Window Auto-Tuning](http://www.microsoft.com/technet/technetmag/issues/2007/01/CableGuy/default.aspx)  
  More Info [The Cable Guy - Next Generation TCP/IP Stack](http://www.microsoft.com/technet/community/columns/cableguy/cg1105.mspx "November 2005 - Performance Enhancements in the Next Generation TCP/IP Stack")  

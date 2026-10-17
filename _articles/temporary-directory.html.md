@@ -30,4 +30,4 @@ The temporary directory is specified by two [environment variables](/article/env
 > ECHO Clearing TEMP directory : %TEMP%  
 >  DELTREE /Y %TEMP%\\\*.\* &gt;NUL
 
- More Info [MS KB130075](http://support.microsoft.com/kb/130075 "TEMP Environment Variable Overwritten in Command Prompt [Q130075]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20130075%20Q130075" rel="nofollow" title="TEMP Environment Variable Overwritten in Command Prompt [Q130075]">MS KB130075</a>  

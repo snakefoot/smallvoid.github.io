@@ -26,6 +26,6 @@ tags:
   
  Note instead of running an application as a service, then one can also consider using a scheduled task to start the application when computer starts or when a user performs logon. See [Task Scheduler](/article/winnt-services-schedule.html).  
   
- More Info [MS KB137890](http://support.microsoft.com/kb/137890 "HOWTO: Create a User-Defined Service [Q137890]")  
- More Info [MS KB166819](http://support.microsoft.com/kb/166819 "Using Sc.exe and Netsvc.exe to Control Services Remotely [Q166819]")  
- More Info [MS KB251192](http://support.microsoft.com/kb/251192 "How to Create a Windows Service Using Sc.exe [Q251192]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20137890%20Q137890" rel="nofollow" title="HOWTO: Create a User-Defined Service [Q137890]">MS KB137890</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20166819%20Q166819" rel="nofollow" title="Using Sc.exe and Netsvc.exe to Control Services Remotely [Q166819]">MS KB166819</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20251192%20Q251192" rel="nofollow" title="How to Create a Windows Service Using Sc.exe [Q251192]">MS KB251192</a>  

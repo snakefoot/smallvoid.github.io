@@ -21,5 +21,5 @@ Some websites are testing that the web-browser used to access the website has th
 > document.write(navigator.userAgent);
 > \--></script>
 
- More Info [MS KB923196](http://support.microsoft.com/kb/923196 "You receive an error message that states that you do not have the most current version of Internet Explorer when you use Internet Explorer 7 to visit a Web site")  
+ More Info <a href="https://www.bing.com/search?q=KB%20923196%20Q923196" rel="nofollow" title="You receive an error message that states that you do not have the most current version of Internet Explorer when you use Internet Explorer 7 to visit a Web site">MS KB923196</a>  
  More Info [MSDN - Understanding User-Agent Strings](http://msdn2.microsoft.com/en-us/library/ms537503.aspx)

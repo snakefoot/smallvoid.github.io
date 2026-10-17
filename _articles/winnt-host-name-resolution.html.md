@@ -27,14 +27,14 @@ One can change the HOST resolution order for whether it should use NetBIOS or DN
 >   
 >  Note this option was made available with WinNT4 SP4.  
 >   
->  More Info [MS KB171567](http://support.microsoft.com/kb/171567 "Windows NT 4.0 ServiceProvider Priority Values Not Applied [Q171567]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20171567%20Q171567" rel="nofollow" title="Windows NT 4.0 ServiceProvider Priority Values Not Applied [Q171567]">MS KB171567</a>
 
  One can change how it should perform NetBIOS resolution (Nodetype):
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\Netbt \\Parameters\]  
 >  NodeType = 1 (1= b-node; 2= p-node; 4= m-node; 8= h-node; Default=1 or 8 depending on WINS available)  
 >   
->  More Info [MS KB142692](http://support.microsoft.com/kb/142692 "Minimizing WAN Traffic [Q142692]")  
->  More Info [MS KB160177](http://support.microsoft.com/kb/160177 "Default Node Type for Microsoft Clients [Q160177]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20142692%20Q142692" rel="nofollow" title="Minimizing WAN Traffic [Q142692]">MS KB142692</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20160177%20Q160177" rel="nofollow" title="Default Node Type for Microsoft Clients [Q160177]">MS KB160177</a>
 
  One can configure whether it should use DNS and HOSTS-file at all with this DWORD:
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\Netbt \\Parameters\]  

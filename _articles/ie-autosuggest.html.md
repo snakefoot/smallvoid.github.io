@@ -42,7 +42,7 @@ When typing in an internet url in Internet Explorer, then it can provide listing
 9. Also check that no entries is listed at the following registry key:
   > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Internet Explorer \\TypedURLs\]  
   >   
-  >  More info [MS KB157729](http://support.microsoft.com/kb/157729 "How to Clear the History Entries in Internet Explorer [Q157729]")
+  >  More info <a href="https://www.bing.com/search?q=KB%20157729%20Q157729" rel="nofollow" title="How to Clear the History Entries in Internet Explorer [Q157729]">MS KB157729</a>
  
  One can configure for how long it should remember a typed url:
 1. Open **Control Panel**
@@ -54,7 +54,7 @@ When typing in an internet url in Internet Explorer, then it can provide listing
   > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Internet Settings \\Url History\]  
   >  Days To keep = 15
  
- More info [MS KB217148](http://support.microsoft.com/kb/217148 "How to use the AutoComplete feature in Internet Explorer 5 and 6 [Q217148]")  
- More info [MS KB221925](http://support.microsoft.com/kb/221925 "'Days to Keep Pages in History' Set to 0 Displays Web Sites [Q221925]")  
- More info [MS KB237553](http://support.microsoft.com/kb/237553 "Disabling or Enabling the AutoComplete or Inline AutoComplete Feature [Q237553]")  
- More info [MS KB885180](http://support.microsoft.com/kb/885180 "The AutoComplete feature does not work after you enable it in Internet Explorer on a computer that is running Windows XP Home Edition [Q885180]")  
+ More info <a href="https://www.bing.com/search?q=KB%20217148%20Q217148" rel="nofollow" title="How to use the AutoComplete feature in Internet Explorer 5 and 6 [Q217148]">MS KB217148</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20221925%20Q221925" rel="nofollow" title="'Days to Keep Pages in History' Set to 0 Displays Web Sites [Q221925]">MS KB221925</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20237553%20Q237553" rel="nofollow" title="Disabling or Enabling the AutoComplete or Inline AutoComplete Feature [Q237553]">MS KB237553</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20885180%20Q885180" rel="nofollow" title="The AutoComplete feature does not work after you enable it in Internet Explorer on a computer that is running Windows XP Home Edition [Q885180]">MS KB885180</a>  

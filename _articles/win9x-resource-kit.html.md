@@ -23,5 +23,5 @@ The [Windows 98 Resource Kit](ftp://ftp.microsoft.com/services/technet/samples/p
  
  Note to download the utilities from the Microsoft's FTP, then one have to configure the FTP client not to use passive mode.  
   
- More Info [MS KB247024](http://support.microsoft.com/kb/247024 "Tools Included with the Microsoft Windows 98 Resource Kit [Q247024]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20247024%20Q247024" rel="nofollow" title="Tools Included with the Microsoft Windows 98 Resource Kit [Q247024]">MS KB247024</a>  
  More Info [MS Windows 98 Reskit Documentation](http://www.microsoft.com/resources/documentation/windows/98/all/reskit/en-us/win98rk.mspx "Microsoft Windows 98 Resource Kit TOC")  

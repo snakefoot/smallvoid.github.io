@@ -25,5 +25,5 @@ There is a number of memory pages set a side to handle stack overflows to avoid 
 
  Increase the MinSPs with increment of 4 until the errors stops coming. This setting has nothing to do with [STACKS=](/article/load-environment-high-memory.html) in the CONFIG.SYS (Though if STACKS= is set too low, then it can also introduce stack overflow in Windows)  
   
- More Info [MS KB145799](http://support.microsoft.com/kb/145799 "How to Troubleshoot Windows Internal Stack Overflow Error Messages [Q145799]")  
- More Info [MS KB149083](http://support.microsoft.com/kb/149083 "Error Message: There Are No Spare Stack Pages [Q149083]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20145799%20Q145799" rel="nofollow" title="How to Troubleshoot Windows Internal Stack Overflow Error Messages [Q145799]">MS KB145799</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20149083%20Q149083" rel="nofollow" title="Error Message: There Are No Spare Stack Pages [Q149083]">MS KB149083</a>  

@@ -31,7 +31,7 @@ The Registry Checker Tool arrived with Win98/Me, and makes it easy to backup or 
 > 
 > - /autorun - Makes a silent registry check. If registry is good then a backup is made and it quits. If registry is bad then scanreg is set to make a restore at next boot and the machine is restarted.
 
- Note that in Windows Me it is also possible to use SCANREG inside a DOS prompt, it will then restart to commit the changes. One can also do it directly from DOS by booting from a [Windows Me startup disk](http://support.microsoft.com/kb/267287 "How to Create a Startup Disk in Windows Me [Q267287]").  
+ Note that in Windows Me it is also possible to use SCANREG inside a DOS prompt, it will then restart to commit the changes. One can also do it directly from DOS by booting from a <a href="https://www.bing.com/search?q=KB+267287+Q267287" title="How to Create a Startup Disk in Windows Me [Q267287]" rel="nofollow">Windows Me startup disk</a>.  
   
  Note there is a file called **Scanreg.ini**, which resides in the Windows directory. It contains parameters for how the Registry Checker should perform it's backup operation.  
   
@@ -56,9 +56,9 @@ The Registry Checker Tool arrived with Win98/Me, and makes it easy to backup or 
 </table>
 
   
- More Info [MS KB184023](http://support.microsoft.com/kb/184023 "Command-Line Switches for the Registry Checker Tool [Q184023]")  
- More Info [MS KB183603](http://support.microsoft.com/kb/183603 "How to Customize Registry Checker Tool Settings [Q183603]")  
- More Info [MS KB183887](http://support.microsoft.com/kb/183887 "Description of the Windows Registry Checker Tool (Scanreg.exe) [Q183887]")  
- More Info [MS KB198864](http://support.microsoft.com/kb/198864 "Registry Is Not Backed Up Automatically at Startup [Q198864]")  
- More Info [MS KB201655](http://support.microsoft.com/kb/201655 "Error Message: You Have Restored a Good Registry... [Q201655]")  
- More Info [MS KB245147](http://support.microsoft.com/kb/245147 "Scanreg.exe Does Not Back Up User.dat Files When Using User Profiles [Q245147]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20184023%20Q184023" rel="nofollow" title="Command-Line Switches for the Registry Checker Tool [Q184023]">MS KB184023</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20183603%20Q183603" rel="nofollow" title="How to Customize Registry Checker Tool Settings [Q183603]">MS KB183603</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20183887%20Q183887" rel="nofollow" title="Description of the Windows Registry Checker Tool (Scanreg.exe) [Q183887]">MS KB183887</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20198864%20Q198864" rel="nofollow" title="Registry Is Not Backed Up Automatically at Startup [Q198864]">MS KB198864</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20201655%20Q201655" rel="nofollow" title="Error Message: You Have Restored a Good Registry... [Q201655]">MS KB201655</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20245147%20Q245147" rel="nofollow" title="Scanreg.exe Does Not Back Up User.dat Files When Using User Profiles [Q245147]">MS KB245147</a>  

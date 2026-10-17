@@ -58,8 +58,8 @@ The icons used in Windows are saved in an icon cache, which has been invented to
    To uninstall by command line (Win9x):
    > rundll.exe setupx.dll,InstallHinfSection DefaultUninstall 4 C:\\Windows\\Inf\\Tweakui.Inf
  
- More Info [MS KB132668](http://support.microsoft.com/kb/132668 "Icons Randomly Change to Different Icons [Q132668]")  
- More Info [MS KB133733](http://support.microsoft.com/kb/133733 "Icons Displayed Incorrectly in Control Panel [Q133733]")  
- More Info [MS KB146213](http://support.microsoft.com/kb/146213 "Windows Explorer and Desktop Icons Appear Distorted [Q146213]")  
- More Info [MS KB199152](http://support.microsoft.com/kb/199152 "Desktop Icons Do Not Display Correctly in Windows NT 4.0 [Q199152]")  
- More Info [MS KB216165](http://support.microsoft.com/kb/216165 "Changes to Desktop Objects Are Not Displayed Properly [Q216165]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20132668%20Q132668" rel="nofollow" title="Icons Randomly Change to Different Icons [Q132668]">MS KB132668</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20133733%20Q133733" rel="nofollow" title="Icons Displayed Incorrectly in Control Panel [Q133733]">MS KB133733</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20146213%20Q146213" rel="nofollow" title="Windows Explorer and Desktop Icons Appear Distorted [Q146213]">MS KB146213</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20199152%20Q199152" rel="nofollow" title="Desktop Icons Do Not Display Correctly in Windows NT 4.0 [Q199152]">MS KB199152</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20216165%20Q216165" rel="nofollow" title="Changes to Desktop Objects Are Not Displayed Properly [Q216165]">MS KB216165</a>  

@@ -43,5 +43,5 @@ Compressed folders is a shell extension for Windows Explorer, which makes it pos
  > regsvr32 cabview.dll  
  > regsvr32 zipfldr.dll
 
- More info [MS KB197144](http://support.microsoft.com/kb/197144 "Cannot Use CabView Tool to View Contents of Cabinet Files [Q197144]")  
- More info [MS KB306531](http://support.microsoft.com/kb/306531 "HOW TO: Use Compressed (Zipped) Folders in Windows XP [Q306531]")  
+ More info <a href="https://www.bing.com/search?q=KB%20197144%20Q197144" rel="nofollow" title="Cannot Use CabView Tool to View Contents of Cabinet Files [Q197144]">MS KB197144</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20306531%20Q306531" rel="nofollow" title="HOW TO: Use Compressed (Zipped) Folders in Windows XP [Q306531]">MS KB306531</a>  

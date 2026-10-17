@@ -28,18 +28,18 @@ When a dynamic volume is deleted, the OS clears the boot sector of the partition
 
 - Start the Disk Management snapin (Go to Start, Programs, Administrative Tools, Computer Management and select Storage)
 - Recreate the original volume by right-clicking the unpartitioned space and selecting New Partition. Specify the exact size of the original volume, but do not perform a format of the volume.
-- Use **Dskprobe.exe** to recover the backup boot sector (You might need **Dmdiag.exe** to find the backup boot sector). More Info [Recovering NTFS Boot Sector on NTFS Partitions (MS KB153973)](http://support.microsoft.com/kb/153973 "Recovering NTFS Boot Sector on NTFS Partitions [Q153973]")
+- Use **Dskprobe.exe** to recover the backup boot sector (You might need **Dmdiag.exe** to find the backup boot sector). More Info <a href="https://www.bing.com/search?q=KB+153973+Q153973" title="Recovering NTFS Boot Sector on NTFS Partitions [Q153973]" rel="nofollow">Recovering NTFS Boot Sector on NTFS Partitions (MS KB153973)</a>
 - After restoring the NTFS boot sector quit Dskprobe.exe
 - In the Disk Management snapin go to the Action-menu and click Rescan Disks to mount the volume for immediate use.
  
  To recover a FAT32 volume:
 - Start the Disk Management snapin (Go to Start, Programs, Administrative Tools, Computer Management and select Storage)
 - Recreate the original volume by right-clicking the unpartitioned space and selecting New Partition. Specify the exact size of the original volume, but do not perform a format of the volume.
-- Use **Dskprobe.exe** to recover the backup boot sector from the sector-6 of the logical volume and write it to sector-0 of the logical volume. More Info [Chkdsk Does Not Use Backup Boot Sector to Fix Corrupted FAT32 Boot Sector (MS KB247575)](http://support.microsoft.com/kb/247575 "Chkdsk Does Not Use Backup Boot Sector to Fix Corrupted FAT32 Boot Sector [Q247575]")
+- Use **Dskprobe.exe** to recover the backup boot sector from the sector-6 of the logical volume and write it to sector-0 of the logical volume. More Info <a href="https://www.bing.com/search?q=KB+247575+Q247575" title="Chkdsk Does Not Use Backup Boot Sector to Fix Corrupted FAT32 Boot Sector [Q247575]" rel="nofollow">Chkdsk Does Not Use Backup Boot Sector to Fix Corrupted FAT32 Boot Sector (MS KB247575)</a>
 - After restoring the FAT32 boot sector quit Dskprobe.exe
 - In the Disk Management snapin go to the Action-menu and click Rescan Disks to mount the volume for immediate use.
  
- More Info [MS KB246146](http://support.microsoft.com/kb/246146 "Dskprobe.exe May Damage FAT32 Boot Sector [Q246146]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20246146%20Q246146" rel="nofollow" title="Dskprobe.exe May Damage FAT32 Boot Sector [Q246146]">MS KB246146</a>  
  More Info [MS Technet](http://www.microsoft.com/technet/prodtechnol/Windows2000Pro/reskit/part7/proch32.mspx "Disk Concepts and Troubleshooting")  
   
  Related [TestDisk](/article/windows-undelete.html) (Tool for recovery deleted partitions)  

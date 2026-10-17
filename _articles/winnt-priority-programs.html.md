@@ -52,10 +52,10 @@ WinNT is able to give different amount of CPU time to each program dependent on 
 
  Note one can also change the priority right on the fly for a running application by using the Task Manager (CTRL+SHIFT+ESC).  
   
- More Info [MS KB103475](http://support.microsoft.com/kb/103475 "Starting Applications with /REALTIME May Hang Windows NT [Q103475]")  
- More Info [MS KB103810](http://support.microsoft.com/kb/103810 "Realtime Priority Applications And Windows NT [Q103810]")  
- More Info [MS KB106253](http://support.microsoft.com/kb/106253 "Program Priority and Multithreaded Applications [Q106253]")  
- More Info [MS KB191771](http://support.microsoft.com/kb/191771 "How to Alter a Program's Base Priority at a Command Prompt [Q191771]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20103475%20Q103475" rel="nofollow" title="Starting Applications with /REALTIME May Hang Windows NT [Q103475]">MS KB103475</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20103810%20Q103810" rel="nofollow" title="Realtime Priority Applications And Windows NT [Q103810]">MS KB103810</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20106253%20Q106253" rel="nofollow" title="Program Priority and Multithreaded Applications [Q106253]">MS KB106253</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20191771%20Q191771" rel="nofollow" title="How to Alter a Program's Base Priority at a Command Prompt [Q191771]">MS KB191771</a>  
   
  Related [Change your Processor quantums to tweak your applications](/article/winnt-process-scheduler-priority.html)  
   

@@ -18,7 +18,7 @@ It is possible to detect within a batch file if it was executed in a Windows env
 >  DOSPROG.EXE  
 >  :EXIT
 
- More Info [MS KB85469](http://support.microsoft.com/kb/85469 "How to Detect Windows Mode and Version from a Batch File [Q85469]")  
+ More Info <a href="https://www.bing.com/search?q=KB%2085469%20Q85469" rel="nofollow" title="How to Detect Windows Mode and Version from a Batch File [Q85469]">MS KB85469</a>  
   
  Note one can also check whether one is executing in Windows NT or Windows 9x. This is done by checking for the enviroment variable **SYSTEMROOT**, which is created by the Windows NT enviroment:
  
@@ -27,4 +27,4 @@ It is possible to detect within a batch file if it was executed in a Windows env
 >  IF NOT "%WINDIR%"=="" GOTO WIN9X  
 >  GOTO DOS
 
- More Info [MS KB190899](http://support.microsoft.com/kb/190899 "How to Determine the OS Type in a Logon Script [Q190899]")
+ More Info <a href="https://www.bing.com/search?q=KB%20190899%20Q190899" rel="nofollow" title="How to Determine the OS Type in a Logon Script [Q190899]">MS KB190899</a>

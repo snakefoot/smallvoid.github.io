@@ -18,7 +18,7 @@ When performing an exit to DOS, by pressing the **Start**-button and selects the
  
  The [batch file](/article/batch-file.html) DosStart.bat can be used to contain all the drivers and settings which usually resides in Autoexec.bat and Config.sys. CD-Rom drivers and other device drivers can be loaded by using the utility [Dynaload](/article/dynaload.html). It will make the Windows startup faster when only loading DOS drivers at Windows exit.  
   
- More Info [MS KB134400](http://support.microsoft.com/kb/134400 "General Tips for Using MS-DOS Mode [Q134400]")  
- More Info [MS KB135174](http://support.microsoft.com/kb/135174 "Cannot Access CD-ROM Drive from MS-DOS Mode or Command Prompt [Q135174]")  
- More Info [MS KB138996](http://support.microsoft.com/kb/138996 "Description of Restarting Computer in MS-DOS Mode [Q138996]")  
- More Info [MS KB141308](http://support.microsoft.com/kb/141308 "How to Run Automatic Commands When Starting in MS-DOS Mode [Q141308]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20134400%20Q134400" rel="nofollow" title="General Tips for Using MS-DOS Mode [Q134400]">MS KB134400</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20135174%20Q135174" rel="nofollow" title="Cannot Access CD-ROM Drive from MS-DOS Mode or Command Prompt [Q135174]">MS KB135174</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20138996%20Q138996" rel="nofollow" title="Description of Restarting Computer in MS-DOS Mode [Q138996]">MS KB138996</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20141308%20Q141308" rel="nofollow" title="How to Run Automatic Commands When Starting in MS-DOS Mode [Q141308]">MS KB141308</a>  

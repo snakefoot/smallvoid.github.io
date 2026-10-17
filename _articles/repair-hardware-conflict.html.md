@@ -26,8 +26,8 @@ If the computer crashes, reboots, restarts, freezes, hangs, acts slow or is jerk
 - If using WinNT4/Win2k/WinXP and experiencing Blue Screen of Death (BSOD), then activate "Kernel Memory Dump" and try to use [WinDbg](/article/winnt-windbg.html) to examine the crash dump for possible sinners.
 - Check if you have enough free space (100 MByte or so) on your system drive for swap file etc.
 - Perform a thorough disk scanning of your harddrives (Perform a backup of vital data first) 
-  - Win9x/Me : [Scandisk](http://support.microsoft.com/kb/186365 "Description of ScanDisk for Windows (Scandskw.exe) in Windows 98/Me [Q186365]")
-  - Win2k/XP : [Chkdsk /r](http://support.microsoft.com/kb/315265 "How to perform disk error checking in Windows XP [Q315265]")
+  - Win9x/Me : <a href="https://www.bing.com/search?q=KB+186365+Q186365" title="Description of ScanDisk for Windows (Scandskw.exe) in Windows 98/Me [Q186365]" rel="nofollow">Scandisk</a>
+  - Win2k/XP : <a href="https://www.bing.com/search?q=KB+315265+Q315265" title="How to perform disk error checking in Windows XP [Q315265]" rel="nofollow">Chkdsk /r</a>
 - Check the Win2k/WinXP system files using the [System File Checker](/article/winnt-sfc.html).
 - Check if the problem is related to a [Broken Internet Explorer](/article/repair-internet-explorer.html) (Check for virus / trojans / spyware / malware / adware / rootkits / etc.)
 - Check if having [Enabled sound and graphics acceleration properly](/article/windows-update-directx.html)

@@ -24,5 +24,5 @@ When installing Internet Explorer(IE), some might not get the option of just dow
 
  Note if you replace "/d" with "/d:1" then you will download for all operating systems.  
   
- More Info [MS KB257249](http://support.microsoft.com/kb/257249 "Download-Only Setup of Internet Explorer on Windows 2000 and Windows XP [Q257249]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20257249%20Q257249" rel="nofollow" title="Download-Only Setup of Internet Explorer on Windows 2000 and Windows XP [Q257249]">MS KB257249</a>  
  More Info [IEAK](http://www.microsoft.com/windows/ieak/ "Internet Explorer Administration Kit")  

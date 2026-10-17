@@ -42,6 +42,6 @@ Usually when reading about TCPIP there is only mentioned one [Receive Window](/a
  Related : [Recommended settings for the TCP/IP stack](/article/windows-tcpip-settings.html)  
   
  More Info [MSDN - Write Scalable Winsock Apps Using Completion Ports](http://msdn.microsoft.com/msdnmag/issues/1000/Winsock/default.aspx)  
- More info [MS KB214397](http://support.microsoft.com/kb/214397 "INFO: Design Issues - Sending Small Data Segments Over TCP w/Winsock [Q214397]")  
- More info [MS KB246984](http://support.microsoft.com/kb/246984 "RPC Programs That Use Winsock Over TCP/IP May Benefit from Tuning [Q246984]")  
- More info [MS KB311084](http://support.microsoft.com/kb/311084 "WinSock Traffic Is Slow Over High Speed, High Latency Links [Q311084]")  
+ More info <a href="https://www.bing.com/search?q=KB%20214397%20Q214397" rel="nofollow" title="INFO: Design Issues - Sending Small Data Segments Over TCP w/Winsock [Q214397]">MS KB214397</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20246984%20Q246984" rel="nofollow" title="RPC Programs That Use Winsock Over TCP/IP May Benefit from Tuning [Q246984]">MS KB246984</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20311084%20Q311084" rel="nofollow" title="WinSock Traffic Is Slow Over High Speed, High Latency Links [Q311084]">MS KB311084</a>  

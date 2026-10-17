@@ -23,6 +23,6 @@ The FOR command allows one to specify a file wildcard (\*.txt) and what operatio
 
  Related [Create your own file find utility using FOR](/article/file-search-utility.html)  
   
- More Info [MS KB68268](http://support.microsoft.com/kb/68268 "Simulating Wildcards [Q68268]")  
- More Info [MS KB75634](http://support.microsoft.com/kb/75634 "Percent Signs Stripped from Batch File Text [Q75634]")  
- More Info [MS KB134572](http://support.microsoft.com/kb/134572 "FOR Command Behaves Differently From Previous MS-DOS Versions [Q134572]")  
+ More Info <a href="https://www.bing.com/search?q=KB%2068268%20Q68268" rel="nofollow" title="Simulating Wildcards [Q68268]">MS KB68268</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2075634%20Q75634" rel="nofollow" title="Percent Signs Stripped from Batch File Text [Q75634]">MS KB75634</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20134572%20Q134572" rel="nofollow" title="FOR Command Behaves Differently From Previous MS-DOS Versions [Q134572]">MS KB134572</a>  

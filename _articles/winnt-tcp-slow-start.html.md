@@ -25,7 +25,7 @@ When creating a TCP connection, then it doesn't sent data at full speed, even if
 
 > netsh interface tcp show supplemental  
 >   
->  Note the above command will fail if the hotfix [KB2472264](http://support.microsoft.com/kb/2472264 "You cannot customize some TCP configurations by using the netsh command in Windows Server 2008 R2") has not been applied.
+>  Note the above command will fail if the hotfix <a href="https://www.bing.com/search?q=KB+2472264+Q2472264" title="You cannot customize some TCP configurations by using the netsh command in Windows Server 2008 R2" rel="nofollow">KB2472264</a> has not been applied.
 
  Execution these two commands will set an Initial Congestion Window (ICW) of 10 frames (MSS):
 > netsh interface tcp set supplemental template=custom icw=10  

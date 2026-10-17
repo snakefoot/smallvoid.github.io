@@ -20,8 +20,8 @@ Windows 9x is able to run 16 bit programs, and when they attempt to allocate DMA
 > \[386Enh\]  
 >  DMABufferSize=64 (Default - 16 Range 1-256)
 
- More Info [MS KB82711](http://support.microsoft.com/kb/82711 "How EMM386 and Windows 3.1 Relate [Q82711]")  
- More Info [MS KB82790](http://support.microsoft.com/kb/82790 "SYSTEM.INI's NetDMASize= Switch and NetBIOS [Q82790]")  
- More Info [MS KB124729](http://support.microsoft.com/kb/124729 "How to Program DMA Transfers in the Protected Mode Windows Env [Q124729]")  
+ More Info <a href="https://www.bing.com/search?q=KB%2082711%20Q82711" rel="nofollow" title="How EMM386 and Windows 3.1 Relate [Q82711]">MS KB82711</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2082790%20Q82790" rel="nofollow" title="SYSTEM.INI's NetDMASize= Switch and NetBIOS [Q82790]">MS KB82790</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20124729%20Q124729" rel="nofollow" title="How to Program DMA Transfers in the Protected Mode Windows Env [Q124729]">MS KB124729</a>  
   
  Note the above setting can also be configured by going to the "Control Panel" -&gt; "System" -&gt; "Device Manager", and expand the "System"-node, and select properties for "Direct Memory Access Controller", and select the tab "Settings" and set the "Reserve DMA buffer" to 64.

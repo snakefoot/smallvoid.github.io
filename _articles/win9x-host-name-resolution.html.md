@@ -22,19 +22,19 @@ One can change the HOST resolution order for whether it should use NetBIOS or DN
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\VxD \\MSTCP\]  
 >  DnsNbtLookupOrder = 0 (0 = Use DNS first; 1 = Use NetBIOS first; Default = 0)  
 >   
->  More Info [MS KB216470](http://support.microsoft.com/kb/216470 "Windows Sockets 2.0 Does Not Use DnsNbtLookupOrder Value [Q216470]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20216470%20Q216470" rel="nofollow" title="Windows Sockets 2.0 Does Not Use DnsNbtLookupOrder Value [Q216470]">MS KB216470</a>
 
 One can change how it should perform NetBIOS resolution (Nodetype):
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\VxD \\MSTCP\]  
  >  NodeType = 1 (1= b-node; 2= p-node; 4= m-node; 8= h-node; Default=1 or 8 depending on WINS available)  
  >   
- >  More Info [MS KB160177](http://support.microsoft.com/kb/160177 "Default Node Type for Microsoft Clients [Q160177]")
+ >  More Info <a href="https://www.bing.com/search?q=KB%20160177%20Q160177" rel="nofollow" title="Default Node Type for Microsoft Clients [Q160177]">MS KB160177</a>
 
 One can configure whether it should use DNS and HOSTS-file at all:
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\VxD \\MSTCP\]  
  >  EnableDNS = "0" (Default = "1")  
  >   
- >  More Info [MS KB137368](http://support.microsoft.com/kb/137368 "How to Disable NetBIOS Name Resolution on DNS [Q137368]")
+ >  More Info <a href="https://www.bing.com/search?q=KB%20137368%20Q137368" rel="nofollow" title="How to Disable NetBIOS Name Resolution on DNS [Q137368]">MS KB137368</a>
 
 Note in Win95 without Winsock 2.0 applied one can configure name resolution order with these BINARY keys:
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\MSTCP \\ServiceProvider\]  
@@ -43,8 +43,8 @@ Note in Win95 without Winsock 2.0 applied one can configure name resolution orde
  >  DnsPriority = 0x7D0 (Range -32768 to 32767; Lower value means higher priority)  
  >  NetbtPriority = 0x7D1 (Range -32768 to 32767; Lower value means higher priority)  
  >   
- >  More Info [MS KB139270](http://support.microsoft.com/kb/139270 "How to Change Name Resolution Order on Windows 95 and Windows NT [Q139270]")  
- >  More Info [MS KB170619](http://support.microsoft.com/kb/170619 "Windows 95 ServiceProvider Priority Values Not Applied [Q170619]")  
- >  More Info [MS KB250662](http://support.microsoft.com/kb/250662 "Description of the TCP/IP Registry Entries in the MSTCP\ServiceProvider Subkey [Q250662]")
+ >  More Info <a href="https://www.bing.com/search?q=KB%20139270%20Q139270" rel="nofollow" title="How to Change Name Resolution Order on Windows 95 and Windows NT [Q139270]">MS KB139270</a>  
+ >  More Info <a href="https://www.bing.com/search?q=KB%20170619%20Q170619" rel="nofollow" title="Windows 95 ServiceProvider Priority Values Not Applied [Q170619]">MS KB170619</a>  
+ >  More Info <a href="https://www.bing.com/search?q=KB%20250662%20Q250662" rel="nofollow" title="Description of the TCP/IP Registry Entries in the MSTCP\ServiceProvider Subkey [Q250662]">MS KB250662</a>
 
  Related [Description of Host Name Resolution Order](/article/windows-host-name-resolution.html)

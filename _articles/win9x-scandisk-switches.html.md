@@ -39,9 +39,9 @@ If you want to schedule the checking of your HDD, then use these command line sw
 - **/Sageset:x** - Used to create a profile (x is a number from 0-65535)
 - **/Sagerun:x** - Used to execute a created profile (x is a number from 0-65535)
  
- More Info [MS KB126280](http://support.microsoft.com/kb/126280 "Windows 95 ScanDisk (SCANDSKW) Exit Codes [Q126280]")  
- More Info [MS KB127055](http://support.microsoft.com/kb/127055 "How to Cause ScanDisk for Windows to Retest Bad Clusters [Q127055]")  
- More Info [MS KB186365](http://support.microsoft.com/kb/186365 "Description of ScanDisk for Windows (Scandskw.exe) in Windows 98/Me [Q186365]")  
- More Info [MS KB199557](http://support.microsoft.com/kb/199557 "Command-Line Parameters for the Scandisk Tool [Q199557]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20126280%20Q126280" rel="nofollow" title="Windows 95 ScanDisk (SCANDSKW) Exit Codes [Q126280]">MS KB126280</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20127055%20Q127055" rel="nofollow" title="How to Cause ScanDisk for Windows to Retest Bad Clusters [Q127055]">MS KB127055</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20186365%20Q186365" rel="nofollow" title="Description of ScanDisk for Windows (Scandskw.exe) in Windows 98/Me [Q186365]">MS KB186365</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20199557%20Q199557" rel="nofollow" title="Command-Line Parameters for the Scandisk Tool [Q199557]">MS KB199557</a>  
   
  Credits [Serenity](http://www.mvps.org/serenitymacros/)

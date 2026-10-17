@@ -19,6 +19,6 @@ With Windows 95 Microsoft learned that much of the instability of Windows was ca
   
  Note that [Windows Me uses System File Protection](/article/winme-system-restore.html) and doesn't have a System File Checker.  
   
- More Info [MS KB185836](http://support.microsoft.com/kb/185836 "Description of the System File Checker Tool (Sfc.exe) [Q185836]")  
- More Info [MS KB188186](http://support.microsoft.com/kb/188186 "How the System File Checker Baseline Is Determined [Q188186]")  
- More Info [MS KB192832](http://support.microsoft.com/kb/192832 "System File Checker Tool Extracts Incorrect File Versions [Q192832]")
+ More Info <a href="https://www.bing.com/search?q=KB%20185836%20Q185836" rel="nofollow" title="Description of the System File Checker Tool (Sfc.exe) [Q185836]">MS KB185836</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20188186%20Q188186" rel="nofollow" title="How the System File Checker Baseline Is Determined [Q188186]">MS KB188186</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20192832%20Q192832" rel="nofollow" title="System File Checker Tool Extracts Incorrect File Versions [Q192832]">MS KB192832</a>

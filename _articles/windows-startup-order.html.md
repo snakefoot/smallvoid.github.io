@@ -36,4 +36,4 @@ During startup Microsoft Windows checks several "hidden" places for whether it s
  Related [Find programs which starts automatically in Win9x/Me](/article/win9x-startup-order.html)  
  Related [Find programs which starts automatically in WinNT+](/article/winnt-startup-order.html)  
   
- More Info [MS KB81606](http://support.microsoft.com/kb/81606 "Disabling the Startup Group in Windows [Q81606]")
+ More Info <a href="https://www.bing.com/search?q=KB%2081606%20Q81606" rel="nofollow" title="Disabling the Startup Group in Windows [Q81606]">MS KB81606</a>

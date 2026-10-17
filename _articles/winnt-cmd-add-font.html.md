@@ -33,6 +33,6 @@ The command prompt font can be changed with the following steps:
   >  00 = "Consolas"
 3. Might have to restart the computer to properly apply the new font in the command prompt.
  
- More Info [MS KB247815](http://support.microsoft.com/kb/247815 "Necessary criteria for fonts to be available in a command window [Q247815]") (Describes the requirements before a font can be used).  
+ More Info <a href="https://www.bing.com/search?q=KB%20247815%20Q247815" rel="nofollow" title="Necessary criteria for fonts to be available in a command window [Q247815]">MS KB247815</a> (Describes the requirements before a font can be used).  
   
  Credits [Duffblog](http://blogs.oracle.com/duffblog/)

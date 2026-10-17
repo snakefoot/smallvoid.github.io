@@ -135,4 +135,4 @@ Select recommendation:
 -   [Microsoft : System Services for the Windows Server 2003 Family](http://technet.microsoft.com/en-us/library/cc781474.aspx)
 -   [Microsoft : Threats and Countermeasures - System Services](http://www.microsoft.com/technet/security/guidance/serversecurity/tcg/tcgch07n.mspx)
 -   [Microsoft : Windows Server 2003 System Services Reference](http://www.microsoft.com/downloads/details.aspx?familyid=b38a0682-2997-4678-9d9e-a07cc66a3bba)
--   [Microsoft : Services that are automatically started in Windows 2003, XP and 2000](http://support.microsoft.com/kb/919520)
+-   <a href="https://www.bing.com/search?q=KB+919520+Q919520" rel="nofollow">Microsoft : Services that are automatically started in Windows 2003, XP and 2000</a>

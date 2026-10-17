@@ -38,6 +38,6 @@ Active Desktop is part of the Windows Desktop Update and was introduced with Int
   
  Note one should make sure that the language of the Active Desktop is the same as the operating system, as mixed binaries can lead to unpredictable results.  
   
- More Info [MS KB165695](http://support.microsoft.com/kb/165695 "How to Add or Remove Windows Desktop Update [Q165695]")  
- More Info [MS KB217344](http://support.microsoft.com/kb/217344 "How to Uninstall Internet Explorer 5 [Q217344]")  
- More Info [MS KB293907](http://support.microsoft.com/kb/293907 "How to Uninstall Internet Explorer 6 [Q293907]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20165695%20Q165695" rel="nofollow" title="How to Add or Remove Windows Desktop Update [Q165695]">MS KB165695</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20217344%20Q217344" rel="nofollow" title="How to Uninstall Internet Explorer 5 [Q217344]">MS KB217344</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20293907%20Q293907" rel="nofollow" title="How to Uninstall Internet Explorer 6 [Q293907]">MS KB293907</a>  

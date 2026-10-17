@@ -26,10 +26,10 @@ To configure the TCPIP stack for [optimal performance](/article/windows-tcpip-se
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters\]  
 >  TcpWindowSize = 17520 (Standard Range = 0-65535, Window Scaling Range 0-1GByte, Default - calculated)  
 >   
->  More Info [MS KB169789](http://support.microsoft.com/kb/169789 "High Rate of Collisions on 100-Megabit Networks [Q169789]")  
->  More Info [MS KB263088](http://support.microsoft.com/kb/263088 "Windows 2000 Does Not Use Configured TCPWindowSize Registry Parameter When Accepting a Connection [Q263088]")  
->  More Info [MS KB315237](http://support.microsoft.com/kb/315237 "High rate of collisions on 100-megabit networks [Q315237]")  
->  More Info [MS KB891371](http://support.microsoft.com/kb/891371 "The FTP connection does not use all available bandwidth to download a file in Windows Server 2003 [Q891371]")  
+>  More Info <a href="https://www.bing.com/search?q=KB%20169789%20Q169789" rel="nofollow" title="High Rate of Collisions on 100-Megabit Networks [Q169789]">MS KB169789</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20263088%20Q263088" rel="nofollow" title="Windows 2000 Does Not Use Configured TCPWindowSize Registry Parameter When Accepting a Connection [Q263088]">MS KB263088</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20315237%20Q315237" rel="nofollow" title="High rate of collisions on 100-megabit networks [Q315237]">MS KB315237</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20891371%20Q891371" rel="nofollow" title="The FTP connection does not use all available bandwidth to download a file in Windows Server 2003 [Q891371]">MS KB891371</a>  
 >   
 >  Related : [Using PING to find the best TCP/IP RWIN](/article/tcpip-rwin-size.html)  
 >  Related : [AFD will adjust the default TCPIP Receive Window](/article/winnt-winsock-buffer.html)
@@ -38,8 +38,8 @@ To configure the TCPIP stack for [optimal performance](/article/windows-tcpip-se
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters \\Interfaces \\{Adapter-id/GUID}\]  
 >  TCPWindowSize = 17520  
 >   
->  More Info [MS KB263088](http://support.microsoft.com/kb/263088 "Windows 2000 Does Not Use Configured TCPWindowSize Registry Parameter When Accepting a Connection [Q263088]")  
->  More Info [MS KB810382](http://support.microsoft.com/kb/810382 "Default TCP Window Size Is Still Used After You Specify a Different TCPWindowSize Value [Q810382]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20263088%20Q263088" rel="nofollow" title="Windows 2000 Does Not Use Configured TCPWindowSize Registry Parameter When Accepting a Connection [Q263088]">MS KB263088</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20810382%20Q810382" rel="nofollow" title="Default TCP Window Size Is Still Used After You Specify a Different TCPWindowSize Value [Q810382]">MS KB810382</a>
 
  To configure maximum receive window size for all interfaces in bytes. To ensure that Window Scaling doesn't create receive windows that takes too much memory (Win2k+ Only):
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters\]  
@@ -53,11 +53,11 @@ To configure the TCPIP stack for [optimal performance](/article/windows-tcpip-se
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters\]  
 >  EnablePMTUBHDetect = 0 (Enabled = 1, Disabled = 0, Default = 0)  
 >   
->  Note Windows 2003 SP2, Windows XP SP3 and Windows Vista enables black hole detection by default, and changes the PMTU to 536 bytes if retransmissions occurs (If the following retransmission also fails then the PMTU is returned to its original size). More Info [MS KB925280](http://support.microsoft.com/kb/925280 "Changes in PMTU black hole router detection in Windows Server 2003 and in Windows Vista [Q925280]")  
+>  Note Windows 2003 SP2, Windows XP SP3 and Windows Vista enables black hole detection by default, and changes the PMTU to 536 bytes if retransmissions occurs (If the following retransmission also fails then the PMTU is returned to its original size). More Info <a href="https://www.bing.com/search?q=KB%20925280%20Q925280" rel="nofollow" title="Changes in PMTU black hole router detection in Windows Server 2003 and in Windows Vista [Q925280]">MS KB925280</a>  
 >   
->  More Info [MS KB136970](http://support.microsoft.com/kb/136970 "PMTU Black Hole Detection Algorithm Change for Windows NT 3.51 [Q136970]")  
->  More Info [MS KB159211](http://support.microsoft.com/kb/159211 "Diagnoses and treatment of black hole routers [Q159211]")  
->  More Info [MS KB314825](http://support.microsoft.com/kb/314825 "How to Troubleshoot Black Hole Router Issues [Q314825]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20136970%20Q136970" rel="nofollow" title="PMTU Black Hole Detection Algorithm Change for Windows NT 3.51 [Q136970]">MS KB136970</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20159211%20Q159211" rel="nofollow" title="Diagnoses and treatment of black hole routers [Q159211]">MS KB159211</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20314825%20Q314825" rel="nofollow" title="How to Troubleshoot Black Hole Router Issues [Q314825]">MS KB314825</a>
 
  To configure Path MTU Discovery:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters\]  
@@ -71,28 +71,28 @@ To configure the TCPIP stack for [optimal performance](/article/windows-tcpip-se
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters\]  
 >  Tcp1323Opts = 3 (Both Disabled = 0, Window Scaling Only = 1, Timestamp Only = 2, Both Enabled = 3, Default = No value; only initiate the options if requested.)  
 >   
->  More Info [MS KB199947](http://support.microsoft.com/kb/199947 "TCP/IP: Windows NT 4.0 Does Not Support TCP Scale Option [Q199947]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20199947%20Q199947" rel="nofollow" title="TCP/IP: Windows NT 4.0 Does Not Support TCP Scale Option [Q199947]">MS KB199947</a>
 
  To configure Max number of Duplicate Acknowledgments (ACK's) (WinNT4 Requires SP2):
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters\]  
 >  TcpMaxDupAcks = 2 (Range 1-3, Default = 2)  
 >   
->  More Info [MS KB162179](http://support.microsoft.com/kb/162179 "TCP Fast Retransmit and Recovery Added in Windows NT 4.0 Service Pack 2 [Q162179]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20162179%20Q162179" rel="nofollow" title="TCP Fast Retransmit and Recovery Added in Windows NT 4.0 Service Pack 2 [Q162179]">MS KB162179</a>
 
  Note none of these registry entries can be found in the registry after a clean install, so to return to the default values just delete the registry entries.  
   
  Related [Delayed TCPIP ACK can cause slow network throughput](/article/winnt-nagle-algorithm.html)  
  Related [Configure the max limit for concurrent TCP connections](/article/winnt-tcpip-max-limit.html)  
   
- More articles about the settings available for configuring the tcpip stack: - [MS KB140552](http://support.microsoft.com/kb/140552 "How to Optimize Windows NT to Run Over Slow WAN Links w/TCP/IP [Q140552]") - Minimize traffic over WAN.
-- [MS KB819108](http://support.microsoft.com/kb/819108 "Settings for minimizing periodic WAN traffic [Q819108]") - Minimize traffic over WAN.
-- [MS KB900926](http://support.microsoft.com/kb/900926 "Recommended TCP/IP settings for WAN links with a MTU size of less than 576 [Q900926]") - Using WAN with MTU less than 576
-- [MS KB120642](http://support.microsoft.com/kb/120642 "TCP/IP and NetBT configuration parameters for Windows 2000 or Windows NT [Q120642]") - TCP/IP &amp; NBT Configuration Parameters for Windows NT and Windows 2000
-- [MS KB224829](http://support.microsoft.com/kb/224829 "Description of Windows 2000 and Windows Server 2003 TCP Features [Q224829]") - Description of Windows 2000 and Windows Server 2003 TCP Features
-- [MS KB314053](http://support.microsoft.com/kb/314053 "TCP/IP and NBT Configuration Parameters for Windows XP [Q314053]") - TCP/IP and NBT Configuration Parameters for Windows XP
-- [MS KB142641](http://support.microsoft.com/kb/142641 "Internet server unavailable because of malicious SYN attacks [Q142641]") - Internet Server Unavailable Because of Malicious SYN Attacks
-- [MS KB315669](http://support.microsoft.com/kb/315669 "How to harden the TCP/IP stack against denial of service attacks in Windows 2000 [Q315669]") - HOW TO: Harden the TCP/IP Stack Against Denial of Service Attacks in Windows 2000
-- [MS KB324270](http://support.microsoft.com/kb/324270 "How to harden the TCP/IP stack against denial of service attacks in Windows Server 2003 [Q324270]") - HOW TO: Harden the TCP/IP Stack Against Denial of Service Attacks in Windows Server 2003
+ More articles about the settings available for configuring the tcpip stack: - <a href="https://www.bing.com/search?q=KB%20140552%20Q140552" rel="nofollow" title="How to Optimize Windows NT to Run Over Slow WAN Links w/TCP/IP [Q140552]">MS KB140552</a> - Minimize traffic over WAN.
+- <a href="https://www.bing.com/search?q=KB%20819108%20Q819108" rel="nofollow" title="Settings for minimizing periodic WAN traffic [Q819108]">MS KB819108</a> - Minimize traffic over WAN.
+- <a href="https://www.bing.com/search?q=KB%20900926%20Q900926" rel="nofollow" title="Recommended TCP/IP settings for WAN links with a MTU size of less than 576 [Q900926]">MS KB900926</a> - Using WAN with MTU less than 576
+- <a href="https://www.bing.com/search?q=KB%20120642%20Q120642" rel="nofollow" title="TCP/IP and NetBT configuration parameters for Windows 2000 or Windows NT [Q120642]">MS KB120642</a> - TCP/IP &amp; NBT Configuration Parameters for Windows NT and Windows 2000
+- <a href="https://www.bing.com/search?q=KB%20224829%20Q224829" rel="nofollow" title="Description of Windows 2000 and Windows Server 2003 TCP Features [Q224829]">MS KB224829</a> - Description of Windows 2000 and Windows Server 2003 TCP Features
+- <a href="https://www.bing.com/search?q=KB%20314053%20Q314053" rel="nofollow" title="TCP/IP and NBT Configuration Parameters for Windows XP [Q314053]">MS KB314053</a> - TCP/IP and NBT Configuration Parameters for Windows XP
+- <a href="https://www.bing.com/search?q=KB%20142641%20Q142641" rel="nofollow" title="Internet server unavailable because of malicious SYN attacks [Q142641]">MS KB142641</a> - Internet Server Unavailable Because of Malicious SYN Attacks
+- <a href="https://www.bing.com/search?q=KB%20315669%20Q315669" rel="nofollow" title="How to harden the TCP/IP stack against denial of service attacks in Windows 2000 [Q315669]">MS KB315669</a> - HOW TO: Harden the TCP/IP Stack Against Denial of Service Attacks in Windows 2000
+- <a href="https://www.bing.com/search?q=KB%20324270%20Q324270" rel="nofollow" title="How to harden the TCP/IP stack against denial of service attacks in Windows Server 2003 [Q324270]">MS KB324270</a> - HOW TO: Harden the TCP/IP Stack Against Denial of Service Attacks in Windows Server 2003
 - [MS Technet](http://www.microsoft.com/technet/itsolutions/network/deploy/depovg/tcpip2k.mspx) - Microsoft Windows 2000 TCP/IP Implementation Details [Word Document](http://www.microsoft.com/windows2000/techinfo/howitworks/communications/networkbasics/tcpip_implement.asp)
 - [MS Technet](http://www.microsoft.com/technet/prodtechnol/windowsserver2003/technologies/networking/tcpip03.mspx) - Microsoft Windows Server 2003 TCP/IP Implementation Details
 - [MS Technet](http://www.microsoft.com/technet/archive/security/prodtech/windows/iis/dosrv.mspx) - Security Considerations for Network Attacks

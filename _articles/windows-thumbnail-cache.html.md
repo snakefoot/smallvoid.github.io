@@ -36,7 +36,7 @@ The Thumbnail view was introduced with Windows 98 and allows one to easily overv
  > regsvr32 /u shimgvw.dll  
  > regsvr32 /u thumbvw.dll  
  >   
- >  More Info [MS KB272969](http://support.microsoft.com/kb/272969 "A Description of the Image Preview Feature [Q272969]")
+ >  More Info <a href="https://www.bing.com/search?q=KB%20272969%20Q272969" rel="nofollow" title="A Description of the Image Preview Feature [Q272969]">MS KB272969</a>
 
  Note in Windows XP the thumbnail cache can be disabled completely with this DWORD registry key:
  > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Advanced\]  
@@ -46,11 +46,11 @@ The Thumbnail view was introduced with Windows 98 and allows one to easily overv
  > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Policies\]  
  >  NoDetailsThumbnailOnNetwork = 1  
  >   
- >  More Info [MS KB830903](http://support.microsoft.com/kb/830903 "A file in a network folder opens as read-only or returns an error message that the file type cannot be recognized")
+ >  More Info <a href="https://www.bing.com/search?q=KB%20830903%20Q830903" rel="nofollow" title="A file in a network folder opens as read-only or returns an error message that the file type cannot be recognized">MS KB830903</a>
 
  Note in Windows XP when holding down the SHIFT key while opening a folder in thumbnail view, then the picture titles and filenames will not be displayed and will give more room for the thumb nails.  
   
- More Info [MS KB176882](http://support.microsoft.com/kb/176882 "How to Enable the Thumbnail View for Folders in Windows Explorer [Q176882]")  
- More Info [MS KB192573](http://support.microsoft.com/kb/192573 "Image Previews Not Displayed in Windows Explorer [Q192573]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20176882%20Q176882" rel="nofollow" title="How to Enable the Thumbnail View for Folders in Windows Explorer [Q176882]">MS KB176882</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20192573%20Q192573" rel="nofollow" title="Image Previews Not Displayed in Windows Explorer [Q192573]">MS KB192573</a>  
   
  Credits [Tlab404.com](http://tlab404.com/)

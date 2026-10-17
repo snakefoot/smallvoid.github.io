@@ -31,9 +31,9 @@ When a file is created a filename is attached to actual contents of the file. Fo
   
  Note that some applications still uses 8.3 filenames, and might fail to function (Ex. applications running at boot time ex. virus scanners or similar).  
   
- More Info [MS KB121007](http://support.microsoft.com/kb/121007 "How to Disable the 8.3 Name Creation on NTFS Partitions [Q121007]")  
- More Info [MS KB130694](http://support.microsoft.com/kb/130694 "NTFS Performance with Numerous Long Filenames [Q130694]")  
- More Info [MS KB142982](http://support.microsoft.com/kb/142982 "How Windows Generates 8.3 File Names from Long File Names [Q142982]")  
- More Info [MS KB183387](http://support.microsoft.com/kb/183387 "Err Msg: Unable to Determine or Construct a Path for the Program Files Folder [Q183387]")  
- More Info [MS KB210638](http://support.microsoft.com/kb/210638 "How to Disable Automatic Short File Name Generation [Q210638]")  
- More Info [MS KB226403](http://support.microsoft.com/kb/226403 "Short (8.3) File Names May Change When Copied [Q226403]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20121007%20Q121007" rel="nofollow" title="How to Disable the 8.3 Name Creation on NTFS Partitions [Q121007]">MS KB121007</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20130694%20Q130694" rel="nofollow" title="NTFS Performance with Numerous Long Filenames [Q130694]">MS KB130694</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20142982%20Q142982" rel="nofollow" title="How Windows Generates 8.3 File Names from Long File Names [Q142982]">MS KB142982</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20183387%20Q183387" rel="nofollow" title="Err Msg: Unable to Determine or Construct a Path for the Program Files Folder [Q183387]">MS KB183387</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20210638%20Q210638" rel="nofollow" title="How to Disable Automatic Short File Name Generation [Q210638]">MS KB210638</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20226403%20Q226403" rel="nofollow" title="Short (8.3) File Names May Change When Copied [Q226403]">MS KB226403</a>  

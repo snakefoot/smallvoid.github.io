@@ -26,8 +26,8 @@ Different ways to recover a forgotten / lost password:
     
    Note if the user has encrypted files or e-mail messages, or have stored passwords for websites or network resources, then these will be losts if using an Administrator account to reset the password.
 - If using Windows XP and have been foreseeing to create password recovery disks, then they can be used: 
-  - [Creating password reset disk when in a domain](http://support.microsoft.com/kb/306214 "How to create and use a password reset disk for a computer in a domain in Windows XP [Q306214]")
-  - [Creating password reset disk when NOT in a domain](http://support.microsoft.com/kb/305478 "How to create and use a password reset disk for a computer that is not a domain member in Windows XP [Q305478]")
+  - <a href="https://www.bing.com/search?q=KB+306214+Q306214" title="How to create and use a password reset disk for a computer in a domain in Windows XP [Q306214]" rel="nofollow">Creating password reset disk when in a domain</a>
+  - <a href="https://www.bing.com/search?q=KB+305478+Q305478" title="How to create and use a password reset disk for a computer that is not a domain member in Windows XP [Q305478]" rel="nofollow">Creating password reset disk when NOT in a domain</a>
    
    Note Vista also include the option to [Create a password reset disk](http://windowshelp.microsoft.com/Windows/en-US/Help/5bf12a40-12b5-4ca8-87c3-7741adbd15841033.mspx)
 - Use a 3rd party [Password Remover](/article/winnt-password-recovery.html), which is also able to edit the SAM (Security Accounts Manager) files and reset the password without damaging the other accounts.  
@@ -44,7 +44,7 @@ Different ways to recover a forgotten / lost password:
             >  ScreenSaveTimeOut = 15 (Default = 900 secs)  
             >  ScreenSaveActive = 1 (Default = 0)  
             >   
-            >  More Info [MS KB185348](http://support.microsoft.com/kb/185348 "HOW TO: Change the Logon Screen Saver in Windows [Q185348]")
+            >  More Info <a href="https://www.bing.com/search?q=KB%20185348%20Q185348" rel="nofollow" title="HOW TO: Change the Logon Screen Saver in Windows [Q185348]">MS KB185348</a>
   2. Boot WinNT/2k/Xp and wait for the login screensaver (Not touching keyboard / mouse).
   3. My Computer or Command Prompt will come up after 15 minutes.
   4. Change the password: 
@@ -69,4 +69,4 @@ Different ways to recover a forgotten / lost password:
 - If WinXP one can use the Win2k Install CD to login to the [Recovery Console](/article/winnt-recovery-console.html) without needing a password.
 - Take the HDD and put it into another machine running the same or higher version of Windows and access the files and the [offline registry](/article/winnt-offline-registry-edit.html) using that machine.
  
- More Info [MS KB321305](http://support.microsoft.com/kb/321305 "How to Log On to Windows XP If You Forget Your Password or Your Password Expires [Q321305]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20321305%20Q321305" rel="nofollow" title="How to Log On to Windows XP If You Forget Your Password or Your Password Expires [Q321305]">MS KB321305</a>  

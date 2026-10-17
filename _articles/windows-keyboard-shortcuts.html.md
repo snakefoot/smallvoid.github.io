@@ -36,18 +36,18 @@ If you have an utility that you start frequently (Like the command prompt or reg
  Related [WinKey](http://www.pcworld.com/downloads/file_description/0,fid,5506,00.asp)  
  Related [AutoHotkey](http://www.autohotkey.com/) - Any key-combination can become a hotkey.  
   
- More Info [MS KB134552](http://support.microsoft.com/kb/134552 "Shortcut Key for Shortcut Does Not Work [Q134552]")  
- More Info [MS KB142898](http://support.microsoft.com/kb/142898 "How to Assign a Shortcut Key to a Start Menu Item [Q142898]")  
- More Info [MS KB182366](http://support.microsoft.com/kb/182366 "Cannot Assign a Deleted Shortcut Key to a Different Shortcut [Q182366]")  
- More Info [MS KB192804](http://support.microsoft.com/kb/192804 "Desktop Shortcut Key Cannot Be Reassigned if Shortcut Is Deleted [Q192804]")  
- More Info [MS KB226098](http://support.microsoft.com/kb/226098 "Icons on the Quick Launch Toolbar Do Not Respond to Shortcut Key [Q226098]")  
- More Info [MS KB310417](http://support.microsoft.com/kb/310417 "HOW TO: Create a Keyboard Shortcut for a Program in Windows XP [Q310417]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20134552%20Q134552" rel="nofollow" title="Shortcut Key for Shortcut Does Not Work [Q134552]">MS KB134552</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20142898%20Q142898" rel="nofollow" title="How to Assign a Shortcut Key to a Start Menu Item [Q142898]">MS KB142898</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20182366%20Q182366" rel="nofollow" title="Cannot Assign a Deleted Shortcut Key to a Different Shortcut [Q182366]">MS KB182366</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20192804%20Q192804" rel="nofollow" title="Desktop Shortcut Key Cannot Be Reassigned if Shortcut Is Deleted [Q192804]">MS KB192804</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20226098%20Q226098" rel="nofollow" title="Icons on the Quick Launch Toolbar Do Not Respond to Shortcut Key [Q226098]">MS KB226098</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20310417%20Q310417" rel="nofollow" title="HOW TO: Create a Keyboard Shortcut for a Program in Windows XP [Q310417]">MS KB310417</a>  
   
  Microsoft Windows also provides some builtin shortcut keys to access different options within Windows. One can disable the Windows-key short cuts, in case you want to define your own new combined shortcuts (It will not disable the Windows-key itself):
  > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\Explorer\]  
  >  NoWinKeys = 1 (Default = 0)
 
- More Info [MS KB126449](http://support.microsoft.com/kb/126449 "Keyboard Shortcuts for Windows [Q126449]") (Keyboard shortcuts in Windows)  
- More Info [MS KB301583](http://support.microsoft.com/kb/301583 "A List of the Keyboard Shortcuts That Are Available in Windows XP [Q301583]") (Keyboard shortcuts in Windows XP)  
+ More Info <a href="https://www.bing.com/search?q=KB%20126449%20Q126449" rel="nofollow" title="Keyboard Shortcuts for Windows [Q126449]">MS KB126449</a> (Keyboard shortcuts in Windows)  
+ More Info <a href="https://www.bing.com/search?q=KB%20301583%20Q301583" rel="nofollow" title="A List of the Keyboard Shortcuts That Are Available in Windows XP [Q301583]">MS KB301583</a> (Keyboard shortcuts in Windows XP)  
   
  Note Windows Vista includes a new keyboard shortcut ability, so one can use the combination Windows-key + number (1-9), and it will launch the shortcut in the Quick Launch bar that correspond to the number. More Info [Windows Vista - Keyboard shortcuts](http://windowshelp.microsoft.com/Windows/en-US/Help/2503b91d-d780-4c80-8f08-2f48878dc5661033.mspx).

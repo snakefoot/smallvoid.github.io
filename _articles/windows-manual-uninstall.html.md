@@ -39,6 +39,6 @@ When installing an application in Windows, then it is the application (or user) 
 6. Rename the directory in which the application was installed in the first place
 7. Reboot and if everything goes well, then delete the renamed directory
  
- More Info [MS KB247501](http://support.microsoft.com/kb/247501 "How to Manually Remove Programs from the Add/Remove Programs List [Q247501]")  
- More Info [MS KB247515](http://support.microsoft.com/kb/247515 "Program Is Not Listed in Add/Remove Programs After Installation [Q247515]")  
- More Info [MS KB290301](http://support.microsoft.com/kb/290301 "Description of the Windows Installer CleanUp Utility [Q290301]") (Windows Installer CleanUp Utility)  
+ More Info <a href="https://www.bing.com/search?q=KB%20247501%20Q247501" rel="nofollow" title="How to Manually Remove Programs from the Add/Remove Programs List [Q247501]">MS KB247501</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20247515%20Q247515" rel="nofollow" title="Program Is Not Listed in Add/Remove Programs After Installation [Q247515]">MS KB247515</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20290301%20Q290301" rel="nofollow" title="Description of the Windows Installer CleanUp Utility [Q290301]">MS KB290301</a> (Windows Installer CleanUp Utility)  

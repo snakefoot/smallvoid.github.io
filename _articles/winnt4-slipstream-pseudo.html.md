@@ -51,7 +51,7 @@ The slipstreaming of service packs is not available with WinNT4, as it was first
     > \[Commands\]  
     >  ".\\sp4\\sp4i386.exe -z -u"
    
-   More Info [MS KB168814](http://support.microsoft.com/kb/168814 "INFO: Installing Windows NT 4.0 Service Packs During Unattended Installation [Q168814]")
+   More Info <a href="https://www.bing.com/search?q=KB%20168814%20Q168814" rel="nofollow" title="INFO: Installing Windows NT 4.0 Service Packs During Unattended Installation [Q168814]">MS KB168814</a>
 - Make a shared directory with the original WinNT4 install files and extract the contents of the service pack to this directory. Then [use the shared directory](/article/winnt-source-path-install.html) when adding components (after install), so you don't have to apply the service pack for every change.
  
  Note it is possible to create a bootable WinNT4 CD by using the [boot sector from Win2k](/article/win2k-install-cd-boot-sector.html).

@@ -21,6 +21,6 @@ The Shutdown Event Tracker was created to give a better impression of why the co
 
  Note the [Win2k3 Resource Kit](/article/winnt-resource-kit.html) includes the Custom Reason Editor (Custreasonedit.exe), that allows one to add/change/remove custom reasons for shutting down.  
   
- More Info [MS KB293814](http://support.microsoft.com/kb/293814 "Description of the Shutdown Event Tracker [Q293814]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20293814%20Q293814" rel="nofollow" title="Description of the Shutdown Event Tracker [Q293814]">MS KB293814</a>  
   
  Credits [sanx.org](http://sanx.org/)

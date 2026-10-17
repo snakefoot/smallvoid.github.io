@@ -22,7 +22,7 @@ tags:
 [Compressed Folders](/article/windows-compressed-folders.html) is a shell extension for Windows Explorer that allows ZIP and CAB files to be opened like ordinary file folders.  
   
  To install zip file support in Windows 95, 98 or 2000:
-1. Download <a href=""></a> (Contains 3 DLL extracted from [MS KB329048](http://support.microsoft.com/kb/329048 "MS02-054: Unchecked Buffer in File Decompression Functions May Allow Attacker to Run Code [Q329048]")) and extract the files to the following location: 
+1. Download <a href=""></a> (Contains 3 DLL extracted from <a href="https://www.bing.com/search?q=KB%20329048%20Q329048" rel="nofollow" title="MS02-054: Unchecked Buffer in File Decompression Functions May Allow Attacker to Run Code [Q329048]">MS KB329048</a>) and extract the files to the following location: 
   - If using Windows 95/98 place them in **C:\\Windows\\System**
   - If using Windows 2000 place them in **C:\\Winnt\\System32**
 2. Press **Start**-button and **Run...** this command:

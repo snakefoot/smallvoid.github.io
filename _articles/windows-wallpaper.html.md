@@ -35,5 +35,5 @@ To specify start location of centered (Non-Tiled and Non-Stretched) wallpaper (R
 >  WallPaperOriginX = "1" (Pixels)  
 >  WallPaperOriginX = "2" (Pixels)
 
- More Info [MS KB135599](http://support.microsoft.com/kb/135599 "How To Reposition a Centered Wallpaper Bitmap on The Desktop [Q135599]")  
- More Info [MS KB257665](http://support.microsoft.com/kb/257665 "Cannot Disable 'Stretch Wallpaper' Feature [Q257665]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20135599%20Q135599" rel="nofollow" title="How To Reposition a Centered Wallpaper Bitmap on The Desktop [Q135599]">MS KB135599</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20257665%20Q257665" rel="nofollow" title="Cannot Disable 'Stretch Wallpaper' Feature [Q257665]">MS KB257665</a>  

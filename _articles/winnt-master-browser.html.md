@@ -32,13 +32,13 @@ One can control how a computer participate in the Master Browser election, with 
 > *A service specific error occurred: 2550.  
 >   
 >  More help is available by typing NET HELPMSG 3547*    
->  More Info [MS KB112595](http://support.microsoft.com/kb/112595 "Service Control Manager Event 7024 (2550) [Q112595]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20112595%20Q112595" rel="nofollow" title="Service Control Manager Event 7024 (2550) [Q112595]">MS KB112595</a>
 
  Related [Description of Master Browser in the Microsoft Network](/article/windows-master-browser.html)  
  Related [Hide your computer from the network](/article/winnt-hide-network.html)  
   
- More Info [MS KB136712](http://support.microsoft.com/kb/136712 "Common Questions About Browsing with Windows [Q136712]")  
- More Info [MS KB191611](http://support.microsoft.com/kb/191611 "Symptoms of Multihomed Browsers [Q191611]")  
- More Info [MS KB818092](http://support.microsoft.com/kb/818092 "Description of NetBIOS Browsing Console (Browcon.exe) [Q818092]") (Includes browstat)  
+ More Info <a href="https://www.bing.com/search?q=KB%20136712%20Q136712" rel="nofollow" title="Common Questions About Browsing with Windows [Q136712]">MS KB136712</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20191611%20Q191611" rel="nofollow" title="Symptoms of Multihomed Browsers [Q191611]">MS KB191611</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20818092%20Q818092" rel="nofollow" title="Description of NetBIOS Browsing Console (Browcon.exe) [Q818092]">MS KB818092</a> (Includes browstat)  
   
  Credits [pureperformance.com](http://pureperformance.com/)

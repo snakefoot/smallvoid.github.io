@@ -34,7 +34,7 @@ It can be useful to empty the [Temporary Internet Files](/article/ie-temporary-i
 
  Note this will not delete cookies created by sites visited and it will not empty history of visited pages.  
   
- More Info [MS KB185255](http://support.microsoft.com/kb/185255 "How Not to Save Cached Internet Files with Roaming User Profiles [Q185255]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20185255%20Q185255" rel="nofollow" title="How Not to Save Cached Internet Files with Roaming User Profiles [Q185255]">MS KB185255</a>  
   
  Note Internet Explorer 8/9/10 introduces the feature "Private Browsing", which automatically cleans up when stopping the browse session. It will make sure that no trace is left on the local machine, of the visited web pages (Including cookies and browsing history). You can start InPrivate Browsing from the [new tab page](/article/ie-about-tabs-rows.html) or the toolbar "Safety" button (CTRL+SHIFT+P).  
   

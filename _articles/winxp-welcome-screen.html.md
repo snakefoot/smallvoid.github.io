@@ -18,9 +18,9 @@ With WinXP a new way of how to logon was created, it involved showing all user a
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows NT \\CurrentVersion \\Winlogon\]  
 >  LogonType = 0 (Classic = 0, Welcome Screen = 1, Default = 1)  
 >   
->  More Info [MS KB291559](http://support.microsoft.com/kb/291559 "HOW TO: Change the Logon Window and the Shutdown Preferences in Windows XP [Q291559]")  
+>  More Info <a href="https://www.bing.com/search?q=KB%20291559%20Q291559" rel="nofollow" title="HOW TO: Change the Logon Window and the Shutdown Preferences in Windows XP [Q291559]">MS KB291559</a>  
 >   
->  Note when the Welcome Screen is enabled and [Require CTRL + ALT + DEL at logon](http://support.microsoft.com/kb/291559 "How to change the logon window and the shutdown preferences in Windows XP [Q291559]") is disabled (DisableCAD), then it is not possible to lock the computer again using CTRL+ALT+DEL, but it will instead start Task Manager. More Info [MS KB281980](http://support.microsoft.com/kb/281980 "Using CTRL+ALT+DEL key combination to open Windows Security opens Task Manager [Q281980]")
+>  Note when the Welcome Screen is enabled and <a href="https://www.bing.com/search?q=KB+291559+Q291559" title="How to change the logon window and the shutdown preferences in Windows XP [Q291559]" rel="nofollow">Require CTRL + ALT + DEL at logon</a> is disabled (DisableCAD), then it is not possible to lock the computer again using CTRL+ALT+DEL, but it will instead start Task Manager. More Info <a href="https://www.bing.com/search?q=KB%20281980%20Q281980" rel="nofollow" title="Using CTRL+ALT+DEL key combination to open Windows Security opens Task Manager [Q281980]">MS KB281980</a>
 
  Note it is possible to momentarily change the Welcome Screen to the standard logon screen, by holding down the keys CTRL and ALT while pressing DEL twice. This can be useful if needing to login with a "hidden" account not shown on the Welcome Screen. In WinXP Pro it can used to login with the builtin Administrator account.  
   
@@ -28,7 +28,7 @@ With WinXP a new way of how to logon was created, it involved showing all user a
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows NT \\CurrentVersion \\Winlogon \\SpecialAccounts \\UserList\]  
 >  Administrator = 1 (Visible = 1, Hidden =0)  
 >   
->  More Info [MS KB827072](http://support.microsoft.com/kb/827072 "PRB: Welcome to Windows Screen Appears When You Start Windows XP After You Install the .NET Framework 1.1 [Q827072]")  
+>  More Info <a href="https://www.bing.com/search?q=KB%20827072%20Q827072" rel="nofollow" title="PRB: Welcome to Windows Screen Appears When You Start Windows XP After You Install the .NET Framework 1.1 [Q827072]">MS KB827072</a>  
 >   
 >  Note in WinXP Home one can only access the builtin Administrator account if booting into safemode. By default the builtin Administrator account has no password.  
 >   
@@ -40,4 +40,4 @@ With WinXP a new way of how to logon was created, it involved showing all user a
  Related [Advanced User Management in Windows XP Home](/article/winxp-home-usermgt.html)  
  Related [Appearence of the login and welcome screen in WinXP](/article/winxp-login-welcome.html)  
   
- More Info [MS KB279783](http://support.microsoft.com/kb/279783 "HOW TO: Create and Configure User Accounts in Windows XP [Q279783]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20279783%20Q279783" rel="nofollow" title="HOW TO: Create and Configure User Accounts in Windows XP [Q279783]">MS KB279783</a>  

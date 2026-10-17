@@ -23,9 +23,9 @@ The personal folders file (.pst) contains all local Outlook folders, such as Cal
 3. Click on the **Advanced** button.
 4. Under **Filename**, it will show the path and name of the current PST file.
  
- More info [MS KB184817](http://support.microsoft.com/kb/184817 "OL98: (IMO) How to Back Up, Restore, or Move Outlook Data [Q184817]")  
- More info [MS KB196492](http://support.microsoft.com/kb/196492 "OL2000: (IMO) How to Back Up, Restore, or Move Outlook Data [Q196492]")  
- More info [MS KB287070](http://support.microsoft.com/kb/287070 "How to back up, to restore, or to move Outlook 2002 data in Outlook 2002 [Q287070]")  
+ More info <a href="https://www.bing.com/search?q=KB%20184817%20Q184817" rel="nofollow" title="OL98: (IMO) How to Back Up, Restore, or Move Outlook Data [Q184817]">MS KB184817</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20196492%20Q196492" rel="nofollow" title="OL2000: (IMO) How to Back Up, Restore, or Move Outlook Data [Q196492]">MS KB196492</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20287070%20Q287070" rel="nofollow" title="How to back up, to restore, or to move Outlook 2002 data in Outlook 2002 [Q287070]">MS KB287070</a>  
   
 ##### Change the default location of the .pst file:
 
@@ -35,11 +35,11 @@ The personal folders file (.pst) contains all local Outlook folders, such as Cal
 4. Click **Add**, select **Personal Folders File (.pst)**, click OK, and then select the .pst file you want to use as the new primary file.
 5. Click OK.
  
- More info [MS KB257831](http://support.microsoft.com/kb/257831 "How to move your personal folders file in Outlook 2000 that is installed in Internet Mail Only mode [Q257831]")  
- More info [MS KB291636](http://support.microsoft.com/kb/291636 "How to move your personal folders (.pst) file in Outlook 2002 [Q291636]")  
- More info [MS KB300593](http://support.microsoft.com/kb/300593 "OL2002: How to Move the Hotmail .PST Cache File [Q300593]")  
- More info [MS KB830336](http://support.microsoft.com/kb/830336 "The .pst file has a different format and folder size limit in Outlook 2003 [Q830336]")  
- More info [MS KB832925](http://support.microsoft.com/kb/832925 "How to configure the size limit for both (.pst) and (.ost) files in Outlook 2003 [Q832925]")  
+ More info <a href="https://www.bing.com/search?q=KB%20257831%20Q257831" rel="nofollow" title="How to move your personal folders file in Outlook 2000 that is installed in Internet Mail Only mode [Q257831]">MS KB257831</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20291636%20Q291636" rel="nofollow" title="How to move your personal folders (.pst) file in Outlook 2002 [Q291636]">MS KB291636</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20300593%20Q300593" rel="nofollow" title="OL2002: How to Move the Hotmail .PST Cache File [Q300593]">MS KB300593</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20830336%20Q830336" rel="nofollow" title="The .pst file has a different format and folder size limit in Outlook 2003 [Q830336]">MS KB830336</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20832925%20Q832925" rel="nofollow" title="How to configure the size limit for both (.pst) and (.ost) files in Outlook 2003 [Q832925]">MS KB832925</a>  
   
 ##### Using the Inbox Repair tool to repair a broken .PST file:
 
@@ -47,8 +47,8 @@ The personal folders file (.pst) contains all local Outlook folders, such as Cal
 2. Run scanpst.exe and point it to the damaged .PST file and press **Start**.
 3. When the scan is completed, check **Make a backup of scanned file before repairing** and press **Repair**.
  
- More info [MS KB197316](http://support.microsoft.com/kb/197316 "How to use the Inbox Repair Tool to recover messages in Outlook 2000 that is installed with Corporate and Workgroup option [Q197316]")  
- More info [MS KB287497](http://support.microsoft.com/kb/287497 "How to use the Inbox Repair Tools to recover e-mail messages in Outlook 2002 and Outlook 2003 [Q287497]")  
- More info [MS KB329910](http://support.microsoft.com/kb/329910 "'Outlook.pst can not be accessed - 0x80040116' error message when you start Outlook 2000 or open a personal folder file [Q329910]")  
+ More info <a href="https://www.bing.com/search?q=KB%20197316%20Q197316" rel="nofollow" title="How to use the Inbox Repair Tool to recover messages in Outlook 2000 that is installed with Corporate and Workgroup option [Q197316]">MS KB197316</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20287497%20Q287497" rel="nofollow" title="How to use the Inbox Repair Tools to recover e-mail messages in Outlook 2002 and Outlook 2003 [Q287497]">MS KB287497</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20329910%20Q329910" rel="nofollow" title="'Outlook.pst can not be accessed - 0x80040116' error message when you start Outlook 2000 or open a personal folder file [Q329910]">MS KB329910</a>  
   
  Credits [OneComputerGuy.com](http://onecomputerguy.com/)

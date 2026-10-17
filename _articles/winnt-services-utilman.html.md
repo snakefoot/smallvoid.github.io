@@ -17,7 +17,7 @@ tags:
   
  Utility Manager includes three built-in accessibility tools: Magnifier, Narrator, and On-Screen Keyboard.  
   
-[MS KB231843](http://support.microsoft.com/kb/231843 "Description of Windows 2000 Magnifier and Utility Manager Tools [Q231843]")  
+<a href="https://www.bing.com/search?q=KB%20231843%20Q231843" rel="nofollow" title="Description of Windows 2000 Magnifier and Utility Manager Tools [Q231843]">MS KB231843</a>  
   
 ##### Recommended State:
 

@@ -23,7 +23,7 @@ Internet Explorer 7 includes many changes to the user interface, but it is possi
   > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Internet Explorer \\Toolbar \\WebBrowser\]  
   >  ITBar7Position = 1  
   >   
-  >  More Info [MS KB930645](http://support.microsoft.com/kb/930645 "How to move the Standard toolbar to a location that is above the Address bar in Internet Explorer 7")
+  >  More Info <a href="https://www.bing.com/search?q=KB%20930645%20Q930645" rel="nofollow" title="How to move the Standard toolbar to a location that is above the Address bar in Internet Explorer 7">MS KB930645</a>
 
 ##### Remove the search-bar:
 

@@ -19,7 +19,7 @@ tags:
 - Links List - Collect all links located on a webpage.
 - Image Toggler - Disable / Enable the display of images in Internet Explorer.
  
- More Info [MS KB177725](http://support.microsoft.com/kb/177725 "Description of the Internet Explorer PowerToys")  
+ More Info <a href="https://www.bing.com/search?q=KB%20177725%20Q177725" rel="nofollow" title="Description of the Internet Explorer PowerToys">MS KB177725</a>  
   
  Related [Internet Explorer 5.0 Accessories](/article/ie5-power-toys.html)  
  Related [Extend Internet Explorer context-menu with new options](/article/ie-context-menu.html)  

@@ -12,7 +12,7 @@ tags:
     - regedit
     - registry
 ---
-[Windows 98 regedit](http://smallvoid.orgfree.com/?file=regedit.zip) modified to work with Windows 95 so it can [handle large registry keys](http://support.microsoft.com/kb/132064 "REGEDIT May Not Be Able to Import Registry with Large Keys [Q132064]") in realmode (DOS).  
+[Windows 98 regedit](http://smallvoid.orgfree.com/?file=regedit.zip) modified to work with Windows 95 so it can <a href="https://www.bing.com/search?q=KB+132064+Q132064" title="REGEDIT May Not Be Able to Import Registry with Large Keys [Q132064]" rel="nofollow">handle large registry keys</a> in realmode (DOS).  
   
  When a Windows installation have been running for a long time and hardware, software have been changed alot, then the registry can become bloated. One can use REGEDIT in DOS to compress/shrink the registry.  
   
@@ -31,5 +31,5 @@ tags:
   
  Note if using Win98/Me one can just use [SCANREG](/article/win9x-registry-checker.html).  
   
- More Info [MS KB131352](http://support.microsoft.com/kb/131352 "Using Registry Editor in Real Mode [Q131352]")  
- More Info [MS KB131431](http://support.microsoft.com/kb/131431 "How to Troubleshoot Registry Errors in Windows 95 [Q131431]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20131352%20Q131352" rel="nofollow" title="Using Registry Editor in Real Mode [Q131352]">MS KB131352</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20131431%20Q131431" rel="nofollow" title="How to Troubleshoot Registry Errors in Windows 95 [Q131431]">MS KB131431</a>  

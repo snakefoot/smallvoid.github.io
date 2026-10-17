@@ -21,7 +21,7 @@ tags:
   
  This will allow you to install / uninstall / repair programs listed in the Add/Remove Programs applet in the Control Panel.  
   
- More Info [MS KB223300](http://support.microsoft.com/kb/223300 "How to Enable Windows Installer Logging [Q223300]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20223300%20Q223300" rel="nofollow" title="How to Enable Windows Installer Logging [Q223300]">MS KB223300</a>  
   
 ##### Recommended State:
 

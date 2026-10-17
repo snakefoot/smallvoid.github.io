@@ -40,6 +40,6 @@ tags:
   
  Note if having disabled or set a low custom size for the [pagefile](/article/windows-page-file.html), then defrag might not work. If using WinXP set the virtual memory to "System Managed Size".  
   
- More Info [MS KB922379](http://support.microsoft.com/kb/922379)  
+ More Info <a href="https://www.bing.com/search?q=KB+922379+Q922379" rel="nofollow">MS KB922379</a>  
   
  Credits [AndreasRoom.com](http://andreasRoom.com)

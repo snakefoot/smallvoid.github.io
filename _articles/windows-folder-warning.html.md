@@ -24,9 +24,9 @@ With the introduction of the Active desktop it became possible to configure how 
  One can disable this warning by renaming the following file which resides inside the folder giving the warning:
  > folder.htt
 
- More Info [MS KB181689](http://support.microsoft.com/kb/181689 "INFO: Purpose and Format of Folder.htt [Q181689]")  
- More Info [MS KB182000](http://support.microsoft.com/kb/182000 "How to Customize a Folder for Web View [Q182000]")  
- More Info [MS KB184785](http://support.microsoft.com/kb/184785 "Windows 98 Program Files Folder Is Displayed Incorrectly [Q184785]")  
- More Info [MS KB228035](http://support.microsoft.com/kb/228035 "Removing the 'Show Files' Link in Windows Explorer [Q228035]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20181689%20Q181689" rel="nofollow" title="INFO: Purpose and Format of Folder.htt [Q181689]">MS KB181689</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20182000%20Q182000" rel="nofollow" title="How to Customize a Folder for Web View [Q182000]">MS KB182000</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20184785%20Q184785" rel="nofollow" title="Windows 98 Program Files Folder Is Displayed Incorrectly [Q184785]">MS KB184785</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20228035%20Q228035" rel="nofollow" title="Removing the 'Show Files' Link in Windows Explorer [Q228035]">MS KB228035</a>  
   
  Credits [win98central.com](http://win98central.com/)

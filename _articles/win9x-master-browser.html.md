@@ -37,6 +37,6 @@ When having "File and Print Sharing..." installed then Win9x/Me will try to part
 
  Related [Description of Master Browser in the Microsoft Network](/article/windows-master-browser.html)  
   
- More info [MS KB134304](http://support.microsoft.com/kb/134304 "Troubleshooting Browsing with Client for Microsoft Networks [Q134304]")  
- More info [MS KB150794](http://support.microsoft.com/kb/150794 "MaintainServerList Value Location in Windows 95 Resource Kit [Q150794]")  
- More info [MS KB246489](http://support.microsoft.com/kb/246489 "Frequent Browser Elections When Windows 95 and Windows NT 4.0 Configured in Workgroup [Q246489]")  
+ More info <a href="https://www.bing.com/search?q=KB%20134304%20Q134304" rel="nofollow" title="Troubleshooting Browsing with Client for Microsoft Networks [Q134304]">MS KB134304</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20150794%20Q150794" rel="nofollow" title="MaintainServerList Value Location in Windows 95 Resource Kit [Q150794]">MS KB150794</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20246489%20Q246489" rel="nofollow" title="Frequent Browser Elections When Windows 95 and Windows NT 4.0 Configured in Workgroup [Q246489]">MS KB246489</a>  

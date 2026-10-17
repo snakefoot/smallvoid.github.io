@@ -39,6 +39,6 @@ tags:
 - Opens [special folder](/article/windows-special-folders.html):
   > explorer.exe /e,::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
  
- More Info [MS KB130510](http://support.microsoft.com/kb/130510 "Command-Line Switches for Windows Explorer [Q130510]")  
- More Info [MS KB307856](http://support.microsoft.com/kb/307856 "HOW TO: Customize the Windows Explorer Views in Windows XP [Q307856]")  
- More Info [MS KB314853](http://support.microsoft.com/kb/314853 "Explorer.exe Command-Line Options for Windows XP [Q314853]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20130510%20Q130510" rel="nofollow" title="Command-Line Switches for Windows Explorer [Q130510]">MS KB130510</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20307856%20Q307856" rel="nofollow" title="HOW TO: Customize the Windows Explorer Views in Windows XP [Q307856]">MS KB307856</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20314853%20Q314853" rel="nofollow" title="Explorer.exe Command-Line Options for Windows XP [Q314853]">MS KB314853</a>  

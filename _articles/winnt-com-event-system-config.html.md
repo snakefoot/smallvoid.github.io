@@ -21,7 +21,7 @@ tags: []
 >   
 >  Event ID: 4689  
 >  Description: The run-time environment has detected an inconsistency in its internal state. This indicates a potential instability in the process that could be caused by the custom components running in the COM+ application, the components they make use of, or other factors. Error in d:\\qxp\_slp\\com\\com1x\\src\\comsvcs\\package\\cpackage.cpp(1184), hr = 80070005: InitEventCollector failed*   
->  More Info [MS KB909444](http://support.microsoft.com/kb/909444 "Systems that have changed the default Access Control List permissions on the %windir%\registration directory may experience various problems after you install the Microsoft Security Bulletin MS05-051 for COM+ and MS DTC [Q909444]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20909444%20Q909444" rel="nofollow" title="Systems that have changed the default Access Control List permissions on the %windir%\registration directory may experience various problems after you install the Microsoft Security Bulletin MS05-051 for COM+ and MS DTC [Q909444]">MS KB909444</a>
 
  Note if the COM+ Catalog have become corrupt, then it can be re-built with the following steps:
 1. Reboot and start in Safemode
@@ -37,7 +37,7 @@ tags: []
 7. Select **Add/Remove Components** and click **Next** and it will reinstall COM+
 8. Re-apply the necessary service packs and updates for COM+.
  
- More Info [MS KB246499](http://support.microsoft.com/kb/246499 "PRB: COM+ Setup Problems While Upgrading to Windows 2000 [Q246499]")  
- More Info [MS KB315296](http://support.microsoft.com/kb/315296 "How to clean up a damaged COM+ catalog [Q315296]")  
- More Info [MS KB318731](http://support.microsoft.com/kb/318731 "Exchange Setup does not work because of a COM+ issue and error code 0xc103798a [Q318731]")  
- More Info [MS KB961938](http://support.microsoft.com/kb/961938 "Error message when you try to sign in to Office Communicator 2007: 'Cannot sign in because Communicator cannot subscribe to the System Event Notification Service'")  
+ More Info <a href="https://www.bing.com/search?q=KB%20246499%20Q246499" rel="nofollow" title="PRB: COM+ Setup Problems While Upgrading to Windows 2000 [Q246499]">MS KB246499</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20315296%20Q315296" rel="nofollow" title="How to clean up a damaged COM+ catalog [Q315296]">MS KB315296</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20318731%20Q318731" rel="nofollow" title="Exchange Setup does not work because of a COM+ issue and error code 0xc103798a [Q318731]">MS KB318731</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20961938%20Q961938" rel="nofollow" title="Error message when you try to sign in to Office Communicator 2007: 'Cannot sign in because Communicator cannot subscribe to the System Event Notification Service'">MS KB961938</a>  

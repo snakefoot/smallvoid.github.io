@@ -36,16 +36,16 @@ The [Recovery Console](/article/winnt-recovery-console.html) allows one to copy 
  - Win2k (Also happens when creating a Emergency Recovery Disk):
    > %systemroot%\\System32\\Repair\\RegBack  
    >   
-   >  More Info [MS KB231777](http://support.microsoft.com/kb/231777 "How to Create an Emergency Repair Disk in Windows 2000 [Q231777]")
+   >  More Info <a href="https://www.bing.com/search?q=KB%20231777%20Q231777" rel="nofollow" title="How to Create an Emergency Repair Disk in Windows 2000 [Q231777]">MS KB231777</a>
  - WinXP:
    > %systemroot%\\Repair
  
  If using WinNT4/Win2k then one can find a recent backup of the System-registry here:
  > %systemroot%\\System32\\Config\\System.alt  
 >   
->  More Info [MS KB151247](http://support.microsoft.com/kb/151247 "Using System.alt to Recover the System Hive [Q151247]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20151247%20Q151247" rel="nofollow" title="Using System.alt to Recover the System Hive [Q151247]">MS KB151247</a>
 
  Related [Offline registry editing](/article/winnt-offline-registry-edit.html)  
   
- More Info [MS KB269075](http://support.microsoft.com/kb/269075 "Error Message: Windows Could Not Start Because the Following File Is Missing or Corrupt: \Winnt\System32\Config\Systemced [Q269075]")  
- More Info [MS KB307545](http://support.microsoft.com/kb/307545 "How to Recover from a Corrupted Registry that Prevents Windows XP from Starting [Q307545]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20269075%20Q269075" rel="nofollow" title="Error Message: Windows Could Not Start Because the Following File Is Missing or Corrupt: \Winnt\System32\Config\Systemced [Q269075]">MS KB269075</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20307545%20Q307545" rel="nofollow" title="How to Recover from a Corrupted Registry that Prevents Windows XP from Starting [Q307545]">MS KB307545</a>  

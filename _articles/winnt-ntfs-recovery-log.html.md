@@ -36,6 +36,6 @@ The Windows NT File System (NTFS) uses transaction logging to ensure recoverabil
  To change the size (KBytes) of the Recovery Log for an NTFS partition:
  > CHKDSK &lt;Drive:&gt; /L:65536 /F
 
- More Info [MS KB101670](http://support.microsoft.com/kb/101670 "Transaction Log Supports NTFS Recoverability [Q101670]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20101670%20Q101670" rel="nofollow" title="Transaction Log Supports NTFS Recoverability [Q101670]">MS KB101670</a>  
   
  Credits [www.jsifaq.com](http://www.jsifaq.com/)

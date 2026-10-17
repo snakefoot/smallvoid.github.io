@@ -17,7 +17,7 @@ tags: []
 
  Makes it possible to automatically sent messages to registered users, about certain system events or alerts when they happen. The registered users needs to have the [Messenger service](/article/winnt-services-messenger.html) started to receive the messages.  
   
- More Info [MS KB243625](http://support.microsoft.com/kb/243625 "How to Configure Administrative Alerts in Windows 2000 [Q243625]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20243625%20Q243625" rel="nofollow" title="How to Configure Administrative Alerts in Windows 2000 [Q243625]">MS KB243625</a>  
   
 ##### Recommended state:
 

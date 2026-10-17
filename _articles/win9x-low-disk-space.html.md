@@ -43,7 +43,7 @@ By default when a partition is near being full the following message pops up:
  </table>
 
   
- More Info [MS KB188074](http://support.microsoft.com/kb/188074 "Low Disk Space Notification Received When Drive Is Full [Q188074]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20188074%20Q188074" rel="nofollow" title="Low Disk Space Notification Received When Drive Is Full [Q188074]">MS KB188074</a>  
   
  Related [Configure different cleanup profiles for different drives](/article/cleanup-profiles.html)  
   

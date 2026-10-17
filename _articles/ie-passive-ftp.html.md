@@ -44,8 +44,8 @@ Internet Explorer has an option to enable passive FTP mode. The active FTP conne
   
  Related [Use IE as a FTP client](/article/ie-ftp-client.html)  
   
- More info [MS KB217888](http://support.microsoft.com/kb/217888 "How to Install and Use FTP Folders [Q217888]")  
- More info [MS KB309816](http://support.microsoft.com/kb/309816 "HOW TO: Configure Internet Explorer to Use Both the FTP PORT Mode and PASV Mode [Q309816]")  
- More info [MS KB323446](http://support.microsoft.com/kb/323446 "HOW TO: Configure Internet Explorer to Use Both the FTP PORT Mode and the FTP PASV Mode in the Windows Server 2003 Family [Q323446]")  
+ More info <a href="https://www.bing.com/search?q=KB%20217888%20Q217888" rel="nofollow" title="How to Install and Use FTP Folders [Q217888]">MS KB217888</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20309816%20Q309816" rel="nofollow" title="HOW TO: Configure Internet Explorer to Use Both the FTP PORT Mode and PASV Mode [Q309816]">MS KB309816</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20323446%20Q323446" rel="nofollow" title="HOW TO: Configure Internet Explorer to Use Both the FTP PORT Mode and the FTP PASV Mode in the Windows Server 2003 Family [Q323446]">MS KB323446</a>  
   
  Credits [www.jsifaq.com](http://www.jsifaq.com/)

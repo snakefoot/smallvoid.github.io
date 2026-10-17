@@ -24,7 +24,7 @@ The memory available for [environment variables](/article/environment-variables.
 >  REM to store all the 3DFX Voodoo glide settings and others  
 >  SHELL=C:\\COMMAND.COM C:\\ /E:1024 /P
 
- More Info [MS KB105668](http://support.microsoft.com/kb/105668 "Windows Err Msg: Not Enough Environment Space [Q105668]")  
- More Info [MS KB161564](http://support.microsoft.com/kb/161564 "How to Adjust MS-DOS Application Environment Size [Q161564]")  
- More Info [MS KB230205](http://support.microsoft.com/kb/230205 "Out of Environment Space Error Message in MS-DOS Programs [Q230205]")  
- More Info [MS KB261825](http://support.microsoft.com/kb/261825 "'Out of Environment Space' Running Batch File or Command Prompt [Q261825]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20105668%20Q105668" rel="nofollow" title="Windows Err Msg: Not Enough Environment Space [Q105668]">MS KB105668</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20161564%20Q161564" rel="nofollow" title="How to Adjust MS-DOS Application Environment Size [Q161564]">MS KB161564</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20230205%20Q230205" rel="nofollow" title="Out of Environment Space Error Message in MS-DOS Programs [Q230205]">MS KB230205</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20261825%20Q261825" rel="nofollow" title="'Out of Environment Space' Running Batch File or Command Prompt [Q261825]">MS KB261825</a>  

@@ -107,8 +107,8 @@ document.forms.calculateform.rwin.value = raw_rwin;
  
  Note when creating a socket it is possible to overrule the default RWIN size using **setsockopt** with the socket option SO\_RCVBUF. If the GlobalMaxTcpWindowSize is set, then it will limit the max size of the RWIN.  
   
- More Info [MS KB93444](http://support.microsoft.com/kb/93444 "Tuning TCP/IP for Performance [Q93444]")  
- More Info [MS KB172983](http://support.microsoft.com/kb/172983 "Explanation of the Three-Way Handshake via TCP/IP [Q172983]")  
+ More Info <a href="https://www.bing.com/search?q=KB%2093444%20Q93444" rel="nofollow" title="Tuning TCP/IP for Performance [Q93444]">MS KB93444</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20172983%20Q172983" rel="nofollow" title="Explanation of the Three-Way Handshake via TCP/IP [Q172983]">MS KB172983</a>  
   
  Related [Recommended settings for the TCP/IP stack](/article/windows-tcpip-settings.html)  
   

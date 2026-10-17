@@ -25,11 +25,11 @@ The default [Max Transfer Unit (MTU) size](/article/tcpip-mtu-size.html) for eth
   > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet\\Services \\NdisWan \\Parameters\]  
   >  IPMTU = 1500  
   >   
-  >  More Info [MS KB183229](http://support.microsoft.com/kb/183229 "RAS Uses Fixed TCP/IP MTU Size [Q183229]")
+  >  More Info <a href="https://www.bing.com/search?q=KB%20183229%20Q183229" rel="nofollow" title="RAS Uses Fixed TCP/IP MTU Size [Q183229]">MS KB183229</a>
 - Virtual Private Network (VPN) Tunnel MTU (WinNT4 SP4+)
   > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet\\Services \\NdisWan \\Parameters\]  
   >  TunnelMTU= 1400  
   >   
-  >  More Info [MS KB183229](http://support.microsoft.com/kb/183229 "RAS Uses Fixed TCP/IP MTU Size [Q183229]")
+  >  More Info <a href="https://www.bing.com/search?q=KB%20183229%20Q183229" rel="nofollow" title="RAS Uses Fixed TCP/IP MTU Size [Q183229]">MS KB183229</a>
  
  Related [Configure Max Transfer Unit (MTU) in Windows 2000 / XP](/article/winnt-tcpip-mtu.html)

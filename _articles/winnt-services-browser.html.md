@@ -34,14 +34,14 @@ tags:
  Note if the Computer Browser cannot be reached (either because no computer is running the service, or because of a firewall), then it will give the following error message when trying to browse My Network Places:
 > *MShome is not accessible. You might not have permission to use this network resource. Contact the administrator of this server to find out if you have access permissions.*   
 >   
->  More Info [MS KB318030](http://support.microsoft.com/kb/318030 "You cannot access shared files and folders or browse computers in the workgroup [Q318030]")  
->  More Info [MS KB913619](http://support.microsoft.com/kb/913619 "Error message in Windows XP: 'MShome is not accessible' [Q913619]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20318030%20Q318030" rel="nofollow" title="You cannot access shared files and folders or browse computers in the workgroup [Q318030]">MS KB318030</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20913619%20Q913619" rel="nofollow" title="Error message in Windows XP: 'MShome is not accessible' [Q913619]">MS KB913619</a>
 
  More Info [Microsoft Technet](http://www.microsoft.com/technet/prodtechnol/windows2000serv/reskit/tcpip/part4/tcpappi.asp "Appendix I - Windows 2000 Browser Service")  
- More Info [MS KB188001](http://support.microsoft.com/kb/188001 "Description of the Microsoft Computer Browser Service [Q188001]")  
- More Info [MS KB188305](http://support.microsoft.com/kb/188305 "Troubleshooting the Microsoft Computer Browser Service [Q188305]")  
- More Info [MS KB262694](http://support.microsoft.com/kb/262694 "MS00-036: Malicious User Can Shut Down Computer Browser Service [Q262694]")  
- More Info [MS KB875362](http://support.microsoft.com/kb/875362 "The Computer Browser service does not start and event ID 7024 is logged when you restart your Windows XP Service Pack 2-based computer [Q875362]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20188001%20Q188001" rel="nofollow" title="Description of the Microsoft Computer Browser Service [Q188001]">MS KB188001</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20188305%20Q188305" rel="nofollow" title="Troubleshooting the Microsoft Computer Browser Service [Q188305]">MS KB188305</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20262694%20Q262694" rel="nofollow" title="MS00-036: Malicious User Can Shut Down Computer Browser Service [Q262694]">MS KB262694</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20875362%20Q875362" rel="nofollow" title="The Computer Browser service does not start and event ID 7024 is logged when you restart your Windows XP Service Pack 2-based computer [Q875362]">MS KB875362</a>  
   
 ##### Recommended State:
 

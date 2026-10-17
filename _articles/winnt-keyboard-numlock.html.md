@@ -35,13 +35,13 @@ It is possible to configure whether Numlock should be enabled after logging in. 
 >   
 >  "2147483648" - Honor the motherboard BIOS setting (Vista only)  
 >   
->  More info [MS KB101898](http://support.microsoft.com/kb/101898 "Keyboard Light Indicator Disabled when User Logs On [Q101898]")
+>  More info <a href="https://www.bing.com/search?q=KB%20101898%20Q101898" rel="nofollow" title="Keyboard Light Indicator Disabled when User Logs On [Q101898]">MS KB101898</a>
 
  Note it is also possible to configure Numlock state at startup before actually performing the login at the Welcome Screen, by setting the value for the default user:
 > \[HKEY\_USERS \\.Default \\Control Panel \\Keyboard\]  
 >  InitialKeyboardIndicators = "0"  
 >   
->  More info [MS KB154529](http://support.microsoft.com/kb/154529 "How to Enable the NUM LOCK Key for the Logon Screen [Q154529]") (Merged with MS KB315468)
+>  More info <a href="https://www.bing.com/search?q=KB%20154529%20Q154529" rel="nofollow" title="How to Enable the NUM LOCK Key for the Logon Screen [Q154529]">MS KB154529</a> (Merged with MS KB315468)
 
  Note if numlock is turned off before Windows has reached the login screen, then it might be caused by numlock not being activated in the motherboard BIOS.  
   

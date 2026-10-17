@@ -26,4 +26,4 @@ It is possible to force a Blue Screen of Death (BSOD) if this is needed. It can 
  After making the change and performed a reboot, then hold down the right CTRL key and press ScrollLock Twice (Doesn't work with USB keyboards). It will cause a BSOD with the following message:  
 > MANUALLY\_INITIATED\_CRASH (0xE2)
 
- More info [MS KB244139](http://support.microsoft.com/kb/244139 "Windows Feature Allows a Memory.dmp File to Be Generated with Keyboard [Q244139]")
+ More info <a href="https://www.bing.com/search?q=KB%20244139%20Q244139" rel="nofollow" title="Windows Feature Allows a Memory.dmp File to Be Generated with Keyboard [Q244139]">MS KB244139</a>

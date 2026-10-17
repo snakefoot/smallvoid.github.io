@@ -52,8 +52,8 @@ To also disable the Shutdown key, one would extend the Scancode Map, so it has 4
  More Info [SharpKeys by RandyRants.com](http://www.randyrants.com/sharpkeys/)  
  More Info [Microsoft Keyboard Layout Creator (MSKLC)](http://www.microsoft.com/downloads/details.aspx?FamilyID=fb7b3dcd-d4c1-4943-9c74-d8df57ef19d7)  
  More Info [Scan Code Mapper for Windows](http://www.microsoft.com/whdc/archive/w2kscan-map.mspx)  
- More Info [MS KB181348](http://support.microsoft.com/kb/181348 "Disabling the Windows Key on Microsoft Natural Keyboard [Q181348]")  
- More Info [MS KB216893](http://support.microsoft.com/kb/216893 "How To Disable the Keyboard Windows Key [Q216893]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20181348%20Q181348" rel="nofollow" title="Disabling the Windows Key on Microsoft Natural Keyboard [Q181348]">MS KB181348</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20216893%20Q216893" rel="nofollow" title="How To Disable the Keyboard Windows Key [Q216893]">MS KB216893</a>  
   
  Related [Using keyboard shortcuts/hotkeys to quickly access programs](/article/windows-keyboard-shortcuts.html)  
   

@@ -22,14 +22,14 @@ tags:
 >   
 >  Operation cannot be completed.*  
 >   
->  More Info [MS KB158042](http://support.microsoft.com/kb/158042 "'Operation Could Not Be Completed' When Using Add Printer Wizard [Q158042]")  
->  More Info [MS KB221092](http://support.microsoft.com/kb/221092 "Applications Hang When Printing to a Printer Set to 'Use Printer Offline' [Q221092]")  
->  More Info [MS KB244921](http://support.microsoft.com/kb/244921 "'The Print Subsystem Is Unavailable' Error Message After Installing Office 2000 [Q244921]")  
->  More Info [MS KB255197](http://support.microsoft.com/kb/255197 "Cannot Add a Printer Port, Access Violation in Spools.exe Occurs in Windows NT Server 4.0 [Q255197]")  
->  More Info [MS KB308028](http://support.microsoft.com/kb/308028 "Resources for Troubleshooting Printing Problems in Windows XP [Q308028]")  
->  More Info [MS KB314085](http://support.microsoft.com/kb/314085 "Troubleshooting General Printing Problems in Windows XP [Q314085]")  
->  More Info [MS KB811348](http://support.microsoft.com/kb/811348 "Error message when you try to add a new printer [Q811348]")  
->  More Info [MS KB832219](http://support.microsoft.com/kb/832219 "Users Cannot Print After You Install a Service Pack or Printer Hotfix on a Server [Q832219]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20158042%20Q158042" rel="nofollow" title="'Operation Could Not Be Completed' When Using Add Printer Wizard [Q158042]">MS KB158042</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20221092%20Q221092" rel="nofollow" title="Applications Hang When Printing to a Printer Set to 'Use Printer Offline' [Q221092]">MS KB221092</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20244921%20Q244921" rel="nofollow" title="'The Print Subsystem Is Unavailable' Error Message After Installing Office 2000 [Q244921]">MS KB244921</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20255197%20Q255197" rel="nofollow" title="Cannot Add a Printer Port, Access Violation in Spools.exe Occurs in Windows NT Server 4.0 [Q255197]">MS KB255197</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20308028%20Q308028" rel="nofollow" title="Resources for Troubleshooting Printing Problems in Windows XP [Q308028]">MS KB308028</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20314085%20Q314085" rel="nofollow" title="Troubleshooting General Printing Problems in Windows XP [Q314085]">MS KB314085</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20811348%20Q811348" rel="nofollow" title="Error message when you try to add a new printer [Q811348]">MS KB811348</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20832219%20Q832219" rel="nofollow" title="Users Cannot Print After You Install a Service Pack or Printer Hotfix on a Server [Q832219]">MS KB832219</a>
 
  To configure the priority of the print spooler threads use these DWORD registry values:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Print\]  
@@ -37,21 +37,21 @@ tags:
 >  SchedulerThreadPriority = 1 (0 = Normal, 1 = Higher, 0xFFFFFFFF = Lower)  
 >  PortThreadPriority = 1 (0 = Normal, 1 = Higher, 0xFFFFFFFF = Lower)  
 >   
->  More Info [MS KB103411](http://support.microsoft.com/kb/103411 "Windows NT Parallel Ports Do Not Use Interrupts [Q103411]")  
->  More Info [MS KB156689](http://support.microsoft.com/kb/156689 "How to Change Print Job Priority in Windows NT Server 4.0 [Q156689]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20103411%20Q103411" rel="nofollow" title="Windows NT Parallel Ports Do Not Use Interrupts [Q103411]">MS KB103411</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20156689%20Q156689" rel="nofollow" title="How to Change Print Job Priority in Windows NT Server 4.0 [Q156689]">MS KB156689</a>
 
  To configure the output to the EventLog:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Print \\Providers\]  
 >  EventLog = 0 (0 = Disabled, 1 = Errors, 2 = Warnings, 4 = Informative, 7 = All)  
 >   
->  More Info [MS KB115841](http://support.microsoft.com/kb/115841 "Turning Off Print Job Logging in the System Log [Q115841]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20115841%20Q115841" rel="nofollow" title="Turning Off Print Job Logging in the System Log [Q115841]">MS KB115841</a>
 
  To configure whether to make a notify popup when print job finished. Open Control Panel -&gt; Printers -&gt; File-menu -&gt; Server-Properties -&gt; Advanced-Tab -&gt; Untick "Notify when remote documents are printed". (This should be reflected with this registry key)
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Print \\Providers\]  
 >  NetPopup = 0 (0 = Disabled, 1 = Enabled)  
 >   
->  More Info [MS KB283102](http://support.microsoft.com/kb/283102 "Windows NT4.0 Print Servers May Experience Paged Pool Leak on FsRt Pooltag [Q283102]")  
->  More Info [MS KB122160](http://support.microsoft.com/kb/122160 "Disabling Printing Notification Dialog Boxes in Windows [Q122160]")  
+>  More Info <a href="https://www.bing.com/search?q=KB%20283102%20Q283102" rel="nofollow" title="Windows NT4.0 Print Servers May Experience Paged Pool Leak on FsRt Pooltag [Q283102]">MS KB283102</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20122160%20Q122160" rel="nofollow" title="Disabling Printing Notification Dialog Boxes in Windows [Q122160]">MS KB122160</a>  
 >   
 >  Related [Disable Printer Balloon Tips in WinXP](/article/winnt-balloon-tip.html)
 
@@ -59,5 +59,5 @@ tags:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Print\]  
 >  DisableServerThread = 1 (1 = Hidden, 0 = Visible in Network Neighborhood)  
 >   
->  More Info [MS KB227908](http://support.microsoft.com/kb/227908 "Domain-Level Printer List Is Not Refreshed [Q227908]")  
->  More Info [MS KB131902](http://support.microsoft.com/kb/131902 "Printer Browse Thread May Cause Extensive Network Traffic [Q131902]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20227908%20Q227908" rel="nofollow" title="Domain-Level Printer List Is Not Refreshed [Q227908]">MS KB227908</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20131902%20Q131902" rel="nofollow" title="Printer Browse Thread May Cause Extensive Network Traffic [Q131902]">MS KB131902</a>

@@ -32,4 +32,4 @@ Example to restore kernel32.dll to C:\\Windows\\System from the cabs files in D:
  Related [Win98: Use SFC.EXE to restore a system file](/article/win98-sfc.html)  
  Related [WinMe: Use Msconfig.exe to restore a system file](/article/winme-system-restore.html)  
   
- More Info [MS KB129605](http://support.microsoft.com/kb/129605 "HOW TO: Extract Original Compressed Windows Files [Q129605]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20129605%20Q129605" rel="nofollow" title="HOW TO: Extract Original Compressed Windows Files [Q129605]">MS KB129605</a>  

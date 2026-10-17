@@ -23,7 +23,7 @@ There is built in a limit for how many simultaneous connections can be made by W
 >   
 >  Note that there is rumors that it cannot handle a limit beyond 300 connections, and some cannot even rise the value above 100.  
 >   
->  More Info [MS KB243116](http://support.microsoft.com/kb/243116 "Only a Certain Number of Clients Can Join a NetMeeting Conference [Q243116]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20243116%20Q243116" rel="nofollow" title="Only a Certain Number of Clients Can Join a NetMeeting Conference [Q243116]">MS KB243116</a>
 
  Note if using an application that frequently opens and closes connections, then it might run out connections because after closing a connection, the connection is locked to make sure the other party has acknowledged that the connection is closed. To shorten the time (in seconds) the connection is locked:
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\VxD \\MSTCP\]  

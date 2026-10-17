@@ -35,7 +35,7 @@ It is possible to configure WinNT SP3+ to increase the network security by enabl
 
  Note the standard policy for Domain Controllers and Windows 2003 is to use SMB Signing, so if using such device as a fileserver in a trusted network, then one might consider disabling SMB Signing.  
   
- Note one might experience "Delayed Write Failed"-errors when saving/writing to files on network share. This is caused by an error in SMB signing and it can be fixed by updating Win2k and WinXP according to this article. More Info [MS KB814112](http://support.microsoft.com/kb/814112 "Files on network shares open slowly, opens as read-only, or you receive an error message [Q814112]"). Another solution is to set *EnableSecuritySignature = 0*.  
+ Note one might experience "Delayed Write Failed"-errors when saving/writing to files on network share. This is caused by an error in SMB signing and it can be fixed by updating Win2k and WinXP according to this article. More Info <a href="https://www.bing.com/search?q=KB%20814112%20Q814112" rel="nofollow" title="Files on network shares open slowly, opens as read-only, or you receive an error message [Q814112]">MS KB814112</a>. Another solution is to set *EnableSecuritySignature = 0*.  
   
  Note to disable SMB Signing for all Domain Controllers in an Active Directory:
 1. Open Active Directory Users and Computers
@@ -48,12 +48,12 @@ It is possible to configure WinNT SP3+ to increase the network security by enabl
  Related [Description of SMB Signing](/article/windows-smb-signing.html)  
  Related [TCPIP nagle algorithm can slow down network with SMB signing](/article/winnt-nagle-algorithm.html)  
   
- More info [MS KB161372](http://support.microsoft.com/kb/161372 "How to Enable SMB Signing in Windows NT [Q161372]")  
- More info [MS KB199714](http://support.microsoft.com/kb/199714 "Cannot Join Domain Because of SMB Signing [Q199714]")  
- More info [MS KB321169](http://support.microsoft.com/kb/321169 "Slow SMB Performance When You Copy Files from Windows XP to a Windows 2000 Domain Controller [Q321169]")  
- More info [MS KB811497](http://support.microsoft.com/kb/811497 "Error Message When Windows 95 or Windows NT 4.0 Client Logs On to Windows Server 2003 Domain [Q811497]")  
- More info [MS KB814112](http://support.microsoft.com/kb/814112 "Files on Network Shares Open Slowly or Read-Only or You Receive an Error Message [Q814112]")  
- More info [MS KB839499](http://support.microsoft.com/kb/839499 "You cannot open file shares or Group Policy snap-ins when you disable SMB signing for the Workstation or Server service on a domain controller [Q839499]")  
- More info [MS KB887429](http://support.microsoft.com/kb/887429 "Overview of Server Message Block signing [Q887429]")  
+ More info <a href="https://www.bing.com/search?q=KB%20161372%20Q161372" rel="nofollow" title="How to Enable SMB Signing in Windows NT [Q161372]">MS KB161372</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20199714%20Q199714" rel="nofollow" title="Cannot Join Domain Because of SMB Signing [Q199714]">MS KB199714</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20321169%20Q321169" rel="nofollow" title="Slow SMB Performance When You Copy Files from Windows XP to a Windows 2000 Domain Controller [Q321169]">MS KB321169</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20811497%20Q811497" rel="nofollow" title="Error Message When Windows 95 or Windows NT 4.0 Client Logs On to Windows Server 2003 Domain [Q811497]">MS KB811497</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20814112%20Q814112" rel="nofollow" title="Files on Network Shares Open Slowly or Read-Only or You Receive an Error Message [Q814112]">MS KB814112</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20839499%20Q839499" rel="nofollow" title="You cannot open file shares or Group Policy snap-ins when you disable SMB signing for the Workstation or Server service on a domain controller [Q839499]">MS KB839499</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20887429%20Q887429" rel="nofollow" title="Overview of Server Message Block signing [Q887429]">MS KB887429</a>  
   
  Credits [www.jsifaq.com](http://www.jsifaq.com/)

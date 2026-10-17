@@ -57,16 +57,16 @@ Each NTFS partition has a Master File Table(MFT), which is used when looking up 
 >   
 >  Note the space reserved for the MFT will be used for normal files if no free space is found else where on the drive.  
 >   
->  More Info [MS KB174619](http://support.microsoft.com/kb/174619 "How NTFS Reserves Space for its Master File Table (MFT) [Q174619]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20174619%20Q174619" rel="nofollow" title="How NTFS Reserves Space for its Master File Table (MFT) [Q174619]">MS KB174619</a>
 
  Note the utility fsutil can also be used to change this value:
 > fsutil behavior set mftzone 1  
 >   
 >  The following values can be used: 1 = 12.5 %(default), 2 = 25%, 3 = 37.5%, 4 = 50%
 
- More Info [MS KB227350](http://support.microsoft.com/kb/227350 "Files Excluded by the Disk Defragmenter Tool [Q227350]")  
- More Info [MS KB303079](http://support.microsoft.com/kb/303079 "How to Locate and Correct Disk Space Problems on NTFS Volumes [Q303079]")  
- More Info [MS KB315688](http://support.microsoft.com/kb/315688 "How to Locate and Correct Disk Space Problems on NTFS Volumes in Windows XP [Q315688]")  
- More Info [MS KB320397](http://support.microsoft.com/kb/320397 "You receive an 'NTLDR is missing' error message when you start your computer [Q320397]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20227350%20Q227350" rel="nofollow" title="Files Excluded by the Disk Defragmenter Tool [Q227350]">MS KB227350</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20303079%20Q303079" rel="nofollow" title="How to Locate and Correct Disk Space Problems on NTFS Volumes [Q303079]">MS KB303079</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20315688%20Q315688" rel="nofollow" title="How to Locate and Correct Disk Space Problems on NTFS Volumes in Windows XP [Q315688]">MS KB315688</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20320397%20Q320397" rel="nofollow" title="You receive an 'NTLDR is missing' error message when you start your computer [Q320397]">MS KB320397</a>  
   
  Credits [littleharbor.com](http://www.littleharbor.com/ntfs-details.htm)

@@ -48,11 +48,11 @@ The order of which applications are loaded and where they are loaded from:
 17. **Common Startup Folder in the Start-Menu for All Users**
 18. **Startup Folder in the Start-Menu for Current User**
  
- More Info [MS KB137367](http://support.microsoft.com/kb/137367 "Definition of the RunOnce Keys in the Registry [Q137367]")  
- More Info [MS KB174018](http://support.microsoft.com/kb/174018 "Description of the Windows 95 Startup Process [Q174018]")  
- More Info [MS KB179365](http://support.microsoft.com/kb/179365 "INFO: Run, RunOnce, RunServices, RunServicesOnce and Startup [Q179365]")  
- More Info [MS KB232487](http://support.microsoft.com/kb/232487 "Description of the RunOnceEx Registry Key [Q232487]")  
- More Info [MS KB243039](http://support.microsoft.com/kb/243039 "How to Perform a Clean Boot in Windows 95 [Q243039]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20137367%20Q137367" rel="nofollow" title="Definition of the RunOnce Keys in the Registry [Q137367]">MS KB137367</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20174018%20Q174018" rel="nofollow" title="Description of the Windows 95 Startup Process [Q174018]">MS KB174018</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20179365%20Q179365" rel="nofollow" title="INFO: Run, RunOnce, RunServices, RunServicesOnce and Startup [Q179365]">MS KB179365</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20232487%20Q232487" rel="nofollow" title="Description of the RunOnceEx Registry Key [Q232487]">MS KB232487</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20243039%20Q243039" rel="nofollow" title="How to Perform a Clean Boot in Windows 95 [Q243039]">MS KB243039</a>  
   
  Note if one of the Run-sections includes an invalid entry (Uses a path that doesn't exist), then Windows might open at folder at startup. Use [Startup.CPL](/article/windows-startup-order.html#STARTUP_CPL) or [Msconfig](/article/win95-msconfig.html) to check the entries.  
   

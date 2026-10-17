@@ -29,7 +29,7 @@ There is a limit for how much memory the system can lock for I/O (Input/Output) 
 
  Note Windows 2000 RTM (Without any service packs) also reacts to this registry key. If applying a service pack, then this registry setting doesn't have any affect.  
   
- More Info [MS KB102985](http://support.microsoft.com/kb/102985 "REG: CurrentControlSet Entries PART 2: SessionManager [Q102985]")  
- More Info [MS KB121965](http://support.microsoft.com/kb/121965 "HOWTO: Change Max Memory Allowed with MmProbeAndLockPages [Q121965]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20102985%20Q102985" rel="nofollow" title="REG: CurrentControlSet Entries PART 2: SessionManager [Q102985]">MS KB102985</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20121965%20Q121965" rel="nofollow" title="HOWTO: Change Max Memory Allowed with MmProbeAndLockPages [Q121965]">MS KB121965</a>  
   
  Credits [ArsTechnica.com](http://www.arstechnica.com/)

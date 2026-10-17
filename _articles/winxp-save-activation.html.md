@@ -31,7 +31,7 @@ WinXP introduced the Windows Product Activation (WPA) which is made to prevent c
  Related [Performing an inplace upgrade of WinXP](/article/winnt-repair-install.html).  
  Related [Change WinXP CD Key using WPA](/article/winnt-cd-key.html).  
   
- More Info [MS KB302878](http://support.microsoft.com/kb/302878 "Frequently Asked Questions about Microsoft Product Activation [Q302878]")  
- More Info [MS KB312295](http://support.microsoft.com/kb/312295 "You are prompted to activate Windows every time you restart your computer [Q312295]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20302878%20Q302878" rel="nofollow" title="Frequently Asked Questions about Microsoft Product Activation [Q302878]">MS KB302878</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20312295%20Q312295" rel="nofollow" title="You are prompted to activate Windows every time you restart your computer [Q312295]">MS KB312295</a>  
  More Info [MS Technet: Preserving OEM Pre-Activation when Re-installing Windows XP](http://www.microsoft.com/technet/prodtechnol/winxppro/deploy/oempreac.mspx)  
  More Info [MS Technet: Deploying Windows XP Using Windows Product Activation](http://www.microsoft.com/technet/prodtechnol/winxppro/deploy/wpadepl.mspx)  

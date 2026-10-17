@@ -29,7 +29,7 @@ The High Memory Area (HMA) is the first 64 KByte after the first 1024 Kbyte (Con
 
  Note the HIMEM.SYS is a driver that forfills the eXtended Memory Specification (XMS), which specifies how to allocate memory beyond the first 1024 KByte and therefore also the HMA. The memory beyond the HMA is called extended memory or just XMS.  
   
- More Info [MS KB91088](http://support.microsoft.com/kb/91088 "HIMEM.SYS Memory Allocation Scheme [91088]")  
- More Info [MS KB72302](http://support.microsoft.com/kb/72302 "Specifying A20 Handlers with HIMEM.SYS /M in MS-DOS [Q72302]")  
- More Info [MS KB96711](http://support.microsoft.com/kb/96711 "HIMEM.SYS Reports Error: Unable to Control A20 Line! [96711]")  
- More Info [MS KB105557](http://support.microsoft.com/kb/105557 "HIMEM.SYS Verbose and Quiet Switches [Q105557]")  
+ More Info <a href="https://www.bing.com/search?q=KB%2091088%20Q91088" rel="nofollow" title="HIMEM.SYS Memory Allocation Scheme [91088]">MS KB91088</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2072302%20Q72302" rel="nofollow" title="Specifying A20 Handlers with HIMEM.SYS /M in MS-DOS [Q72302]">MS KB72302</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2096711%20Q96711" rel="nofollow" title="HIMEM.SYS Reports Error: Unable to Control A20 Line! [96711]">MS KB96711</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20105557%20Q105557" rel="nofollow" title="HIMEM.SYS Verbose and Quiet Switches [Q105557]">MS KB105557</a>  

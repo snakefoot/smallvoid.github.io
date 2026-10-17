@@ -44,7 +44,7 @@ Windows NT is able to use different Hardware Abstraction Layers (HAL). Two of th
 13. Select the driver "Standard PC"
 14. It will now redetect all your hardware
  
- Note one can also use the change of Computer Driver, when upgrading to a dual processor thus having multiple CPUs (Or just enabling Intel HyperThreading (HT)). More Info [MS KB234558](http://support.microsoft.com/kb/234558 "HOW TO: Add Support for Multiple Processors in Windows 2000 [Q234558]").  
+ Note one can also use the change of Computer Driver, when upgrading to a dual processor thus having multiple CPUs (Or just enabling Intel HyperThreading (HT)). More Info <a href="https://www.bing.com/search?q=KB%20234558%20Q234558" rel="nofollow" title="HOW TO: Add Support for Multiple Processors in Windows 2000 [Q234558]">MS KB234558</a>.  
   
  Note it is possible to specify what HAL Windows should use during the install, instead changing HAL after the install, and is most likely the best way:  
 - One way is to edit the file "C:\\Txtsetup.sif"(It is made during the textual part of the install process) by setting:
@@ -64,13 +64,13 @@ Windows NT is able to use different Hardware Abstraction Layers (HAL). Two of th
 </table>
  
 
- More Info [MS KB216251](http://support.microsoft.com/kb/216251 "HOW TO: Specify a Specific or Third-Party HAL During Windows Setup [Q216251]")  
- More Info [MS KB216573](http://support.microsoft.com/kb/216573 "How Windows Determines ACPI Compatibility [Q216573]")  
- More Info [MS KB224826](http://support.microsoft.com/kb/224826 "Troubleshooting Text-Mode Setup Problems on ACPI Computers [Q224826]")  
- More Info [MS KB234558](http://support.microsoft.com/kb/234558 "HOW TO: Add Support for Multiple Processors in Windows 2000 [Q234558]")  
- More Info [MS KB237556](http://support.microsoft.com/kb/237556 "How to Troubleshoot Windows 2000 Hardware Abstraction Layer Issues [Q237556]")  
- More Info [MS KB243883](http://support.microsoft.com/kb/243883 "Windows 2000 Loses Date and Time on Every Boot [Q243883]")  
- More Info [MS KB252420](http://support.microsoft.com/kb/252420 "General Description of IRQ Sharing in Windows 2000 [Q252420]")  
- More Info [MS KB295116](http://support.microsoft.com/kb/295116 "A Description of the Windows XP Setup Function Keys [Q295116]")  
- More Info [MS KB299340](http://support.microsoft.com/kb/299340 "How to force a Hardware Abstraction Layer during an upgrade or an installation of Windows XP [Q299340]")  
- More Info [MS KB309283](http://support.microsoft.com/kb/309283 "HAL options after Windows XP or Windows Server 2003 Setup [Q309283]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20216251%20Q216251" rel="nofollow" title="HOW TO: Specify a Specific or Third-Party HAL During Windows Setup [Q216251]">MS KB216251</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20216573%20Q216573" rel="nofollow" title="How Windows Determines ACPI Compatibility [Q216573]">MS KB216573</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20224826%20Q224826" rel="nofollow" title="Troubleshooting Text-Mode Setup Problems on ACPI Computers [Q224826]">MS KB224826</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20234558%20Q234558" rel="nofollow" title="HOW TO: Add Support for Multiple Processors in Windows 2000 [Q234558]">MS KB234558</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20237556%20Q237556" rel="nofollow" title="How to Troubleshoot Windows 2000 Hardware Abstraction Layer Issues [Q237556]">MS KB237556</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20243883%20Q243883" rel="nofollow" title="Windows 2000 Loses Date and Time on Every Boot [Q243883]">MS KB243883</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20252420%20Q252420" rel="nofollow" title="General Description of IRQ Sharing in Windows 2000 [Q252420]">MS KB252420</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20295116%20Q295116" rel="nofollow" title="A Description of the Windows XP Setup Function Keys [Q295116]">MS KB295116</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20299340%20Q299340" rel="nofollow" title="How to force a Hardware Abstraction Layer during an upgrade or an installation of Windows XP [Q299340]">MS KB299340</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20309283%20Q309283" rel="nofollow" title="HAL options after Windows XP or Windows Server 2003 Setup [Q309283]">MS KB309283</a>  

@@ -22,7 +22,7 @@ tags:
  Note if disabling this service, then it will also stop [System File Checker](/article/winnt-sfc.html) (SFC) from working, and probably also [Windows File Protection](/article/winnt-wfp.html):
  > Windows Resource Protection could not start the repair service
 
- Note if the TrustedInstaller.exe process continuously starts up with a high CPU usage (100%) and the harddisk is constantly thrashing, then it can be caused by the Windows component store being corrupt (Windows Update error 80073712). More Info [MS KB947821](http://support.microsoft.com/kb/947821 "Description of the System Update Readiness Tool")
+ Note if the TrustedInstaller.exe process continuously starts up with a high CPU usage (100%) and the harddisk is constantly thrashing, then it can be caused by the Windows component store being corrupt (Windows Update error 80073712). More Info <a href="https://www.bing.com/search?q=KB%20947821%20Q947821" rel="nofollow" title="Description of the System Update Readiness Tool">MS KB947821</a>
  
 ##### Recommended state:
 

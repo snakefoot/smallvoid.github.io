@@ -18,7 +18,7 @@ Environment variables are used almost everywhere in Windows, and there are sever
 
 1. System generated like %DATE%, %TIME%, %SYSTEMROOT%, %COMPUTERNAME%, created when Windows starts
 2. Local Machine specified (Same for all users ex. [PATH](/article/executing-program-path.html))
-3. [AUTOEXEX.BAT](http://support.microsoft.com/kb/124551 "INFO: Configuring Parsing of the AUTOEXEC.BAT File [Q124551]") specified
+3. <a href="https://www.bing.com/search?q=KB+124551+Q124551" title="INFO: Configuring Parsing of the AUTOEXEC.BAT File [Q124551]" rel="nofollow">AUTOEXEX.BAT</a> specified
 4. System generated like %USERNAME%, %USERDOMAIN% and %USERPROFILE% are created when user logs in
 5. User specified (Unique for this user)
 6. [Command Prompt specified](/article/environment-variables.html) (Lives and dies with the command prompt)

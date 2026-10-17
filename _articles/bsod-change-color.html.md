@@ -47,4 +47,4 @@ If visually impaired, then the Blue Screen of Death (BSOD) can be difficult to r
  <tr><td>F</td><td><span style="color:#FFFFFF">white</span></td></tr>
  </table>
 
- More Info [MS KB90740](http://support.microsoft.com/kb/90740 "Color Values for MessageBackColor and MessageTextColor Setting [Q90740]")  
+ More Info <a href="https://www.bing.com/search?q=KB%2090740%20Q90740" rel="nofollow" title="Color Values for MessageBackColor and MessageTextColor Setting [Q90740]">MS KB90740</a>  

@@ -37,7 +37,7 @@ Only use TCP/IP for the Internet connection (For performance and security):
 6. Press the **Settings**-button and configure the **PPP Settings**: 
   - Check **Enable LCP extensions** (Unless having problems with connecting to ISP, More Info [RFC 1570](http://www.faqs.org/rfcs/rfc1570.html "PPP LCP (Link Control Protocol) Extensions"))
   - Uncheck **Enable software compression** (Unless using a Winmodem)
-  - Uncheck **Negotiate multi-link for single link connections** (Unless using multiple modems, More Info [MS KB307849](http://support.microsoft.com/kb/307849 "HOW TO: Set Up Multiple-Device (Multilink) Dialing in Windows XP [Q307849]"))
+  - Uncheck **Negotiate multi-link for single link connections** (Unless using multiple modems, More Info <a href="https://www.bing.com/search?q=KB%20307849%20Q307849" rel="nofollow" title="HOW TO: Set Up Multiple-Device (Multilink) Dialing in Windows XP [Q307849]">MS KB307849</a>)
  
  Optimize the hardware features for the connection:
 1. Open the **Control Panel**
@@ -49,9 +49,9 @@ Only use TCP/IP for the Internet connection (For performance and security):
   - Check **Enable modem error control**
   - Check **Enable modem compression** (Unless using a Winmodem)
  
- More info [MS KB244603](http://support.microsoft.com/kb/244603 "Error Message: TCP/IP CP Reported Error 733 [Q244603]")  
- More info [MS KB307849](http://support.microsoft.com/kb/307849 "HOW TO: Set Up Multiple-Device (Multilink) Dialing in Windows XP [Q307849]")  
- More info [MS KB314455](http://support.microsoft.com/kb/314455 "'Error 691' Error Message When You Try to Connect to Your ISP [Q314455]")  
+ More info <a href="https://www.bing.com/search?q=KB%20244603%20Q244603" rel="nofollow" title="Error Message: TCP/IP CP Reported Error 733 [Q244603]">MS KB244603</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20307849%20Q307849" rel="nofollow" title="HOW TO: Set Up Multiple-Device (Multilink) Dialing in Windows XP [Q307849]">MS KB307849</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20314455%20Q314455" rel="nofollow" title="'Error 691' Error Message When You Try to Connect to Your ISP [Q314455]">MS KB314455</a>  
   
  Related [Configure maximum port speed for modem in Win2k](/article/win2k-dialup-bps.html)  
  Related [Configure maximum port speed for modem in WinXP](/article/winxp-dialup-bps.html)  

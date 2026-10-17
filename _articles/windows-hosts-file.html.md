@@ -61,6 +61,6 @@ It is much easier to access the Internet when using domain-names like www.google
   
  Note lately some hijackers have started to modify the HOSTS file to make redirects to a different site than intended. One can try to "lock" the HOSTS file by changing the file attributes to Read-Only, Hidden, System. If the file is placed on a NTFS partition then [change the NTFS permissions](/article/ntfs-access-control.html) for accessing the HOSTS file. Though if the hijacker is clever enough then it will have little trouble going around this "locking".  
   
- More Info [MS KB972034 - Reset hosts file to default](http://support.microsoft.com/kb/972034 "How do I reset the hosts file back to the default?")  
+ More Info <a href="https://www.bing.com/search?q=KB+972034+Q972034" title="How do I reset the hosts file back to the default?" rel="nofollow">MS KB972034 - Reset hosts file to default</a>  
   
  Credits [mvps.org](http://www.mvps.org/winhelp2002/hosts.htm)

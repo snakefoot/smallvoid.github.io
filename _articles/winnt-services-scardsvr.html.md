@@ -27,7 +27,7 @@ tags:
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control \\Lsa \\Kerberos \\Parameters\]  
 >  RequireAsChecksum = 1 (Default Win2k/Win2k3 = 0)  
 >   
->  Note before enabling this setting on the client-machines, one should make sure that [MS KB899587](http://support.microsoft.com/kb/899587 "MS05-042: Vulnerabilities in Kerberos could allow denial of service, information disclosure, and spoofing [Q899587]") is installed on the domain controller or else the smart card login will fail. More info [MS KB904766](http://support.microsoft.com/kb/904766 "How to modify the RequireAsChecksum registry entry after you install security update 899587 [Q904766]")
+>  Note before enabling this setting on the client-machines, one should make sure that <a href="https://www.bing.com/search?q=KB%20899587%20Q899587" rel="nofollow" title="MS05-042: Vulnerabilities in Kerberos could allow denial of service, information disclosure, and spoofing [Q899587]">MS KB899587</a> is installed on the domain controller or else the smart card login will fail. More info <a href="https://www.bing.com/search?q=KB%20904766%20Q904766" rel="nofollow" title="How to modify the RequireAsChecksum registry entry after you install security update 899587 [Q904766]">MS KB904766</a>
 
 ##### Recommended State:
 

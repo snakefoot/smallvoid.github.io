@@ -42,9 +42,9 @@ It is possible to change some of the text shown on **System Properties**, which 
  
  Note it is also possible to place the two files in **%Windir%\\System32** if on a WinNT+ installation.  
   
- More Info [MS KB216347](http://support.microsoft.com/kb/216347 "HOWTO: Test and Modify the Logos in an OEM Preinstallation [Q216347]")  
- More Info [MS KB218176](http://support.microsoft.com/kb/218176 "How to Alter Logo Information on the System Tool's General Tab [Q218176]")  
- More Info [MS KB250609](http://support.microsoft.com/kb/250609 "INFO: Quick Guide to Preinstalling Windows 2000 [Q250609]")  
- More Info [MS KB314472](http://support.microsoft.com/kb/314472 "Quick Guide to Preinstalling Windows XP [Q314472]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20216347%20Q216347" rel="nofollow" title="HOWTO: Test and Modify the Logos in an OEM Preinstallation [Q216347]">MS KB216347</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20218176%20Q218176" rel="nofollow" title="How to Alter Logo Information on the System Tool's General Tab [Q218176]">MS KB218176</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20250609%20Q250609" rel="nofollow" title="INFO: Quick Guide to Preinstalling Windows 2000 [Q250609]">MS KB250609</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20314472%20Q314472" rel="nofollow" title="Quick Guide to Preinstalling Windows XP [Q314472]">MS KB314472</a>  
   
  Related [Configure the branding of Internet Explorer](/article/ie-branding.html)

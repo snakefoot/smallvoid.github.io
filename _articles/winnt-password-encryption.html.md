@@ -38,16 +38,16 @@ A low Password Encryption level is used by default to give a higher level of com
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Rdr \\Parameters\]  
 >  EnablePlainTextPassword = 1 (Default = 0 and the most secure)  
 >   
->  More Info [MS KB166730](http://support.microsoft.com/kb/166730 "Unencrypted Passwords May Cause SP3 to Fail to Connect to SMB Servers [Q166730]")  
->  More Info [MS KB256322](http://support.microsoft.com/kb/256322 "Error Occurs When You Configure IIS to Use a Samba Network Share As Its Root [Q256322]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20166730%20Q166730" rel="nofollow" title="Unencrypted Passwords May Cause SP3 to Fail to Connect to SMB Servers [Q166730]">MS KB166730</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20256322%20Q256322" rel="nofollow" title="Error Occurs When You Configure IIS to Use a Samba Network Share As Its Root [Q256322]">MS KB256322</a>
 
  The LanManager can be configured not to require Challenge/Response(CHAP), but also allow Password Authentication Protocol(PAP) (Win2k+):
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\LanmanWorkStation \\Parameters\]  
 >  EnablePlainTextPassword = 1 (Default = 0 and the most secure)  
 >   
->  More Info [MS KB224287](http://support.microsoft.com/kb/224287 "Err Msg: System Error 1240 Has Occurred. The Account Is Not Authorized to Login from This Station [Q224287]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20224287%20Q224287" rel="nofollow" title="Err Msg: System Error 1240 Has Occurred. The Account Is Not Authorized to Login from This Station [Q224287]">MS KB224287</a>
 
  Related [Description of password encryption level over network](/article/windows-password-encryption.html)  
   
- More Info [MS KB236414](http://support.microsoft.com/kb/236414 "Cannot Use Shares with LMCompatibilityLevel set to Only NTLM 2 Authentication [Q236414]")  
- More Info [MS KB318266](http://support.microsoft.com/kb/318266 "A Windows XP Client Cannot Log On to a Windows NT 4.0 Domain [Q318266]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20236414%20Q236414" rel="nofollow" title="Cannot Use Shares with LMCompatibilityLevel set to Only NTLM 2 Authentication [Q236414]">MS KB236414</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20318266%20Q318266" rel="nofollow" title="A Windows XP Client Cannot Log On to a Windows NT 4.0 Domain [Q318266]">MS KB318266</a>  

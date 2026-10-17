@@ -13,6 +13,6 @@ categories:
 tags:
     - hotfix
 ---
-[Qfecheck](http://support.microsoft.com/kb/282784 "Qfecheck.exe verifies the installation of Windows 2000 and Windows XP hotfixes [Q282784]") is command line version of the utility known from Win9x, which makes it possible to view the hotfixes that have been added to the system.  
+<a href="https://www.bing.com/search?q=KB+282784+Q282784" title="Qfecheck.exe verifies the installation of Windows 2000 and Windows XP hotfixes [Q282784]" rel="nofollow">Qfecheck</a> is command line version of the utility known from Win9x, which makes it possible to view the hotfixes that have been added to the system.  
   
  Note if one wants a more graphical utility, then one should try **WinUpdatesList** by [Nirsoft](http://nirsoft.mirrorz.com/). 

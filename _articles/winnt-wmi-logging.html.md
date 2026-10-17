@@ -34,8 +34,8 @@ The [Windows Management Instrumentation service](/article/winnt-services-winmgmt
   >   
   >  Log File Max Size = "65536"  
   >   
-  >  More Info [MS KB252679](http://support.microsoft.com/kb/252679 "INFO: Tips on WMI Driver Testing [Q252679]")  
-  >  More Info [MS KB836605](http://support.microsoft.com/kb/836605 "The Framework.log file grows larger than 64 KB when you use WMI on a Windows XP computer [Q836605]")
+  >  More Info <a href="https://www.bing.com/search?q=KB%20252679%20Q252679" rel="nofollow" title="INFO: Tips on WMI Driver Testing [Q252679]">MS KB252679</a>  
+  >  More Info <a href="https://www.bing.com/search?q=KB%20836605%20Q836605" rel="nofollow" title="The Framework.log file grows larger than 64 KB when you use WMI on a Windows XP computer [Q836605]">MS KB836605</a>
  
  Besides the log file the service continuously maintains a database with information about the machine which resides in this folder and subfolders:
  > %Windir%\\System32\\Wbem\\Repository

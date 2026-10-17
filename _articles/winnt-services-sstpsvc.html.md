@@ -20,8 +20,8 @@ tags:
  SSTP allows traffic to pass through firewalls that block PPTP and L2TP/IPsec traffic. It encapsulates PPP traffic over the SSL channel of the HTTPS protocol (Port 443). It allows clients behind firewalls and NAT routers to connect to the VPN server without the concern for typical port blocking issues.  
   
  More Info [The Cable Guy - SSTP](http://www.microsoft.com/technet/technetmag/issues/2007/06/CableGuy/ "The Secure Socket Tunneling Protocol")  
- More Info [MS KB947032](http://support.microsoft.com/kb/947032 "How to configure a Secure Socket Tunneling Protocol (SSTP)-based VPN server behind a NAT device in Windows Server 2008") (How to configure SSTP)  
- More Info [MS KB947031](http://support.microsoft.com/kb/947031 "How to troubleshoot Secure Socket Tunneling Protocol (SSTP)-based connection failures in Windows Server 2008") (How to troubleshoot SSTP)  
+ More Info <a href="https://www.bing.com/search?q=KB%20947032%20Q947032" rel="nofollow" title="How to configure a Secure Socket Tunneling Protocol (SSTP)-based VPN server behind a NAT device in Windows Server 2008">MS KB947032</a> (How to configure SSTP)  
+ More Info <a href="https://www.bing.com/search?q=KB%20947031%20Q947031" rel="nofollow" title="How to troubleshoot Secure Socket Tunneling Protocol (SSTP)-based connection failures in Windows Server 2008">MS KB947031</a> (How to troubleshoot SSTP)  
 ##### Recommended state:
 
 - Manual.

@@ -20,11 +20,11 @@ tags:
   
  WIA is an attempt to make it easier for camera and scanner developers to write drivers, as it was rather difficult within [Twain.org](http://www.twain.org/). WIA has its own API for extracting pictures, but it also includes a TWAIN compatibility layer.  
   
- Note Windows Vista (and XP SP2) comes with WIA ver. 2.0 which brings new features, but also breaks compatibility with devices and drivers using WIA ver. 1.0. Vista now uses the Picture Transfer Protocol (PTP) which is part of the Windows Portable Devices (WPD) standard for transfering pictures instead of WIA. More Info [MS KB927836](http://support.microsoft.com/kb/927836 "A digital still camera is not recognized in Windows Vista or in Windows XP")  
+ Note Windows Vista (and XP SP2) comes with WIA ver. 2.0 which brings new features, but also breaks compatibility with devices and drivers using WIA ver. 1.0. Vista now uses the Picture Transfer Protocol (PTP) which is part of the Windows Portable Devices (WPD) standard for transfering pictures instead of WIA. More Info <a href="https://www.bing.com/search?q=KB%20927836%20Q927836" rel="nofollow" title="A digital still camera is not recognized in Windows Vista or in Windows XP">MS KB927836</a>  
   
- More Info [MS KB307001](http://support.microsoft.com/kb/307001 "HOW TO: Enable Logging of Wiadebug.log in Windows XP [Q307001]")  
- More Info [MS KB819017](http://support.microsoft.com/kb/819017 "Long Delay Before Files Appear in My Computer in Windows XP [Q819017]")  
- More Info [MS KB823612](http://support.microsoft.com/kb/823612 "Windows XP Takes a Long Time to Start [Q823612]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20307001%20Q307001" rel="nofollow" title="HOW TO: Enable Logging of Wiadebug.log in Windows XP [Q307001]">MS KB307001</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20819017%20Q819017" rel="nofollow" title="Long Delay Before Files Appear in My Computer in Windows XP [Q819017]">MS KB819017</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20823612%20Q823612" rel="nofollow" title="Windows XP Takes a Long Time to Start [Q823612]">MS KB823612</a>  
   
 ##### Recommended State:
 

@@ -57,11 +57,11 @@ The hard disk is extremely slow compared to physical memory (RAM), but provides 
  
 ##### How to configure write caching?
 
-- Windows 2000 SP3 / XP SP2 - Requires the utility **Dskcache.exe** to enable **Power Protected** write cache. More Info [MS KB811392](http://support.microsoft.com/kb/811392 "Obtain the Dskcache.exe Tool to Configure the 'Power Protected' Write Cache Option [Q811392]"), [MS KB332023](http://support.microsoft.com/kb/332023 "Slow Disk Performance When Write Caching Is Enabled [Q332023]")
+- Windows 2000 SP3 / XP SP2 - Requires the utility **Dskcache.exe** to enable **Power Protected** write cache. More Info <a href="https://www.bing.com/search?q=KB%20811392%20Q811392" rel="nofollow" title="Obtain the Dskcache.exe Tool to Configure the 'Power Protected' Write Cache Option [Q811392]">MS KB811392</a>, <a href="https://www.bing.com/search?q=KB%20332023%20Q332023" rel="nofollow" title="Slow Disk Performance When Write Caching Is Enabled [Q332023]">MS KB332023</a>
 - Windows 2003 / Vista - The option with the misleading name "Enable Advanced Performance", which can be found on the "Policies"-tab for each hard disk device in the "Device Manager" (Have to activate "Optimize for performance" and "Enable write caching on the disk").
 - Windows 7 - The option is called "Turn off Windows write-cache buffer flushing on the device.", which can be found on the "Policies"-tab for each hard disk device in the "Device Manager" (Have to activate "Enable write caching on the device")
  
- More Info [MS KB324446](http://support.microsoft.com/kb/324446 "Terminal Server and connected Terminal Services clients pause when a Terminal Services client logs on or logs off [Q324446]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20324446%20Q324446" rel="nofollow" title="Terminal Server and connected Terminal Services clients pause when a Terminal Services client logs on or logs off [Q324446]">MS KB324446</a>  
  More Info [Microsoft - Windows Confidential: The Power of Bugs](http://www.microsoft.com/technet/technetmag/issues/2007/04/WindowsConfidential/default.aspx "Raymond Chen April 2007 issue of TechNet Magazine")  
   
  Related [Configure IDE ATA hard disk for best performance](/article/troubleshoot-hdd-dma.html)

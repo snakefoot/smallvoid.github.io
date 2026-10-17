@@ -33,7 +33,7 @@ Microsoft has extended the ability of the Explorer to also act as a picture view
 >  Note to disable select the **(Default)**-value and press Delete-key, and it will change to "(Value not set)".  
 >  To disable preview for other file-types just exchange the **.avi** with the wanted filetype and delete the **(Default)** for the wanted file-type.  
 >   
->  More Info [MS KB822430](http://support.microsoft.com/kb/822430 "Windows Stops Responding When You Click a Large AVI File in Windows Explorer [Q822430]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20822430%20Q822430" rel="nofollow" title="Windows Stops Responding When You Click a Large AVI File in Windows Explorer [Q822430]">MS KB822430</a>
 
  Note if one likes the shell extensions, but just having problems deleting a file then try one of these:
 - Download and install [Unlocker](/article/winnt-unlocker.html), which can close the handles created to the file, so one is not blocked from deleting it

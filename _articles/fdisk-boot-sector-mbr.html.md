@@ -38,5 +38,5 @@ If you for reason have gotten a boot-sector virus on your hands, then the virus 
  
  Another solution is to delete the infected partition using FDISK and create it again. Though with the side effect that you will loose all data on that partition.  
   
- More Info [MS KB69013](http://support.microsoft.com/kb/69013 "FDISK /MBR Rewrites the Master Boot Record [Q69013]")  
- More Info [MS KB140418](http://support.microsoft.com/kb/140418 "Detailed Explanation of FAT Boot Sector [Q140418]")  
+ More Info <a href="https://www.bing.com/search?q=KB%2069013%20Q69013" rel="nofollow" title="FDISK /MBR Rewrites the Master Boot Record [Q69013]">MS KB69013</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20140418%20Q140418" rel="nofollow" title="Detailed Explanation of FAT Boot Sector [Q140418]">MS KB140418</a>  

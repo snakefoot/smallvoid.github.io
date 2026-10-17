@@ -33,7 +33,7 @@ tags:
  Note that bootvis is dependent on the services [Task Scheduler](/article/winnt-services-schedule.html) and [COM+ Event System](/article/winnt-services-eventsystem.html). If these services are not available this error will popup:
  > *Failed to defrag the system. Try and defrag the system manually*
 
- Note if one haven't applied at least Service Pack 1 (SP1), then one should use the old version [BootVis-Tool.exe](http://download.microsoft.com/download/whistler/BTV/1.0/WXP/EN-US/BootVis-Tool.exe) ([mirror](http://smallvoid.orgfree.com/?file=bootvis-tool.zip "Bootvis ver. 1.3.36.0")) else one will get the following error with the [new version (MB KB821581)](http://support.microsoft.com/kb/821581 "Performance Trace Data from the BootVis.exe Tool Is Corrupted or Missing [Q821581]") (Bootvis.msi):
+ Note if one haven't applied at least Service Pack 1 (SP1), then one should use the old version [BootVis-Tool.exe](http://download.microsoft.com/download/whistler/BTV/1.0/WXP/EN-US/BootVis-Tool.exe) ([mirror](http://smallvoid.orgfree.com/?file=bootvis-tool.zip "Bootvis ver. 1.3.36.0")) else one will get the following error with the <a href="https://www.bing.com/search?q=KB+821581+Q821581" title="Performance Trace Data from the BootVis.exe Tool Is Corrupted or Missing [Q821581]" rel="nofollow">new version (MB KB821581)</a> (Bootvis.msi):
  > *The procedure entry point WmiOpenTraceWithCursor could not be located in the dynamic link library ADVAPI32.dll*
 
  More Info [Fast Boot / Fast Resume Design](http://go.microsoft.com/fwlink/?LinkId=17582)  

@@ -24,7 +24,7 @@ The order of which applications are loaded and where they are loaded from:
 2. [Services](/article/winnt-services-config.html)
   - [Task Scheduler](/article/winnt-services-schedule.html) will look in the Scheduled Tasks folder for jobs to execute.
 3. **User enters username and password and performs logon**
-4. **UserInit** (Login script is performed - More Info [MS KB198642](http://support.microsoft.com/kb/198642 "Overview of Logon, Logoff, Startup, and Shutdown Scripts in Windows 2000 [Q198642]"))  
+4. **UserInit** (Login script is performed - More Info <a href="https://www.bing.com/search?q=KB%20198642%20Q198642" rel="nofollow" title="Overview of Logon, Logoff, Startup, and Shutdown Scripts in Windows 2000 [Q198642]">MS KB198642</a>)  
    \[HKEY\_LOCAL\_MACHINE \\Software \\Microsoft \\Windows NT \\CurrentVersion \\Winlogon\]  
    UserInit=userinit.exe
 5. **Shell** (Started by Userinit.exe)  
@@ -49,13 +49,13 @@ The order of which applications are loaded and where they are loaded from:
 14. **Common Startup Folder in the Start-Menu for All Users**
 15. **Startup Folder in the Start-Menu for Current User**
  
- More Info [MS KB170086](http://support.microsoft.com/kb/170086 "System32 Folder Opens When Logging on to Windows XP, Windows 2000, or Windows NT 4.0 [Q170086]")  
- More Info [MS KB232509](http://support.microsoft.com/kb/232509 "Syntax for the RunOnceEx Registry Key [Q232509]")  
- More Info [MS KB284193](http://support.microsoft.com/kb/284193 "How to run a logon script one time when a new user logs on [Q284193]")  
- More Info [MS KB310593](http://support.microsoft.com/kb/310593 "Description of the RunOnceEx Registry Key [Q310593]")  
- More Info [MS KB314488](http://support.microsoft.com/kb/314488 "How to Modify the List of Programs that Run When You Start Windows XP [Q314488]")  
- More Info [MS KB314866](http://support.microsoft.com/kb/314866 "A Definition of the Run Keys in the Windows XP Registry [Q314866]")  
- More Info [MS KB321707](http://support.microsoft.com/kb/321707 "HOW TO: Automatically Run Programs When Users Log On to Windows 2000 Terminal Services [Q321707]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20170086%20Q170086" rel="nofollow" title="System32 Folder Opens When Logging on to Windows XP, Windows 2000, or Windows NT 4.0 [Q170086]">MS KB170086</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20232509%20Q232509" rel="nofollow" title="Syntax for the RunOnceEx Registry Key [Q232509]">MS KB232509</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20284193%20Q284193" rel="nofollow" title="How to run a logon script one time when a new user logs on [Q284193]">MS KB284193</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20310593%20Q310593" rel="nofollow" title="Description of the RunOnceEx Registry Key [Q310593]">MS KB310593</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20314488%20Q314488" rel="nofollow" title="How to Modify the List of Programs that Run When You Start Windows XP [Q314488]">MS KB314488</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20314866%20Q314866" rel="nofollow" title="A Definition of the Run Keys in the Windows XP Registry [Q314866]">MS KB314866</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20321707%20Q321707" rel="nofollow" title="HOW TO: Automatically Run Programs When Users Log On to Windows 2000 Terminal Services [Q321707]">MS KB321707</a>  
   
  Note if one of the Run-sections includes an invalid entry (Uses a path that doesn't exist), then Windows might open at folder at startup. Use [Msconfig](/article/win2k-msconfig.html) or [Startup.CPL](/article/windows-startup-order.html#STARTUP_CPL) to check the entries.  
   
@@ -66,8 +66,8 @@ The order of which applications are loaded and where they are loaded from:
 >  \[HKEY\_LOCAL\_MACHINE \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\System\]  
 >  SynchronousMachineGroupPolicy = 1 (0 = Do not wait for domain controller to apply machine policies)  
 >   
->  More Info [MS KB304970](http://support.microsoft.com/kb/304970 "Scripts May Not Run Before Windows Explorer Starts Even Though the 'Run Logon Scripts Synchronously' Setting is Enabled [Q304970]")  
->  More Info [MS KB305293](http://support.microsoft.com/kb/305293 "Description of the Windows XP Professional Fast Logon Optimization Feature [Q305293]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20304970%20Q304970" rel="nofollow" title="Scripts May Not Run Before Windows Explorer Starts Even Though the 'Run Logon Scripts Synchronously' Setting is Enabled [Q304970]">MS KB304970</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20305293%20Q305293" rel="nofollow" title="Description of the Windows XP Professional Fast Logon Optimization Feature [Q305293]">MS KB305293</a>
 
  Note Winlogon.exe controls the login process, by loading user registry, applying user group policies, and the launch of UserInit.exe. The UserInit.exe performs login scripts and executes program specified in Shell=. One can configure the behavior of Winlogon.exe:
 > \[HKEY\_LOCAL\_MACHINE \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\System\]  
@@ -76,15 +76,15 @@ The order of which applications are loaded and where they are loaded from:
 >  \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\System\]  
 >  RunLogonScriptSync = 1 (0 = Do not wait for script to finish before starting shell)  
 >   
->  More Info [MS KB265016](http://support.microsoft.com/kb/265016 "How to Run a Domain Logon Script in the Foreground with the Start.exe Command-Line Tool [Q265016]")  
->  More Info [MS KB258286](http://support.microsoft.com/kb/258286 "HOW TO: Assign a Logon Script to a Profile for a Local User in Windows 2000 [Q258286]")  
->  More Info [MS KB315245](http://support.microsoft.com/kb/315245 "How to Assign a Logon Script to a Profile for a Local User [Q315245]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20265016%20Q265016" rel="nofollow" title="How to Run a Domain Logon Script in the Foreground with the Start.exe Command-Line Tool [Q265016]">MS KB265016</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20258286%20Q258286" rel="nofollow" title="HOW TO: Assign a Logon Script to a Profile for a Local User in Windows 2000 [Q258286]">MS KB258286</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20315245%20Q315245" rel="nofollow" title="How to Assign a Logon Script to a Profile for a Local User [Q315245]">MS KB315245</a>
 
  Note during boot Windows might display one or more popup messsages, if using the [EventLog](/article/winnt-services-eventlog.html) to monitor these popup messages and the popup messages are unwanted, then they can be disabled:
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control\\ Windows\]  
 >  NoPopUpsOnBoot = 1 (0 = Show popup messages during bootup)  
 >   
->  More Info [MS KB924690](http://support.microsoft.com/kb/924690 "Error message when you start Windows Server 2003 SP1 for the first time: 'Windows could not be started as configured' [Q924690]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20924690%20Q924690" rel="nofollow" title="Error message when you start Windows Server 2003 SP1 for the first time: 'Windows could not be started as configured' [Q924690]">MS KB924690</a>
 
  Related [Use SHIFT-key to prevent launch of 6-15](/article/windows-startup-order.html)  
   

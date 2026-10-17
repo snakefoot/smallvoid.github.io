@@ -54,17 +54,17 @@ NTFS partitions have the capability of handling access control lists (ACL) for t
   
  Note if having enabled the guest-account, then one should consider to only give read-access to the required NTFS partitions.  
   
- More Info [MS KB148437](http://support.microsoft.com/kb/148437 "Default NTFS Permissions in Windows NT [Q148437]")  
- More Info [MS KB153094](http://support.microsoft.com/kb/153094 "Restoring Default Permissions to Windows NT System Files [Q153094]")  
- More Info [MS KB244600](http://support.microsoft.com/kb/244600 "Default NTFS Permissions in Windows 2000 [Q244600]")  
- More Info [MS KB266118](http://support.microsoft.com/kb/266118 "How to restore the default NTFS permissions for Windows 2000 [Q266118]")  
- More Info [MS KB268019](http://support.microsoft.com/kb/268019 "HOW TO: Take Ownership of Files [Q268019]")  
- More Info [MS KB301195](http://support.microsoft.com/kb/301195 "HOW TO: Configure Security for Files and Folders on a Network (Domain) in Windows 2000 [Q301195]")  
- More Info [MS KB308418](http://support.microsoft.com/kb/308418 "How to set, view, change, or remove file and folder permissions in Windows XP [Q308418]")  
- More Info [MS KB308419](http://support.microsoft.com/kb/308419 "HOW TO: Set, View, Change, or Remove Special Permissions for Files and Folders in Windows XP [Q308419]")  
- More Info [MS KB308421](http://support.microsoft.com/kb/308421 "How to take ownership of a file or folder in Windows XP [Q308421]")  
- More Info [MS KB318754](http://support.microsoft.com/kb/318754 "HOW TO: Use Xcacls.exe to Modify NTFS Permissions [Q318754]")  
- More Info [MS KB324067](http://support.microsoft.com/kb/324067 "HOW TO: Set Folder Security for Shared Folders [Q324067]")  
- More Info [MS KB325361](http://support.microsoft.com/kb/325361 "HOW TO: Configure Security for Files and Folders on a Network in Windows Server 2003 [Q325361]")  
- More Info [MS KB810881](http://support.microsoft.com/kb/810881 "'Access is Denied' Error Message When You Try to Open a Folder [Q810881]")  
- More Info [MS KB825751](http://support.microsoft.com/kb/825751 "HOW TO: Use Xcacls.vbs to Modify NTFS Permissions [Q825751]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20148437%20Q148437" rel="nofollow" title="Default NTFS Permissions in Windows NT [Q148437]">MS KB148437</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20153094%20Q153094" rel="nofollow" title="Restoring Default Permissions to Windows NT System Files [Q153094]">MS KB153094</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20244600%20Q244600" rel="nofollow" title="Default NTFS Permissions in Windows 2000 [Q244600]">MS KB244600</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20266118%20Q266118" rel="nofollow" title="How to restore the default NTFS permissions for Windows 2000 [Q266118]">MS KB266118</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20268019%20Q268019" rel="nofollow" title="HOW TO: Take Ownership of Files [Q268019]">MS KB268019</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20301195%20Q301195" rel="nofollow" title="HOW TO: Configure Security for Files and Folders on a Network (Domain) in Windows 2000 [Q301195]">MS KB301195</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20308418%20Q308418" rel="nofollow" title="How to set, view, change, or remove file and folder permissions in Windows XP [Q308418]">MS KB308418</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20308419%20Q308419" rel="nofollow" title="HOW TO: Set, View, Change, or Remove Special Permissions for Files and Folders in Windows XP [Q308419]">MS KB308419</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20308421%20Q308421" rel="nofollow" title="How to take ownership of a file or folder in Windows XP [Q308421]">MS KB308421</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20318754%20Q318754" rel="nofollow" title="HOW TO: Use Xcacls.exe to Modify NTFS Permissions [Q318754]">MS KB318754</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20324067%20Q324067" rel="nofollow" title="HOW TO: Set Folder Security for Shared Folders [Q324067]">MS KB324067</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20325361%20Q325361" rel="nofollow" title="HOW TO: Configure Security for Files and Folders on a Network in Windows Server 2003 [Q325361]">MS KB325361</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20810881%20Q810881" rel="nofollow" title="'Access is Denied' Error Message When You Try to Open a Folder [Q810881]">MS KB810881</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20825751%20Q825751" rel="nofollow" title="HOW TO: Use Xcacls.vbs to Modify NTFS Permissions [Q825751]">MS KB825751</a>  

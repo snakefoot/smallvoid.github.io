@@ -40,21 +40,21 @@ tags:
 >  Source: PolicyAgent  
 >  EventID: 319*
 
- More Info [MS KB231585](http://support.microsoft.com/kb/231585 "Overview of Secure IP Communication with IPSec in Windows 2000 [Q231585]")  
- More Info [MS KB234580](http://support.microsoft.com/kb/234580 "'Soft Associations' Between IPSec-Enabled and Non-IPSec-Enabled Computers [Q234580]")  
- More Info [MS KB240262](http://support.microsoft.com/kb/240262 "How to Configure a L2TP/IPSec Connection Using Pre-shared Key Authentication [Q240262]")  
- More Info [MS KB247231](http://support.microsoft.com/kb/247231 "Event ID 20111, Error 792 or Error 781 When Establishing an L2TP/IPSec Connection [Q247231]")  
- More Info [MS KB248750](http://support.microsoft.com/kb/248750 "Description of the IPSec Policy Created for L2TP/IPSec [Q248750]")  
- More Info [MS KB252735](http://support.microsoft.com/kb/252735 "How to Configure IPSec Tunneling in Windows 2000 [Q252735]")  
- More Info [MS KB253169](http://support.microsoft.com/kb/253169 "Traffic That Can--and Cannot--Be Secured by IPSec [Q253169]")  
- More Info [MS KB257225](http://support.microsoft.com/kb/257225 "Basic IPSec Troubleshooting in Windows 2000 [Q257225]")  
- More Info [MS KB259335](http://support.microsoft.com/kb/259335 "Basic L2TP/IPSec Troubleshooting in Windows [Q259335]")  
- More Info [MS KB265112](http://support.microsoft.com/kb/265112 "IPSec and L2TP Implementation in Windows 2000 [Q265112]")  
- More Info [MS KB314831](http://support.microsoft.com/kb/314831 "Basic L2TP/IPSec Troubleshooting in Windows XP [Q314831]")  
- More Info [MS KB810207](http://support.microsoft.com/kb/810207 "IPSec Default Exemptions Are Removed in Windows Server 2003 [Q810207]")  
- More Info [MS KB811832](http://support.microsoft.com/kb/811832 "IPSec Default Exemptions Can Be Used to Bypass IPsec Protection in Some Scenarios [Q811832]")  
- More Info [MS KB813878](http://support.microsoft.com/kb/813878 "How to Block Specific Network Protocols and Ports by Using IPSec [Q813878]")  
- More Info [MS KB816514](http://support.microsoft.com/kb/816514 "HOW TO: Configure IPSec Tunneling in Windows Server 2003 [Q816514]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20231585%20Q231585" rel="nofollow" title="Overview of Secure IP Communication with IPSec in Windows 2000 [Q231585]">MS KB231585</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20234580%20Q234580" rel="nofollow" title="'Soft Associations' Between IPSec-Enabled and Non-IPSec-Enabled Computers [Q234580]">MS KB234580</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20240262%20Q240262" rel="nofollow" title="How to Configure a L2TP/IPSec Connection Using Pre-shared Key Authentication [Q240262]">MS KB240262</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20247231%20Q247231" rel="nofollow" title="Event ID 20111, Error 792 or Error 781 When Establishing an L2TP/IPSec Connection [Q247231]">MS KB247231</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20248750%20Q248750" rel="nofollow" title="Description of the IPSec Policy Created for L2TP/IPSec [Q248750]">MS KB248750</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20252735%20Q252735" rel="nofollow" title="How to Configure IPSec Tunneling in Windows 2000 [Q252735]">MS KB252735</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20253169%20Q253169" rel="nofollow" title="Traffic That Can--and Cannot--Be Secured by IPSec [Q253169]">MS KB253169</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20257225%20Q257225" rel="nofollow" title="Basic IPSec Troubleshooting in Windows 2000 [Q257225]">MS KB257225</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20259335%20Q259335" rel="nofollow" title="Basic L2TP/IPSec Troubleshooting in Windows [Q259335]">MS KB259335</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20265112%20Q265112" rel="nofollow" title="IPSec and L2TP Implementation in Windows 2000 [Q265112]">MS KB265112</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20314831%20Q314831" rel="nofollow" title="Basic L2TP/IPSec Troubleshooting in Windows XP [Q314831]">MS KB314831</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20810207%20Q810207" rel="nofollow" title="IPSec Default Exemptions Are Removed in Windows Server 2003 [Q810207]">MS KB810207</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20811832%20Q811832" rel="nofollow" title="IPSec Default Exemptions Can Be Used to Bypass IPsec Protection in Some Scenarios [Q811832]">MS KB811832</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20813878%20Q813878" rel="nofollow" title="How to Block Specific Network Protocols and Ports by Using IPSec [Q813878]">MS KB813878</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20816514%20Q816514" rel="nofollow" title="HOW TO: Configure IPSec Tunneling in Windows Server 2003 [Q816514]">MS KB816514</a>  
   
 ##### Recommended State:
 

@@ -23,8 +23,8 @@ tags:
   
  Note when the UPS service is running it might claim control of serial port COM1/COM2 so no other program can use it.  
   
- More Info [MS KB170817](http://support.microsoft.com/kb/170817 "Windows NT Causes APC Smart UPS Battery to Discharge [Q170817]")  
- More Info [MS KB310437](http://support.microsoft.com/kb/310437 "Cannot Start the UPS Service [Q310437]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20170817%20Q170817" rel="nofollow" title="Windows NT Causes APC Smart UPS Battery to Discharge [Q170817]">MS KB170817</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20310437%20Q310437" rel="nofollow" title="Cannot Start the UPS Service [Q310437]">MS KB310437</a>  
   
 ##### Recommended State:
 

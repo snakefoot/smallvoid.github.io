@@ -19,4 +19,4 @@ Windows Me blocks access to real mode DOS, which for some can be a limitation th
 - [Reines - Real DOS-Mode Patch for Windows Millennium](http://www.geocities.com/mfd4life_2000/)
 - [DosFix](http://www.overclockers.com.au/techstuff/a_dos_me/) (Little more automated)
  
- Note if just needing access to DOS a short moment one can just create a [Windows Me startup disk](http://support.microsoft.com/kb/267287 "How to Create a Startup Disk in Windows Me [Q267287]").
+ Note if just needing access to DOS a short moment one can just create a <a href="https://www.bing.com/search?q=KB+267287+Q267287" title="How to Create a Startup Disk in Windows Me [Q267287]" rel="nofollow">Windows Me startup disk</a>.

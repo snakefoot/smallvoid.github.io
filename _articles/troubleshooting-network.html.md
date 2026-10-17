@@ -68,9 +68,9 @@ The recipe is quite simple to create a home network to share files between compu
  Related [Check that network hardware is configured properly](/article/troubleshoot-network-hardware.html)  
  Related [Lock down the network connection](/article/windows-network-lockdown.html)  
   
- More Info [MS KB102908](http://support.microsoft.com/kb/102908 "How to Troubleshoot TCP/IP Connectivity with Windows 2000 or Windows NT [Q102908]")  
- More Info [MS KB169790](http://support.microsoft.com/kb/169790 "How to Troubleshoot Basic TCP/IP Problems [Q169790]")  
- More Info [MS KB289256](http://support.microsoft.com/kb/289256 "A Description of the Repair Option on a Local Area Network or High-Speed Internet Connection [Q289256]")  
- More Info [MS KB314067](http://support.microsoft.com/kb/314067 "How to Troubleshoot TCP/IP Connectivity with Windows XP [Q314067]")  
- More Info [MS KB323388](http://support.microsoft.com/kb/323388 "HOW TO: Diagnose and Test TCP/IP or NetBIOS Network Connections in Windows Server 2003 [Q323388]")  
- More Info [MS KB325487](http://support.microsoft.com/kb/325487 "How to Troubleshoot Network Connectivity Problems [Q325487]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20102908%20Q102908" rel="nofollow" title="How to Troubleshoot TCP/IP Connectivity with Windows 2000 or Windows NT [Q102908]">MS KB102908</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20169790%20Q169790" rel="nofollow" title="How to Troubleshoot Basic TCP/IP Problems [Q169790]">MS KB169790</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20289256%20Q289256" rel="nofollow" title="A Description of the Repair Option on a Local Area Network or High-Speed Internet Connection [Q289256]">MS KB289256</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20314067%20Q314067" rel="nofollow" title="How to Troubleshoot TCP/IP Connectivity with Windows XP [Q314067]">MS KB314067</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20323388%20Q323388" rel="nofollow" title="HOW TO: Diagnose and Test TCP/IP or NetBIOS Network Connections in Windows Server 2003 [Q323388]">MS KB323388</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20325487%20Q325487" rel="nofollow" title="How to Troubleshoot Network Connectivity Problems [Q325487]">MS KB325487</a>  

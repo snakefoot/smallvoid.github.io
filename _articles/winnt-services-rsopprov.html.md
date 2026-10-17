@@ -14,8 +14,8 @@ tags: []
 
  Resultant Set of Policy Provider (RSoP) can connect to a Windows domain controller (Windows 2000 or later) and query the group policy configuration from the Windows Management Instrumentation (WMI) database. RSoP can be used for getting an overview of the existing group policy configuration at the different levels (site, domain, domain controller, organizational unit), and for testing the result of changing group policy settings.  
   
- More Info [MS KB304478](http://support.microsoft.com/kb/304478 "Registry Contains a Group Policy Setting That RSoP Does Not Display [Q304478]")  
- More Info [MS KB323276](http://support.microsoft.com/kb/323276 "HOW TO: Install and Use RSoP in Windows Server 2003 [Q323276]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20304478%20Q304478" rel="nofollow" title="Registry Contains a Group Policy Setting That RSoP Does Not Display [Q304478]">MS KB304478</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20323276%20Q323276" rel="nofollow" title="HOW TO: Install and Use RSoP in Windows Server 2003 [Q323276]">MS KB323276</a>  
   
 ##### Recommended State:
 

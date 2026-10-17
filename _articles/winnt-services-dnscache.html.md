@@ -27,7 +27,7 @@ tags:
   
  When using WinXP to logon to a domain one should register the domain server's IP as the primary DNS Server. If this is not done the login to the domain will be very slow.  
   
- When using Win2k/WinXP to [logon to a WinNT4 domain](http://support.microsoft.com/kb/810497 "Check-List for solving logon troubles [Q810497]") one should enable Netbios over TCP/IP for the Internet Protocol in network properties on Win2k/WinXP as the WinNT4 domain doesn't use DNS.  
+ When using Win2k/WinXP to <a href="https://www.bing.com/search?q=KB+810497+Q810497" title="Check-List for solving logon troubles [Q810497]" rel="nofollow">logon to a WinNT4 domain</a> one should enable Netbios over TCP/IP for the Internet Protocol in network properties on Win2k/WinXP as the WinNT4 domain doesn't use DNS.  
   
  Note if using a large [HOSTS file to ban ads](/article/windows-hosts-file.html), then it will lead to slow performance when having the DNS Client enabled. To avoid the slowdown, then one either has to disable the DNS Client or avoid using a large HOSTS file.  
   
@@ -38,20 +38,20 @@ tags:
  Note if having disabled this service, and then try to repair a network connection, one will get the following error message:
 > *The following steps of the repair operation failed: Purging the DNS Resolver Cache. Please contact your network administrator or ISP.*   
 >   
-> More Info [MS KB913631](http://support.microsoft.com/kb/913631 "Error message that is similar to the following when you use the Repair option for a local area connection in Windows XP: 'The following steps of the repair operation failed' [Q913631]")
+> More Info <a href="https://www.bing.com/search?q=KB%20913631%20Q913631" rel="nofollow" title="Error message that is similar to the following when you use the Repair option for a local area connection in Windows XP: 'The following steps of the repair operation failed' [Q913631]">MS KB913631</a>
 
  Related [Configure how long to cache negative DNS replies](/article/winnt-dns-negative-reply.html)  
  Related [Microsoft TCP/IP Version 6 (IPv6) can cause slow DNS](/article/winnt-ipv6-dns-error.html)  
  Related [Configure the host name resolution order](/article/winnt-host-name-resolution.html)  
  Related [Use HOSTS file to ban ads and speedup DNS lookups](/article/windows-hosts-file.html)  
   
- More Info [MS KB286834](http://support.microsoft.com/kb/286834 "The DNS Client Service Does Not Revert to Using the First Server in the List [Q286834]")  
- More Info [MS KB264539](http://support.microsoft.com/kb/264539 "Dynamic DNS Updates Do Not Work if the DHCP Client Service Stops [Q264539]")  
- More Info [MS KB268674](http://support.microsoft.com/kb/268674 "No DNS Name Resolution If DHCP Client Service Is Not Running [Q268674]")  
- More Info [MS KB245437](http://support.microsoft.com/kb/245437 "How to Disable Client-Side DNS Caching in Windows [Q245437]")  
- More Info [MS KB246804](http://support.microsoft.com/kb/246804 "How to Enable/Disable Windows 2000 Dynamic DNS Registrations [Q246804]")  
- More Info [MS KB294832](http://support.microsoft.com/kb/294832 "How to Disable Windows 2000 Dynamic Domain Name System Registrations with Group Policy [Q294832]")  
- More Info [MS KB320760](http://support.microsoft.com/kb/320760 "The DNS Client Service Does Not Revert to Using the First Server in the List in Windows XP [Q320760]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20286834%20Q286834" rel="nofollow" title="The DNS Client Service Does Not Revert to Using the First Server in the List [Q286834]">MS KB286834</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20264539%20Q264539" rel="nofollow" title="Dynamic DNS Updates Do Not Work if the DHCP Client Service Stops [Q264539]">MS KB264539</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20268674%20Q268674" rel="nofollow" title="No DNS Name Resolution If DHCP Client Service Is Not Running [Q268674]">MS KB268674</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20245437%20Q245437" rel="nofollow" title="How to Disable Client-Side DNS Caching in Windows [Q245437]">MS KB245437</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20246804%20Q246804" rel="nofollow" title="How to Enable/Disable Windows 2000 Dynamic DNS Registrations [Q246804]">MS KB246804</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20294832%20Q294832" rel="nofollow" title="How to Disable Windows 2000 Dynamic Domain Name System Registrations with Group Policy [Q294832]">MS KB294832</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20320760%20Q320760" rel="nofollow" title="The DNS Client Service Does Not Revert to Using the First Server in the List in Windows XP [Q320760]">MS KB320760</a>  
   
 ##### Recommended State:
 

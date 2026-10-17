@@ -24,7 +24,7 @@ When starting regedit then it go to the registry-location, which it displayed la
 4. Select the entry and from the menu select Security / Permissions
 5. Deny Full Control to the currently logged in user
  
- More Info [MS KB244004](http://support.microsoft.com/kb/244004 "HOW TO: Prevent Regedit.exe from Using the Last State [Q244004]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20244004%20Q244004" rel="nofollow" title="HOW TO: Prevent Regedit.exe from Using the Last State [Q244004]">MS KB244004</a>  
   
  Related [Let regedit remember your registry favorites](/article/windows-registry-favorites.html)  
   

@@ -26,8 +26,8 @@ There is an option to force the kernel core and drivers to stay in RAM (non-page
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control \\Session Manager \\Memory Management\]  
 >  DisablePagingExecutive = 1 (1 = Force to RAM, 0 = Allow to page, Default = 0)  
 >   
->  More Info [MS KB184419](http://support.microsoft.com/kb/184419 "How to Stop the NTExecutive from Paging to Disk [Q184419]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20184419%20Q184419" rel="nofollow" title="How to Stop the NTExecutive from Paging to Disk [Q184419]">MS KB184419</a>
 
- Note until Win2k SP4 a flaw existed which could cause the system to hang when this registry entry was enabled. More Info [MS KB323608](http://support.microsoft.com/kb/323608 "The DisablePagingExecutive Setting May Cause Windows 2000 to Hang [Q323608]")  
+ Note until Win2k SP4 a flaw existed which could cause the system to hang when this registry entry was enabled. More Info <a href="https://www.bing.com/search?q=KB%20323608%20Q323608" rel="nofollow" title="The DisablePagingExecutive Setting May Cause Windows 2000 to Hang [Q323608]">MS KB323608</a>  
   
  Credits [ArsTechnica.com](http://arstechnica.com/)

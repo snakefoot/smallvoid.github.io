@@ -35,9 +35,9 @@ The Windows\\system\\VMM32.VXD is a compressed file which contains a set of VxD 
  Related [Use of the System File Checker in Windows 98](/article/win98-sfc.html)  
  Related [Use of the System File Protection in Windows Me](/article/winme-system-file-protection.html)  
   
- More Info [MS KB174018](http://support.microsoft.com/kb/174018 "Description of the Windows 95 Startup Process [Q174018]")  
- More Info [MS KB194679](http://support.microsoft.com/kb/194679 "Error Message: VMM32.VXD Is Required to Run Windows... [Q194679]")  
- More Info [MS KB195164](http://support.microsoft.com/kb/195164 "Computer Stops Responding After You Press CTRL+ALT+DELETE [Q195164]")  
- More Info [MS KB296579](http://support.microsoft.com/kb/296579 "Error Message: Unpacking Vmm32.vxd, Library Invalid or Wrong Version ... [Q296579]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20174018%20Q174018" rel="nofollow" title="Description of the Windows 95 Startup Process [Q174018]">MS KB174018</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20194679%20Q194679" rel="nofollow" title="Error Message: VMM32.VXD Is Required to Run Windows... [Q194679]">MS KB194679</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20195164%20Q195164" rel="nofollow" title="Computer Stops Responding After You Press CTRL+ALT+DELETE [Q195164]">MS KB195164</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20296579%20Q296579" rel="nofollow" title="Error Message: Unpacking Vmm32.vxd, Library Invalid or Wrong Version ... [Q296579]">MS KB296579</a>  
   
  Credits [InfiniSource.com](http://www.infinisource.com/techfiles/vmm32.html)

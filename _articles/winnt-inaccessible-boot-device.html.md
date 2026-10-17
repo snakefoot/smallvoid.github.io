@@ -25,10 +25,10 @@ Windows NT is very sensitive about changes in the boot devices (compared to Win9
     
    Note even if having supplied the right drivers, then it is possible for Windows to get confused, so it tries to use its own included drivers when booting after the text-mode install (Causing BSOD). This might be solved by moving the HDD-controller in question to another PCI-slot right after getting the BSOD, and the supplied drivers should adapt to the new PCI-slot.  
     
-   More Info [MS KB220845](http://support.microsoft.com/kb/220845 "Adding Third-Party or Updated Driver During Windows Setup [Q220845]")  
-   More Info [MS KB295116](http://support.microsoft.com/kb/295116 "A Description of the Windows XP Setup Function Keys [Q295116]")  
-   More Info [MS KB314859](http://support.microsoft.com/kb/314859 "Limited OEM Driver Support Is Available with F6 During Windows XP Setup [Q314859]")  
-   More Info [MS KB822051](http://support.microsoft.com/kb/822051 "How to troubleshoot 'Stop 0x0000007B' error messages that occur when you run Windows 2000 Setup [Q822051]") (Replaces MS KB271274)  
+   More Info <a href="https://www.bing.com/search?q=KB%20220845%20Q220845" rel="nofollow" title="Adding Third-Party or Updated Driver During Windows Setup [Q220845]">MS KB220845</a>  
+   More Info <a href="https://www.bing.com/search?q=KB%20295116%20Q295116" rel="nofollow" title="A Description of the Windows XP Setup Function Keys [Q295116]">MS KB295116</a>  
+   More Info <a href="https://www.bing.com/search?q=KB%20314859%20Q314859" rel="nofollow" title="Limited OEM Driver Support Is Available with F6 During Windows XP Setup [Q314859]">MS KB314859</a>  
+   More Info <a href="https://www.bing.com/search?q=KB%20822051%20Q822051" rel="nofollow" title="How to troubleshoot 'Stop 0x0000007B' error messages that occur when you run Windows 2000 Setup [Q822051]">MS KB822051</a> (Replaces MS KB271274)  
     
    Related [Include 3rd party controller drivers using unattended install](/article/recovery-console-drivers.html)
 - **When moving an existing Windows NT install to different hardware:**  
@@ -40,10 +40,10 @@ Windows NT is very sensitive about changes in the boot devices (compared to Win9
    
    Remember to check for [Ghost devices](/article/winnt-ghost-devices.html) left from the old hardware. AFTER changing the motherboard, then one might have to boot into the [Recovery Console](/article/winnt-recovery-console.html) using a Windows XP Install CD, and perform the command **bootcfg /rebuild**.  
     
-   More Info [MS KB249694](http://support.microsoft.com/kb/249694 "How to Move a Windows 2000 Installation to Different Hardware [Q249694]")  
-   More Info [MS KB268066](http://support.microsoft.com/kb/268066 "Startup Problems When Transferring System Hard Disk to a Backup Computer [Q268066]")  
-   More Info [MS KB314082](http://support.microsoft.com/kb/314082 "You Receive a Stop 0x0000007B Error After You Move the Windows XP System Disk to Another Computer [Q314082]")  
-   More Info [MS KB316401](http://support.microsoft.com/kb/316401 "'STOP 0x0000007B' Error Message When You Restart Your Windows XP-Based Computer [Q316401]")
+   More Info <a href="https://www.bing.com/search?q=KB%20249694%20Q249694" rel="nofollow" title="How to Move a Windows 2000 Installation to Different Hardware [Q249694]">MS KB249694</a>  
+   More Info <a href="https://www.bing.com/search?q=KB%20268066%20Q268066" rel="nofollow" title="Startup Problems When Transferring System Hard Disk to a Backup Computer [Q268066]">MS KB268066</a>  
+   More Info <a href="https://www.bing.com/search?q=KB%20314082%20Q314082" rel="nofollow" title="You Receive a Stop 0x0000007B Error After You Move the Windows XP System Disk to Another Computer [Q314082]">MS KB314082</a>  
+   More Info <a href="https://www.bing.com/search?q=KB%20316401%20Q316401" rel="nofollow" title="'STOP 0x0000007B' Error Message When You Restart Your Windows XP-Based Computer [Q316401]">MS KB316401</a>
 - **When having updated drivers for the HDD-Controller:**  
    The only option is to rollback to the previous drivers. This can be done by booting into the [Recovery Console](/article/winnt-recovery-console.html) and manually copy the old drivers into %Windir%\\System32\\Drivers and overwrite the new ones. Then boot using [Last Known Good Configuration (LKGC)](/article/winnt-last-known-good-configuration.html), and it should be in the before the drivers were loaded. If LKGC doesn't work try to [Use Recovery Console to recover from a faulty registry.](/article/winnt-recovery-console-registry-restore.html).  
     
@@ -51,7 +51,7 @@ Windows NT is very sensitive about changes in the boot devices (compared to Win9
     
    Generally it is a good idea to make a backup of the System-Registry-File %Windir%\\System32\\Config\\System and the existing drivers, before changing the drivers for the HDD-Controller where the boot-device is attached. (The backup allows one to easily go back in case something fails)  
     
-   More Info [MS KB307545](http://support.microsoft.com/kb/307545 "How to Recover from a Corrupted Registry that Prevents Windows XP from Starting [Q307545]")
+   More Info <a href="https://www.bing.com/search?q=KB%20307545%20Q307545" rel="nofollow" title="How to Recover from a Corrupted Registry that Prevents Windows XP from Starting [Q307545]">MS KB307545</a>
 - **When having updated firmware HDD-Controller without updating drivers first:**  
    If updating firmware then usually new drivers are supplied too. It is good idea to apply the drivers first and boot on a floppy to change the firmware. If one have changed the order and changed the firmware first, then one can try to go back to the old version of the firmware to recover.  
     
@@ -60,9 +60,9 @@ Windows NT is very sensitive about changes in the boot devices (compared to Win9
    There have been several occasions where the ATAPI.SYS has been updated with a Service Pack and have caused this BSOD. To restore operation exchange the updated ATAPI.SYS with the old ATAPI.SYS (From Install-Cd or Uninstall directory made during Service Pack install) by booting from [Recovery Console](/article/winnt-recovery-console.html). The Recovery console can also be used to uninstall the hotfix by using the BATCH command (Where XXXXXX is the hotfix id):
    > BATCH %systemroot%\\$NTUninstallKBXXXXXX$\\spuninst.txt
   
-   More Info [MS KB161960](http://support.microsoft.com/kb/161960 "STOP 0x0000007B On Windows NT 4.0 After SP2 Applied [Q161960]")  
-   More Info [MS KB825062](http://support.microsoft.com/kb/825062 "Service Pack 4 Permits You to Remove the Service Pack by Using the Recovery Console [Q825062]")  
-   More Info [MS KB875350](http://support.microsoft.com/kb/875350 "How to remove Windows XP Service Pack 2 from your computer [Q875350]")
+   More Info <a href="https://www.bing.com/search?q=KB%20161960%20Q161960" rel="nofollow" title="STOP 0x0000007B On Windows NT 4.0 After SP2 Applied [Q161960]">MS KB161960</a>  
+   More Info <a href="https://www.bing.com/search?q=KB%20825062%20Q825062" rel="nofollow" title="Service Pack 4 Permits You to Remove the Service Pack by Using the Recovery Console [Q825062]">MS KB825062</a>  
+   More Info <a href="https://www.bing.com/search?q=KB%20875350%20Q875350" rel="nofollow" title="How to remove Windows XP Service Pack 2 from your computer [Q875350]">MS KB875350</a>
 - **When a hardware error has occurred**  
    This is usually caused by a defective HDD, Cabel, Controller or Motherboard. Replace the defective unit with an identical working one.
 - **When changing the SATA mode of the boot drive**  
@@ -76,8 +76,8 @@ Windows NT is very sensitive about changes in the boot devices (compared to Win9
   > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\Msahci\]  
   >  Start = 0  
   >   
-  >  More Info [MS KB922976](http://support.microsoft.com/kb/922976 "Error message when you start a Windows Vista-based computer after you change the SATA mode of the boot drive: 'STOP 0x0000007B INACCESSABLE_BOOT_DEVICE'")
+  >  More Info <a href="https://www.bing.com/search?q=KB%20922976%20Q922976" rel="nofollow" title="Error message when you start a Windows Vista-based computer after you change the SATA mode of the boot drive: 'STOP 0x0000007B INACCESSABLE_BOOT_DEVICE'">MS KB922976</a>
  
  More Info [MS KB122926](http://support.microsoft.com/kb/q122926 "Troubleshooting Stop 0x0000007B or '0x4,0,0,0' Error [Q122926]")  
- More Info [MS KB324103](http://support.microsoft.com/kb/324103 "HOW TO: Troubleshoot 'Stop 0x0000007B' Errors in Windows XP [Q324103]")  
- More Info [MS KB822052](http://support.microsoft.com/kb/822052 "How to troubleshoot 'Stop 0x0000007B' error messages in Windows 2000 [Q822052]") (Replaces MS KB271965, KB824207)  
+ More Info <a href="https://www.bing.com/search?q=KB%20324103%20Q324103" rel="nofollow" title="HOW TO: Troubleshoot 'Stop 0x0000007B' Errors in Windows XP [Q324103]">MS KB324103</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20822052%20Q822052" rel="nofollow" title="How to troubleshoot 'Stop 0x0000007B' error messages in Windows 2000 [Q822052]">MS KB822052</a> (Replaces MS KB271965, KB824207)  

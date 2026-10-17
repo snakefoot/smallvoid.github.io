@@ -11,7 +11,7 @@ categories:
 tags:
     - windows-install
 ---
-Windows Vista doesn't allow one to use the install cd of a previous version of Windows to authenticate as it being an upgrade of a full version. Instead one has to install the old version of Windows first, and then boot into Windows to install Windows Vista. More Info [MS KB930985](http://support.microsoft.com/kb/930985 "Upgrade installation keys are blocked when you start from the Windows Vista DVD").  
+Windows Vista doesn't allow one to use the install cd of a previous version of Windows to authenticate as it being an upgrade of a full version. Instead one has to install the old version of Windows first, and then boot into Windows to install Windows Vista. More Info <a href="https://www.bing.com/search?q=KB%20930985%20Q930985" rel="nofollow" title="Upgrade installation keys are blocked when you start from the Windows Vista DVD">MS KB930985</a>.  
   
  The work-around is to use the upgrade-cd to install a non-activated version of Vista (faster), and then perform an inplace upgrade (cleaner):
 

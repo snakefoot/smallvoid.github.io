@@ -41,7 +41,7 @@ tags:
   - big\_image\_ani.bmp : 38 x 1178 pixel image (31 vertical placed images of 38 x 38 pixel)
   - small\_image\_ani.bmp : 22 x 682 pixel image (31 vertical placed images of 22 x 22 pixel)
    
-   More Info [MS KB176713](http://support.microsoft.com/kb/176713 "How to Restore the Animated Internet Explorer Logo [Q176713]")
+   More Info <a href="https://www.bing.com/search?q=KB%20176713%20Q176713" rel="nofollow" title="How to Restore the Animated Internet Explorer Logo [Q176713]">MS KB176713</a>
 - To change the organization name of Internet Explorer 7:
   > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\IEAK7\]  
   >  Organization Name = "Your Organization Name"
@@ -54,7 +54,7 @@ tags:
  Note Internet Explorer 7 (IE7) includes a new feature called "Reset Internet Explorer Settings" (RIES). To activate RIES open Control Panel -&gt; Internet Options... -&gt; Advanced-tab and press Reset. As the name reveals it changes most IE settings back to default. After RIES is done then it re-applies the branding rules specified here, unless the file have been deleted:
  > %ProgramFiles%\\Internet Explorer\\CUSTOM\\install.ins
 
- IE7 RIES should only be used as the last resort as it clears out a lot of settings. More Info [MS KB923737](http://support.microsoft.com/kb/923737 "How to use Reset Internet Explorer Settings (RIES)"): - Home pages
+ IE7 RIES should only be used as the last resort as it clears out a lot of settings. More Info <a href="https://www.bing.com/search?q=KB%20923737%20Q923737" rel="nofollow" title="How to use Reset Internet Explorer Settings (RIES)">MS KB923737</a>: - Home pages
 - Search scopes
 - Browsing history
 - Form data

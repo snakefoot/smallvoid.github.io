@@ -35,5 +35,5 @@ Microsoft provides several small and useful utilities for monitoring and configu
 - [Win2k3 SP1 Support Tools](http://www.microsoft.com/downloads/details.aspx?familyid=6ec50b78-8be1-4e81-b3be-4e7ac4f0912d) - [File listing](/tweak/winnt/files/win2k3sp1st.htm)
 - [Win2k3 SP1 Administration Tools Pack](http://www.microsoft.com/downloads/details.aspx?FamilyID=e487f885-f0c7-436a-a392-25793a25bad7) - [File listing](/tweak/winnt/files/win2k3sp1at.htm)
 - [Win2k3 R2 Administration Tools Pack](http://www.microsoft.com/downloads/details.aspx?familyid=9bfb44f5-232a-4fb5-bc14-45bfd81b7ac1)
-- [Win2k3 SP2 Support Tools](http://www.microsoft.com/downloads/details.aspx?familyid=96A35011-FD83-419D-939B-9A772EA2DF90) - [MS KB926027](http://support.microsoft.com/kb/926027)
-- [Win2k3 SP2 Administration Tools](http://www.microsoft.com/downloads/details.aspx?familyid=86b71a4f-4122-44af-be79-3f101e533d95) - [MS KB304718](http://support.microsoft.com/kb/304718)
+- [Win2k3 SP2 Support Tools](http://www.microsoft.com/downloads/details.aspx?familyid=96A35011-FD83-419D-939B-9A772EA2DF90) - <a href="https://www.bing.com/search?q=KB+926027+Q926027" rel="nofollow">MS KB926027</a>
+- [Win2k3 SP2 Administration Tools](http://www.microsoft.com/downloads/details.aspx?familyid=86b71a4f-4122-44af-be79-3f101e533d95) - <a href="https://www.bing.com/search?q=KB+304718+Q304718" rel="nofollow">MS KB304718</a>

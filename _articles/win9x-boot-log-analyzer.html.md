@@ -22,7 +22,7 @@ tags:
  Related [Boot in safemode to remove old ghost devices](/article/win9x-ghost-devices.html)  
  Related [Auto Skip Driver (ASD) agent](/article/win9x-asd-agent.html)  
   
- More Info [MS KB127970](http://support.microsoft.com/kb/127970 "Load Failures Listed in the Bootlog.txt File [Q127970]")  
- More Info [MS KB188867](http://support.microsoft.com/kb/188867 "Troubleshooting Windows 95 Startup Problems and Error Messages [Q188867]")  
- More Info [MS KB188867](http://support.microsoft.com/kb/188867 "Troubleshooting Windows 98 Startup Problems [Q188867]")  
- More Info [MS KB273738](http://support.microsoft.com/kb/273738 "How to Troubleshoot Windows Millennium Edition Startup Problems [Q273738]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20127970%20Q127970" rel="nofollow" title="Load Failures Listed in the Bootlog.txt File [Q127970]">MS KB127970</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20188867%20Q188867" rel="nofollow" title="Troubleshooting Windows 95 Startup Problems and Error Messages [Q188867]">MS KB188867</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20188867%20Q188867" rel="nofollow" title="Troubleshooting Windows 98 Startup Problems [Q188867]">MS KB188867</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20273738%20Q273738" rel="nofollow" title="How to Troubleshoot Windows Millennium Edition Startup Problems [Q273738]">MS KB273738</a>  

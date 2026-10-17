@@ -43,7 +43,7 @@ When communicating using TCP then the TCP layer attempts to optimize performance
 >   
 >  Note this will affect all TCP connections created by any application on the system.
 
- More Info [MS KB126967](http://support.microsoft.com/kb/126967 "New TCP/IP Registry Parameter Ignores Push Bit on Receives")  
+ More Info <a href="https://www.bing.com/search?q=KB%20126967%20Q126967" rel="nofollow" title="New TCP/IP Registry Parameter Ignores Push Bit on Receives">MS KB126967</a>  
 ##### Disable PUSH-bit optimization on single socket
 
  Windows 8.1 / Windows 2012 have made it possible to disable the PUSH-bit optimization when receiving from a single TCP-connection.  
@@ -52,7 +52,7 @@ When communicating using TCP then the TCP layer attempts to optimize performance
  
 ##### Large Send Buffer to avoid delay
 
- The sending application can also fix the issue by ensuring that the TCP Send Operation Buffer is one byte smaller than the TCP Socket Send Buffer. This is done by calling **setsockopt(SO\_SNDBUF)** with a socket-buffer-size of 64 KByte, and calling **WSASend** with a user-buffer-size of 32 KByte. This will ensure that the TCP Push-bit is set for every TCP-send operations, and avoid [delayed ACK](/article/winnt-nagle-algorithm.html) issues as data is broken into chunks. More Info [MS KB823764](http://support.microsoft.com/kb/823764 "Slow performance occurs when you copy data to a TCP server by using a Windows Sockets API program")  
+ The sending application can also fix the issue by ensuring that the TCP Send Operation Buffer is one byte smaller than the TCP Socket Send Buffer. This is done by calling **setsockopt(SO\_SNDBUF)** with a socket-buffer-size of 64 KByte, and calling **WSASend** with a user-buffer-size of 32 KByte. This will ensure that the TCP Push-bit is set for every TCP-send operations, and avoid [delayed ACK](/article/winnt-nagle-algorithm.html) issues as data is broken into chunks. More Info <a href="https://www.bing.com/search?q=KB%20823764%20Q823764" rel="nofollow" title="Slow performance occurs when you copy data to a TCP server by using a Windows Sockets API program">MS KB823764</a>  
   
  If unable to fix the sending application, then one can also use this registry key:
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\Afd \\Parameters\]  

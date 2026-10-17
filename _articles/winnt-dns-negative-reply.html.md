@@ -28,19 +28,19 @@ When accessing a domain like www.google.com it first has to convert the domain t
  Note to see the contents of the DNS cache:
  > ipconfig /displaydns
 
- Note to empty/flush/reset the DNS cache manually ([Part of WinXP Network Repair](http://support.microsoft.com/kb/289256 "A Description of the Repair Option on a Local Area Network or High-Speed Internet Connection [Q289256]")):
+ Note to empty/flush/reset the DNS cache manually (<a href="https://www.bing.com/search?q=KB+289256+Q289256" title="A Description of the Repair Option on a Local Area Network or High-Speed Internet Connection [Q289256]" rel="nofollow">Part of WinXP Network Repair</a>):
  > ipconfig /flushdns
 
- Note to flush the Address Resolution Protocol (ARP) cache of Ethernet Addresses ([Part of WinXP Network Repair](http://support.microsoft.com/kb/289256 "A Description of the Repair Option on a Local Area Network or High-Speed Internet Connection [Q289256]")):
+ Note to flush the Address Resolution Protocol (ARP) cache of Ethernet Addresses (<a href="https://www.bing.com/search?q=KB+289256+Q289256" title="A Description of the Repair Option on a Local Area Network or High-Speed Internet Connection [Q289256]" rel="nofollow">Part of WinXP Network Repair</a>):
  > arp -d \*  
  > netsh interface ip delete arpcache
 
- Note to purge and reload the NetBIOS cache ([Part of WinXP Network Repair](http://support.microsoft.com/kb/289256 "A Description of the Repair Option on a Local Area Network or High-Speed Internet Connection [Q289256]")):
+ Note to purge and reload the NetBIOS cache (<a href="https://www.bing.com/search?q=KB+289256+Q289256" title="A Description of the Repair Option on a Local Area Network or High-Speed Internet Connection [Q289256]" rel="nofollow">Part of WinXP Network Repair</a>):
  > nbtstat -R
 
- More Info [MS KB245437](http://support.microsoft.com/kb/245437 "How to Disable Client-Side DNS Caching in Windows [Q245437]")  
- More Info [MS KB297510](http://support.microsoft.com/kb/297510 "HOW TO: Modify Time to Live on Domain Name System Records [Q297510]")  
- More Info [MS KB318803](http://support.microsoft.com/kb/318803 "How to Disable Client-Side DNS Caching in Windows XP and Windows Server 2003 [Q318803]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20245437%20Q245437" rel="nofollow" title="How to Disable Client-Side DNS Caching in Windows [Q245437]">MS KB245437</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20297510%20Q297510" rel="nofollow" title="HOW TO: Modify Time to Live on Domain Name System Records [Q297510]">MS KB297510</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20318803%20Q318803" rel="nofollow" title="How to Disable Client-Side DNS Caching in Windows XP and Windows Server 2003 [Q318803]">MS KB318803</a>  
   
  Related [Microsoft TCP/IP Version 6 (IPv6) can cause slow DNS](/article/winnt-ipv6-dns-error.html)  
   

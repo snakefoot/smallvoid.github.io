@@ -42,6 +42,6 @@ Power Management have been around since the first laptop was released to the mai
 - **Diagnose why the computer is not able to enter sleep mode:**
   > powercfg -requests
  
- More Info [MS KB976877](http://support.microsoft.com/kb/976877 "Windows 7 does not go to sleep")  
+ More Info <a href="https://www.bing.com/search?q=KB%20976877%20Q976877" rel="nofollow" title="Windows 7 does not go to sleep">MS KB976877</a>  
   
  Credits [The Old New Thing](http://blogs.msdn.com/oldnewthing/archive/2009/10/26/9912711.aspx)

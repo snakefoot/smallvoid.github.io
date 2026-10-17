@@ -34,7 +34,7 @@ Some times when installing Games and Applications then you get requested to veri
 >  RegisteredOrganization = "UserCompany"  
 >  RegisteredOwner = "UserName"
 
- More Info [MS KB88363](http://support.microsoft.com/kb/88363 "How to Change Name and Company After Windows Installation [Q88363]")  
- More Info [MS KB148198](http://support.microsoft.com/kb/148198 "XADM: Where Newprof.exe Gets the Username [Q148198]")  
+ More Info <a href="https://www.bing.com/search?q=KB%2088363%20Q88363" rel="nofollow" title="How to Change Name and Company After Windows Installation [Q88363]">MS KB88363</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20148198%20Q148198" rel="nofollow" title="XADM: Where Newprof.exe Gets the Username [Q148198]">MS KB148198</a>  
   
  Credits [neowin.net](http://www.neowin.net/)  

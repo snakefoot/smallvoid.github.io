@@ -72,7 +72,7 @@ The right-click popup-menu in Internet Explorer (IE) can be extended to provide 
   >  aWindow.open(aDestination + external.menuArguments.document.URL);  
   >  &lt;/SCRIPT&gt;
  
- More info [MS KB177241](http://support.microsoft.com/kb/177241 "How To Adding to the Standard Context Menus of the WebBrowser Control [Q177241]")  
+ More info <a href="https://www.bing.com/search?q=KB%20177241%20Q177241" rel="nofollow" title="How To Adding to the Standard Context Menus of the WebBrowser Control [Q177241]">MS KB177241</a>  
  More info [MSDN: About the Browser](http://msdn.microsoft.com/workshop/browser/overview/overview.asp)  
  More info [MSDN: Browser Extensions](http://msdn.microsoft.com/workshop/browser/ext/overview/overview.asp)  
  More info [MSDN: menuArguments Property](http://msdn.microsoft.com/workshop/author/dhtml/reference/properties/menuarguments.asp)  

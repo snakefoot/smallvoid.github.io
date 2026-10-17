@@ -89,4 +89,4 @@ MS DOS 6.0 introduced the ability to specify multiple configurations in the Conf
  
  > help multi-config
 
- More Info [MS KB91202](http://support.microsoft.com/kb/91202 "Multiple Configuration Menu Is Not Displayed [Q91202]")
+ More Info <a href="https://www.bing.com/search?q=KB%2091202%20Q91202" rel="nofollow" title="Multiple Configuration Menu Is Not Displayed [Q91202]">MS KB91202</a>

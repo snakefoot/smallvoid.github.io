@@ -28,11 +28,11 @@ With Windows 98 a new feature came which makes the shutdown/restart quicker.
   
  Note this option becomes disabled by installing the Shutdown patch.  
   
- More Info [MS KB145926](http://support.microsoft.com/kb/145926 "How to Troubleshoot Windows 95 Shutdown Problems [Q145926]")  
- More Info [MS KB186925](http://support.microsoft.com/kb/186925 "Restarting Computer While Holding Down SHIFT Key Hangs Windows [Q186925]")  
- More Info [MS KB196008](http://support.microsoft.com/kb/196008 "Computer Stops Responding When You Try to Shut It Down [Q196008]")  
- More Info [MS KB202633](http://support.microsoft.com/kb/202633 "How to Troubleshoot Windows 98 Shutdown Problems [Q202633]")  
- More Info [MS KB238096](http://support.microsoft.com/kb/238096 "Problems Shutting Down Windows 98 Second Edition [Q238096]")  
- More Info [MS KB273746](http://support.microsoft.com/kb/273746 "How to Troubleshoot Windows Me Shutdown Problems [Q273746]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20145926%20Q145926" rel="nofollow" title="How to Troubleshoot Windows 95 Shutdown Problems [Q145926]">MS KB145926</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20186925%20Q186925" rel="nofollow" title="Restarting Computer While Holding Down SHIFT Key Hangs Windows [Q186925]">MS KB186925</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20196008%20Q196008" rel="nofollow" title="Computer Stops Responding When You Try to Shut It Down [Q196008]">MS KB196008</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20202633%20Q202633" rel="nofollow" title="How to Troubleshoot Windows 98 Shutdown Problems [Q202633]">MS KB202633</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20238096%20Q238096" rel="nofollow" title="Problems Shutting Down Windows 98 Second Edition [Q238096]">MS KB238096</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20273746%20Q273746" rel="nofollow" title="How to Troubleshoot Windows Me Shutdown Problems [Q273746]">MS KB273746</a>  
   
  Credits [aumha.org](http://aumha.org/win4/a/shutdown.htm)

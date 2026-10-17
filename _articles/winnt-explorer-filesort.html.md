@@ -30,7 +30,7 @@ When sorting filenames containing numbers and underscore in Windows Explorer the
 > \[HKEY\_LOCAL\_MACHINE \\Software \\Microsoft \\Windows \\Currentversion \\Policies \\Explorer\]  
 >  NoStrCmpLogical = 1 (Default = 0)  
 >   
->  More Info [MS KB318872](http://support.microsoft.com/kb/318872 "Incorrect Sort Order in Windows Explorer in Windows XP [Q318872]")  
->  More Info [MS KB319827](http://support.microsoft.com/kb/319827 "The Sort Order for Files and Folders Whose Names Contain Numerals Is Different in Windows XP Than It Is in Windows 2000 [Q319827]") (Windows XP requires SP1 to recognize this setting)
+>  More Info <a href="https://www.bing.com/search?q=KB%20318872%20Q318872" rel="nofollow" title="Incorrect Sort Order in Windows Explorer in Windows XP [Q318872]">MS KB318872</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20319827%20Q319827" rel="nofollow" title="The Sort Order for Files and Folders Whose Names Contain Numerals Is Different in Windows XP Than It Is in Windows 2000 [Q319827]">MS KB319827</a> (Windows XP requires SP1 to recognize this setting)
 
  Credits [Tom Wu](mailto:Tom%20Wu<i-tomw@online.microsoft.com>)

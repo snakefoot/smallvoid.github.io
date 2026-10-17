@@ -28,11 +28,11 @@ tags:
  Related [Setting up WinXP Internet Connection Firewall (ICF)](/article/winxp-firewall.html)  
  Related [How to repair the Windows Firewall service if it will not start](/article/winnt-firewall-ics-config.html)  
   
- More Info [MS KB234815](http://support.microsoft.com/kb/234815 "Description of Internet Connection Sharing [Q234815]")  
- More Info [MS KB250603](http://support.microsoft.com/kb/250603 "ICS May Not Function Properly with DNS or DHCP Server Services on the Same Computer [Q250603]")  
- More Info [MS KB310563](http://support.microsoft.com/kb/310563 "Description of Internet Connection Sharing in Windows XP [Q310563]")  
- More Info [MS KB310563](http://support.microsoft.com/kb/310563 "HOW TO: Turn On the Internet Connection Firewall Feature in Windows Server 2003 [Q310563]")  
- More Info [MS KB827328](http://support.microsoft.com/kb/827328 "'Error 1068' Error Message When You Try to Turn On Internet Connection Sharing [Q827328]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20234815%20Q234815" rel="nofollow" title="Description of Internet Connection Sharing [Q234815]">MS KB234815</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20250603%20Q250603" rel="nofollow" title="ICS May Not Function Properly with DNS or DHCP Server Services on the Same Computer [Q250603]">MS KB250603</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20310563%20Q310563" rel="nofollow" title="Description of Internet Connection Sharing in Windows XP [Q310563]">MS KB310563</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20310563%20Q310563" rel="nofollow" title="HOW TO: Turn On the Internet Connection Firewall Feature in Windows Server 2003 [Q310563]">MS KB310563</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20827328%20Q827328" rel="nofollow" title="'Error 1068' Error Message When You Try to Turn On Internet Connection Sharing [Q827328]">MS KB827328</a>  
   
 ##### Recommended State:
 

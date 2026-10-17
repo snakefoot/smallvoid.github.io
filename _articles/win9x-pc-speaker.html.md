@@ -15,4 +15,4 @@ tags:
 ---
 [PC Speaker driver](http://download.microsoft.com/download/win98/Utility/1/W9X/EN-US/Speak.exe) ([Download mirror of Speak.exe](ftp://ftp.microsoft.com/softlib/mslfiles/SPEAK.EXE)), which enables playback of wav audio files in Win9x without having a soundcard.  
   
- More Info [MS KB138857](http://support.microsoft.com/kb/138857 "How to Install and Use the PC Speaker Driver with Windows [Q138857]")
+ More Info <a href="https://www.bing.com/search?q=KB%20138857%20Q138857" rel="nofollow" title="How to Install and Use the PC Speaker Driver with Windows [Q138857]">MS KB138857</a>

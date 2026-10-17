@@ -48,8 +48,8 @@ In the DOS environment memory is reserved for user defined variables. Enviroment
  Related [Configure how much memory to allocate for environment variables](/article/memory-environment-variables.html)  
  Related [Batch file input parameters are accessed like environment variables](/article/batch-file-input-parameters.html)  
   
- More Info [MS KB36605](http://support.microsoft.com/kb/36605 "Environment Variable Trailing Spaces Not Truncated [Q36605]")  
- More Info [MS KB41246](http://support.microsoft.com/kb/41246 "How to Use Environment Variable Substitution in Batch Files [Q41246]")  
- More Info [MS KB66292](http://support.microsoft.com/kb/66292 "Reading Text Files into MS-DOS Environment Variables [Q66292]")  
- More Info [MS KB121170](http://support.microsoft.com/kb/121170 "How to Access Environment Variables in an MS-DOS Batch File [Q121170]")  
- More Info [MS KB153163](http://support.microsoft.com/kb/153163 "Using MS-DOS Environment Variable as Command-Line Option [Q153163]")  
+ More Info <a href="https://www.bing.com/search?q=KB%2036605%20Q36605" rel="nofollow" title="Environment Variable Trailing Spaces Not Truncated [Q36605]">MS KB36605</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2041246%20Q41246" rel="nofollow" title="How to Use Environment Variable Substitution in Batch Files [Q41246]">MS KB41246</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%2066292%20Q66292" rel="nofollow" title="Reading Text Files into MS-DOS Environment Variables [Q66292]">MS KB66292</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20121170%20Q121170" rel="nofollow" title="How to Access Environment Variables in an MS-DOS Batch File [Q121170]">MS KB121170</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20153163%20Q153163" rel="nofollow" title="Using MS-DOS Environment Variable as Command-Line Option [Q153163]">MS KB153163</a>  

@@ -33,7 +33,7 @@ It is possible to control how quickly windows automatically should end applicati
 
  Note if lowering the timeout values too much, then it might lead to improper shutdown of the applications, which might lead to half-written/ invalid / faulty data that will keep the application from starting properly again.  
   
- More Info [MS KB123058](http://support.microsoft.com/kb/123058 "Closing Timed-Out Applications Without Choosing End Task [Q123058]")  
- More Info [MS KB305788](http://support.microsoft.com/kb/305788 "HOW TO: Increase Shutdown Time So That Processes Can Quit Properly in Windows XP [Q305788]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20123058%20Q123058" rel="nofollow" title="Closing Timed-Out Applications Without Choosing End Task [Q123058]">MS KB123058</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20305788%20Q305788" rel="nofollow" title="HOW TO: Increase Shutdown Time So That Processes Can Quit Properly in Windows XP [Q305788]">MS KB305788</a>  
   
  Credits [www.mdgx.com](http://www.mdgx.com/)

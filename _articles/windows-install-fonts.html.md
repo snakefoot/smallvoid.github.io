@@ -27,4 +27,4 @@ During Windows startup all the Fonts in the system are loaded and this slows dow
   
  To install a new font manually so it is registered correctly open the Fonts-folder and in the File-menu select "Install new font..." and browse to the folder containing the new font.  
   
- More Info [MS KB314960](http://support.microsoft.com/kb/314960 "HOW TO: Install or Remove a Font in Windows XP [Q314960]")
+ More Info <a href="https://www.bing.com/search?q=KB%20314960%20Q314960" rel="nofollow" title="HOW TO: Install or Remove a Font in Windows XP [Q314960]">MS KB314960</a>

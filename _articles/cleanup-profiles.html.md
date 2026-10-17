@@ -38,12 +38,12 @@ The Clean Up tool was introduced with Win98 to automate the procedure of cleanin
 >   
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Classes \\CLSID \\**{B50F5260-0C21-11D2-AB56-00A0C9082678}**\]  
 >   
->  More Info [MS KB812248](http://support.microsoft.com/kb/812248 "Disk Cleanup Tool Stops Responding While Compressing Old Files [Q812248]")  
->  More Info [MS KB886219](http://support.microsoft.com/kb/886219 "The Disk Cleanup tool in Windows 2000 stops responding while it scans old files for compression [Q886219]")
+>  More Info <a href="https://www.bing.com/search?q=KB%20812248%20Q812248" rel="nofollow" title="Disk Cleanup Tool Stops Responding While Compressing Old Files [Q812248]">MS KB812248</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB%20886219%20Q886219" rel="nofollow" title="The Disk Cleanup tool in Windows 2000 stops responding while it scans old files for compression [Q886219]">MS KB886219</a>
 
- More Info [MS KB186099](http://support.microsoft.com/kb/186099 "Description of the Disk Cleanup Tool [Q186099]")  
- More Info [MS KB253597](http://support.microsoft.com/kb/253597 "Automating Disk Cleanup Tool in Windows [Q253597]")  
- More Info [MS KB269020](http://support.microsoft.com/kb/269020 "Cleanmgr.exe Adds Incorrect Error Entry to Schedlog.txt File [Q269020]")  
- More Info [MS KB310312](http://support.microsoft.com/kb/310312 "Description of the Disk Cleanup Tool in Windows XP [Q310312]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20186099%20Q186099" rel="nofollow" title="Description of the Disk Cleanup Tool [Q186099]">MS KB186099</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20253597%20Q253597" rel="nofollow" title="Automating Disk Cleanup Tool in Windows [Q253597]">MS KB253597</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20269020%20Q269020" rel="nofollow" title="Cleanmgr.exe Adds Incorrect Error Entry to Schedlog.txt File [Q269020]">MS KB269020</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20310312%20Q310312" rel="nofollow" title="Description of the Disk Cleanup Tool in Windows XP [Q310312]">MS KB310312</a>  
   
  Credits [nightcourses.com](http://nightcourses.com/)

@@ -20,6 +20,6 @@ Free utility that allows one to create custom .ADM files with registry entries, 
 
 - **Update** (03 October 2006) - [DesktopStandard.com](http://www.desktopstandard.com) was acquired by Microsoft along with all its group policy tools.
 - **Update** (12 November 2007) - Microsoft announced that a new tool called [Group Policy Preferences](http://go.microsoft.com/fwlink/?LinkId=103735) will be released with Windows 2008 (formerly PolicyMaker Standard Edition and PolicyMaker Share Manager by DesktopStandard), along with client side extensions (CSE) as separate download for Windows XP and Vista. More Info [GPP FAQ](http://technet2.microsoft.com/windowsserver/en/technologies/featured/gp/preferencesfaq.mspx).
-- **Update** (3 Marts 2008) - Microsoft made the separate download of client side extensions (CSE) public. More Info [MS KB943729](http://support.microsoft.com/kb/943729)
+- **Update** (3 Marts 2008) - Microsoft made the separate download of client side extensions (CSE) public. More Info <a href="https://www.bing.com/search?q=KB+943729+Q943729" rel="nofollow">MS KB943729</a>
  
  Related [Using the Group Policy Editor as registry editor](/article/winnt-group-policy-registry.html)

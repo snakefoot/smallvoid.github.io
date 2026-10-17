@@ -25,7 +25,7 @@ tags:
 ---
 Windows XP SP2 includes a new feature called Attachment Manager, which adds a security prompt when trying to open files marked as being downloaded from the Internet or received as e-mail attachments.  
   
- When an application (Web-Browser, E-mail client, etc.) saves a downloaded file on a disk formatted with NTFS, then it can update the meta data for the file with the zone (Internet- / Restricted-zone) it was downloaded from. The meta data is saved as an Alternate Data Stream (ADS), which is a feature of NTFS where the same filename can be used to cover multiple data streams. More Info [MS KB105763](http://support.microsoft.com/kb/105763 "How To Use NTFS Alternate Data Streams").  
+ When an application (Web-Browser, E-mail client, etc.) saves a downloaded file on a disk formatted with NTFS, then it can update the meta data for the file with the zone (Internet- / Restricted-zone) it was downloaded from. The meta data is saved as an Alternate Data Stream (ADS), which is a feature of NTFS where the same filename can be used to cover multiple data streams. More Info <a href="https://www.bing.com/search?q=KB%20105763%20Q105763" rel="nofollow" title="How To Use NTFS Alternate Data Streams">MS KB105763</a>.  
   
  When opening a file with an ADS that says it is from the Internet zone, then the Attachment Execution Services (AES) is activated. It recognizes the following 3 categories of files:
 
@@ -83,8 +83,8 @@ Windows XP SP2 includes a new feature called Attachment Manager, which adds a se
 > \[HKEY\_CURRENT\_USER \\Environment\]  
 >  SEE\_MASK\_NOZONECHECKS = "1"  
 >   
->  More info [MS KB889815](http://support.microsoft.com/kb/889815 "The Open File - Security Warning dialog box is displayed when you try to silently install a hotfix or an update by using a Visual Basic script in Windows XP Service Pack 2 [Q889815]")
+>  More info <a href="https://www.bing.com/search?q=KB%20889815%20Q889815" rel="nofollow" title="The Open File - Security Warning dialog box is displayed when you try to silently install a hotfix or an update by using a Visual Basic script in Windows XP Service Pack 2 [Q889815]">MS KB889815</a>
 
- More info [MS KB815141](http://support.microsoft.com/kb/815141 "Internet Explorer Enhanced Security Configuration changes the browsing experience [Q815141]")  
- More info [MS KB875353](http://support.microsoft.com/kb/875353 "How to use the Security Alert dialog box in Windows XP Service Pack 2 and Windows XP Tablet PC Edition 2005 [Q875353]")  
- More info [MS KB883260](http://support.microsoft.com/kb/883260 "Description of how the Attachment Manager works in Windows XP Service Pack 2 [Q883260]")  
+ More info <a href="https://www.bing.com/search?q=KB%20815141%20Q815141" rel="nofollow" title="Internet Explorer Enhanced Security Configuration changes the browsing experience [Q815141]">MS KB815141</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20875353%20Q875353" rel="nofollow" title="How to use the Security Alert dialog box in Windows XP Service Pack 2 and Windows XP Tablet PC Edition 2005 [Q875353]">MS KB875353</a>  
+ More info <a href="https://www.bing.com/search?q=KB%20883260%20Q883260" rel="nofollow" title="Description of how the Attachment Manager works in Windows XP Service Pack 2 [Q883260]">MS KB883260</a>  

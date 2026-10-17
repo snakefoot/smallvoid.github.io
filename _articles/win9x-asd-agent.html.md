@@ -19,6 +19,6 @@ Windows 98/Me includes an utility called ASD (Auto Skip Driver) agent, which ena
   
  Before ASD one had to turn on bootlog.txt and identify what device belonged to the driver which failed to load (Usually the last line in the bootlog.txt), then boot in safemode and disable that device.  
   
- More Info [MS KB186588](http://support.microsoft.com/kb/186588 "Description of the Automatic Skip Driver Agent (Asd.exe) Tool [Q186588]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20186588%20Q186588" rel="nofollow" title="Description of the Automatic Skip Driver Agent (Asd.exe) Tool [Q186588]">MS KB186588</a>  
   
  Related [Boot log Analyzer](/article/win9x-boot-log-analyzer.html)

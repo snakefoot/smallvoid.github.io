@@ -15,7 +15,7 @@ tags:
 ---
 [Media Player 8 - DVD Play](http://smallvoid.orgfree.com/?file=mp8_dvd.zip) enables you to play DVD (MPEG2 + AC3) in Media Player 8 (Actually CyberLink PowerDVD 3.0).  
   
- More Info [MS KB308012](http://support.microsoft.com/kb/308012 "Resources for Troubleshooting DVD Problems in Windows XP [Q308012]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20308012%20Q308012" rel="nofollow" title="Resources for Troubleshooting DVD Problems in Windows XP [Q308012]">MS KB308012</a>  
   
  Note it seems that setting this STRING value in the registry also can do the trick in WMP 6.4:
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\MediaPlayer \\Player \\Settings\]  

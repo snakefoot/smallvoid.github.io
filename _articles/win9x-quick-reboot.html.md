@@ -18,8 +18,8 @@ When installing programs you often get told in the end of the installation that 
   
  Related [Quick shutdown in Windows 98](/article/win98-fast-reboot.html)  
   
- More Info [MS KB143272](http://support.microsoft.com/kb/143272 "How to Restart Windows Without Restarting the Computer [Q143272]")  
- More Info [MS KB186925](http://support.microsoft.com/kb/186925 "Restarting Computer While Holding Down SHIFT Key Hangs Windows [Q186925]")  
+ More Info <a href="https://www.bing.com/search?q=KB%20143272%20Q143272" rel="nofollow" title="How to Restart Windows Without Restarting the Computer [Q143272]">MS KB143272</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20186925%20Q186925" rel="nofollow" title="Restarting Computer While Holding Down SHIFT Key Hangs Windows [Q186925]">MS KB186925</a>  
   
  Note one can also create an icon that will reboot the machine when clicked. Make a shortcut with this target command line:
 
@@ -32,5 +32,5 @@ When installing programs you often get told in the end of the installation that 
 - 4 = Forced shutdown
 - 5 = Power Off
  
-</div> More Info [MS KB193624](http://support.microsoft.com/kb/193624 "Windows Remembers the Previous Shutdown Option [Q193624]")  
- More Info [MS KB234216](http://support.microsoft.com/kb/234216 "How to Exit Windows 98/Me Automatically Using a Batch File [Q234216]")  
+</div> More Info <a href="https://www.bing.com/search?q=KB%20193624%20Q193624" rel="nofollow" title="Windows Remembers the Previous Shutdown Option [Q193624]">MS KB193624</a>  
+ More Info <a href="https://www.bing.com/search?q=KB%20234216%20Q234216" rel="nofollow" title="How to Exit Windows 98/Me Automatically Using a Batch File [Q234216]">MS KB234216</a>  

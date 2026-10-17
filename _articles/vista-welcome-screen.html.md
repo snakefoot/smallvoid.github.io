@@ -51,9 +51,9 @@ The Welcome Screen is enabled by default and is shown at startup, where one can 
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows NT \\CurrentVersion \\Winlogon \\SpecialAccounts \\UserList\]  
 >  NameOfTheUser = 0 (1 = Show, 0 = Hide)  
 >   
->  More Info [MS KB942956](http://support.microsoft.com/kb/942956 "Information for advanced users about the changes to the built-in administrator account in Windows Vista")
+>  More Info <a href="https://www.bing.com/search?q=KB%20942956%20Q942956" rel="nofollow" title="Information for advanced users about the changes to the built-in administrator account in Windows Vista">MS KB942956</a>
 
- Note in Vista the Administrator account is disabled by default and when activated, then it will be displayed on the Welcome Screen automatically. More Info [MS KB926183](http://support.microsoft.com/kb/926183 "The administrator account does not appear on the Windows Vista Welcome screen")
+ Note in Vista the Administrator account is disabled by default and when activated, then it will be displayed on the Welcome Screen automatically. More Info <a href="https://www.bing.com/search?q=KB%20926183%20Q926183" rel="nofollow" title="The administrator account does not appear on the Windows Vista Welcome screen">MS KB926183</a>
 
 ##### Customize the picture shown on the Welcome screen
 

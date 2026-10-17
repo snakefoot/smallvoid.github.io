@@ -34,7 +34,7 @@ The Msdos.sys file is located in the root of the system partition (Usually C:), 
  <tr><td>DblSpace = 0</td><td>Load double space drivers</td></tr><tr><td>DrvSpace = 0</td><td>Load drive space drivers</td></tr>
  <tr><td>DoubleBuffer = 0</td><td>Enable double buffering for SCSI devices</td></tr>
  <tr><td>Loadtop = 1</td><td>Load Command.com in [upper memory](/article/upper-memory-block-umb.html)</td></tr>
- <tr><td>Logo = 1</td><td>Show Windows logo while booting</td></tr><tr><td>Network = 1</td><td>Enable network support in [safemode](http://support.microsoft.com/kb/122051 "How Windows 95 Performs a Safe-Mode Start [Q122051]")</td></tr>
+ <tr><td>Logo = 1</td><td>Show Windows logo while booting</td></tr><tr><td>Network = 1</td><td>Enable network support in <a href="https://www.bing.com/search?q=KB+122051+Q122051" title="How Windows 95 Performs a Safe-Mode Start [Q122051]" rel="nofollow">safemode</a></td></tr>
  </table>
 
- More Info [MS KB118579](http://support.microsoft.com/kb/118579 "Contents of the Windows Msdos.sys File [Q118579]")
+ More Info <a href="https://www.bing.com/search?q=KB%20118579%20Q118579" rel="nofollow" title="Contents of the Windows Msdos.sys File [Q118579]">MS KB118579</a>
