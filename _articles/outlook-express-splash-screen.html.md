@@ -8,7 +8,7 @@ type: post
 id: 329
 categories:
     - email-reader_outlook-express
-    - email-reader_windows-mail-vista
+    - email-reader_windows-mail
 tags:
     - splash-screen
 ---
