@@ -41,7 +41,17 @@ To configure all folders to display the files the same way:
 >  Mode = 4  
 >  vid = "{137E7700-3573-11CF-AE69-08002B2E1262}"
 
- Note the following table can be used to configure the above values (WFlags should always be 0) <table border="1"><tr><th>View</th><th>Mode</th><th>vid</th></tr><tr><td>Icons</td><td>1</td><td>{0057D0E0-3573-11CF-AE69-08002B2E1262}</td></tr><tr><td>List</td><td>3</td><td>{0E1FA5E0-3573-11CF-AE69-08002B2E1262}</td></tr><tr><td>Details</td><td>4</td><td>{137E7700-3573-11CF-AE69-08002B2E1262}</td></tr><tr><td>Thumbnail</td><td>5</td><td>{8BEBB290-52D0-11D0-B7F4-00C04FD706EC}</td></tr><tr><td>Tiles</td><td>6</td><td>{65F125E5-7BE1-4810-BA9D-D271C8432CE3}</td></tr><tr><td>Filmstrip</td><td>7</td><td>{8EEFA624-D1E9-445B-94B7-74FBCE2EA11A}</td></tr></table>
+ Note the following table can be used to configure the above values (WFlags should always be 0)
+ 
+ <table border="1">
+ <tr><th>View</th><th>Mode</th><th>vid</th></tr>
+ <tr><td>Icons</td><td>1</td><td>{0057D0E0-3573-11CF-AE69-08002B2E1262}</td></tr>
+ <tr><td>List</td><td>3</td><td>{0E1FA5E0-3573-11CF-AE69-08002B2E1262}</td></tr>
+ <tr><td>Details</td><td>4</td><td>{137E7700-3573-11CF-AE69-08002B2E1262}</td></tr>
+ <tr><td>Thumbnail</td><td>5</td><td>{8BEBB290-52D0-11D0-B7F4-00C04FD706EC}</td></tr>
+ <tr><td>Tiles</td><td>6</td><td>{65F125E5-7BE1-4810-BA9D-D271C8432CE3}</td></tr>
+ <tr><td>Filmstrip</td><td>7</td><td>{8EEFA624-D1E9-445B-94B7-74FBCE2EA11A}</td></tr>
+ </table>
 
  Note if not wanting to show the status-bar in the default folder view:
 > \[HKEY\_LOCAL\_MACHINE \\Software \\Microsoft \\Windows \\ShellNoRoam \\Bags \\AllFolders \\Shell\]  

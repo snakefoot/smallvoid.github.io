@@ -35,7 +35,20 @@ When running several applications/processes simultaneously then a coordinator/sc
     
    More Info [MS KB232271](http://support.microsoft.com/kb/232271 "How to Optimize Windows NT Server Using the Registry [Q232271]")
  
- For the Win2k/WinXP the value set have been extended by using three 2 bits values: <table border="1"><tr align="center"><th>6-5 Bit</th><th>4-3 Bit</th><th>2-1 Bit</th><th>Result</th></tr><tr><td>10 (32)</td><td> </td><td> </td><td>Short Quantum</td></tr><tr><td>01 (16) </td><td> </td><td> </td><td>Long Quantum</td></tr><tr><td>00 (0) </td><td> </td><td> </td><td>Default (Prof.=Short, Srv.=Long)</td></tr><tr><td> </td><td>10 (8)</td><td> </td><td>Fixed Quantum for all</td></tr><tr><td> </td><td>01 (4) </td><td> </td><td>Variable Quantum for foreground</td></tr><tr><td> </td><td>00 (0) </td><td> </td><td>Default (Prof.=Variable, Srv.=Fixed)</td></tr><tr><td> </td><td> </td><td>10 (2)</td><td>High foreground boost/priority (3 times higher)</td></tr><tr><td> </td><td> </td><td>01 (1) </td><td>Medium foreground boost/priority (2 times higher)</td></tr><tr><td> </td><td> </td><td>00 (0) </td><td>No foreground boost/priority</td></tr></table>
+ For the Win2k/WinXP the value set have been extended by using three 2 bits values:
+ 
+ <table border="1">
+ <tr align="center"><th>6-5 Bit</th><th>4-3 Bit</th><th>2-1 Bit</th><th>Result</th></tr>
+ <tr><td>10 (32)</td><td> </td><td> </td><td>Short Quantum</td></tr>
+ <tr><td>01 (16) </td><td> </td><td> </td><td>Long Quantum</td></tr>
+ <tr><td>00 (0) </td><td> </td><td> </td><td>Default (Prof.=Short, Srv.=Long)</td></tr>
+ <tr><td> </td><td>10 (8)</td><td> </td><td>Fixed Quantum for all</td></tr>
+ <tr><td> </td><td>01 (4) </td><td> </td><td>Variable Quantum for foreground</td></tr>
+ <tr><td> </td><td>00 (0) </td><td> </td><td>Default (Prof.=Variable, Srv.=Fixed)</td></tr>
+ <tr><td> </td><td> </td><td>10 (2)</td><td>High foreground boost/priority (3 times higher)</td></tr>
+ <tr><td> </td><td> </td><td>01 (1) </td><td>Medium foreground boost/priority (2 times higher)</td></tr>
+ <tr><td> </td><td> </td><td>00 (0) </td><td>No foreground boost/priority</td></tr>
+</table>
 
  By adding each 2 bit value together you will get a value to use in the registry key. Examples:
 - Optimize Performance for Applications: 32 + 4 + 2 = 38 and gives Short Quantum, Variable Quantum for foreground, High foreground boost.

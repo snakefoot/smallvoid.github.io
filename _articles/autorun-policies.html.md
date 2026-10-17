@@ -26,7 +26,15 @@ Windows is by default configured to poll all devices every second to check if th
   
  One can configure what drive-letters shouldn't be checked for *Autorun.inf*. Each bit corresponds to a driveletter.
 
-<table border="1"><tr><th>Bit</th><th>Value(Dec)</th><th>Value(Hex)</th><th>Letter</th></tr><tr><td>1</td><td>1</td><td>0x00000001</td><td>A:</td></tr><tr><td>2</td><td>2</td><td>0x00000002</td><td>B:</td></tr><tr><td>3</td><td>4</td><td>0x00000004</td><td>C:</td></tr><tr><td>4</td><td>8</td><td>0x00000008</td><td>D:</td></tr><tr><td>5</td><td>16</td><td>0x00000010</td><td>E:</td></tr><tr><td>etc.</td><td>etc.</td><td>etc.</td><td>etc.</td></tr></table>
+<table border="1">
+<tr><th>Bit</th><th>Value(Dec)</th><th>Value(Hex)</th><th>Letter</th></tr>
+<tr><td>1</td><td>1</td><td>0x00000001</td><td>A:</td></tr>
+<tr><td>2</td><td>2</td><td>0x00000002</td><td>B:</td></tr>
+<tr><td>3</td><td>4</td><td>0x00000004</td><td>C:</td></tr>
+<tr><td>4</td><td>8</td><td>0x00000008</td><td>D:</td></tr>
+<tr><td>5</td><td>16</td><td>0x00000010</td><td>E:</td></tr>
+<tr><td>etc.</td><td>etc.</td><td>etc.</td><td>etc.</td></tr>
+</table>
 
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\Explorer\]  
 >  NoDriveAutoRun = 0x00000005 (DWORD)  
@@ -35,7 +43,17 @@ Windows is by default configured to poll all devices every second to check if th
 
  One can configure what drive-types shouldn't be checked for *Autorun.inf*. Each bit corresponds to a drivetype.  
   
-<table border="1"><tr><th>Bit</th><th>Value(Dec)</th><th>Value(Hex)</th><th>Type</th></tr><tr><td>1</td><td>1</td><td>0x00000001</td><td>DRIVE\_UNKNOWN</td></tr><tr><td>2</td><td>2</td><td>0x00000002</td><td>DRIVE\_NO\_ROOT\_DIR</td></tr><tr><td>3</td><td>4</td><td>0x00000004</td><td>DRIVE\_REMOVABLE (Floppy etc.)</td></tr><tr><td>4</td><td>8</td><td>0x00000008</td><td>DRIVE\_FIXED (HDD etc.)</td></tr><tr><td>5</td><td>16</td><td>0x00000010</td><td>DRIVE\_REMOTE (Network etc.)</td></tr><tr><td>6</td><td>32</td><td>0x00000020</td><td>DRIVE\_CDROM</td></tr><tr><td>7</td><td>64</td><td>0x00000040</td><td>DRIVE\_RAMDISK</td></tr><tr><td>8</td><td>128</td><td>0x00000080</td><td>Unspecified Reserved Type (Should always be set)</td></tr></table>
+<table border="1">
+<tr><th>Bit</th><th>Value(Dec)</th><th>Value(Hex)</th><th>Type</th></tr>
+<tr><td>1</td><td>1</td><td>0x00000001</td><td>DRIVE\_UNKNOWN</td></tr>
+<tr><td>2</td><td>2</td><td>0x00000002</td><td>DRIVE\_NO\_ROOT\_DIR</td></tr>
+<tr><td>3</td><td>4</td><td>0x00000004</td><td>DRIVE\_REMOVABLE (Floppy etc.)</td></tr>
+<tr><td>4</td><td>8</td><td>0x00000008</td><td>DRIVE\_FIXED (HDD etc.)</td></tr>
+<tr><td>5</td><td>16</td><td>0x00000010</td><td>DRIVE\_REMOTE (Network etc.)</td></tr>
+<tr><td>6</td><td>32</td><td>0x00000020</td><td>DRIVE\_CDROM</td></tr>
+<tr><td>7</td><td>64</td><td>0x00000040</td><td>DRIVE\_RAMDISK</td></tr>
+<tr><td>8</td><td>128</td><td>0x00000080</td><td>Unspecified Reserved Type (Should always be set)</td></tr>
+</table>
 
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\Explorer\]  
 >  NoDriveTypeAutoRun = 0x00000095 (WinNT+ DWORD)  

@@ -51,8 +51,19 @@ Windows NT is able to use different Hardware Abstraction Layers (HAL). Two of th
   > \[ACPIOptions\]  
   >  ACPIEnable = 0 (Disabled = 0, Enabled if ACPI BIOS = 1, Enabled if certified ACPI BIOS = 2, Default = 2)
 - Another way is to Press F7 when Win2k install says "Press F6 if you need to install a third party SCSI or RAID driver". It will not give any confirmation of that you pressed F7, but it will not use ACPI.
-- Yet another way is to press F5 instead of F7. This will bring forth a menu where it is possible to select from a whole range (Might have to press arrow-up/down to see them all): <table border="1"><tr><th>HAL</th><th>File</th><th>Description</th></tr><tr><td>Standard PC</td><td>Hal.dll</td><td>Any Standard PC, non-ACPI and non-MPS (Usually 386, 486, Pentium, Pentium II, or Pentium III)</td></tr><tr><td>ACPI PC</td><td>Halacpi.dll</td><td>Applies to a single processor motherboard with single processor (Pentium 4, Athlon)</td></tr><tr><td>ACPI Multiprocessor PC</td><td>Halmacpi.dll</td><td>Applies to a multiple-processor ACPI computer.</td></tr><tr><td>ACPI Uniprocessor PC</td><td>Halaacpi.dll</td><td>Applies to an ACPI multiple-processor board but with a single processor installed.</td></tr><tr><td>MPS Multiprocessor</td><td>Halmps.dll</td><td>Applies to non-ACPI computers with a dual processor running.</td></tr><tr><td>MPS Uniprocessor</td><td>Halapic.dll</td><td>Applies to non-ACPI computers dual processor motherboard with a single processor installed.</td></tr></table>
+- Yet another way is to press F5 instead of F7. This will bring forth a menu where it is possible to select from a whole range (Might have to press arrow-up/down to see them all):
+
+<table border="1">
+<tr><th>HAL</th><th>File</th><th>Description</th></tr>
+<tr><td>Standard PC</td><td>Hal.dll</td><td>Any Standard PC, non-ACPI and non-MPS (Usually 386, 486, Pentium, Pentium II, or Pentium III)</td></tr>
+<tr><td>ACPI PC</td><td>Halacpi.dll</td><td>Applies to a single processor motherboard with single processor (Pentium 4, Athlon)</td></tr>
+<tr><td>ACPI Multiprocessor PC</td><td>Halmacpi.dll</td><td>Applies to a multiple-processor ACPI computer.</td></tr>
+<tr><td>ACPI Uniprocessor PC</td><td>Halaacpi.dll</td><td>Applies to an ACPI multiple-processor board but with a single processor installed.</td></tr>
+<tr><td>MPS Multiprocessor</td><td>Halmps.dll</td><td>Applies to non-ACPI computers with a dual processor running.</td></tr>
+<tr><td>MPS Uniprocessor</td><td>Halapic.dll</td><td>Applies to non-ACPI computers dual processor motherboard with a single processor installed.</td></tr>
+</table>
  
+
  More Info [MS KB216251](http://support.microsoft.com/kb/216251 "HOW TO: Specify a Specific or Third-Party HAL During Windows Setup [Q216251]")  
  More Info [MS KB216573](http://support.microsoft.com/kb/216573 "How Windows Determines ACPI Compatibility [Q216573]")  
  More Info [MS KB224826](http://support.microsoft.com/kb/224826 "Troubleshooting Text-Mode Setup Problems on ACPI Computers [Q224826]")  

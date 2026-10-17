@@ -35,17 +35,25 @@ The Registry Checker Tool arrived with Win98/Me, and makes it easy to backup or 
   
  Note there is a file called **Scanreg.ini**, which resides in the Windows directory. It contains parameters for how the Registry Checker should perform it's backup operation.  
   
-<table border="1"><tr><th>Scanreg.ini Option</th><th>Description</th></tr><tr><td>Backup=</td><td>A value of 1 (default) causes a backup to be made once a day if the computer is started.  
- A value of 0 disables automatic backups to be made.</td></tr><tr><td>Optimize=</td><td>A value of 1 (default) causes it to automatically optimize your current registry if required.  
- A value of 0 disables optimizing of the registry.</td></tr><tr><td>MaxBackupCopies=</td><td>A value of 5 (default) causes it to save the last 5 registry backups (max 99).</td></tr><tr><td>BackupDirectory=</td><td>Have no value by default and causes registry backups to be saved in the Windows\\Sysbckup folder.  
- To change the location of where to make backups, change the value to fx. **c:\\registry\\backups**</td></tr><tr><td valign="top">Files=</td><td>Have no value by default and causes only system files to be saved.  
+<table border="1">
+<tr><th>Scanreg.ini Option</th><th>Description</th></tr>
+<tr><td>Backup=</td><td>A value of 1 (default) causes a backup to be made once a day if the computer is started.  
+
+ A value of 0 disables automatic backups to be made.</td></tr>
+<tr><td>Optimize=</td><td>A value of 1 (default) causes it to automatically optimize your current registry if required.  
+ A value of 0 disables optimizing of the registry.</td></tr>
+<tr><td>MaxBackupCopies=</td><td>A value of 5 (default) causes it to save the last 5 registry backups (max 99).</td></tr>
+<tr><td>BackupDirectory=</td><td>Have no value by default and causes registry backups to be saved in the Windows\\Sysbckup folder.  
+ To change the location of where to make backups, change the value to fx. **c:\\registry\\backups**</td></tr>
+<tr><td valign="top">Files=</td><td>Have no value by default and causes only system files to be saved.  
  To specify additional files add one or more Files= entries using this syntax: <div class="quote">Files=&lt;folder code&gt;,&lt;file name&gt;,&lt;file name&gt;...</div> The following folder codes can be used:
 - 10 - Windows folder
 - 11 - Windows\\System folder
 - 30 - Root folder (C:\\)
 - 31 - Root host folder (C:\\)
  
- Ex.: <div class="quote"> Files=11,actmovie.exe </div></td></tr></table>
+ Ex.: <div class="quote"> Files=11,actmovie.exe </div></td></tr>
+</table>
 
   
  More Info [MS KB184023](http://support.microsoft.com/kb/184023 "Command-Line Switches for the Registry Checker Tool [Q184023]")  

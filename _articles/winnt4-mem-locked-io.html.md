@@ -17,7 +17,15 @@ There is a limit for how much memory the system can lock for I/O (Input/Output) 
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control \\Session Manager \\Memory Management\]  
 >  IoPageLockLimit=0 (0 = Calculated at boot, Default = 0)
 
- One can use the following chart for finding a value, though the best value is found by testing: <table border="1"><tr align="center"><th>Total RAM</th><th>IoPageLockLimit (Hex)</th><th>Locked RAM</th><th>Max value</th></tr><tr align="center"><td>64 MByte</td><td>0</td><td>Calculated</td><td>Total RAM minus 7 Byte</td></tr><tr align="center"><td>64-200 MByte</td><td>800000</td><td>2 MByte</td><td>Total RAM minus 16 MByte</td></tr><tr align="center"><td>256-500 MByte</td><td>1000000</td><td>4 MByte</td><td>Total RAM minus 16 MByte</td></tr><tr align="center"><td>512+ MByte</td><td>2000000</td><td>8 MByte</td><td>Total RAM minus 64 MByte</td></tr></table>
+ One can use the following chart for finding a value, though the best value is found by testing:
+ 
+ <table border="1">
+ <tr align="center"><th>Total RAM</th><th>IoPageLockLimit (Hex)</th><th>Locked RAM</th><th>Max value</th></tr>
+ <tr align="center"><td>64 MByte</td><td>0</td><td>Calculated</td><td>Total RAM minus 7 Byte</td></tr>
+ <tr align="center"><td>64-200 MByte</td><td>800000</td><td>2 MByte</td><td>Total RAM minus 16 MByte</td></tr>
+ <tr align="center"><td>256-500 MByte</td><td>1000000</td><td>4 MByte</td><td>Total RAM minus 16 MByte</td></tr>
+ <tr align="center"><td>512+ MByte</td><td>2000000</td><td>8 MByte</td><td>Total RAM minus 64 MByte</td></tr>
+</table>
 
  Note Windows 2000 RTM (Without any service packs) also reacts to this registry key. If applying a service pack, then this registry setting doesn't have any affect.  
   

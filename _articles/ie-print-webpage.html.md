@@ -27,9 +27,16 @@ When printing web-pages from Internet Explorer (Ex. an online book), then Intern
 
  To understand what the different letters means, then use the following chart to see what the different variables mean (or just press F1 when having placed the cursor in the header/footer-field):  
   
-<table border="1" width="50%"><tr><th>Option</th><th>Result</th></tr><tr><td>&amp;w</td><td>Windows Title (Page title)</td></tr><tr><td>&amp;u</td><td>Page URL</td></tr><tr><td>&amp;d</td><td>Current date in short format</td></tr><tr><td>&amp;D</td><td>Current date in long format</td></tr><tr><td>&amp;t</td><td>Current time</td></tr><tr><td>&amp;T</td><td>Current time in 24-hour format</td></tr><tr><td>&amp;p</td><td>Current page number</td></tr><tr><td>&amp;P</td><td>Total number of pages</td></tr><tr><td>&amp;&amp;</td><td>A single "&amp;"</td></tr><tr><td>&amp;b</td><td>Text immediately following this character is centered</td></tr><tr><td>&amp;b&amp;b</td><td>The text immediately following the first "&amp;b" is centered, while the text following the second is right-justified.</td></tr></table>
+<table border="1" width="50%">
+<tr><th>Option</th><th>Result</th></tr><tr><td>&amp;w</td><td>Windows Title (Page title)</td></tr>
+<tr><td>&amp;u</td><td>Page URL</td></tr><tr><td>&amp;d</td><td>Current date in short format</td></tr>
+<tr><td>&amp;D</td><td>Current date in long format</td></tr><tr><td>&amp;t</td><td>Current time</td></tr>
+<tr><td>&amp;T</td><td>Current time in 24-hour format</td></tr><tr><td>&amp;p</td><td>Current page number</td></tr>
+<tr><td>&amp;P</td><td>Total number of pages</td></tr><tr><td>&amp;&amp;</td><td>A single "&amp;"</td></tr>
+<tr><td>&amp;b</td><td>Text immediately following this character is centered</td></tr>
+<tr><td>&amp;b&amp;b</td><td>The text immediately following the first "&amp;b" is centered, while the text following the second is right-justified.</td></tr>
+</table>
 
-  
  More Info [MS KB306786](http://support.microsoft.com/kb/306786 "How to Print a Web Page in Internet Explorer 5.5 [Q306786]")  
   
  Note when printing HTML mails in Outlook, then it will use the Page Setup settings in Internet Explorer. If the margins are set to small, then it might cut off a part of the page. Setting all four margins to .75 should solve this.  

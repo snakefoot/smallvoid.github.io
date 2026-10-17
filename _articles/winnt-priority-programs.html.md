@@ -27,7 +27,16 @@ WinNT is able to give different amount of CPU time to each program dependent on 
  > Start /?
 
  Besides using HIGH you can use these (Avoid RealTime if having only one CPU):  
-<table border="1"><tr align="center"><th>Priority</th><th>Level</th></tr><tr><td>Realtime</td><td align="right">24</td></tr><tr><td>High</td><td align="right">13</td></tr><tr><td>Normal</td><td align="right">8</td></tr><tr><td>Low</td><td align="right">4</td></tr><tr><td>Abovenormal</td><td align="right">(Win2k+ only) 10</td></tr><tr><td>Belownormal</td><td align="right">(Win2k+ only) 6</td></tr></table>
+
+<table border="1">
+<tr align="center"><th>Priority</th><th>Level</th></tr>
+<tr><td>Realtime</td><td align="right">24</td></tr>
+<tr><td>High</td><td align="right">13</td></tr>
+<tr><td>Normal</td><td align="right">8</td></tr>
+<tr><td>Low</td><td align="right">4</td></tr>
+<tr><td>Abovenormal</td><td align="right">(Win2k+ only) 10</td></tr>
+<tr><td>Belownormal</td><td align="right">(Win2k+ only) 6</td></tr>
+</table>
 
  Note instead of making a batch file for every application to launch it with a certain priority, then one can send an application into a certain priority by creating a batch file High.bat with the following contents and save it in the SentTo-Folder:
  > Start "StartHigh" /High "%1"

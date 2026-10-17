@@ -40,7 +40,15 @@ In a computer-network each computer have a unique physical address, but the phys
 - NetBIOS (**P**)oint To Point-Node: When the WINS stops responding the whole network is down.
 - NetBIOS (**B**)broadcast-Node: The default setting when using NetBIOS first and don't have WINS configured (Introduces a lot of resolution-traffic when on a large network)
  
-<table border="1"><tr><th>TCPIP-DNS</th> <th>(H)ybrid-Node</th> <th>(M)ixed-Node</th> <th>(P)oint To Point-Node</th><th>(B)roadcast-Node</th></tr><tr><td>HOSTS file</td> <td>NetBIOS name cache</td> <td>NetBIOS name cache</td> <td>NetBIOS name cache</td> <td>NetBIOS name cache</td></tr><tr><td>DNS</td> <td>WINS</td> <td>NetBIOS Broadcast</td> <td>WINS</td> <td>NetBIOS Broadcast</td></tr><tr><td>WINS</td> <td>NetBIOS Broadcast</td> <td>LMHOSTS file </td> <td>HOSTS file</td> <td>LMHOSTS file</td></tr><tr><td>NetBIOS Broadcast</td><td>LMHOSTS file</td> <td>WINS </td> <td>DNS</td> <td>HOSTS file</td></tr><tr><td>LMHOSTS file </td><td>HOSTS file</td> <td>HOSTS file </td> <td> </td> <td>DNS</td></tr><tr><td> </td><td>DNS</td> <td>DNS </td> <td> </td> <td></td></tr></table>
+<table border="1">
+<tr><th>TCPIP-DNS</th> <th>(H)ybrid-Node</th> <th>(M)ixed-Node</th> <th>(P)oint To Point-Node</th><th>(B)roadcast-Node</th></tr>
+<tr><td>HOSTS file</td> <td>NetBIOS name cache</td> <td>NetBIOS name cache</td> <td>NetBIOS name cache</td> <td>NetBIOS name cache</td></tr>
+<tr><td>DNS</td> <td>WINS</td> <td>NetBIOS Broadcast</td> <td>WINS</td> <td>NetBIOS Broadcast</td></tr>
+<tr><td>WINS</td> <td>NetBIOS Broadcast</td> <td>LMHOSTS file </td> <td>HOSTS file</td> <td>LMHOSTS file</td></tr>
+<tr><td>NetBIOS Broadcast</td><td>LMHOSTS file</td> <td>WINS </td> <td>DNS</td> <td>HOSTS file</td></tr>
+<tr><td>LMHOSTS file </td><td>HOSTS file</td> <td>HOSTS file </td> <td> </td> <td>DNS</td></tr>
+<tr><td> </td><td>DNS</td> <td>DNS </td> <td> </td> <td></td></tr>
+</table>
 
 - [Configure host name resolution order in Win9x/WinMe](/article/win9x-host-name-resolution.html)
 - [Configure host name resolution order in WinNT/Win2k](/article/winnt-host-name-resolution.html)

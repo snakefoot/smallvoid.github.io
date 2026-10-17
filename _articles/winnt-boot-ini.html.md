@@ -61,7 +61,19 @@ The BOOT.INI file is placed in the root of the system drive ex. C:\\BOOT.INI (On
 - **/NOPAE** - Disables use of /PAE even if the system supports it and have more than 4 GByte of system memory
 - <a name="BOOT_INI_PAE"></a>**/PAE** - Enables use of memory beyond 4 GByte by telling NTLDR to load Ntkrnlpa.exe. Intel has created something called Physical Address Extensions(PAE) which extends the use of the CPU memory registers from 32 bit to 36 bit, and alllows it to address up to 64 GByte of system memory. More Info [MS KB291988](http://support.microsoft.com/kb/291988 "A Description of the 4 GB RAM Tuning Feature and the Physical Address Extension Switch [Q291988]") [MS KB283037](http://support.microsoft.com/kb/283037 "Large Memory Support Is Available in Windows 2000 and Windows Server 2003 [Q283037]") [MS KB268363](http://support.microsoft.com/kb/268363 "Intel Physical Addressing Extensions (PAE) in Windows 2000 [Q268363]") [MS KB311901](http://support.microsoft.com/kb/311901 "The Effects of 4GT Tuning on System Page Table Entries [Q311901]") [MS KB888137](http://support.microsoft.com/kb/888137 "The amount of RAM reported by the System Properties dialog box and the System Information tool is less than you expect after you install Windows XP Service Pack 2 [Q888137]") [MS WHDC - PAE](http://www.microsoft.com/whdc/system/platform/server/PAE/PAEdrv.mspx "Physical Address Extension - PAE Memory and Windows")   
     
-   The limit of possible memory depends on the Windows version: <table border="1"><tr><th>Windows</th><th>Max Limit</th></tr><tr><td>Windows XP Professional</td><td>4 GByte</td></tr><tr><td>Windows 2000/2003 Server</td><td>4 GByte</td></tr><tr><td>Windows 2000 Advanced Server</td><td>8 GByte</td></tr><tr><td>Windows 2003 Enterprise Server</td><td>32 GByte</td></tr><tr><td>Windows 2000/2003 DataCenter Server</td><td>64 GByte</td></tr><tr><td>Windows 2000/2003 DataCenter Server (+ /3GB)</td><td>16 GByte</td></tr><tr><td>Windows 2003 **SP1** Enterprise Server</td><td>64 GByte</td></tr><tr><td>Windows 2003 **SP1** DataCenter Server</td><td>128 GByte</td></tr><tr><td>Windows 2003 **SP1** DataCenter Server (+ /3GB)</td><td>64 GByte</td></tr></table>
+   The limit of possible memory depends on the Windows version:
+   <table border="1">
+   <tr><th>Windows</th><th>Max Limit</th></tr>
+   <tr><td>Windows XP Professional</td><td>4 GByte</td></tr>
+   <tr><td>Windows 2000/2003 Server</td><td>4 GByte</td></tr>
+   <tr><td>Windows 2000 Advanced Server</td><td>8 GByte</td></tr>
+   <tr><td>Windows 2003 Enterprise Server</td><td>32 GByte</td></tr>
+   <tr><td>Windows 2000/2003 DataCenter Server</td><td>64 GByte</td></tr>
+   <tr><td>Windows 2000/2003 DataCenter Server (+ /3GB)</td><td>16 GByte</td></tr>
+   <tr><td>Windows 2003 **SP1** Enterprise Server</td><td>64 GByte</td></tr>
+   <tr><td>Windows 2003 **SP1** DataCenter Server</td><td>128 GByte</td></tr>
+   <tr><td>Windows 2003 **SP1** DataCenter Server (+ /3GB)</td><td>64 GByte</td></tr>
+   </table>
 - **/TIMERES=number** - Specifies the resolution of the system timer in a multiprocessor environment. The number is 100s of nanoseconds, the supported values is 9766, 19532, 39063, 78125.
 - **/SAFEBOOT:**parameter - To access safemode features. More Info [MS KB239780](http://support.microsoft.com/kb/239780 "Safe-Mode Boot Switches for Windows Boot.ini File [Q239780]")
   - **minimal** - Booting in safemode only loading the drivers and services specified at:

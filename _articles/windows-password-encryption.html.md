@@ -37,24 +37,34 @@ When a user tries to access a resource(like a share) over the network, then an a
  
 ##### LMCompatibility / LMCompatibilityLevel
 
- By default the most compatible authentication (LM) is used, but also the most insecure. To avoid making brute force attacks too easy, then one should consider forcing a higher encryption level if the clients connected to the network supports it. <table border="1" cellpadding="5"><tr><th>Level </th><th>Lan Manager Compatibility level</th><th>Remarks</th></tr><tr><td align="center">0 </td><td>Client uses LM and NTLM  
+By default the most compatible authentication (LM) is used, but also the most insecure. To avoid making brute force attacks too easy, then one should consider forcing a higher encryption level if the clients connected to the network supports it.
+ 
+<table border="1" cellpadding="5">
+<tr><th>Level </th><th>Lan Manager Compatibility level</th><th>Remarks</th></tr>
+<tr><td align="center">0 </td><td>Client uses LM and NTLM  
 Domain Controller accepts LM, NTLM and NTLM 2 </td><td align="center">Win9x / WinNT4 Default  
-No compatibility issues</td></tr><tr><td align="center">1 </td><td>Client uses NTLM2 if possible else LM and NTLM  
+No compatibility issues</td></tr>
+<tr><td align="center">1 </td><td>Client uses NTLM2 if possible else LM and NTLM  
 Domain Controller accepts LM, NTLM, NTLM 2 </td><td align="center">Win2k SP3 / WinXP Default  
-No compatibility issues</td></tr><tr><td align="center">2 </td><td>Client uses NTLM2 if possible else NTLM  
+No compatibility issues</td></tr>
+<tr><td align="center">2 </td><td>Client uses NTLM2 if possible else NTLM  
 Domain Controller accepts LM, NTLM, NTLM 2 </td><td align="center">Win2k3 Default  
 Require Samba2+  
-Win9x Server fails</td></tr><tr><td align="center">3 </td><td>Client only uses NTML2  
+Win9x Server fails</td></tr>
+<tr><td align="center">3 </td><td>Client only uses NTML2  
 Domain Controller accepts LM, NTLM, NTLM 2 </td><td align="center">Vista Default  
 Require Samba3+  
-Win9x Server fails</td></tr><tr><td align="center">4 </td><td>Client uses NTLM2 if possible else NTLM  
+Win9x Server fails</td></tr>
+<tr><td align="center">4 </td><td>Client uses NTLM2 if possible else NTLM  
 Domain Controller accepts NTLM, NTLM 2 </td><td align="center">Require Samba2+  
-Win9x Server fails</td></tr><tr><td align="center">5 </td><td>Client only uses NTLM2  
+Win9x Server fails</td></tr>
+<tr><td align="center">5 </td><td>Client only uses NTLM2  
 Domain Controller accepts only NTLM 2 </td><td align="center">Require Samba3+  
-Win9x Server fails</td></tr></table>
+Win9x Server fails</td></tr>
+</table>
 
   
- Note NTLMv2 was introduced with WinNT4 SP4 (Made it work with SP6a) and is therefore not supported by previous Windows version. (Win95/98/Me requires Directory Services Client to support NTLM and NTLM2).
+Note NTLMv2 was introduced with WinNT4 SP4 (Made it work with SP6a) and is therefore not supported by previous Windows version. (Win95/98/Me requires Directory Services Client to support NTLM and NTLM2).
  
 <a name="NtlmMinSec"></a>
 ##### NtlmMinClientSec/NtlmMinServerSec

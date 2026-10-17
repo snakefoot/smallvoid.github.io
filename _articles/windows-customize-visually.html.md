@@ -28,7 +28,25 @@ Windows can be customized with wallpapers, themes, boot-screens and logon-screen
 
 ##### Resources for Windows customization
 
- <table border="1"><tr><th>Site</th><th style="text-align:center">XP Themes</th><th>Wall papers</th><th>Boot Screens</th><th>Logon Screens</th><th>Skins</th></tr><tr><td>[ThemeXP.org](http://www.themexp.org/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td></tr><tr><td>[Skinbase.org](http://www.skinbase.org/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr><tr><td>[WinXPTheme.com](http://www.winxptheme.com/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Few</td></tr><tr><td>[XPtheme.info](http://www.xptheme.info/) (Ads hell)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td></tr><tr><td>[LightStar1.com](http://www.lightstar1.com/) (Free &amp; Premium)</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr><tr><td>[GetSkinned.org](http://www.getskinned.org/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr><tr><td>[Customize.org](http://customize.org/)</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>Yes</td></tr><tr><td>[WinCustomize.com](http://www.wincustomize.com/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Some</td></tr><tr><td>[WinMatrix.com](http://www.winmatrix.com/) (Forum)</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>Yes</td></tr><tr><td>[Belchfire.net](http://www.belchfire.net/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td></tr><tr><td>[bfarber.com](http://bfarber.com/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td></tr><tr><td>[Tss2000.nl](http://www.tss2000.nl/)</td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td></tr><tr><td>[LotsOfSkins.com](http://www.lotsofskins.com/)</td><td>Some</td><td>Yes</td><td>Some</td><td>Some</td><td>Yes</td></tr><tr><td>[Skinz.org](http://www.skinz.org/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td></tr><tr><td>[PCdesktops](http://pcdesktops.emuunlim.com/)</td><td>Few</td><td>Yes</td><td>No</td><td>No</td><td>Yes</td></tr><tr><td>[WmPlugins.com](http://www.wmplugins.com/)</td><td>No</td><td>No</td><td>No</td><td>No</td><td>WMP</td></tr></table>
+ <table border="1">
+ <tr><th>Site</th><th style="text-align:center">XP Themes</th><th>Wall papers</th><th>Boot Screens</th><th>Logon Screens</th><th>Skins</th></tr>
+ <tr><td>[ThemeXP.org](http://www.themexp.org/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td></tr>
+ <tr><td>[Skinbase.org](http://www.skinbase.org/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+ <tr><td>[WinXPTheme.com](http://www.winxptheme.com/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Few</td></tr>
+ <tr><td>[XPtheme.info](http://www.xptheme.info/) (Ads hell)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td></tr>
+ <tr><td>[LightStar1.com](http://www.lightstar1.com/) (Free &amp; Premium)</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr>
+ <tr><td>[GetSkinned.org](http://www.getskinned.org/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+ <tr><td>[Customize.org](http://customize.org/)</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>Yes</td></tr>
+ <tr><td>[WinCustomize.com](http://www.wincustomize.com/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Some</td>
+ </tr><tr><td>[WinMatrix.com](http://www.winmatrix.com/) (Forum)</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>Yes</td></tr>
+ <tr><td>[Belchfire.net](http://www.belchfire.net/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td></tr>
+ <tr><td>[bfarber.com](http://bfarber.com/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td></tr>
+ <tr><td>[Tss2000.nl](http://www.tss2000.nl/)</td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td></tr>
+ <tr><td>[LotsOfSkins.com](http://www.lotsofskins.com/)</td><td>Some</td><td>Yes</td><td>Some</td><td>Some</td><td>Yes</td></tr>
+ <tr><td>[Skinz.org](http://www.skinz.org/)</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td></tr>
+ <tr><td>[PCdesktops](http://pcdesktops.emuunlim.com/)</td><td>Few</td><td>Yes</td><td>No</td><td>No</td><td>Yes</td></tr>
+ <tr><td>[WmPlugins.com](http://www.wmplugins.com/)</td><td>No</td><td>No</td><td>No</td><td>No</td><td>WMP</td></tr>
+ </table>
 
 ##### Resources for Wallpapers
 

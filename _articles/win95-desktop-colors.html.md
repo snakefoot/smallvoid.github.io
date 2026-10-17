@@ -19,6 +19,11 @@ Windows 95 Plus! pack includes the ability to enable "Show icons using all possi
 > \[HKEY\_CURRENT\_USER \\Control Panel \\Desktop \\WindowMetrics\]  
 >  Shell Icon BPP = "16" (Default = 4)
 
- <table border="1"><tr><th>Setting</th><th>Colors</th></tr><tr><td>4</td><td>16</td></tr><tr><td>8</td><td>256</td></tr><tr><td>16</td><td>65,536</td></tr></table>
+ <table border="1">
+ <tr><th>Setting</th><th>Colors</th></tr>
+ <tr><td>4</td><td>16</td></tr>
+ <tr><td>8</td><td>256</td></tr>
+ <tr><td>16</td><td>65,536</td></tr>
+ </table>
 
  Related [Windows 95 font smoother](/article/win95-font-smoothing.html)

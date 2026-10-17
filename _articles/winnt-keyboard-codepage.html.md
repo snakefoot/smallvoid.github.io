@@ -28,7 +28,16 @@ If you have problems using the keyboard in programs run from the command line (c
  To see current codepage from the command prompt:
  > mode con
 
- <table border="1"><tr><th align="center">Country</th><th align="center">Codepage</th></tr><tr><td>United States, UK</td><td align="center">437</td></tr><tr><td>Multilingual</td> <td align="center">850</td></tr><tr><td>Slavic</td> <td align="center">852</td></tr><tr><td>Portuguese</td> <td align="center">860</td></tr><tr><td>Icelandic</td> <td align="center">861</td></tr><tr><td>Canadian, French</td> <td align="center">863</td></tr><tr><td>Scandinavian/Nordic</td><td align="center">865</td></tr></table>
+ <table border="1">
+ <tr><th align="center">Country</th><th align="center">Codepage</th></tr>
+ <tr><td>United States, UK</td><td align="center">437</td></tr>
+ <tr><td>Multilingual</td> <td align="center">850</td></tr>
+ <tr><td>Slavic</td> <td align="center">852</td></tr>
+ <tr><td>Portuguese</td> <td align="center">860</td></tr>
+ <tr><td>Icelandic</td> <td align="center">861</td></tr>
+ <tr><td>Canadian, French</td> <td align="center">863</td></tr>
+ <tr><td>Scandinavian/Nordic</td><td align="center">865</td></tr>
+ </table>
 
  Note it is possible for an application to change the codepage by using the [setLocale](http://msdn.microsoft.com/library/en-us/vccore98/HTML/_crt_setlocale.2c_._wsetlocale.asp) function. There is also [SetConsoleCP](http://msdn.microsoft.com/library/en-us/dllproc/base/setconsolecp.asp?frame=true) / [SetConsoleOutputCP](http://msdn.microsoft.com/library/en-us/dllproc/base/setconsoleoutputcp.asp), but they don't work with the default raster font, but requires that the console is using a truetype font like Lucida Console. More Info [MS KB99795](http://support.microsoft.com/kb/99795 "INFO: SetConsoleOutputCP Only Effective with Unicode Fonts [Q99795]").  
   

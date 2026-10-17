@@ -52,7 +52,14 @@ When using a network, one is sending and receiving packets. On large networks li
  
  Note different network types will enforce different MTU sizes:  
   
-<table border="1"><tr><th>Network Type</th><th>MTU (bytes)</th><th>Details</th></tr><tr><td>Ethernet</td><td>1500</td><td> </td></tr><tr><td>IEEE 802.3/802.2</td><td>1492</td><td> </td></tr><tr><td>PPPoE</td><td>1492</td><td>Optimal MTU for PPPoE over ATM is 1454</td></tr><tr><td>X.25</td><td>576</td><td>Dialup Connection</td></tr><tr><td>Ethernet (Jumbo)</td><td>&gt;=9000</td><td>Gigabit networking</td></tr></table>
+<table border="1">
+<tr><th>Network Type</th><th>MTU (bytes)</th><th>Details</th></tr>
+<tr><td>Ethernet</td><td>1500</td><td> </td></tr>
+<tr><td>IEEE 802.3/802.2</td><td>1492</td><td> </td></tr>
+<tr><td>PPPoE</td><td>1492</td><td>Optimal MTU for PPPoE over ATM is 1454</td></tr>
+<tr><td>X.25</td><td>576</td><td>Dialup Connection</td></tr>
+<tr><td>Ethernet (Jumbo)</td><td>&gt;=9000</td><td>Gigabit networking</td></tr>
+</table>
 
   
  Note [VPN](/article/winnt-vpn.html) creates an encryption overhead (encryption, padding, checksum, etc.), which adds about 100 bytes to the TCPIP-payload. This overhead must not exceed the MTU of the connection as the packets will become fragmented. When the other side receives an encrypted packet it inspects the checksum and it will fail if the packet has been tampered with (fragmented).  

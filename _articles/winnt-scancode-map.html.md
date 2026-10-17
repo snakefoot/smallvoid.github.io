@@ -30,10 +30,16 @@ It is possible to change the behavior of the different keys on the keyboard by c
 
  For those who wants to know the meaning of the above values here goes:  
   
-<table border="1"><tr><td>00,00,00,00</td><td>Header: Version. Set to all zeroes.</td></tr><tr><td>00,00,00,00</td><td>Header: Flags. Set to all zeroes.</td></tr><tr><td>03,00,00,00</td><td>3 entries in the map (including null entry).</td></tr><tr><td>00,00,5b,e0</td><td>Left Windows Key (0xe05b) -&gt; Disable (0x00).</td></tr><tr><td>00,00,5c,e0</td><td>Right Windows Key (0xe05c) -&gt; Disable (0x00).</td></tr><tr><td>00,00,00,00</td><td>Null entry.</td></tr></table>
+<table border="1">
+<tr><td>00,00,00,00</td><td>Header: Version. Set to all zeroes.</td></tr>
+<tr><td>00,00,00,00</td><td>Header: Flags. Set to all zeroes.</td></tr>
+<tr><td>03,00,00,00</td><td>3 entries in the map (including null entry).</td></tr>
+<tr><td>00,00,5b,e0</td><td>Left Windows Key (0xe05b) -&gt; Disable (0x00).</td></tr>
+<tr><td>00,00,5c,e0</td><td>Right Windows Key (0xe05c) -&gt; Disable (0x00).</td></tr>
+<tr><td>00,00,00,00</td><td>Null entry.</td></tr>
+</table>
 
-  
- To also disable the Shutdown key, one would extend the Scancode Map, so it has 4 entries where the fourth entry becomes ACPI Power Key (0xe0f6) -&gt; Disable (0x00):
+To also disable the Shutdown key, one would extend the Scancode Map, so it has 4 entries where the fourth entry becomes ACPI Power Key (0xe0f6) -&gt; Disable (0x00):
 > REGEDIT4  
 >   
 >  \[HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layout\]  

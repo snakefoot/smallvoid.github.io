@@ -25,7 +25,12 @@ If not satisfied with the possibilities of the Mouse-Applet in the Control Panel
 >  MouseThreshold2 = 0 (Amount of pixels to move before going 4x normal-speed)  
 >  MouseSpeed = 1 (0 = Disabled, 1 = Uses Threshold1, 2 = Uses Threshold1+2)
 
- <table border="1" cellpadding="4"><tr><td> </td><td>Disable</td><td>Low</td><td>Medium</td><td>High</td><td>Enhanced Pointer Position</td></tr><tr><td>MouseThreshold1</td><td>0</td><td>7</td><td>4</td><td>4</td><td>6</td></tr><tr><td>MouseThreshold2</td><td>0</td><td>0</td><td>12</td><td>6</td><td>10</td></tr><tr><td>MouseSpeed</td><td>0</td><td>1</td><td>2</td><td>2</td><td>1</td></tr></table>
+ <table border="1" cellpadding="4">
+ <tr><td> </td><td>Disable</td><td>Low</td><td>Medium</td><td>High</td><td>Enhanced Pointer Position</td></tr>
+ <tr><td>MouseThreshold1</td><td>0</td><td>7</td><td>4</td><td>4</td><td>6</td></tr>
+ <tr><td>MouseThreshold2</td><td>0</td><td>0</td><td>12</td><td>6</td><td>10</td></tr>
+ <tr><td>MouseSpeed</td><td>0</td><td>1</td><td>2</td><td>2</td><td>1</td></tr>
+ </table>
 
   
  More Info [MS KB102978](http://support.microsoft.com/kb/102978 "User Preferences Entries, PART 3 [Q102978]")  

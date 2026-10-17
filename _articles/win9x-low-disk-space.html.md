@@ -32,7 +32,15 @@ By default when a partition is near being full the following message pops up:
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control \\FileSystem\]  
  >  DisableLowDiskSpaceBroadcast = 12 (Disable checking on C: and D:)
 
- <table border="1"><tr><th>Bit</th><th>Value(Dec)</th><th>Value(Hex)</th><th>Letter</th></tr><tr><td>1</td><td>1</td><td>0x00000001</td><td>A:</td></tr><tr><td>2</td><td>2</td><td>0x00000002</td><td>B:</td></tr><tr><td>3</td><td>4</td><td>0x00000004</td><td>C:</td></tr><tr><td>4</td><td>8</td><td>0x00000008</td><td>D:</td></tr><tr><td>5</td><td>16</td><td>0x00000010</td><td>E:</td></tr><tr><td>etc.</td><td>etc.</td><td>etc.</td><td>etc.</td></tr></table>
+ <table border="1">
+ <tr><th>Bit</th><th>Value(Dec)</th><th>Value(Hex)</th><th>Letter</th></tr>
+ <tr><td>1</td><td>1</td><td>0x00000001</td><td>A:</td></tr>
+ <tr><td>2</td><td>2</td><td>0x00000002</td><td>B:</td></tr>
+ <tr><td>3</td><td>4</td><td>0x00000004</td><td>C:</td></tr>
+ <tr><td>4</td><td>8</td><td>0x00000008</td><td>D:</td></tr>
+ <tr><td>5</td><td>16</td><td>0x00000010</td><td>E:</td></tr>
+ <tr><td>etc.</td><td>etc.</td><td>etc.</td><td>etc.</td></tr>
+ </table>
 
   
  More Info [MS KB188074](http://support.microsoft.com/kb/188074 "Low Disk Space Notification Received When Drive Is Full [Q188074]")  

@@ -38,6 +38,7 @@ If you have become tired of the standard color on you background at login then t
 <tr><td style="color:#FF00FF">Magenta</td><td>255</td><td>0</td> <td>255</td></tr>
 <tr><td style="color:#000000">Black</td> <td>0</td> <td>0</td> <td>0</td></tr>
 </table>
+
   
  One can also [change the background Wallpaper](/article/windows-wallpaper.html) for the login screen, just use:
  > \[HKEY\_USERS \\.DEFAULT\]
