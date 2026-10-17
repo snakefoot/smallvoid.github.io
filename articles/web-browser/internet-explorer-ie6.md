@@ -1,5 +1,5 @@
 ---
 layout: article-group
-title: MS DOS - Tweak Performance
-permalink: /articles/ms-dos/performance/
+title: Internet Explorer 6 (IE6)
+permalink: /articles/web-browser/internet-explorer-ie6/
 ---
