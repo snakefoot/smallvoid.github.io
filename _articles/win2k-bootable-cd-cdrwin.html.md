@@ -7,8 +7,10 @@ excerpt: 'Using CDRWIN to make a bootable install cd for Windows 2000.'
 type: post
 id: 481
 categories:
-    - windows-2000_install-cd
+    - windows-2000_utilities
 tags:
+    - install-cd
+    - windows-install
     - bootdisk
 ---
 To merge the win2k install files with an extracted boot sector into an ISO using [Goldenhawk CDRWIN](http://www.goldenhawk.com/):

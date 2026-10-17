@@ -7,14 +7,15 @@ excerpt: 'Configure the perfect Windows installation before actually installing.
 type: post
 id: 489
 categories:
-    - windows-2000_install-cd
-    - windows-xp_install-cd
-    - windows-2003_install-cd
+    - windows-2000_utilities
+    - windows-xp_utilities
+    - windows-2003_utilities
 tags:
+    - install-cd
+    - windows-install
     - free-disk-space
     - nlite
     - slipstream
-    - windows-install
 ---
 [nLite](http://www.nliteos.com/) allows one to add and remove windows components from the install image, so they are not included when actually deployed.
 - Service Pack Integration

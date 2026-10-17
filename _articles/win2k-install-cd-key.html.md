@@ -7,8 +7,10 @@ excerpt: 'By changing the license on the install cd, then one don''t have to sup
 type: post
 id: 485
 categories:
-    - windows-2000_install-cd
+    - windows-2000_tips
 tags:
+    - install-cd
+    - windows-install
     - cd-key
 ---
 This is done by changing the CD-Key license to be volume/corporate, which doesn't require a CD-Key. The CD-Key license can only be changed like this if having the MSDN CD.  

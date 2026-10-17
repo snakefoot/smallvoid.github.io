@@ -7,11 +7,12 @@ excerpt: 'Apply the service pack before making the install for a faster and more
 type: post
 id: 479
 categories:
-    - windows-2000_install-cd
+    - windows-2000_utilities
 tags:
+    - install-cd
+    - windows-install
     - free-disk-space
     - slipstream
-    - windows-install
 ---
 Microsoft created this new feature with Windows 2000, allowing you to update the install files with the files from a service pack. This enables you to apply a service pack before actually making the install.  
   

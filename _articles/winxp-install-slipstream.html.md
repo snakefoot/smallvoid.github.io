@@ -7,11 +7,12 @@ excerpt: 'Apply the service pack before making the install for a faster and more
 type: post
 id: 487
 categories:
-    - windows-xp_install-cd
+    - windows-xp_utilities
 tags:
+    - install-cd
+    - windows-install
     - free-disk-space
     - slipstream
-    - windows-install
 ---
 Slipstreaming makes sure all security patches are applied immediately, so one doesn't connect to the Internet the first time unprotected. Also slipstreaming saves disk space as the [ServicePackFiles folder](/article/winnt-wfp.html) doesn't need to be created.
 

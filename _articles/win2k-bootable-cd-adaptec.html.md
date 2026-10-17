@@ -7,8 +7,10 @@ excerpt: 'Using Adaptec Easy CD Creator 5.02d to make a bootable install cd for 
 type: post
 id: 483
 categories:
-    - windows-2000_install-cd
+    - windows-2000_utilities
 tags:
+    - install-cd
+    - windows-install
     - bootdisk
 ---
 1. Start Easy CD Creator 5.02d Project Selector

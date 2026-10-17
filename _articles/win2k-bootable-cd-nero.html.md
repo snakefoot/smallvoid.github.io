@@ -7,8 +7,10 @@ excerpt: 'Using Nero Burning Rom to make a bootable install cd for Windows 2000.
 type: post
 id: 482
 categories:
-    - windows-2000_install-cd
+    - windows-2000_utilities
 tags:
+    - install-cd
+    - windows-install
     - bootdisk
 ---
 Note previous Nero versions requires a registry key to be setup to work properly.

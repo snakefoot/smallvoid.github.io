@@ -7,14 +7,15 @@ excerpt: 'Avoid having to use a floppy disk when installing Windows NT on a mach
 type: post
 id: 484
 categories:
-    - windows-2000_install-cd
-    - windows-xp_install-cd
-    - windows-nt4_install-cd
-    - windows-2003_install-cd
+    - windows-2000_utilities
+    - windows-xp_utilities
+    - windows-nt4_utilities
+    - windows-2003_utilities
 tags:
+    - install-cd
+    - windows-install
     - slipstream
     - unattended-install
-    - windows-install
 ---
 When installing Windows NT on a drive connected to a 3rd party controller, which Windows NT doesn't recognize, then one have to press F6 and supply drivers on a floppy unless wanting a [BSOD with INACCESSIBLE\_BOOT\_DEVICE](/article/winnt-inaccessible-boot-device.html).  
   
