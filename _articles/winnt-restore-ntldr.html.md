@@ -34,8 +34,8 @@ The [NT Loader](/article/winnt-update-boot-manager.html) (NTLDR) is part of the 
  Note the chance of damaged boot files is higher if the boot partition is using FAT16/FAT32, where the filesystem is easily damaged [compared to NTFS](/article/cluster-hard-disk-partition.html). If using NTFS, then it can be a sign that the hard disk is starting to fail, and one should take a backup of important files and acquire a disk diagnostic utility from the hard disk manufacture.  
   
  More Info [MS KB100312](http://support.microsoft.com/kb/100312 "Error messages during boot Sequence on Intel x86 machines [Q100312]")  
- More Info [MS KB124550](http://support.microsoft.com/kb/124550 ""Windows NT Could Not Start...Ntoskrnl.exe" error message [Q124550]")  
- More Info [MS KB320397](http://support.microsoft.com/kb/320397 "You receive an "NTLDR is missing" error message when you start your computer [Q320397]")  
+ More Info [MS KB124550](http://support.microsoft.com/kb/124550 "'Windows NT Could Not Start...Ntoskrnl.exe' error message [Q124550]")  
+ More Info [MS KB320397](http://support.microsoft.com/kb/320397 "You receive an 'NTLDR is missing' error message when you start your computer [Q320397]")  
   
  Note if the NT Loader (Ntldr) have become compressed, then it will fail because all features of NTFS is not available during booting and give the error "NTLDR is compressed". To decompress the Ntldr use the [Recovery Console](/article/winnt-recovery-console.html) and execute these two commands:
  > CD \\

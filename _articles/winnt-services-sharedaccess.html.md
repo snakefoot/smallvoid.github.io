@@ -27,7 +27,7 @@ tags:
  More Info [MS KB234815](http://support.microsoft.com/kb/234815 "Description of Internet Connection Sharing [Q234815]")  
  More Info [MS KB250603](http://support.microsoft.com/kb/250603 "ICS May Not Function Properly with DNS or DHCP Server Services on the Same Computer [Q250603]")  
  More Info [MS KB310563](http://support.microsoft.com/kb/310563 "Description of Internet Connection Sharing in Windows XP [Q310563]")  
- More Info [MS KB827328](http://support.microsoft.com/kb/827328 ""Error 1068" Error Message When You Try to Turn On Internet Connection Sharing [Q827328]")  
+ More Info [MS KB827328](http://support.microsoft.com/kb/827328 "'Error 1068' Error Message When You Try to Turn On Internet Connection Sharing [Q827328]")  
   
 ##### Recommended State:
 

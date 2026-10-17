@@ -27,4 +27,4 @@ The memory available for [environment variables](/article/environment-variables.
  More Info [MS KB105668](http://support.microsoft.com/kb/105668 "Windows Err Msg: Not Enough Environment Space [Q105668]")  
  More Info [MS KB161564](http://support.microsoft.com/kb/161564 "How to Adjust MS-DOS Application Environment Size [Q161564]")  
  More Info [MS KB230205](http://support.microsoft.com/kb/230205 "Out of Environment Space Error Message in MS-DOS Programs [Q230205]")  
- More Info [MS KB261825](http://support.microsoft.com/kb/261825 ""Out of Environment Space" Running Batch File or Command Prompt [Q261825]")  
+ More Info [MS KB261825](http://support.microsoft.com/kb/261825 "'Out of Environment Space' Running Batch File or Command Prompt [Q261825]")  

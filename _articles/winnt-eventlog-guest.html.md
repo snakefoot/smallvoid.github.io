@@ -26,8 +26,8 @@ Guests are by default allowed to access the Event Logs of a machine(Even over th
 > RestrictGuestAccess = 1 (0 = Enable Guest Access, 1 = Disable Guest Access)  
 >   
 >  More info [MS KB174074](http://support.microsoft.com/kb/174074 "Security Event Descriptions [Q174074]")  
->  More info [MS KB842209](http://support.microsoft.com/kb/842209 "You receive an "Access is denied" error message when you try to access an event log on a Windows Server 2003-based computer or on a Windows 2000-based computer [Q842209]")  
->  More info [MS KB888189](http://support.microsoft.com/kb/888189 ""Unable to complete the operation on <event log>. Access is denied." error message when you try to access a log on a Windows Server 2003-based computer [Q888189]")
+>  More info [MS KB842209](http://support.microsoft.com/kb/842209 "You receive an 'Access is denied' error message when you try to access an event log on a Windows Server 2003-based computer or on a Windows 2000-based computer [Q842209]")  
+>  More info [MS KB888189](http://support.microsoft.com/kb/888189 "'Unable to complete the operation on <event log>. Access is denied.' error message when you try to access a log on a Windows Server 2003-based computer [Q888189]")
 
  If in a domain then the access to the eventlogs can be configured through the group policy editor. The policies can be found at Computer Configuration -&gt; Windows Settings &gt; Security Settings -&gt; Event Log:
 - "Prevent local guests group from accessing system log" (WinXP/Win2k3) / "Restrict guest access to system log" (Win2k)

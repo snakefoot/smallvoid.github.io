@@ -19,7 +19,7 @@ The Network Diagnostics Tool [NetDiag for Windows 2000](http://www.microsoft.com
 
 > *\[FATAL\] Failed to get system information of this machine.*  
 >   
->  More Info [MS KB287735](http://support.microsoft.com/kb/287735 ""[Fatal] Failed to Get System Information" Error Message Occurs When You Run Netdiag [Q287735]")
+>  More Info [MS KB287735](http://support.microsoft.com/kb/287735 "'[Fatal] Failed to Get System Information' Error Message Occurs When You Run Netdiag [Q287735]")
 
  Note with Win2k SP4 an [updated version of Netdiag](/tweak/winnt/files/win2ksp4st.htm) has been released. More Info [MS KB812809](http://support.microsoft.com/kb/812809 "Windows 2000 SP4 Support Tools [Q812809]")  
   

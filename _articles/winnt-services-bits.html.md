@@ -33,7 +33,7 @@ tags:
 > %ALLUSERSPROFILE%\\Application Data\\Microsoft\\Network\\Downloader\\**qmgr0.dat**  
 >  %ALLUSERSPROFILE%\\Application Data\\Microsoft\\Network\\Downloader\\**qmgr1.dat**
 
- More Info [MS KB326460](http://support.microsoft.com/kb/326460 ""Service-Specific Error Code -2147944102" Error Message If You Try to Start the Background Intelligent Transfer Service (BITS) Service [Q326460]") (Previous MS KB326607)  
+ More Info [MS KB326460](http://support.microsoft.com/kb/326460 "'Service-Specific Error Code -2147944102' Error Message If You Try to Start the Background Intelligent Transfer Service (BITS) Service [Q326460]") (Previous MS KB326607)  
  More Info [BITSAdmin Tool](http://msdn.microsoft.com/library/en-us/bits/bits/bitsadmin_tool.asp) [Examples](http://msdn.microsoft.com/library/en-us/bits/bits/bitsadmin_examples.asp)  
   
 ##### Recommended State:

@@ -29,7 +29,7 @@ It is possible to change the WinXP CD Key without reinstalling completely.
  Note the new CD-Key has to match the license of the installation. If having installed a WinXP Pro Corporate Edition (Pirated Version), then the new CD-key must be a corporate CD-key (And not a Retail or OEM CD-key).  
   
  More Info [MS KB328874](http://support.microsoft.com/kb/328874 "HOW TO: Change the Volume Licensing Product Key on a Windows XP SP1-Based Computer [Q328874]")  
- More Info [MS KB842196](http://support.microsoft.com/kb/842196 ""The Product Key used to install Windows is invalid" error message when you try to install a Windows update in Windows Server 2003 [Q842196]")  
+ More Info [MS KB842196](http://support.microsoft.com/kb/842196 "'The Product Key used to install Windows is invalid' error message when you try to install a Windows update in Windows Server 2003 [Q842196]")  
  More Info [MS KB918342](http://support.microsoft.com/kb/918342 "How to change the Volume Licensing product key on a Windows XP-based or a Windows Server 2003-based computer [Q918342]")  
   
  Related [Change WinXP license before installing](/article/winxp-license-edition.html)  

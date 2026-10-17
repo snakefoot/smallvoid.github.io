@@ -43,7 +43,7 @@ Windows NT is very sensitive about changes in the boot devices (compared to Win9
    More Info [MS KB249694](http://support.microsoft.com/kb/249694 "How to Move a Windows 2000 Installation to Different Hardware [Q249694]")  
    More Info [MS KB268066](http://support.microsoft.com/kb/268066 "Startup Problems When Transferring System Hard Disk to a Backup Computer [Q268066]")  
    More Info [MS KB314082](http://support.microsoft.com/kb/314082 "You Receive a Stop 0x0000007B Error After You Move the Windows XP System Disk to Another Computer [Q314082]")  
-   More Info [MS KB316401](http://support.microsoft.com/kb/316401 ""STOP 0x0000007B" Error Message When You Restart Your Windows XP-Based Computer [Q316401]")
+   More Info [MS KB316401](http://support.microsoft.com/kb/316401 "'STOP 0x0000007B' Error Message When You Restart Your Windows XP-Based Computer [Q316401]")
 - **When having updated drivers for the HDD-Controller:**  
    The only option is to rollback to the previous drivers. This can be done by booting into the [Recovery Console](/article/winnt-recovery-console.html) and manually copy the old drivers into %Windir%\\System32\\Drivers and overwrite the new ones. Then boot using [Last Known Good Configuration (LKGC)](/article/winnt-last-known-good-configuration.html), and it should be in the before the drivers were loaded. If LKGC doesn't work try to [Use Recovery Console to recover from a faulty registry.](/article/winnt-recovery-console-registry-restore.html).  
     
@@ -76,8 +76,8 @@ Windows NT is very sensitive about changes in the boot devices (compared to Win9
   > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\Msahci\]  
   >  Start = 0  
   >   
-  >  More Info [MS KB922976](http://support.microsoft.com/kb/922976 "Error message when you start a Windows Vista-based computer after you change the SATA mode of the boot drive: "STOP 0x0000007B INACCESSABLE_BOOT_DEVICE"")
+  >  More Info [MS KB922976](http://support.microsoft.com/kb/922976 "Error message when you start a Windows Vista-based computer after you change the SATA mode of the boot drive: 'STOP 0x0000007B INACCESSABLE_BOOT_DEVICE'")
  
- More Info [MS KB122926](http://support.microsoft.com/kb/q122926 "Troubleshooting Stop 0x0000007B or "0x4,0,0,0" Error [Q122926]")  
- More Info [MS KB324103](http://support.microsoft.com/kb/324103 "HOW TO: Troubleshoot "Stop 0x0000007B" Errors in Windows XP [Q324103]")  
- More Info [MS KB822052](http://support.microsoft.com/kb/822052 "How to troubleshoot "Stop 0x0000007B" error messages in Windows 2000 [Q822052]") (Replaces MS KB271965, KB824207)  
+ More Info [MS KB122926](http://support.microsoft.com/kb/q122926 "Troubleshooting Stop 0x0000007B or '0x4,0,0,0' Error [Q122926]")  
+ More Info [MS KB324103](http://support.microsoft.com/kb/324103 "HOW TO: Troubleshoot 'Stop 0x0000007B' Errors in Windows XP [Q324103]")  
+ More Info [MS KB822052](http://support.microsoft.com/kb/822052 "How to troubleshoot 'Stop 0x0000007B' error messages in Windows 2000 [Q822052]") (Replaces MS KB271965, KB824207)  

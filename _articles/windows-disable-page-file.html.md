@@ -31,7 +31,7 @@ It is possible to disable the [page file](/article/windows-page-file.html), but 
  
  Note if finding out that you don't have enough memory to disable the pagefile then instead [Configure the pagefile for best performance](/article/windows-page-file.html).  
   
- More Info [MS KB316528](http://support.microsoft.com/kb/316528 ""Your System Has No Paging File, or the Paging File Is Too Small" Error Message After Windows XP Upgrade [Q316528]")  
+ More Info [MS KB316528](http://support.microsoft.com/kb/316528 "'Your System Has No Paging File, or the Paging File Is Too Small' Error Message After Windows XP Upgrade [Q316528]")  
  More Info [MS KB259184](http://support.microsoft.com/kb/259184 "How to Increase the Memory Capability of Your Computer [Q259184]")  
  More Info [MS KB196839](http://support.microsoft.com/kb/196839 "Windows Is Unstable After Disabling Virtual Memory [Q196839]")  
 ##### Disable the pagefile in Win9x

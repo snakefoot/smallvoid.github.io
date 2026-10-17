@@ -36,7 +36,7 @@ The Recovery Console is a command prompt environment that is useful for emergenc
 - FIXBOOT - Restores the boot sector in case another OS (Ex. Win98) has overwritten it, and sets the boot partition as active partition.
 - FIXMBR - Restores the master boot record(MBR) in case a virus or similar has corrupted it
 - DISKPART - HDD Partition Utility (Similar to FDISK in DOS)
-- CHKDSK - Scandisk utility (The "/r" -option is good when getting "Delayed Write Failed" errors. More Info [MS KB330174](http://support.microsoft.com/kb/330174 ""Delayed Write Failed" Error Message When You Manage Files in Windows XP [Q330174]"))
+- CHKDSK - Scandisk utility (The "/r" -option is good when getting "Delayed Write Failed" errors. More Info [MS KB330174](http://support.microsoft.com/kb/330174 "'Delayed Write Failed' Error Message When You Manage Files in Windows XP [Q330174]"))
 - LISTSVC - Shows services installed, when launched in the WINNT\\SYSTEM32 folder.
 - DISABLE &lt;service name&gt; - Will disable the service specified when launched in the WINNT\\SYSTEM32 folder (Which might keep your system from booting)
 - ENABLE &lt;service name&gt; - Will enable the service specified when launched in the WINNT\\SYSTEM32 folder (Which might enable your system to boot)

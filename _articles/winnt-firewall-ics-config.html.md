@@ -33,7 +33,7 @@ When trying to configure the [Windows Firewall](/article/winnt-services-sharedac
 - [Remote Access Connection Manager](/article/winnt-services-rasman.html)
 - [Remote Procedure Call (RPC)](/article/winnt-services-rpcss.html)
 - [Telephony](/article/winnt-services-tapisrv.html)
-- More Info [MS KB827328](http://support.microsoft.com/kb/827328 ""Error 1068" Error Message When You Try to Turn On Internet Connection Sharing [Q827328]")
+- More Info [MS KB827328](http://support.microsoft.com/kb/827328 "'Error 1068' Error Message When You Try to Turn On Internet Connection Sharing [Q827328]")
  
  To repair the configuration of the Windows Firewall open a command prompt and run this command:
  > NETSH FIREWALL RESET

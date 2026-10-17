@@ -41,7 +41,7 @@ tags:
 >  EventID: 319*
 
  More Info [MS KB231585](http://support.microsoft.com/kb/231585 "Overview of Secure IP Communication with IPSec in Windows 2000 [Q231585]")  
- More Info [MS KB234580](http://support.microsoft.com/kb/234580 ""Soft Associations" Between IPSec-Enabled and Non-IPSec-Enabled Computers [Q234580]")  
+ More Info [MS KB234580](http://support.microsoft.com/kb/234580 "'Soft Associations' Between IPSec-Enabled and Non-IPSec-Enabled Computers [Q234580]")  
  More Info [MS KB240262](http://support.microsoft.com/kb/240262 "How to Configure a L2TP/IPSec Connection Using Pre-shared Key Authentication [Q240262]")  
  More Info [MS KB247231](http://support.microsoft.com/kb/247231 "Event ID 20111, Error 792 or Error 781 When Establishing an L2TP/IPSec Connection [Q247231]")  
  More Info [MS KB248750](http://support.microsoft.com/kb/248750 "Description of the IPSec Policy Created for L2TP/IPSec [Q248750]")  

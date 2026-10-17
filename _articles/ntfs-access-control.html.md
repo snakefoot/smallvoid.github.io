@@ -66,5 +66,5 @@ NTFS partitions have the capability of handling access control lists (ACL) for t
  More Info [MS KB318754](http://support.microsoft.com/kb/318754 "HOW TO: Use Xcacls.exe to Modify NTFS Permissions [Q318754]")  
  More Info [MS KB324067](http://support.microsoft.com/kb/324067 "HOW TO: Set Folder Security for Shared Folders [Q324067]")  
  More Info [MS KB325361](http://support.microsoft.com/kb/325361 "HOW TO: Configure Security for Files and Folders on a Network in Windows Server 2003 [Q325361]")  
- More Info [MS KB810881](http://support.microsoft.com/kb/810881 ""Access is Denied" Error Message When You Try to Open a Folder [Q810881]")  
+ More Info [MS KB810881](http://support.microsoft.com/kb/810881 "'Access is Denied' Error Message When You Try to Open a Folder [Q810881]")  
  More Info [MS KB825751](http://support.microsoft.com/kb/825751 "HOW TO: Use Xcacls.vbs to Modify NTFS Permissions [Q825751]")  

@@ -118,7 +118,7 @@ Internet Explorer (IE) can become corrupted, so it no longer works. This usually
   >  Inseng.dll  
   >  Browseui.dll
   
-   More Info [MS KB321915](http://support.microsoft.com/kb/321915 ""Incompatible Version of the RPC Stub" Error Message with the InstallShield Program [Q321915]") (mcrepair.exe)  
+   More Info [MS KB321915](http://support.microsoft.com/kb/321915 "'Incompatible Version of the RPC Stub' Error Message with the InstallShield Program [Q321915]") (mcrepair.exe)  
     
    Related [Use extract.exe to restore a system file in Win9x/Me](/article/win9x-extract-restore.html)  
    Related [The System File Checker in Win2k/WinXP](/article/winnt-sfc.html)

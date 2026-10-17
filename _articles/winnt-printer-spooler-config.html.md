@@ -22,9 +22,9 @@ tags:
 >   
 >  Operation cannot be completed.*  
 >   
->  More Info [MS KB158042](http://support.microsoft.com/kb/158042 ""Operation Could Not Be Completed" When Using Add Printer Wizard [Q158042]")  
->  More Info [MS KB221092](http://support.microsoft.com/kb/221092 "Applications Hang When Printing to a Printer Set to "Use Printer Offline" [Q221092]")  
->  More Info [MS KB244921](http://support.microsoft.com/kb/244921 ""The Print Subsystem Is Unavailable" Error Message After Installing Office 2000 [Q244921]")  
+>  More Info [MS KB158042](http://support.microsoft.com/kb/158042 "'Operation Could Not Be Completed' When Using Add Printer Wizard [Q158042]")  
+>  More Info [MS KB221092](http://support.microsoft.com/kb/221092 "Applications Hang When Printing to a Printer Set to 'Use Printer Offline' [Q221092]")  
+>  More Info [MS KB244921](http://support.microsoft.com/kb/244921 "'The Print Subsystem Is Unavailable' Error Message After Installing Office 2000 [Q244921]")  
 >  More Info [MS KB255197](http://support.microsoft.com/kb/255197 "Cannot Add a Printer Port, Access Violation in Spools.exe Occurs in Windows NT Server 4.0 [Q255197]")  
 >  More Info [MS KB308028](http://support.microsoft.com/kb/308028 "Resources for Troubleshooting Printing Problems in Windows XP [Q308028]")  
 >  More Info [MS KB314085](http://support.microsoft.com/kb/314085 "Troubleshooting General Printing Problems in Windows XP [Q314085]")  

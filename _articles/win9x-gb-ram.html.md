@@ -27,6 +27,6 @@ Windows 95 / 98 / Me has a limitation for how much memory they can handle, actua
   >  MaxPhysPage=40000
  
  More Info [MS KB304943](http://support.microsoft.com/kb/304943 "Computer May Reboot Continuously with More Than 1.5 GB of RAM [Q304943]")  
- More Info [MS KB253912](http://support.microsoft.com/kb/253912 ""Out of Memory" Error Messages with Large Amounts of RAM Installed [Q253912]")  
+ More Info [MS KB253912](http://support.microsoft.com/kb/253912 "'Out of Memory' Error Messages with Large Amounts of RAM Installed [Q253912]")  
  More Info [MS KB184447](http://support.microsoft.com/kb/184447 "Error Message: Insufficient Memory to Initialize Windows [Q184447]")  
  More Info [MS KB181862](http://support.microsoft.com/kb/181862 "Specifying Amount of RAM Available to Windows Using MaxPhysPage [Q181862]")  

@@ -78,5 +78,5 @@ If a printer driver haven't been installed properly then it can keep the [Printe
  More Info [MS KB135406](http://support.microsoft.com/kb/135406 "Steps to Manually Remove and Reinstall a Printer Driver [Q135406]")  
  More Info [MS KB312052](http://support.microsoft.com/kb/312052 "Error Message: Spoolsv.exe Has Generated Errors and Will Be Closed by Windows [Q312052]")  
  More Info [MS KB314073](http://support.microsoft.com/kb/314073 "How to Troubleshoot Network Printing Problems in Windows XP [Q314073]")  
- More Info [MS KB324757](http://support.microsoft.com/kb/324757 ""Spooler subsystem app has encountered a problem and needs to close" and "Operation could not be completed" error messages [Q324757]")  
+ More Info [MS KB324757](http://support.microsoft.com/kb/324757 "'Spooler subsystem app has encountered a problem and needs to close' and 'Operation could not be completed' error messages [Q324757]")  
  More Info [MS KB810894](http://support.microsoft.com/kb/810894 "Error message: Spooler subsystem app has encountered a problem and needs to close [Q810894]")  

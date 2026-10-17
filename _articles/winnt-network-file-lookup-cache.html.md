@@ -29,7 +29,7 @@ When requesting a file on the network, the request is handled by the [MUP](/arti
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\LanmanWorkstation \\Parameters\]  
 >  DormantFileLimit = 45 (Default = 45)  
 >   
->  More Info [MS KB890584](http://support.microsoft.com/kb/890584 ""TOO_MANY_OPEN_FILES" error message when the redirector component in Windows Server 2003 uses the SMB protocol to open a file in a shared network folder [Q890584]")
+>  More Info [MS KB890584](http://support.microsoft.com/kb/890584 "TOO_MANY_OPEN_FILES error message when the redirector component in Windows Server 2003 uses the SMB protocol to open a file in a shared network folder [Q890584]")
 
  Note the client redirector has a scavenger thread, which cleans old file handles from its cache. One can configure how often it should look for old handles to remove (WinXP/Win2k3):
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\LanmanWorkstation \\Parameters\]  

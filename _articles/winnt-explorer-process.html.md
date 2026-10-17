@@ -47,6 +47,6 @@ By default the same Explorer.exe is used to support the Desktop, Taskbar and Fol
 >  Note if using Windows XP and having set the value to "No", then [Grouping of similar tasks in the taskbar](/article/winnt-taskbar-grouping.html) will put Windows Explorer and Internet Explorer in the same group.  
 >   
 >  More Info [MS KB175232](http://support.microsoft.com/kb/175232 "Windows Explorer Hangs When Internet Explorer Does [Q175232]")  
->  More Info [MS KB240928](http://support.microsoft.com/kb/240928 ""Launch Browser Windows in a Separate Process" Setting Is Not Available in Internet Explorer 5.01 or Internet Explorer 5.5 [Q240928]")
+>  More Info [MS KB240928](http://support.microsoft.com/kb/240928 "'Launch Browser Windows in a Separate Process' Setting Is Not Available in Internet Explorer 5.01 or Internet Explorer 5.5 [Q240928]")
 
  Credits [is-it-true.org](http://www.is-it-true.org/)

@@ -49,6 +49,6 @@ The personal folders file (.pst) contains all local Outlook folders, such as Cal
  
  More info [MS KB197316](http://support.microsoft.com/kb/197316 "How to use the Inbox Repair Tool to recover messages in Outlook 2000 that is installed with Corporate and Workgroup option [Q197316]")  
  More info [MS KB287497](http://support.microsoft.com/kb/287497 "How to use the Inbox Repair Tools to recover e-mail messages in Outlook 2002 and Outlook 2003 [Q287497]")  
- More info [MS KB329910](http://support.microsoft.com/kb/329910 ""Outlook.pst can not be accessed - 0x80040116" error message when you start Outlook 2000 or open a personal folder file [Q329910]")  
+ More info [MS KB329910](http://support.microsoft.com/kb/329910 "'Outlook.pst can not be accessed - 0x80040116' error message when you start Outlook 2000 or open a personal folder file [Q329910]")  
   
  Credits [OneComputerGuy.com](http://onecomputerguy.com/)

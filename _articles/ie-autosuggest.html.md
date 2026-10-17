@@ -55,6 +55,6 @@ When typing in an internet url in Internet Explorer, then it can provide listing
   >  Days To keep = 15
  
  More info [MS KB217148](http://support.microsoft.com/kb/217148 "How to use the AutoComplete feature in Internet Explorer 5 and 6 [Q217148]")  
- More info [MS KB221925](http://support.microsoft.com/kb/221925 ""Days to Keep Pages in History" Set to 0 Displays Web Sites [Q221925]")  
+ More info [MS KB221925](http://support.microsoft.com/kb/221925 "'Days to Keep Pages in History' Set to 0 Displays Web Sites [Q221925]")  
  More info [MS KB237553](http://support.microsoft.com/kb/237553 "Disabling or Enabling the AutoComplete or Inline AutoComplete Feature [Q237553]")  
  More info [MS KB885180](http://support.microsoft.com/kb/885180 "The AutoComplete feature does not work after you enable it in Internet Explorer on a computer that is running Windows XP Home Edition [Q885180]")  

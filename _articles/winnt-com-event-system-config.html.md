@@ -40,4 +40,4 @@ tags: []
  More Info [MS KB246499](http://support.microsoft.com/kb/246499 "PRB: COM+ Setup Problems While Upgrading to Windows 2000 [Q246499]")  
  More Info [MS KB315296](http://support.microsoft.com/kb/315296 "How to clean up a damaged COM+ catalog [Q315296]")  
  More Info [MS KB318731](http://support.microsoft.com/kb/318731 "Exchange Setup does not work because of a COM+ issue and error code 0xc103798a [Q318731]")  
- More Info [MS KB961938](http://support.microsoft.com/kb/961938 "Error message when you try to sign in to Office Communicator 2007: "Cannot sign in because Communicator cannot subscribe to the System Event Notification Service "")  
+ More Info [MS KB961938](http://support.microsoft.com/kb/961938 "Error message when you try to sign in to Office Communicator 2007: 'Cannot sign in because Communicator cannot subscribe to the System Event Notification Service'")  

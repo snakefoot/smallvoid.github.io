@@ -20,7 +20,7 @@ tags: []
   
  The licenses can be configured on the server by opening the **Control Panel** and double clicking the **Licensing**-applet.  
   
- Note if running an Exchange Server this service will conflict with the SBS License control, and will block out users even though enough Exchange Server Licenses. Disable this service to avoid the conflict or install the patch [MS KB305138](http://support.microsoft.com/kb/305138 ""Out of License" Error Messages in SBS 2000 Event Logs [Q305138]").  
+ Note if running an Exchange Server this service will conflict with the SBS License control, and will block out users even though enough Exchange Server Licenses. Disable this service to avoid the conflict or install the patch [MS KB305138](http://support.microsoft.com/kb/305138 "'Out of License' Error Messages in SBS 2000 Event Logs [Q305138]").  
   
  More Info [MS KB153140](http://support.microsoft.com/kb/153140 "How to Reset License Manager Information [Q153140]")  
  More Info [MS KB185953](http://support.microsoft.com/kb/185953 "How License Service Keeps Track of License Usage [Q185953]")  
