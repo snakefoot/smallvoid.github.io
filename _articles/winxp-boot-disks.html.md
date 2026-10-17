@@ -12,6 +12,7 @@ tags:
     - bootdisk
     - cdrom-drive
     - floppy-disk
+    - windows-install
 ---
 Microsoft have released [xp boot disks](http://support.microsoft.com/kb/310994 "How to obtain Windows XP Setup disks for a floppy boot installation [Q310994]") that makes it possible to launch the Windows XP setup using the floppy drive (Includes the recovery console). This can be useful in the situation where one cannot boot from the cdrom drive, but it requires that one creates 6 floppy disks.  
   

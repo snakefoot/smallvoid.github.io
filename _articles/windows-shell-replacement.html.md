@@ -15,6 +15,7 @@ categories:
     - windows-nt4_utilities
     - windows-xp_utilities
 tags:
+    - desktop
     - windows-explorer
     - windows-shell
 ---
