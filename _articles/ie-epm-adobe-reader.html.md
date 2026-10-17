@@ -7,7 +7,7 @@ excerpt: 'How to fix Adobe Reader X so it will work with Internet Explorer 11 (x
 type: post
 id: 839
 categories:
-    - web-browser_internet-explorer-ie11
+    - uncategorized
 tags:
     - acrobat-reader
     - enhanced-protected-mode
