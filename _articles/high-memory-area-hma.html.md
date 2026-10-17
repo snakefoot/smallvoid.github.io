@@ -15,13 +15,10 @@ tags:
 ---
 The High Memory Area (HMA) is the first 64 KByte after the first 1024 Kbyte (Conventional+UMA).
 
-<table border="1" cellpadding="2" cellspacing="2">
-<tr align="center"><th>Memory</th><th>Size</th><th>Provider</th></tr>
-<tr align="center"><td>XMS/[EMS](/article/expanded-memory-ems-extended-memory-xms.html)</td><td>? K</td><td>Himem.sys/Emm386.exe</td></tr>
-<tr align="center"><td>HMA</td><td>64K</td><td>Himem.sys</td></tr>
-<tr align="center"><td>[UMA/UMB](/article/upper-memory-block-umb.html)</td><td>384K</td><td>Emm386.exe</td></tr>
-<tr align="center"><td>Conventional</td><td>640K</td><td> </td></tr>
-</table>
+- [XMS/EMS](/article/expanded-memory-ems-extended-memory-xms.html) (Himem.sys/Emm386.exe)
+- HMA - 64K (Himem.sys)
+- [UMA/UMB](/article/upper-memory-block-umb.html) - 384K (Emm386.exe)
+- Conventional - 640K
 
  It is possible to load some of the DOS environment into the HMA and free up some conventional memory.  
   
