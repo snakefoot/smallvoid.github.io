@@ -7,7 +7,7 @@ excerpt: 'Applications optimized to run on single CPU systems, will perform wors
 type: post
 id: 826
 categories:
-    - windows-7-win7_performance
+    - windows-7-win7_tips
     - windows-2000_performance
     - windows-2003_performance
     - windows-nt4_performance
