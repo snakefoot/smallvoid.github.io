@@ -7,9 +7,11 @@ excerpt: 'Configure what balloon tips Windows should display above the system tr
 type: post
 id: 403
 categories:
-    - windows-xp_desktop
-    - windows-2003_desktop
+    - windows-xp_tips
+    - windows-2003_tips
 tags:
+    - desktop
+    - windows-explorer
     - balloon-tip
 ---
 Windows XP started using balloon tips heavily, as an attempt to help the average user to understand what is happening on the computer. The balloon tip is shown like a tooltip bubble just above the taskbar to the right near the system tray (also known as the notification area). For the more experienced user the balloon tips can become a pain, but it is possible to configure their behavior.  

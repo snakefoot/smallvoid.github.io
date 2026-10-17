@@ -7,11 +7,11 @@ excerpt: 'Installing Active Desktop without needing to install Internet Explorer
 type: post
 id: 302
 categories:
-    - windows-nt4_desktop
-    - windows-95_desktop
+    - windows-nt4_tips
+    - windows-95_tips
 tags:
     - active-desktop
-    - Desktop
+    - desktop
     - quick-launch
     - windows-explorer
 ---

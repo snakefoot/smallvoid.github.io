@@ -7,8 +7,10 @@ excerpt: 'Control in what order the share name and share comment should be shown
 type: post
 id: 415
 categories:
-    - windows-xp_desktop
+    - windows-xp_tips
 tags:
+    - desktop
+    - windows-explorer
     - network-places
     - visual-style
 ---

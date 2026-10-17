@@ -7,8 +7,9 @@ excerpt: 'The "Search..." context menu option has been removed with Windows Vist
 type: post
 id: 773
 categories:
-    - windows-vista_desktop
+    - windows-vista_tips
 tags:
+    - desktop
     - context-menu
     - file-search
     - windows-explorer

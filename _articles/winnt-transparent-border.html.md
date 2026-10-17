@@ -7,8 +7,10 @@ excerpt: 'How to disable blurring of windows in the background, and get full cle
 type: post
 id: 819
 categories:
-    - windows-7-win7_desktop
+    - windows-7-win7_tips
 tags:
+    - desktop
+    - windows-explorer
     - aero
 ---
 The border around the windows are transparent using the glass effect. When placing one window on top of another then the background window becomes blurred, so it is easy to see what window has focus.  

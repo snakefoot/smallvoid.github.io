@@ -7,8 +7,10 @@ excerpt: 'The shared documents folder allows multiple users to exchange document
 type: post
 id: 406
 categories:
-    - windows-xp_desktop
+    - windows-xp_tips
 tags:
+    - desktop
+    - windows-explorer
     - shared-documents
 ---
 A new feature of WinXP is being able to share documents between users through the icon "Shared Documents" in My Computer.  

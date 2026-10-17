@@ -7,10 +7,12 @@ excerpt: 'Shortcuts to network shares visited will automatically be added to My 
 type: post
 id: 412
 categories:
-    - windows-xp_desktop
-    - windows-2000_desktop
-    - windows-2003_desktop
+    - windows-xp_tips
+    - windows-2000_tips
+    - windows-2003_tips
 tags:
+    - desktop
+    - windows-explorer
     - network-places
 ---
 In Win2k/XP when you visit shares then they get listed in "My Network Places".  

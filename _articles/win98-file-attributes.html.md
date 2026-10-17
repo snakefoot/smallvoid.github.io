@@ -7,8 +7,9 @@ excerpt: 'Display the file attributes in the detail view of Windows Explorer for
 type: post
 id: 168
 categories:
-    - windows-98_desktop
+    - windows-98_tips
 tags:
+    - desktop
     - windows-explorer
 ---
 Windows 98 Second Edition (SE) doesn't include "Show File Attributes in Detail View" in the Folder Options (Windows 98 first edition does).  

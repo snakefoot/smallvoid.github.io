@@ -7,8 +7,9 @@ excerpt: 'How to configure the Windows Explorer to display all folders the same 
 type: post
 id: 766
 categories:
-    - windows-xp_desktop
+    - windows-xp_tips
 tags:
+    - desktop
     - custom-folders
     - visual-style
     - windows-explorer

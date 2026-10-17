@@ -7,11 +7,13 @@ excerpt: 'Configure the default behavior to use notepad, when opening a file wit
 type: post
 id: 115
 categories:
-    - windows-95_desktop
-    - windows-98_desktop
+    - windows-95_tips
+    - windows-98_tips
 tags:
     - notepad
     - open-with
+    - desktop
+    - windows-explorer
 ---
 By default when double clicking a file with an unknown filetype, then it starts with "Open with..". It is possible to change the default behavior to instead open the Notepad. One can still access the "Open with..." option by holding down the Shift-key and right-clicking the file.
 

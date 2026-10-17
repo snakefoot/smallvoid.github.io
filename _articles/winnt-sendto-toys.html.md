@@ -7,11 +7,13 @@ excerpt: 'Utility that can extend the functionality of the sendto context menu.'
 type: post
 id: 649
 categories:
-    - windows-xp_desktop
-    - windows-2000_desktop
-    - windows-2003_desktop
-    - windows-vista_desktop
+    - windows-xp_tips
+    - windows-2000_tips
+    - windows-2003_tips
+    - windows-vista_tips
 tags:
+    - desktop
+    - windows-explorer
     - context-menu
     - copy-path
     - file-copy

@@ -7,7 +7,7 @@ excerpt: 'Bypass the restriction of not being able to use the Aero interface on 
 type: post
 id: 653
 categories:
-    - windows-vista_desktop
+    - windows-vista_tips
 tags:
     - aero
     - crippled

@@ -7,9 +7,10 @@ excerpt: 'The start menu search in Windows Vista will by default search all fold
 type: post
 id: 648
 categories:
-    - windows-vista_desktop
+    - windows-vista_tips
 tags:
-    - desktop-search
+    - desktop
+    - windows-explorer
     - file-search
 ---
 Windows Vista start-menu has the ability to search for start menu items. This is a lot faster than browsing through the different folders in the start-menu. By default it will search through many different locations to find files/documents that matches your search, which can slow down the search.  

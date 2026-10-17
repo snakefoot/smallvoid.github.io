@@ -7,7 +7,7 @@ excerpt: 'The thumbnail cache allows the Windows Explorer to show preview of pic
 type: post
 id: 745
 categories:
-    - windows-vista_desktop
+    - windows-vista_tips
 tags:
     - custom-folders
     - thumbnail-cache

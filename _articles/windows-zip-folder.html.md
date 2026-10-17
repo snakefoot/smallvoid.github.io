@@ -7,10 +7,12 @@ excerpt: 'Extension for the Windows Explorer so zip files can be opened like a n
 type: post
 id: 363
 categories:
-    - windows-2000_desktop
-    - windows-95_desktop
-    - windows-98_desktop
+    - windows-2000_tips
+    - windows-95_tips
+    - windows-98_tips
 tags:
+    - desktop
+    - windows-explorer
     - archive
     - compress
     - compressed-folders

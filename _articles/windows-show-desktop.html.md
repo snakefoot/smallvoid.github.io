@@ -7,15 +7,17 @@ excerpt: 'The Show Desktop shortcut in the quick launch bar can be restored if d
 type: post
 id: 295
 categories:
-    - windows-nt4_desktop
-    - windows-xp_desktop
-    - windows-2000_desktop
-    - windows-2003_desktop
-    - windows-95_desktop
-    - windows-98_desktop
-    - windows-me_desktop
-    - windows-vista_desktop
+    - windows-nt4_tips
+    - windows-xp_tips
+    - windows-2000_tips
+    - windows-2003_tips
+    - windows-95_tips
+    - windows-98_tips
+    - windows-me_tips
+    - windows-vista_tips
 tags:
+    - desktop
+    - windows-explorer
     - link-shortcut
     - quick-launch
     - show-desktop

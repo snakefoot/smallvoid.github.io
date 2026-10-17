@@ -7,10 +7,11 @@ excerpt: 'Windows Explorer file sorting can be changed from logical number compa
 type: post
 id: 408
 categories:
-    - windows-xp_desktop
-    - windows-2003_desktop
-    - windows-vista_desktop
+    - windows-xp_tips
+    - windows-2003_tips
+    - windows-vista_tips
 tags:
+    - desktop
     - file-sort
     - windows-explorer
 ---
