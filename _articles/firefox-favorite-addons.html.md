@@ -10,6 +10,7 @@ categories:
     - uncategorized
 tags:
     - firefox
+    - mozilla
 ---
 The force of Firefox has always been the vast library of available plugins and themes, which allows one to customize almost everything.  
   

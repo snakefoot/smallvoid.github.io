@@ -7,8 +7,11 @@ excerpt: 'Solutions to the different barriers that can keep one from moving to T
 type: post
 id: 642
 categories:
-    - email-reader_thunderbird
-tags: []
+    - uncategorized
+tags:
+    - thunderbird
+    - mozilla
+    - email
 ---
 [Mozilla Thunderbird](http://www.mozilla.com/en-US/thunderbird/) is an E-mail client which has grown very mature, and for me capable of replacing Microsoft Outlook Express.  
 - Standard spellchecking with the ability to change between dictionaries
