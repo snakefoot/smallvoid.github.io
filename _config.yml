@@ -7,7 +7,7 @@ plugins:
 # Site settings
 title: Smallvoid.com
 name: Smallvoid.com
-description: Smallvoid.com
+description: Smallvoid.com - Windows Tips and Tweaks
 url: http://smallvoid.com
 #baseurl: /smallvoid.github.io
 baseurl: ""

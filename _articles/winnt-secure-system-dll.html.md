@@ -3,7 +3,7 @@ title: 'Restrict users from replacing a system DLL'
 date: '2002-02-03T21:35:06+01:00'
 permalink: /article/winnt-secure-system-dll.html
 author: Snakefoot
-excerpt: 'Protect against DLL injections to avoid performing malicous code.'
+excerpt: 'Protect against DLL injections to avoid performing malicious code.'
 type: post
 id: 453
 categories:
