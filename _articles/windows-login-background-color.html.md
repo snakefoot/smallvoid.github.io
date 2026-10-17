@@ -27,8 +27,17 @@ If you have become tired of the standard color on you background at login then t
 
  The colour is configured using these settings:  
   
-<table border="1"><tr><th>Color</th> <th>Red</th><th>Green</th><th>Blue</th></tr><tr><td style="color:#FFFFFF">white</td> <td>255</td><td>255</td> <td>255</td></tr><tr><td style="color:#FF0000">Red</td> <td>255</td><td>0</td> <td>0</td></tr><tr><td style="color:#FFFF00">Yellow</td> <td>255</td><td>255</td> <td>0</td></tr><tr><td style="color:#00FF00">Green</td> <td>0</td> <td>255</td> <td>0</td></tr><tr><td style="color:#00FFFF">Cyan</td> <td>0</td> <td>255</td> <td>255</td></tr><tr><td style="color:#0000FF">Blue</td> <td>0</td> <td>0</td> <td>255</td></tr><tr><td style="color:#FF00FF">Magenta</td><td>255</td><td>0</td> <td>255</td></tr><tr><td style="color:#000000">Black</td> <td>0</td> <td>0</td> <td>0</td></tr></table>
-
+<table border="1">
+<tr><th>Color</th> <th>Red</th><th>Green</th><th>Blue</th></tr>
+<tr><td style="color:#FFFFFF">white</td> <td>255</td><td>255</td> <td>255</td></tr>
+<tr><td style="color:#FF0000">Red</td> <td>255</td><td>0</td> <td>0</td></tr>
+<tr><td style="color:#FFFF00">Yellow</td> <td>255</td><td>255</td> <td>0</td></tr>
+<tr><td style="color:#00FF00">Green</td> <td>0</td> <td>255</td> <td>0</td></tr>
+<tr><td style="color:#00FFFF">Cyan</td> <td>0</td> <td>255</td> <td>255</td></tr>
+<tr><td style="color:#0000FF">Blue</td> <td>0</td> <td>0</td> <td>255</td></tr>
+<tr><td style="color:#FF00FF">Magenta</td><td>255</td><td>0</td> <td>255</td></tr>
+<tr><td style="color:#000000">Black</td> <td>0</td> <td>0</td> <td>0</td></tr>
+</table>
   
  One can also [change the background Wallpaper](/article/windows-wallpaper.html) for the login screen, just use:
  > \[HKEY\_USERS \\.DEFAULT\]
