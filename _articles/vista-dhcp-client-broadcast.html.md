@@ -20,16 +20,16 @@ Windows Vista changes the behavior of the [DHCP Client](/article/winnt-services-
  > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters \\Interfaces \\{GUID}\]  
  >  DhcpConnEnableBcastFlagToggle = 1 (Default = 0)  
  >   
- >  More Info <a href="https://www.bing.com/search?q=KB%20928233%20Q928233" rel="nofollow" title="Windows Vista cannot obtain an IP address from certain routers or from certain non-Microsoft DHCP servers">MS KB928233</a>
+ >  More Info <a href="https://www.bing.com/search?q=KB+928233+Q928233" rel="nofollow" title="Windows Vista cannot obtain an IP address from certain routers or from certain non-Microsoft DHCP servers">MS KB928233</a>
 
  Configure the following DWORD registry value to disable the use of DHCP broadcast completely:
  
  > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters \\Interfaces \\{GUID}\]  
  >  DhcpConnForceBroadcastFlag = 0 (Default = 1)  
  >  
- > More Info <a href="https://www.bing.com/search?q=KB%20928233%20Q928233" rel="nofollow" title="Windows Vista cannot obtain an IP address from certain routers or from certain non-Microsoft DHCP servers">MS KB928233</a>
+ > More Info <a href="https://www.bing.com/search?q=KB+928233+Q928233" rel="nofollow" title="Windows Vista cannot obtain an IP address from certain routers or from certain non-Microsoft DHCP servers">MS KB928233</a>
 
- More Info <a href="https://www.bing.com/search?q=KB%20932134%20Q932134" rel="nofollow" title="An outdated network router may not function correctly when you use it together with new networking features in Windows Vista">MS KB932134</a> (Online tool to test network router)
+ More Info <a href="https://www.bing.com/search?q=KB+932134+Q932134" rel="nofollow" title="An outdated network router may not function correctly when you use it together with new networking features in Windows Vista">MS KB932134</a> (Online tool to test network router)
  
 ##### What about DhcpConnDisableBcastFlagToggle ?
 

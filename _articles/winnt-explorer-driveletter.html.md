@@ -33,6 +33,6 @@ My Computer displays by default the drive-letters like this (Where "System" is t
 >  2 = No drive letters (Same as "Show drive letters" in Vista Folder Options)  
 >  4 = Drive letter first for all drives  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20330193%20Q330193" rel="nofollow" title="The computer description appears before the computer name in Windows XP [Q330193]">MS KB330193</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+330193+Q330193" rel="nofollow" title="The computer description appears before the computer name in Windows XP [Q330193]">MS KB330193</a>
 
  Credits [Windowsxp.mvps.org](http://windowsxp.mvps.org/)

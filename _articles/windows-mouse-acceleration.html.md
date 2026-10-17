@@ -33,9 +33,9 @@ If not satisfied with the possibilities of the Mouse-Applet in the Control Panel
  </table>
 
   
- More Info <a href="https://www.bing.com/search?q=KB%20102978%20Q102978" rel="nofollow" title="User Preferences Entries, PART 3 [Q102978]">MS KB102978</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20149228%20Q149228" rel="nofollow" title="How to Disable Mouse Acceleration [Q149228]">MS KB149228</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+102978+Q102978" rel="nofollow" title="User Preferences Entries, PART 3 [Q102978]">MS KB102978</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+149228+Q149228" rel="nofollow" title="How to Disable Mouse Acceleration [Q149228]">MS KB149228</a>  
   
- Note if the mouse pointer moves erratically or does not respond, then it might be caused by having multiple mouse drivers installed. More Info <a href="https://www.bing.com/search?q=KB%20321122%20Q321122" rel="nofollow" title="The Microsoft mouse pointer moves erratically or does not respond when you use a Microsoft pointing device [Q321122]">MS KB321122</a>  
+ Note if the mouse pointer moves erratically or does not respond, then it might be caused by having multiple mouse drivers installed. More Info <a href="https://www.bing.com/search?q=KB+321122+Q321122" rel="nofollow" title="The Microsoft mouse pointer moves erratically or does not respond when you use a Microsoft pointing device [Q321122]">MS KB321122</a>  
   
  Credits [franck.kiechel.free.fr](http://franck.kiechel.free.fr/ "Franck Kiechel")

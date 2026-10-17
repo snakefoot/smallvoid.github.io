@@ -38,9 +38,9 @@ When accessing a domain like www.google.com it first has to convert the domain t
  Note to purge and reload the NetBIOS cache (<a href="https://www.bing.com/search?q=KB+289256+Q289256" title="A Description of the Repair Option on a Local Area Network or High-Speed Internet Connection [Q289256]" rel="nofollow">Part of WinXP Network Repair</a>):
  > nbtstat -R
 
- More Info <a href="https://www.bing.com/search?q=KB%20245437%20Q245437" rel="nofollow" title="How to Disable Client-Side DNS Caching in Windows [Q245437]">MS KB245437</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20297510%20Q297510" rel="nofollow" title="HOW TO: Modify Time to Live on Domain Name System Records [Q297510]">MS KB297510</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20318803%20Q318803" rel="nofollow" title="How to Disable Client-Side DNS Caching in Windows XP and Windows Server 2003 [Q318803]">MS KB318803</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+245437+Q245437" rel="nofollow" title="How to Disable Client-Side DNS Caching in Windows [Q245437]">MS KB245437</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+297510+Q297510" rel="nofollow" title="HOW TO: Modify Time to Live on Domain Name System Records [Q297510]">MS KB297510</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+318803+Q318803" rel="nofollow" title="How to Disable Client-Side DNS Caching in Windows XP and Windows Server 2003 [Q318803]">MS KB318803</a>  
   
  Related [Microsoft TCP/IP Version 6 (IPv6) can cause slow DNS](/article/winnt-ipv6-dns-error.html)  
   

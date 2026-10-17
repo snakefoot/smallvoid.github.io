@@ -28,6 +28,6 @@ If wanting to part of several subnets using only one network adapter, then one i
  
  Note if one of the subnets should be configured by the local DHCP server, then add an entry with "0.0.0.0" as IP- and subnet-address.  
   
- More info <a href="https://www.bing.com/search?q=KB%20156772%20Q156772" rel="nofollow" title="Adding Additional IP Addresses to a Single Network Adapter [Q156772]">MS KB156772</a>  
+ More info <a href="https://www.bing.com/search?q=KB+156772+Q156772" rel="nofollow" title="Adding Additional IP Addresses to a Single Network Adapter [Q156772]">MS KB156772</a>  
   
  Credits [mydesktophelp.com](http://mydesktophelp.com/)

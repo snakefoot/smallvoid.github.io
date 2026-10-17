@@ -29,7 +29,7 @@ In a computer-network each computer have a unique physical address, but the phys
   - [HOSTS](/article/windows-hosts-file.html) file. Uses a text-file placed locally to perform the resolution.
   - DNS. Sends a resolution-message to a Domain Name Server (DNS) and it performs the resolution.
 - NetBIOS 
-  - LMHOSTS file. Uses a text-file placed locally to perform the resolution. More Info <a href="https://www.bing.com/search?q=KB%20101927%20Q101927" rel="nofollow" title="The Lmhosts File for TCP/IP in Windows [Q101927]">MS KB101927</a>
+  - LMHOSTS file. Uses a text-file placed locally to perform the resolution. More Info <a href="https://www.bing.com/search?q=KB+101927+Q101927" rel="nofollow" title="The Lmhosts File for TCP/IP in Windows [Q101927]">MS KB101927</a>
   - Broadcast. Sends a resolution-message to every computer in the network. Bad for networks with many computers.
   - WINS. Sends a resolution-message to a NetBIOS Name Server (NBNS) aka. Windows Internet Naming Service (WINS) and it performs the resolution.
  
@@ -53,6 +53,6 @@ In a computer-network each computer have a unique physical address, but the phys
 - [Configure host name resolution order in Win9x/WinMe](/article/win9x-host-name-resolution.html)
 - [Configure host name resolution order in WinNT/Win2k](/article/winnt-host-name-resolution.html)
  
- More Info <a href="https://www.bing.com/search?q=KB%20119493%20Q119493" rel="nofollow" title="NetBIOS over TCP/IP Name Resolution and WINS [Q119493]">MS KB119493</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20172218%20Q172218" rel="nofollow" title="Microsoft TCP/IP Host Name Resolution Order [Q172218]">MS KB172218</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20173161%20Q173161" rel="nofollow" title="How WINS Lookup Works from Windows NT DNS [Q173161]">MS KB173161</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+119493+Q119493" rel="nofollow" title="NetBIOS over TCP/IP Name Resolution and WINS [Q119493]">MS KB119493</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+172218+Q172218" rel="nofollow" title="Microsoft TCP/IP Host Name Resolution Order [Q172218]">MS KB172218</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+173161+Q173161" rel="nofollow" title="How WINS Lookup Works from Windows NT DNS [Q173161]">MS KB173161</a>  

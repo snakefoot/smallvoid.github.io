@@ -23,7 +23,7 @@ Windows 98 introduced a new feature called PageFile\_Call\_Async\_Manager. It wi
 > \[386Enh\]  
 >  ConservativeSwapfileUsage = 1
 
- More Info <a href="https://www.bing.com/search?q=KB%20223294%20Q223294" rel="nofollow" title="INFO: The Windows 98 PageFile_Call_Async_Manager Service [Q223294]">MS KB223294</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+223294+Q223294" rel="nofollow" title="INFO: The Windows 98 PageFile_Call_Async_Manager Service [Q223294]">MS KB223294</a>  
   
  Related [Improve your permanent page file](/article/win9x-pagebuffers.html)  
  Related [Configure the page file for best performance](/article/windows-page-file.html)  

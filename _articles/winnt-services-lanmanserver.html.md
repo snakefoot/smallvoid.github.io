@@ -38,7 +38,7 @@ tags:
  Related [Optimizing the file sharing network to handle more traffic](/article/winnt-smb-settings.html)  
  Related [Graweg NetApi32.dll Exploit](/article/winnt-graweg-netapi32-exploit.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20314498%20Q314498" rel="nofollow" title="Server Service Configuration and Tuning [Q314498]">MS KB314498</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+314498+Q314498" rel="nofollow" title="Server Service Configuration and Tuning [Q314498]">MS KB314498</a>  
   
 ##### Recommended State:
 

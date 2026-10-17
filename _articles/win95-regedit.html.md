@@ -31,5 +31,5 @@ tags:
   
  Note if using Win98/Me one can just use [SCANREG](/article/win9x-registry-checker.html).  
   
- More Info <a href="https://www.bing.com/search?q=KB%20131352%20Q131352" rel="nofollow" title="Using Registry Editor in Real Mode [Q131352]">MS KB131352</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20131431%20Q131431" rel="nofollow" title="How to Troubleshoot Registry Errors in Windows 95 [Q131431]">MS KB131431</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+131352+Q131352" rel="nofollow" title="Using Registry Editor in Real Mode [Q131352]">MS KB131352</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+131431+Q131431" rel="nofollow" title="How to Troubleshoot Registry Errors in Windows 95 [Q131431]">MS KB131431</a>  

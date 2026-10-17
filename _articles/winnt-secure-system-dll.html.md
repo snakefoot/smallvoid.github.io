@@ -23,10 +23,10 @@ If a malicious user can interactively log on your computer. Then the user can lo
 >   
 >  Note WinNT4 need to have SP5 installed before this registry entry works.  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20218473%20Q218473" rel="nofollow" title="Restricting Changes to Base System Objects [Q218473]">MS KB218473</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20222159%20Q222159" rel="nofollow" title="Symbolic Link Case Sensitivity Exploit Bypasses System Security [Q222159]">MS KB222159</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20244995%20Q244995" rel="nofollow" title="Base System Object Restrictions Are Not Enabled by Default [Q244995]">MS KB244995</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20253821%20Q253821" rel="nofollow" title="System Error 85 with 'NET USE' Command [Q253821]">MS KB253821</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+218473+Q218473" rel="nofollow" title="Restricting Changes to Base System Objects [Q218473]">MS KB218473</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+222159+Q222159" rel="nofollow" title="Symbolic Link Case Sensitivity Exploit Bypasses System Security [Q222159]">MS KB222159</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+244995+Q244995" rel="nofollow" title="Base System Object Restrictions Are Not Enabled by Default [Q244995]">MS KB244995</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+253821+Q253821" rel="nofollow" title="System Error 85 with 'NET USE' Command [Q253821]">MS KB253821</a>
 
  There is a search order which is used when an application requests a DLL.
 1. Look in the application folder
@@ -40,18 +40,18 @@ If a malicious user can interactively log on your computer. Then the user can lo
 >   
 >  Note Win2k need to have SP3 installed before this registry entry works.  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20306850%20Q306850" rel="nofollow" title="Programs Start Slowly or Slow Logon if the Network Connection to Your Home Folder Is Slow [Q306850]">MS KB306850</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+306850+Q306850" rel="nofollow" title="Programs Start Slowly or Slow Logon if the Network Connection to Your Home Folder Is Slow [Q306850]">MS KB306850</a>
 
  Note when launching an application using **Run...** from the Start-menu, then it will also use the search order above to find the application executable. But it applies an extra step before searching through the system PATH, which is to look in the user home folder. Make it ignore the home-path by setting this DWORD registry key:
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\Explorer\]  
 >  StartRunNoHOMEPATH = 1 (Default - 0)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20264061%20Q264061" rel="nofollow" title="Home Folder Is Searched First When You Try to Run a Program [Q264061]">MS KB264061</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+264061+Q264061" rel="nofollow" title="Home Folder Is Searched First When You Try to Run a Program [Q264061]">MS KB264061</a>
 
  Instead of ignoring the homepath, then one can configure it to first search the system path, and then look in the home-path:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Session Manager\]  
 >  SafeProcessSearchMode = 1 (Default = 0)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20905890%20Q905890" rel="nofollow" title="A program may run very slowly if the network connection to your home folder is slow">MS KB905890</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+905890+Q905890" rel="nofollow" title="A program may run very slowly if the network connection to your home folder is slow">MS KB905890</a>
 
  Credits [jsifaq.com](http://www.jsifaq.com/)

@@ -46,4 +46,4 @@ Disk partitioning is a personal thing, and every person have their favorite setu
   
  More Info [Bob Watson - FDISK Tutorial](http://home7.inet.tele.dk/batfiles/msdos7/index.htm?cmdindex.htm&fdisk1.htm "Using FDISK - The Screens")  
  More Info [FDISK Simulation](http://www.computerhope.com/sfdisk1.htm "Helping you with the FDISK MS-DOS command by providing screen shots")  
- More Info <a href="https://www.bing.com/search?q=KB%20255867%20Q255867" rel="nofollow" title="How to Use the Fdisk Tool and the Format Tool to Partition or Repartition a Hard Disk [Q255867]">MS KB255867</a>
+ More Info <a href="https://www.bing.com/search?q=KB+255867+Q255867" rel="nofollow" title="How to Use the Fdisk Tool and the Format Tool to Partition or Repartition a Hard Disk [Q255867]">MS KB255867</a>

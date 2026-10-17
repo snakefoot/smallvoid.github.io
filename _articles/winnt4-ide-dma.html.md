@@ -24,4 +24,4 @@ To get the best performance of your IDE hard disk, then one should make sure tha
 >   
 >  Note the possible values are 0x1 (on - default), 0x0 (off), 0x2 (Forced on)
 
- More Info <a href="https://www.bing.com/search?q=KB%20191774%20Q191774" rel="nofollow" title="How to Obtain Dmacheck.exe for Windows NT [Q191774]">MS KB191774</a> (Dmacheck.exe)  
+ More Info <a href="https://www.bing.com/search?q=KB+191774+Q191774" rel="nofollow" title="How to Obtain Dmacheck.exe for Windows NT [Q191774]">MS KB191774</a> (Dmacheck.exe)  

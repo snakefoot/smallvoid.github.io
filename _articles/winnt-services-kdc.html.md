@@ -17,8 +17,8 @@ tags: []
  - **Authentication Service**: Issues Ticket-Granting Tickets (TGTs) to allow connection to the "Ticket-Granting Service" in a trusted domain.
  - **Ticket-Granting Service (TGS)**: Issues tickets for making connections to computers in the local domain for clients having a TGT.
  
- More Info <a href="https://www.bing.com/search?q=KB%20235529%20Q235529" rel="nofollow" title="Kerberos Support on Windows 2000-Based Server Clusters [Q235529]">MS KB235529</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20262177%20Q262177" rel="nofollow" title="HOW TO: Enable Kerberos Event Logging [Q262177]">MS KB262177</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+235529+Q235529" rel="nofollow" title="Kerberos Support on Windows 2000-Based Server Clusters [Q235529]">MS KB235529</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+262177+Q262177" rel="nofollow" title="HOW TO: Enable Kerberos Event Logging [Q262177]">MS KB262177</a>  
   
 ##### Recommended State:
 

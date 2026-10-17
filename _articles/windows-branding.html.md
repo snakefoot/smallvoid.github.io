@@ -42,9 +42,9 @@ It is possible to change some of the text shown on **System Properties**, which 
  
  Note it is also possible to place the two files in **%Windir%\\System32** if on a WinNT+ installation.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20216347%20Q216347" rel="nofollow" title="HOWTO: Test and Modify the Logos in an OEM Preinstallation [Q216347]">MS KB216347</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20218176%20Q218176" rel="nofollow" title="How to Alter Logo Information on the System Tool's General Tab [Q218176]">MS KB218176</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20250609%20Q250609" rel="nofollow" title="INFO: Quick Guide to Preinstalling Windows 2000 [Q250609]">MS KB250609</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20314472%20Q314472" rel="nofollow" title="Quick Guide to Preinstalling Windows XP [Q314472]">MS KB314472</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+216347+Q216347" rel="nofollow" title="HOWTO: Test and Modify the Logos in an OEM Preinstallation [Q216347]">MS KB216347</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+218176+Q218176" rel="nofollow" title="How to Alter Logo Information on the System Tool's General Tab [Q218176]">MS KB218176</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+250609+Q250609" rel="nofollow" title="INFO: Quick Guide to Preinstalling Windows 2000 [Q250609]">MS KB250609</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+314472+Q314472" rel="nofollow" title="Quick Guide to Preinstalling Windows XP [Q314472]">MS KB314472</a>  
   
  Related [Configure the branding of Internet Explorer](/article/ie-branding.html)

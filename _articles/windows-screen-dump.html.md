@@ -40,4 +40,4 @@ Windows can take a screenshot, when using one of the following keyboard shortcut
   
  Note in Win9x/WinNT then MsPaint can only save image as uncompressed BMP format. When saving a screen dump from 16/32 bit desktop then the file size will be huge. Consider to save the image in 16 or 256 colors by using "Save as..". Alternative it is possible to install a [MS PAINT Codecs](/article/windows-mspaint-filters.html) addon which will allow it to save in GIF and JPEG which can compress the image and make the file size smaller.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20173884%20Q173884" rel="nofollow" title="How to Capture Screen Shots in Windows Using the Print Screen Key [Q173884]">MS KB173884</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+173884+Q173884" rel="nofollow" title="How to Capture Screen Shots in Windows Using the Print Screen Key [Q173884]">MS KB173884</a>  

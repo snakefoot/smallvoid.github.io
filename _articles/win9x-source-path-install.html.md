@@ -27,7 +27,7 @@ The hard disk have become so big, that the Windows install CD can easily fit on 
  
  Note the next one has to perform an install of Windows, then perform the install from the hard disk, so one doesn't have to worry about changing the registry.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20131652%20Q131652" rel="nofollow" title="How to Change the Setup Source Path in Windows [Q131652]">MS KB131652</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20266735%20Q266735" rel="nofollow" title="How to Move Windows Me Installation (.cab) Files to Another Drive [Q266735]">MS KB266735</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+131652+Q131652" rel="nofollow" title="How to Change the Setup Source Path in Windows [Q131652]">MS KB131652</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+266735+Q266735" rel="nofollow" title="How to Move Windows Me Installation (.cab) Files to Another Drive [Q266735]">MS KB266735</a>  
   
  Related [Configure Drive Letter for the CD-ROM drive](/article/assign-drive-letter.html)  

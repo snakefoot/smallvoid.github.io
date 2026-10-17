@@ -30,7 +30,7 @@ If having a laptop which you use in different networks (Home, Work, Customer, et
  Repair/reinit the TCP/IP protocol if it has gone bad (Useful as WinXP cannot uninstall the TCPIP stack):
 > netsh int ip reset  
 >   
->  More info <a href="https://www.bing.com/search?q=KB%20299357%20Q299357" rel="nofollow" title="How to reset TCP/IP by using the NetShell utility [Q299357]">MS KB299357</a>
+>  More info <a href="https://www.bing.com/search?q=KB+299357+Q299357" rel="nofollow" title="How to reset TCP/IP by using the NetShell utility [Q299357]">MS KB299357</a>
 
  Repair/re-init the Winsock interface if it has gone bad (Available in WinXP SP2 and Win2k3 SP1):
 > netsh winsock reset  
@@ -45,7 +45,7 @@ If having a laptop which you use in different networks (Home, Work, Customer, et
 - Click **Network and Internet Connections** and click **Network Connections**.
 - Right-click the wanted connection and select **Properties**.
 - Select **Internet Protocol (TCP/IP)** and press **Properties**.
-- If the normal configuration is DHCP, then the **Alternate Configuration**-tab should be available. More info <a href="https://www.bing.com/search?q=KB%20283676%20Q283676" rel="nofollow" title="How to use the Alternate Configuration feature for multiple network connectivity in Windows XP [Q283676]">MS KB283676</a>
+- If the normal configuration is DHCP, then the **Alternate Configuration**-tab should be available. More info <a href="https://www.bing.com/search?q=KB+283676+Q283676" rel="nofollow" title="How to use the Alternate Configuration feature for multiple network connectivity in Windows XP [Q283676]">MS KB283676</a>
  
  More info <a href="https://www.bing.com/search?q=KB+242468+Q242468" rel="nofollow">How to Use the Netsh.exe Tool and Command-Line Switches (MS KB242468)</a>  
  More info <a href="https://www.bing.com/search?q=KB+257748+Q257748" rel="nofollow">Using NETSH to Change from Static IP to DHCP in Windows 2000 - (MS KB257748)</a>  

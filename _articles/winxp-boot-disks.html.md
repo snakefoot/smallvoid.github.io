@@ -24,4 +24,4 @@ Microsoft have released <a href="https://www.bing.com/search?q=KB+310994+Q310994
   
  Note one can use the WinXP bootdisks in conjunction with [ChkReg.exe](http://www.microsoft.com/downloads/details.aspx?FamilyID=56d3c201-2c68-4de8-9229-ca494362419c), which is a Windows 2000 Registry Repair Utility (Though one should make a backup of the registry files before trying to repair them).  
   
- More Info <a href="https://www.bing.com/search?q=KB%20316941%20Q316941" rel="nofollow" title="HOW TO: Install Windows XP [Q316941]">MS KB316941</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+316941+Q316941" rel="nofollow" title="HOW TO: Install Windows XP [Q316941]">MS KB316941</a>  

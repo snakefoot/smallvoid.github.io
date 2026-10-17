@@ -30,9 +30,9 @@ Windows will detect if the network hardware has capabilities for offloading of t
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters\]  
 >  DisableTaskOffload = 1 (Default not set)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20888750%20Q888750" rel="nofollow" title="Slow performance when you try to access resources on your Virtual Server 2005 host computer from a guest virtual machine">MS KB888750</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20904946%20Q904946" rel="nofollow" title="You experience intermittent communication failure between computers that are running Windows XP or Windows Server 2003">MS KB904946</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20936702%20Q936702" rel="nofollow" title="ISA 2006 clients are repeatedly prompted for credentials when they try to access Outlook Web Access">MS KB936702</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+888750+Q888750" rel="nofollow" title="Slow performance when you try to access resources on your Virtual Server 2005 host computer from a guest virtual machine">MS KB888750</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+904946+Q904946" rel="nofollow" title="You experience intermittent communication failure between computers that are running Windows XP or Windows Server 2003">MS KB904946</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+936702+Q936702" rel="nofollow" title="ISA 2006 clients are repeatedly prompted for credentials when they try to access Outlook Web Access">MS KB936702</a>
 
  More Info [WHDC - NDIS 5.0 Overview](http://www.microsoft.com/whdc/archive/ndis5.mspx)  
  More Info [WHDC - Windows Network Task Offload](http://www.microsoft.com/whdc/device/network/taskoffload.mspx)  

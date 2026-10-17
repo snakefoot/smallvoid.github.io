@@ -19,7 +19,7 @@ tags:
   
  Improves application compatibility by recognizing 3rd party applications that needs special compatibility settings and apply these settings so they run properly.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20902196%20Q902196" rel="nofollow" title="Description of the Application Experience Lookup Service in Windows Server 2003 SP1">MS KB902196</a> (Added to Windows 2003 with SP1)  
+ More Info <a href="https://www.bing.com/search?q=KB+902196+Q902196" rel="nofollow" title="Description of the Application Experience Lookup Service in Windows Server 2003 SP1">MS KB902196</a> (Added to Windows 2003 with SP1)  
 ##### Recommended state:
 
 - Windows 8: Manual (Trigger Start)

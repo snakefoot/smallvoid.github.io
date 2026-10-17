@@ -43,12 +43,12 @@ The following happens when an application requests a network resource using the 
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\Mup\]  
 >  DisableDfs = 1 (Default = 0)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20259398%20Q259398" rel="nofollow" title="SceCli Event ID 1001 and UserEnv Event ID 1000 When Dfs Client Is Disabled [Q259398]">MS KB259398</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20314494%20Q314494" rel="nofollow" title="Group Policies Are Not Applied The Way You Expect; 'Event ID 1058' and 'Event ID 1030' Errors in the Application Log [Q314494]">MS KB314494</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+259398+Q259398" rel="nofollow" title="SceCli Event ID 1001 and UserEnv Event ID 1000 When Dfs Client Is Disabled [Q259398]">MS KB259398</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+314494+Q314494" rel="nofollow" title="Group Policies Are Not Applied The Way You Expect; 'Event ID 1058' and 'Event ID 1030' Errors in the Application Log [Q314494]">MS KB314494</a>
 
  Note MUP.SYS is usually the last driver being shown before launching the operating system, and if there is a problem with loading Windows, then it might seem like MUP.SYS is causing the problem (But it is not).  
   
- More Info <a href="https://www.bing.com/search?q=KB%20171386%20Q171386" rel="nofollow" title="Connectivity Delay with Multiple Redirectors Installed [Q171386]">MS KB171386</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+171386+Q171386" rel="nofollow" title="Connectivity Delay with Multiple Redirectors Installed [Q171386]">MS KB171386</a>  
   
  Related [Configure the priority of network adapter and gateways](/article/network-gateway-metric.html)  
  Related [Configure the priority of protocols bound to the network redirector](/article/winnt-protocol-priority.html)  

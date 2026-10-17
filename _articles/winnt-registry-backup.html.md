@@ -30,4 +30,4 @@ Microsoft released with the Windows 2000 resource kit the following two utilitie
   
  Note if one don't like command line tools then one can try this very userfriendly utility called [EruNT](http://www.larshederer.homepage.t-online.de/).  
   
- More Info <a href="https://www.bing.com/search?q=KB%20318149%20Q318149" rel="nofollow" title="How to Maintain Current Registry Backups in Windows NT 4.0 and Windows 2000 [Q318149]">MS KB318149</a>
+ More Info <a href="https://www.bing.com/search?q=KB+318149+Q318149" rel="nofollow" title="How to Maintain Current Registry Backups in Windows NT 4.0 and Windows 2000 [Q318149]">MS KB318149</a>

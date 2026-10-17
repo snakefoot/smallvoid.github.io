@@ -36,6 +36,6 @@ A new feature in Windows XP is the ability to group several instances of the sam
 >  \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Advanced\]  
 >  TaskbarGroupSize = 8 (Default = 0)
 
- More Info <a href="https://www.bing.com/search?q=KB%20281628%20Q281628" rel="nofollow" title="How to Change the Behavior of Taskbar Grouping [Q281628]">MS KB281628</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+281628+Q281628" rel="nofollow" title="How to Change the Behavior of Taskbar Grouping [Q281628]">MS KB281628</a>  
   
  Related [Configure the taskbar](/article/windows-taskbar.html)

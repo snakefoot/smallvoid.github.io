@@ -25,9 +25,9 @@ tags:
   
  Related [Setting up a Virtual Private Network in Win2k/WinXP](/article/winnt-vpn.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20234014%20Q234014" rel="nofollow" title="HOW TO: Enable PPP Logging in Windows [Q234014]">MS KB234014</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20258261%20Q258261" rel="nofollow" title="Disabling IPSEC Policy Used with L2TP [Q258261]">MS KB258261</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20310109%20Q310109" rel="nofollow" title="HOW TO: Disable the Automatic L2TP/IPSec Policy [Q310109]">MS KB310109</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+234014+Q234014" rel="nofollow" title="HOW TO: Enable PPP Logging in Windows [Q234014]">MS KB234014</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+258261+Q258261" rel="nofollow" title="Disabling IPSEC Policy Used with L2TP [Q258261]">MS KB258261</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+310109+Q310109" rel="nofollow" title="HOW TO: Disable the Automatic L2TP/IPSec Policy [Q310109]">MS KB310109</a>  
   
 ##### Recommended State:
 

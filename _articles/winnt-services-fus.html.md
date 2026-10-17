@@ -24,14 +24,14 @@ tags:
   
  Note the Fast User Switching can consume a lot of memory and CPU power, if one switches between users without closing down the open applications. Making the computer slow to work with.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20279765%20Q279765" rel="nofollow" title="HOW TO: Use the Fast User Switching Feature in Windows XP [Q279765]">MS KB279765</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20279782%20Q279782" rel="nofollow" title="Difference Between Log Off and Switch User Commands [Q279782]">MS KB279782</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20290249%20Q290249" rel="nofollow" title="Programs Display Incorrectly After You Use Fast User Switching [Q290249]">MS KB290249</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20294739%20Q294739" rel="nofollow" title="A Discussion About the Availability of the Fast User Switching Feature [Q294739]">MS KB294739</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20294855%20Q294855" rel="nofollow" title="Description of the Fast User Switching Compatibility Service [Q294855]">MS KB294855</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20312058%20Q312058" rel="nofollow" title="Windows XP May Slow Down If Users Are Logged On with Fast User Switching [Q312058]">MS KB312058</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20322861%20Q322861" rel="nofollow" title="PRB: Poor Video Performance After a Fast User Switching Operation [Q322861]">MS KB322861</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20331841%20Q331841" rel="nofollow" title="PRB: Fast User Switching May Be Unavailable on Systems That Use Shared Video Memory [Q331841]">MS KB331841</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+279765+Q279765" rel="nofollow" title="HOW TO: Use the Fast User Switching Feature in Windows XP [Q279765]">MS KB279765</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+279782+Q279782" rel="nofollow" title="Difference Between Log Off and Switch User Commands [Q279782]">MS KB279782</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+290249+Q290249" rel="nofollow" title="Programs Display Incorrectly After You Use Fast User Switching [Q290249]">MS KB290249</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+294739+Q294739" rel="nofollow" title="A Discussion About the Availability of the Fast User Switching Feature [Q294739]">MS KB294739</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+294855+Q294855" rel="nofollow" title="Description of the Fast User Switching Compatibility Service [Q294855]">MS KB294855</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+312058+Q312058" rel="nofollow" title="Windows XP May Slow Down If Users Are Logged On with Fast User Switching [Q312058]">MS KB312058</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+322861+Q322861" rel="nofollow" title="PRB: Poor Video Performance After a Fast User Switching Operation [Q322861]">MS KB322861</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+331841+Q331841" rel="nofollow" title="PRB: Fast User Switching May Be Unavailable on Systems That Use Shared Video Memory [Q331841]">MS KB331841</a>  
   
 ##### Recommended State:
 

@@ -21,15 +21,15 @@ The Service Control Manager (SCM) is responsible for handling the startup and st
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control\]  
 >  ServicesPipeTimeout = 30000  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20824344%20Q824344" rel="nofollow" title="How to debug Windows services [Q824344]">MS KB824344</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20884495%20Q884495" rel="nofollow" title="Event ID 7000 appears in the System log and the ISA Server Storage service does not start when you start a computer that is running ISA Server 2004 [Q884495]">MS KB884495</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+824344+Q824344" rel="nofollow" title="How to debug Windows services [Q824344]">MS KB824344</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+884495+Q884495" rel="nofollow" title="Event ID 7000 appears in the System log and the ISA Server Storage service does not start when you start a computer that is running ISA Server 2004 [Q884495]">MS KB884495</a>
 
  The SCM stops a service by sending a stop-message to the service and then expects to receive a stopped-message from the service within a certain timeout. Set this REG-SZ key in the registry to specify the timeout in milliseconds:
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control\]  
 >  WaitToKillServiceTimeout = "20000"  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20146092%20Q146092" rel="nofollow" title="How to Increase Shutdown Time for Services to Close Properly [Q146092]">MS KB146092</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20839262%20Q839262" rel="nofollow" title="Services may stop abruptly when you shut down or restart a Windows Small Business Server 2003-based computer [Q839262]">MS KB839262</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+146092+Q146092" rel="nofollow" title="How to Increase Shutdown Time for Services to Close Properly [Q146092]">MS KB146092</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+839262+Q839262" rel="nofollow" title="Services may stop abruptly when you shut down or restart a Windows Small Business Server 2003-based computer [Q839262]">MS KB839262</a>
 
  Note if lowering the value too much it might cause improper shutdown of some services, which might lead to half-written / invalid / faulty data that will keep the service from starting properly again.  
   

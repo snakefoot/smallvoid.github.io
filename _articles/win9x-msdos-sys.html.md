@@ -37,4 +37,4 @@ The Msdos.sys file is located in the root of the system partition (Usually C:), 
  <tr><td>Logo = 1</td><td>Show Windows logo while booting</td></tr><tr><td>Network = 1</td><td>Enable network support in <a href="https://www.bing.com/search?q=KB+122051+Q122051" title="How Windows 95 Performs a Safe-Mode Start [Q122051]" rel="nofollow">safemode</a></td></tr>
  </table>
 
- More Info <a href="https://www.bing.com/search?q=KB%20118579%20Q118579" rel="nofollow" title="Contents of the Windows Msdos.sys File [Q118579]">MS KB118579</a>
+ More Info <a href="https://www.bing.com/search?q=KB+118579+Q118579" rel="nofollow" title="Contents of the Windows Msdos.sys File [Q118579]">MS KB118579</a>

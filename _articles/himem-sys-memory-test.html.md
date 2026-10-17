@@ -18,4 +18,4 @@ Edit CONFIG.SYS and insert/update this line to disable the memory testing:
 
  Note the memory testing can be useful if testing RAM timings in the motherboard BIOS, as it can verify that the RAM operates properly.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20109845%20Q109845" rel="nofollow" title="Troubleshooting HIMEM.SYS 3.10 XMS Test (TESTMEM) Failures [Q109845]">MS KB109845</a>
+ More Info <a href="https://www.bing.com/search?q=KB+109845+Q109845" rel="nofollow" title="Troubleshooting HIMEM.SYS 3.10 XMS Test (TESTMEM) Failures [Q109845]">MS KB109845</a>

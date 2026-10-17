@@ -24,17 +24,17 @@ tags: []
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\MSDTC \\Security\]  
 >  TurnOffRpcSecurity=dword:00000001  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20827805%20Q827805" rel="nofollow" title="BUG: MSDTC Fails to Mutually Authenticate When Computers Do Not Run in the Same Domain [Q827805]">MS KB827805</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20555017%20Q555017" rel="nofollow" title="HOWTO: Enable DTC Between Web Servers and SQL Servers Running Windows Server 2003 [Q555017]">MS KB555017</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+827805+Q827805" rel="nofollow" title="BUG: MSDTC Fails to Mutually Authenticate When Computers Do Not Run in the Same Domain [Q827805]">MS KB827805</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+555017+Q555017" rel="nofollow" title="HOWTO: Enable DTC Between Web Servers and SQL Servers Running Windows Server 2003 [Q555017]">MS KB555017</a>
 
  Related [How to repair a broken MSDTC-log or reinstall MSDTC](/article/winnt-services-msdtc-config.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20243204%20Q243204" rel="nofollow" title="Microsoft Distributed Transaction Coordinator (MSDTC) Recovery Techniques in Windows 2000 Cluster Server [Q243204]">MS KB243204</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20250367%20Q250367" rel="nofollow" title="INFO: Configuring Microsoft Distributed Transaction Coordinator (DTC) to Work Through a Firewall [Q250367]">MS KB250367</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20252641%20Q252641" rel="nofollow" title="Resolving MSDTC Conflicts During NTOP Installation on Cluster Server [Q252641]">MS KB252641</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20290624%20Q290624" rel="nofollow" title="HOWTO: Configure MSDTC in a Windows 2000 Cluster Environment [Q290624]">MS KB290624</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20817064%20Q817064" rel="nofollow" title="HOW TO: Enable Network DTC Access in Windows Server 2003 [Q817064]">MS KB817064</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20899191%20Q899191" rel="nofollow" title="New functionality in the Distributed Transaction Coordinator service in Windows Server 2003 Service Pack 1 and in Windows XP Service Pack 2 [Q899191]">MS KB899191</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+243204+Q243204" rel="nofollow" title="Microsoft Distributed Transaction Coordinator (MSDTC) Recovery Techniques in Windows 2000 Cluster Server [Q243204]">MS KB243204</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+250367+Q250367" rel="nofollow" title="INFO: Configuring Microsoft Distributed Transaction Coordinator (DTC) to Work Through a Firewall [Q250367]">MS KB250367</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+252641+Q252641" rel="nofollow" title="Resolving MSDTC Conflicts During NTOP Installation on Cluster Server [Q252641]">MS KB252641</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+290624+Q290624" rel="nofollow" title="HOWTO: Configure MSDTC in a Windows 2000 Cluster Environment [Q290624]">MS KB290624</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+817064+Q817064" rel="nofollow" title="HOW TO: Enable Network DTC Access in Windows Server 2003 [Q817064]">MS KB817064</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+899191+Q899191" rel="nofollow" title="New functionality in the Distributed Transaction Coordinator service in Windows Server 2003 Service Pack 1 and in Windows XP Service Pack 2 [Q899191]">MS KB899191</a>  
   
 ##### Recommended State:
 

@@ -50,6 +50,6 @@ If needing to access the registry database on a system that is no longer bootabl
 > \[HKEY\_LOCAL\_MACHINE\\ System \\CurrentControlSet \\Control \\Session Manager \\Configuration Manager\]  
 >  SelfHealingEnabled = 0
 
- More Info <a href="https://www.bing.com/search?q=KB%20146050%20Q146050" rel="nofollow" title="Modifying Ntuser.dat Hive So New Users Get Defined Settings [Q146050]">MS KB146050</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+146050+Q146050" rel="nofollow" title="Modifying Ntuser.dat Hive So New Users Get Defined Settings [Q146050]">MS KB146050</a>  
   
  Credits [jsifaq.com](http://jsifaq.com/)

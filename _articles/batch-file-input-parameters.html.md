@@ -22,7 +22,7 @@ Many programs are able to handle input parameters, which one can specify when la
  To check if a parameter is given:
  > IF "%1"!="" ECHO Got %1
 
- More Info <a href="https://www.bing.com/search?q=KB%2071247%20Q71247" rel="nofollow" title="Semicolon, Equal Sign As Arguments in Batch File [Q71247]">MS KB71247</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+71247+Q71247" rel="nofollow" title="Semicolon, Equal Sign As Arguments in Batch File [Q71247]">MS KB71247</a>  
   
  Note there also exists the input parameter %0, which is actually the batch-filename it self.  
   

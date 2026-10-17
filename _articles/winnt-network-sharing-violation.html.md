@@ -24,8 +24,8 @@ A sharing violation happens when one program requests exclusive access to a file
 >  SharingViolationDelay = 200 (Default = 200 ms)  
 >  SharingViolationRetries = 5 (Default = 5)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20150384%20Q150384" rel="nofollow" title="Shared file access is delayed if the file is open on another computer [Q150384]">MS KB150384</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20889588%20Q889588" rel="nofollow" title="How to optimize Office Access and Jet database engine network performance with Windows 2000-based and Windows XP-based clients [Q889588]">MS KB889588</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+150384+Q150384" rel="nofollow" title="Shared file access is delayed if the file is open on another computer [Q150384]">MS KB150384</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+889588+Q889588" rel="nofollow" title="How to optimize Office Access and Jet database engine network performance with Windows 2000-based and Windows XP-based clients [Q889588]">MS KB889588</a>
 
  Note it is strange that Microsoft have implemented this polling strategy, incase several programs are trying to request the same file, then one or more programs might experience that they never gets access because between each delay another program "steals" the access.  
   

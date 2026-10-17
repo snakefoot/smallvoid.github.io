@@ -35,10 +35,10 @@ Directories containing temporary files usually see a lot of file operations, and
  Note one should consider configuring Index-Service or AntiVirus-Service not to scan directories with temporary files as it increases the CPU load.  
   
  To create a RAM drive to store such files, one can use these free tools:
-- DOS RAMDRIVE.SYS that have existed since DOS 3.3 (Included with Win9x and found here C:\\WINDOWS. MSDOSDRV.TXT explains how to use it <a href="https://www.bing.com/search?q=KB%20142546%20Q142546" rel="nofollow" title="How to Use a RAM Drive to Troubleshoot Memory [Q142546]">MS KB142546</a>).
+- DOS RAMDRIVE.SYS that have existed since DOS 3.3 (Included with Win9x and found here C:\\WINDOWS. MSDOSDRV.TXT explains how to use it <a href="https://www.bing.com/search?q=KB+142546+Q142546" rel="nofollow" title="How to Use a RAM Drive to Troubleshoot Memory [Q142546]">MS KB142546</a>).
 - [XMSDSK](http://www.uwe-sieber.de/util_e.html) is an extended version of RAMDRIVE.SYS for Win9x (DOS), which makes it possible to specify which drive to use for RAM-drive.
 - [ReSizeable RAMDisk](http://sourceforge.net/projects/srdisk) is an extended version of RAMDRIVE.SYS for Win9x (DOS), which allows one to resize the RAM drive on the fly.
-- <a href="https://www.bing.com/search?q=KB%20257405%20Q257405" rel="nofollow" title="FILE: Ramdisk.sys Sample Driver for Windows 2000 [Q257405]">MS KB257405</a> Win2k experimental Ramdisk.sys ([Ramdisk with GUI controls](http://www.ramdisk.tk/ "Christiaan Ghijselinck")).
+- <a href="https://www.bing.com/search?q=KB+257405+Q257405" rel="nofollow" title="FILE: Ramdisk.sys Sample Driver for Windows 2000 [Q257405]">MS KB257405</a> Win2k experimental Ramdisk.sys ([Ramdisk with GUI controls](http://www.ramdisk.tk/ "Christiaan Ghijselinck")).
 - [MS WinNT4 DDK RAMDRIVE](http://smallvoid.orgfree.com/?file=ramdrvnt.zip) WinNT4 experimental RAMDRIVE.SYS.
 - [PPSoft RAMDisk](http://www.ppsoft.dk/Ramdisk_Eng.htm) supports 95, 98, Me and 2000/XP (The download link is below the menu).
 - [AR RAM Disk](http://www.arsoft-online.de/index.php?Itemid=30) it supports 2000/XP.

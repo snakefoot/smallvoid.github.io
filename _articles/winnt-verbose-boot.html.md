@@ -29,7 +29,7 @@ Increase the level of status message being shown during startup and shutdown to 
  > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows \\CurrentVersion \\Policies \\System\]  
  >  DisableStatusMessages = 0 (0 = Show messages, 1 = Hide messages)
 
- More Info <a href="https://www.bing.com/search?q=KB%20316243%20Q316243" rel="nofollow" title="HOW TO: Receive Verbose Startup, Shutdown, Logon, and Logoff Status Messages [Q316243]">MS KB316243</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20325376%20Q325376" rel="nofollow" title="How To Enable Verbose Startup, Shutdown, Logon, and Logoff Status Messages in the Windows Server 2003 Family [Q325376]">MS KB325376</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+316243+Q316243" rel="nofollow" title="HOW TO: Receive Verbose Startup, Shutdown, Logon, and Logoff Status Messages [Q316243]">MS KB316243</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+325376+Q325376" rel="nofollow" title="How To Enable Verbose Startup, Shutdown, Logon, and Logoff Status Messages in the Windows Server 2003 Family [Q325376]">MS KB325376</a>  
   
  Credits [is-it-true.org](http://www.is-it-true.org/)

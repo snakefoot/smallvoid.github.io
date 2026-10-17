@@ -28,11 +28,11 @@ With Windows 98 a new feature came which makes the shutdown/restart quicker.
   
  Note this option becomes disabled by installing the Shutdown patch.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20145926%20Q145926" rel="nofollow" title="How to Troubleshoot Windows 95 Shutdown Problems [Q145926]">MS KB145926</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20186925%20Q186925" rel="nofollow" title="Restarting Computer While Holding Down SHIFT Key Hangs Windows [Q186925]">MS KB186925</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20196008%20Q196008" rel="nofollow" title="Computer Stops Responding When You Try to Shut It Down [Q196008]">MS KB196008</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20202633%20Q202633" rel="nofollow" title="How to Troubleshoot Windows 98 Shutdown Problems [Q202633]">MS KB202633</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20238096%20Q238096" rel="nofollow" title="Problems Shutting Down Windows 98 Second Edition [Q238096]">MS KB238096</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20273746%20Q273746" rel="nofollow" title="How to Troubleshoot Windows Me Shutdown Problems [Q273746]">MS KB273746</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+145926+Q145926" rel="nofollow" title="How to Troubleshoot Windows 95 Shutdown Problems [Q145926]">MS KB145926</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+186925+Q186925" rel="nofollow" title="Restarting Computer While Holding Down SHIFT Key Hangs Windows [Q186925]">MS KB186925</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+196008+Q196008" rel="nofollow" title="Computer Stops Responding When You Try to Shut It Down [Q196008]">MS KB196008</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+202633+Q202633" rel="nofollow" title="How to Troubleshoot Windows 98 Shutdown Problems [Q202633]">MS KB202633</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+238096+Q238096" rel="nofollow" title="Problems Shutting Down Windows 98 Second Edition [Q238096]">MS KB238096</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+273746+Q273746" rel="nofollow" title="How to Troubleshoot Windows Me Shutdown Problems [Q273746]">MS KB273746</a>  
   
  Credits [aumha.org](http://aumha.org/win4/a/shutdown.htm)

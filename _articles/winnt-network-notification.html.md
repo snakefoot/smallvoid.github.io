@@ -21,18 +21,18 @@ When mapping a network share as a network drive, then Windows Explorer tells the
 > \[HKEY\_CURRENT\_USER \\SOFTWARE \\Microsoft \\Windows \\CurrentVersion \\Policies \\Explorer\]  
 >  NoRemoteChangeNotify = 1  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20812669%20Q812669" rel="nofollow" title="An update is available in Windows to turn off directory notification SMB requests [Q812669]">MS KB812669</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+812669+Q812669" rel="nofollow" title="An update is available in Windows to turn off directory notification SMB requests [Q812669]">MS KB812669</a>
 
  Windows XP and Windows 2003 extends the event registering from just being the root-folder, to actually be all underlying sub-folders and their files (Even more traffic). To change this back to only register for events happening in the root of the mapped network share:
 > \[HKEY\_CURRENT\_USER \\SOFTWARE \\Microsoft \\Windows \\CurrentVersion \\Policies \\Explorer\]  
 >  NoRemoteRecursiveEvents = 1  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20330929%20Q330929" rel="nofollow" title="Windows XP May Cause Extra SMB Notify Change Traffic [Q330929]">MS KB330929</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20816375%20Q816375" rel="nofollow" title="Windows XP Explorer Pane Flickers on Mapped Network Drives [Q816375]">MS KB816375</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20885189%20Q885189" rel="nofollow" title="Slow performance when you use a mapped drive to copy files to a remote server from a Windows Server 2003-based computer [Q885189]">MS KB885189</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+330929+Q330929" rel="nofollow" title="Windows XP May Cause Extra SMB Notify Change Traffic [Q330929]">MS KB330929</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+816375+Q816375" rel="nofollow" title="Windows XP Explorer Pane Flickers on Mapped Network Drives [Q816375]">MS KB816375</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+885189+Q885189" rel="nofollow" title="Slow performance when you use a mapped drive to copy files to a remote server from a Windows Server 2003-based computer [Q885189]">MS KB885189</a>
 
  Note if using software which relies on being notified of file changes and its files are placed on a mapped network share, then this change in policy might give unpredictable results.  
   
  Note only WinXP SP2+ reacts to the registry entries above, or if having applied the <a href="https://www.bing.com/search?q=KB+810565+Q810565" title="Hyperlinks open in Internet Explorer instead of in default browser or Help and Support Center [Q810565]" rel="nofollow">Critical Update - MS KB810565</a>.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20831129%20Q831129" rel="nofollow" title="Folder tree flickers when you view a mapped network drive in Microsoft Windows Explorer [Q831129]">MS KB831129</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+831129+Q831129" rel="nofollow" title="Folder tree flickers when you view a mapped network drive in Microsoft Windows Explorer [Q831129]">MS KB831129</a>  

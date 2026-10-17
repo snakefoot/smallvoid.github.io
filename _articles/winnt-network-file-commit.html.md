@@ -26,8 +26,8 @@ When writing to a file it is possible to perform a commit operation, which speci
 >   
 >  Note this should only be considered if the server is equipped with a redundant disc system along with battery backup.  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20840390%20Q840390" rel="nofollow" title="Software update to change the behavior of the SMB_COM_FLUSH command in Windows Server 2003 [Q840390]">MS KB840390</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20894372%20Q894372" rel="nofollow" title="Support for Windows Server 2003 SP1 on Windows Storage Server 2003-based server appliances [Q894372]">MS KB894372</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+840390+Q840390" rel="nofollow" title="Software update to change the behavior of the SMB_COM_FLUSH command in Windows Server 2003 [Q840390]">MS KB840390</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+894372+Q894372" rel="nofollow" title="Support for Windows Server 2003 SP1 on Windows Storage Server 2003-based server appliances [Q894372]">MS KB894372</a>
 
  Related [Configure hard disk cache to ignore flush requests](/article/hard-disk-cache.html)  
   

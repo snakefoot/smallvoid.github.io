@@ -20,6 +20,6 @@ tags:
 > \\Q123789\_w2k\_sp2\_x86.exe -z -m  
 > \\Qchain.exe
 
- More Info <a href="https://www.bing.com/search?q=KB%20296723%20Q296723" rel="nofollow" title="Hotfixes That Are Listed in the [SetupHotFixesToRun] Section in the Svcpack.inf File Are Not Installed [Q296723]">MS KB296723</a> (About flaw in Pre Win2k SP3 Hotfixes)  
- More Info <a href="https://www.bing.com/search?q=KB%20296861%20Q296861" rel="nofollow" title="How to Install Multiple Windows Updates or Hotfixes with Only One Reboot [Q296861]">MS KB296861</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20815062%20Q815062" rel="nofollow" title="The Correct File Is Not Installed When You Chain Multiple Hotfixes [Q815062]">MS KB815062</a> (About flaw in [old version](http://www.microsoft.com/downloads/release.asp?ReleaseID=29821))  
+ More Info <a href="https://www.bing.com/search?q=KB+296723+Q296723" rel="nofollow" title="Hotfixes That Are Listed in the [SetupHotFixesToRun] Section in the Svcpack.inf File Are Not Installed [Q296723]">MS KB296723</a> (About flaw in Pre Win2k SP3 Hotfixes)  
+ More Info <a href="https://www.bing.com/search?q=KB+296861+Q296861" rel="nofollow" title="How to Install Multiple Windows Updates or Hotfixes with Only One Reboot [Q296861]">MS KB296861</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+815062+Q815062" rel="nofollow" title="The Correct File Is Not Installed When You Chain Multiple Hotfixes [Q815062]">MS KB815062</a> (About flaw in [old version](http://www.microsoft.com/downloads/release.asp?ReleaseID=29821))  

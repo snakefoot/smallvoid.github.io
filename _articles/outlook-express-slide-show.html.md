@@ -22,4 +22,4 @@ There is a slideshow feature built into Outlook Express (OE) 4 and 5. By standar
   
  Note OE 6 doesn't support the slide show feature, but it will react to not showing the preview list in the bottom of the mail (Only showing the files as attachments, or if HTML mail only showing the pictures in the intended position).  
   
- More info <a href="https://www.bing.com/search?q=KB%20234489%20Q234489" rel="nofollow" title="OLEXP: How to Disable the Picture Slide Show Feature in Outlook Express [Q234489]">MS KB234489</a>  
+ More info <a href="https://www.bing.com/search?q=KB+234489+Q234489" rel="nofollow" title="OLEXP: How to Disable the Picture Slide Show Feature in Outlook Express [Q234489]">MS KB234489</a>  

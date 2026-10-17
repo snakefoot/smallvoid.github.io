@@ -31,15 +31,15 @@ tags:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\BackupRestore\]  
 >  UseMicrosoftProvider = 0  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20833829%20Q833829" rel="nofollow" title="The 'Disable volume shadow copy' option is unavailable in the Windows Server 2003 backup utility [Q833829]">MS KB833829</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+833829+Q833829" rel="nofollow" title="The 'Disable volume shadow copy' option is unavailable in the Windows Server 2003 backup utility [Q833829]">MS KB833829</a>
 
- Note if performing a defrag of a volume containing shadow copies, then the defragger can trigger the Volume Shadow Copy service to record all the cluster moving, which will fill the entire shadow copy storage area. VSS will delete the oldest shadow copies to make room, so all or some shadow copies will be lost. Changing the [cluster size](/article/cluster-hard-disk-partition.html) to 16K for the volumes containing shadow copies should solve the problem. More Info <a href="https://www.bing.com/search?q=KB%20312067%20Q312067" rel="nofollow" title="Shadow copies may be lost when you defragment a volume">MS KB312067</a>  
+ Note if performing a defrag of a volume containing shadow copies, then the defragger can trigger the Volume Shadow Copy service to record all the cluster moving, which will fill the entire shadow copy storage area. VSS will delete the oldest shadow copies to make room, so all or some shadow copies will be lost. Changing the [cluster size](/article/cluster-hard-disk-partition.html) to 16K for the volumes containing shadow copies should solve the problem. More Info <a href="https://www.bing.com/search?q=KB+312067+Q312067" rel="nofollow" title="Shadow copies may be lost when you defragment a volume">MS KB312067</a>  
   
  Note if the Volume Shadow Copy service (VSS) is activated while a defrag is performed, then the defragger might stop before it is completed. VSS is activated when a backup operation is being performed, so either wait for this operation to complete or disable the VSS momentarily while running defrag. Defrag will show this following message while waiting for VSS to finish:
  > Paused for Volume Shadow Copy
 
- More Info <a href="https://www.bing.com/search?q=KB%20838421%20Q838421" rel="nofollow" title="How to configure the Shadow Copies of Shared Folders feature on a Windows Server 2003-based server cluster file share [Q838421]">MS KB838421</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20887013%20Q887013" rel="nofollow" title="How to enable the Volume Shadow Copy service's debug tracing features in Microsoft Windows Server 2003 [Q887013]">MS KB887013</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+838421+Q838421" rel="nofollow" title="How to configure the Shadow Copies of Shared Folders feature on a Windows Server 2003-based server cluster file share [Q838421]">MS KB838421</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+887013+Q887013" rel="nofollow" title="How to enable the Volume Shadow Copy service's debug tracing features in Microsoft Windows Server 2003 [Q887013]">MS KB887013</a>  
  More Info [MS Technet - What Is Volume Shadow Copy Service?](http://technet2.microsoft.com/WindowsServer/en/library/3cf204e6-709a-4eb8-8cbc-ad9655de91ba1033.mspx)  
  More Info [MS Technet - How Volume Shadow Copy Service Works](http://technet2.microsoft.com/WindowsServer/en/library/2b0d2457-b7d8-42c3-b6c9-59c145b7765f1033.mspx)  
 ##### Recommended State:

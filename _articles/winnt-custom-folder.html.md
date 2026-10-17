@@ -31,8 +31,8 @@ Windows XP automatically caches the chosen appearance of each folder, when the u
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Advanced\]  
 >  ClassicViewState = 0 (0 = Remember Folder View, 1 = Don't remember)
 
- More Info <a href="https://www.bing.com/search?q=KB%20812003%20Q812003" rel="nofollow" title="How to modify your folder view settings or to customize a folder [Q812003]">MS KB812003</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20813711%20Q813711" rel="nofollow" title="Your view settings or customizations for a folder are lost or incorrect [Q813711]">MS KB813711</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+812003+Q812003" rel="nofollow" title="How to modify your folder view settings or to customize a folder [Q812003]">MS KB812003</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+813711+Q813711" rel="nofollow" title="Your view settings or customizations for a folder are lost or incorrect [Q813711]">MS KB813711</a>  
   
  Related [Setting the default folder view for all folders](/article/winnt-default-folder-view.html)  
  Related [Configure caching of remote customized folders in WinXP](/article/winnt-custom-folder-cache.html)  

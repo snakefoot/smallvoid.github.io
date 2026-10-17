@@ -10,7 +10,7 @@ categories:
     - windows-98_tips
 tags: []
 ---
-Microsoft is very eager to write about how good their software is, and all the features it actually provides. There is an article which is often overlooked, and it is installed right along with Windows 98. The article is located in the Windows directory and saved in a text file called TIPS.TXT, together with other text files about Windows. More Info <a href="https://www.bing.com/search?q=KB%20234880%20Q234880" rel="nofollow" title="Microsoft Windows 98 Second Edition Readme.txt File [Q234880]">MS KB234880</a>.  
+Microsoft is very eager to write about how good their software is, and all the features it actually provides. There is an article which is often overlooked, and it is installed right along with Windows 98. The article is located in the Windows directory and saved in a text file called TIPS.TXT, together with other text files about Windows. More Info <a href="https://www.bing.com/search?q=KB+234880+Q234880" rel="nofollow" title="Microsoft Windows 98 Second Edition Readme.txt File [Q234880]">MS KB234880</a>.  
   
  Microsoft have also created several online Technet articles with tips for Windows 98:
 

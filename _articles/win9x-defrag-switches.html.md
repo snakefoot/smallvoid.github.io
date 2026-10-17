@@ -29,6 +29,6 @@ If you want to schedule the defrag of your HDD, then these command line switches
 - **/Sageset:x** - Used to create a profile (x is a number from 0-65535)
 - **/Sagerun:x** - Used to execute a created profile (x is a number from 0-65535)
  
- More Info <a href="https://www.bing.com/search?q=KB%20155326%20Q155326" rel="nofollow" title="Windows 95 Defrag.exe Command-Line Parameters [Q155326]">MS KB155326</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+155326+Q155326" rel="nofollow" title="Windows 95 Defrag.exe Command-Line Parameters [Q155326]">MS KB155326</a>  
   
  Related [Defrag partitions to speed up file access](/article/defrag-hard-disk-partition.html)

@@ -24,6 +24,6 @@ AMD Ahtlon XP processors combined with AGP display adapters can cause blue scree
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Session Manager \\Memory Management\]  
 >  LargePageMinimum = 0xffffffff  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20270715%20Q270715" rel="nofollow" title="AGP Program May Hang When Using Page Size Extension on Athlon Processor [270715]">MS KB270715</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+270715+Q270715" rel="nofollow" title="AGP Program May Hang When Using Page Size Extension on Athlon Processor [270715]">MS KB270715</a>
 
  Note disabling PSE will disable large pages (4 MB instead of 4K) but will enable write protection of the memory area for the kernel. Large pages increases address translation performance and makes it possible to use a single TLB (Translation Lookaside Buffer) to map 4 MByte of RAM and increases the [non-paged pool](/article/winnt-kernel-memory.html) limit to 256 MB (Instead of 128 MByte). The large pages are used to map the Windows core into memory like: NTOSKRNL, HAL, nonpaged pool, and the PFN database.

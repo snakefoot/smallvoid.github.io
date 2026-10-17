@@ -32,14 +32,14 @@ By default the drive letters are shared (C$, D$, ADMIN$ etc.) as [hidden shares]
  Note that it will only stop Windows from creating the shares at startup, one have to delete the admin shares one self, but only once after changing the above registry keys. Besides using the standard interface for removing the shares, one can also find and delete the shares by editing the registry database at this location:
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\LanmanServer \\Shares\]  
  >   
- >  More Info <a href="https://www.bing.com/search?q=KB%20125996%20Q125996" rel="nofollow" title="Saving and restoring existing Windows shares [Q125996]">MS KB125996</a>
+ >  More Info <a href="https://www.bing.com/search?q=KB+125996+Q125996" rel="nofollow" title="Saving and restoring existing Windows shares [Q125996]">MS KB125996</a>
 
  Note the administrative shares are required by Microsoft Operations Manager (MOM) and Microsoft Systems Management Server (SMS), and have to be enabled on the client machines for them to function properly.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20245117%20Q245117" rel="nofollow" title="Administrative Shares Do Not Appear on Server [Q245117]">MS KB245117</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20288164%20Q288164" rel="nofollow" title="How to Prevent the Creation of Administrative Shares on Windows NT Server 4.0 [Q288164]">MS KB288164</a> (Replaces MS KB318751)  
- More Info <a href="https://www.bing.com/search?q=KB%20314984%20Q314984" rel="nofollow" title="HOW TO: Create and Delete Hidden or Administrative Shares on Client Computers [Q314984]">MS KB314984</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20318755%20Q318755" rel="nofollow" title="HOW TO: Restore Administrative Shares That Have Been Deleted [Q318755]">MS KB318755</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20816113%20Q816113" rel="nofollow" title="How to use Registry Editor to restore administrative shares in Windows Server 2003 [Q816113]">MS KB816113</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20816524%20Q816524" rel="nofollow" title="How to remove administrative shares in Windows Server 2003 [Q816524]">MS KB816524</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20842715%20Q842715" rel="nofollow" title="Overview of problems that may occur when administrative shares are missing [Q842715]">MS KB842715</a> (Description of side-effects)  
+ More Info <a href="https://www.bing.com/search?q=KB+245117+Q245117" rel="nofollow" title="Administrative Shares Do Not Appear on Server [Q245117]">MS KB245117</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+288164+Q288164" rel="nofollow" title="How to Prevent the Creation of Administrative Shares on Windows NT Server 4.0 [Q288164]">MS KB288164</a> (Replaces MS KB318751)  
+ More Info <a href="https://www.bing.com/search?q=KB+314984+Q314984" rel="nofollow" title="HOW TO: Create and Delete Hidden or Administrative Shares on Client Computers [Q314984]">MS KB314984</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+318755+Q318755" rel="nofollow" title="HOW TO: Restore Administrative Shares That Have Been Deleted [Q318755]">MS KB318755</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+816113+Q816113" rel="nofollow" title="How to use Registry Editor to restore administrative shares in Windows Server 2003 [Q816113]">MS KB816113</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+816524+Q816524" rel="nofollow" title="How to remove administrative shares in Windows Server 2003 [Q816524]">MS KB816524</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+842715+Q842715" rel="nofollow" title="Overview of problems that may occur when administrative shares are missing [Q842715]">MS KB842715</a> (Description of side-effects)  

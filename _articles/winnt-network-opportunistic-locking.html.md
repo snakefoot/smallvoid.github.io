@@ -42,9 +42,9 @@ When accessing a file on the network, then the file operations are converted to 
   
  Note Windows Vista can only disable opportunistic locking for traditional SMB (SMB1), but not for SMB2. If disabling opportunistic locking, then the [offline files feature](/article/winnt-services-cscservice.html) will fail.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20129202%20Q129202" rel="nofollow" title="PC Ext: Explanation of Opportunistic Locking on Windows NT [Q129202]">MS KB129202</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20224992%20Q224992" rel="nofollow" title="Maintaining Transactional Integrity with OPLOCKS [Q224992]">MS KB224992</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20296264%20Q296264" rel="nofollow" title="Configuring Opportunistic Locking in Windows [Q296264]">MS KB296264</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20306981%20Q306981" rel="nofollow" title="Level II Oplocks Are Not Granted After a File Is Locked [Q306981]">MS KB306981</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20818396%20Q818396" rel="nofollow" title="File Operation Takes 35 Seconds or Longer on a Down-Level Server Running an SMB Service [Q818396]">MS KB818396</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+129202+Q129202" rel="nofollow" title="PC Ext: Explanation of Opportunistic Locking on Windows NT [Q129202]">MS KB129202</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+224992+Q224992" rel="nofollow" title="Maintaining Transactional Integrity with OPLOCKS [Q224992]">MS KB224992</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+296264+Q296264" rel="nofollow" title="Configuring Opportunistic Locking in Windows [Q296264]">MS KB296264</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+306981+Q306981" rel="nofollow" title="Level II Oplocks Are Not Granted After a File Is Locked [Q306981]">MS KB306981</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+818396+Q818396" rel="nofollow" title="File Operation Takes 35 Seconds or Longer on a Down-Level Server Running an SMB Service [Q818396]">MS KB818396</a>  
  More Info [MSDN: Opportunistic Locks](http://msdn.microsoft.com/library/en-us/fileio/fs/opportunistic_locks.asp)  

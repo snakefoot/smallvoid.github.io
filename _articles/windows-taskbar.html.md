@@ -45,4 +45,4 @@ Disable the arrow with "Click here to begin" in Win95/NT4:
 > \[HKEY\_CURRENT\_USER \\Control Panel \\Desktop\]  
 >  ClassicShell = 01 00 00 00 (BINARY)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20273785%20Q273785" rel="nofollow" title="Quick Launch Toolbar Icons Are Missing or Unavailable [Q273785]">MS KB273785</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+273785+Q273785" rel="nofollow" title="Quick Launch Toolbar Icons Are Missing or Unavailable [Q273785]">MS KB273785</a>

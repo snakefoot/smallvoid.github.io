@@ -18,7 +18,7 @@ The FDISK delivered with MS-DOS 5 up to Win98 SE is not made to handle HDD beyon
   
  One can still use the original FDISK by creating one large drive, or several partitions using percentages (Not actual MByte size). FDISK will report the partition sizes wrong but they will be correct in DOS and Windows.  
   
- The FORMAT delivered with MS-DOS 5 up to WinMe is able to format partitions above 64 GByte. But visually it will show the wrong format size. <a href="https://www.bing.com/search?q=KB%20263045%20Q263045" rel="nofollow" title="Format Displays Size of Partitions or Logical Drives Larger Than 64 GB Incorrectly [Q263045]">MS KB263045</a>  
+ The FORMAT delivered with MS-DOS 5 up to WinMe is able to format partitions above 64 GByte. But visually it will show the wrong format size. <a href="https://www.bing.com/search?q=KB+263045+Q263045" rel="nofollow" title="Format Displays Size of Partitions or Logical Drives Larger Than 64 GB Incorrectly [Q263045]">MS KB263045</a>  
   
  Related [Pro and cons for using multiple partitions](/article/multiple-partitions.html)  
  Related [Partition Resizer](/article/partition-resizer.html)  

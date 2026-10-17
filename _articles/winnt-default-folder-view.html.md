@@ -21,7 +21,7 @@ To configure all folders to display the files the same way:
 3. Change to the "View"-fan and press "Reset Folders" and then press the "Apply to all folders"-button
  
  More Info [MSDN - New Windows XP Shell Features](http://msdn.microsoft.com/en-us/magazine/cc302214.aspx "MSDN Magazine November 2001 - New Graphical Interface: Enhance Your Programs with New Windows XP Shell Features")  
- More Info <a href="https://www.bing.com/search?q=KB%20812003%20Q812003" rel="nofollow" title="How to modify your folder view settings or to customize a folder">MS KB812003</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+812003+Q812003" rel="nofollow" title="How to modify your folder view settings or to customize a folder">MS KB812003</a>  
 ##### Changing the Folder Type template for a folder
 
  Even after having configured all folder to look the same way, then some folders may still display differently, because the Folder type has been configured. To configure the Folder Type of a folder:

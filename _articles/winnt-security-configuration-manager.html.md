@@ -22,6 +22,6 @@ tags:
  
  Note it is recommended to create a restore point before installing.  
   
- Note it is possible to disable the Security Tab using system policies (Remove Security tab) or with the registry (NoSecurityTab). More Info <a href="https://www.bing.com/search?q=KB%20303153%20Q303153" rel="nofollow" title="HOW TO: Remove the Security Tab By Using a Group Policy [Q303153]">MS KB303153</a>  
+ Note it is possible to disable the Security Tab using system policies (Remove Security tab) or with the registry (NoSecurityTab). More Info <a href="https://www.bing.com/search?q=KB+303153+Q303153" rel="nofollow" title="HOW TO: Remove the Security Tab By Using a Group Policy [Q303153]">MS KB303153</a>  
   
  Credits Gilles Pion

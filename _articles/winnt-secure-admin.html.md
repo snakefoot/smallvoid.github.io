@@ -29,7 +29,7 @@ The Administrator account is the default account created during the install of W
   2. In the tree-view go to "Local Policies" -&gt; "User Rights Assignment"
   3. Go to the entry "Deny access to this computer from the network" and double click it to add the Administrators-group.
    
-   More info <a href="https://www.bing.com/search?q=KB%20281140%20Q281140" rel="nofollow" title="HOW TO: Disable the Local Administrator Account in Windows [Q281140]">MS KB281140</a>
+   More info <a href="https://www.bing.com/search?q=KB+281140+Q281140" rel="nofollow" title="HOW TO: Disable the Local Administrator Account in Windows [Q281140]">MS KB281140</a>
 - Change the name of the Administrator account: 
   1. Open the **Control Panel** and double click **Users and Passwords**
   2. On the **Users**-tab tick **Users must enter a username and password to use this computer**
@@ -57,5 +57,5 @@ The Administrator account is the default account created during the install of W
 2. In the tree-view go to **Local Policies** -&gt; **Security Options**
 3. In the list find the item **Rename Administrator Account** and double click it to change it to something you can remember yourself
  
- More info <a href="https://www.bing.com/search?q=KB%20298252%20Q298252" rel="nofollow" title="Cannot Change the Password for the Administrator Account in User Accounts in Control Panel [Q298252]">MS KB298252</a>  
- More info <a href="https://www.bing.com/search?q=KB%20320053%20Q320053" rel="nofollow" title="HOW TO: Rename the Administrator and Guest Account in Windows 2000 [Q320053]">MS KB320053</a>  
+ More info <a href="https://www.bing.com/search?q=KB+298252+Q298252" rel="nofollow" title="Cannot Change the Password for the Administrator Account in User Accounts in Control Panel [Q298252]">MS KB298252</a>  
+ More info <a href="https://www.bing.com/search?q=KB+320053+Q320053" rel="nofollow" title="HOW TO: Rename the Administrator and Guest Account in Windows 2000 [Q320053]">MS KB320053</a>  

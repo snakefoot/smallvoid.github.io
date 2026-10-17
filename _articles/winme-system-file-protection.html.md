@@ -28,10 +28,10 @@ In an attempt to become more user friendly Microsoft decided that the user shoul
   
  Related [Display System file protection notifications](/article/winme-sfp-notification.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20253571%20Q253571" rel="nofollow" title="Description of the System File Protection Feature [Q253571]">MS KB253571</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20260195%20Q260195" rel="nofollow" title="Description of the Sfplog.txt File [Q260195]">MS KB260195</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20265371%20Q265371" rel="nofollow" title="How to Extract and Replace a Protected File in Windows Me [Q265371]">MS KB265371</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20266714%20Q266714" rel="nofollow" title="SFP Cannot Function When System.cat File Is Corrupt or Missing [Q266714]">MS KB266714</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20267282%20Q267282" rel="nofollow" title="A Description of the Sfpdb.sfp Database File [Q267282]">MS KB267282</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20274090%20Q274090" rel="nofollow" title="System File Checker Is Not Included in Windows Millennium Edition [Q274090]">MS KB274090</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20275156%20Q275156" rel="nofollow" title="How to Determine if a File Is Protected by System File Protection [Q275156]">MS KB275156</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+253571+Q253571" rel="nofollow" title="Description of the System File Protection Feature [Q253571]">MS KB253571</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+260195+Q260195" rel="nofollow" title="Description of the Sfplog.txt File [Q260195]">MS KB260195</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+265371+Q265371" rel="nofollow" title="How to Extract and Replace a Protected File in Windows Me [Q265371]">MS KB265371</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+266714+Q266714" rel="nofollow" title="SFP Cannot Function When System.cat File Is Corrupt or Missing [Q266714]">MS KB266714</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+267282+Q267282" rel="nofollow" title="A Description of the Sfpdb.sfp Database File [Q267282]">MS KB267282</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+274090+Q274090" rel="nofollow" title="System File Checker Is Not Included in Windows Millennium Edition [Q274090]">MS KB274090</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+275156+Q275156" rel="nofollow" title="How to Determine if a File Is Protected by System File Protection [Q275156]">MS KB275156</a>  

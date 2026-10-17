@@ -19,7 +19,7 @@ When using Outlook and you have deleted a message, then the Exchange-server will
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Exchange \\Client \\Options\]  
 >  DumpsterAlwaysOn = 1
 
- More info <a href="https://www.bing.com/search?q=KB%20178630%20Q178630" rel="nofollow" title="XADM: How to Recover Items That Are Not First Transferred to the Deleted Items Folder [Q178630]">MS KB178630</a>  
- More info <a href="https://www.bing.com/search?q=KB%20246153%20Q246153" rel="nofollow" title="XCLN: How to Recover Items That Have Been Hard Deleted [Q246153]">MS KB246153</a>  
+ More info <a href="https://www.bing.com/search?q=KB+178630+Q178630" rel="nofollow" title="XADM: How to Recover Items That Are Not First Transferred to the Deleted Items Folder [Q178630]">MS KB178630</a>  
+ More info <a href="https://www.bing.com/search?q=KB+246153+Q246153" rel="nofollow" title="XCLN: How to Recover Items That Have Been Hard Deleted [Q246153]">MS KB246153</a>  
   
  Credits [winnetmag.com](http://winnetmag.com/)

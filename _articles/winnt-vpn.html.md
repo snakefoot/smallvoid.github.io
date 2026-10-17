@@ -34,6 +34,6 @@ Virtual Private Network(VPN) allows you to create a protected/encrypted network 
 - <a href="https://www.bing.com/search?q=KB+323441+Q323441" rel="nofollow">HOW TO: Install and Configure a Virtual Private Network Server in Windows Server 2003 (MS KB323441)</a>
 - <a href="https://www.bing.com/search?q=KB+324747+Q324747" rel="nofollow">HOW TO: Provide Secure Point-to-Point Communications Across a Internet in Windows 2003 (MS KB324747)</a>
  
- More Info <a href="https://www.bing.com/search?q=KB%20241252%20Q241252" rel="nofollow" title="VPN Tunnels - PPTP Protocol Packet Description and Use [Q241252]">MS KB241252</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+241252+Q241252" rel="nofollow" title="VPN Tunnels - PPTP Protocol Packet Description and Use [Q241252]">MS KB241252</a>  
   
  Related [Microsoft L2TP/IPSec VPN Client](/article/windows-vpn-client.html)

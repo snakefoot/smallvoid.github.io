@@ -36,7 +36,7 @@ When the computer starts then it tries to figure out which device to boot from (
 
  There can be different causes for this problem:
 - **Disk a have been left in a removable drive:**  
-   Usually caused by having inserted a disk in the floppy drive or the CD-ROM drive or attaching an USB flash drive. Just remove the disk from the drive, and it should be solved. More Info <a href="https://www.bing.com/search?q=KB%20812492%20Q812492" rel="nofollow" title="Error message when you start your computer with a non-system disk [Q812492]">MS KB812492</a>
+   Usually caused by having inserted a disk in the floppy drive or the CD-ROM drive or attaching an USB flash drive. Just remove the disk from the drive, and it should be solved. More Info <a href="https://www.bing.com/search?q=KB+812492+Q812492" rel="nofollow" title="Error message when you start your computer with a non-system disk [Q812492]">MS KB812492</a>
 - **Trying to boot from a hard disk that is no longer recognized as boot device:**  
    One should verify that hard disk cables are properly attached and that the hard disk is being detected properly by the system.  
    If having added a new hard disk, then one should make sure that the disk controller doesn't attempt to boot from the new hard disk.  
@@ -47,7 +47,7 @@ When the computer starts then it tries to figure out which device to boot from (
   - Win2k / XP / Win2k3 - Use [Recovery Console](/article/winnt-recovery-console.html) and run fixboot
   - Win9x / DOS - Use a partition configuration tool like [Fdisk](/article/fdisk.html) to set the active boot partition.
    
-   More Info <a href="https://www.bing.com/search?q=KB%20315261%20Q315261" rel="nofollow" title="The computer does not start after you change the active partition by using the Disk Management tool [Q315261]">MS KB315261</a>
+   More Info <a href="https://www.bing.com/search?q=KB+315261+Q315261" rel="nofollow" title="The computer does not start after you change the active partition by using the Disk Management tool [Q315261]">MS KB315261</a>
 - **Trying to boot from a CD / DVD to install the operating system:**  
    Just like when booting from a hard disk, then one must ensure that the motherboard BIOS actually recognizes the CD / DVD-drive. If not then check the power- and data-cables to the CD / DVD drive.  
     

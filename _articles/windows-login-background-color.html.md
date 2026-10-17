@@ -46,4 +46,4 @@ If you have become tired of the standard color on you background at login then t
  Instead of:
  > \[HKEY\_CURRENT\_USER\]
 
- More Info <a href="https://www.bing.com/search?q=KB%20103327%20Q103327" rel="nofollow" title="Changing Background Bitmap for the Windows NT Logon Screen [Q103327]">MS KB103327</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+103327+Q103327" rel="nofollow" title="Changing Background Bitmap for the Windows NT Logon Screen [Q103327]">MS KB103327</a>  

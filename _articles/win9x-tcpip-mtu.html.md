@@ -27,7 +27,7 @@ To change the MTU for an adapter :
 - Looking at the value "DriverDesc" for each {Adapter-Id}, and see if it matches the wanted device (Ex. if modem then "Dialup Adapter")
 - Change the TCP/IP setting for the adapter in network properties, example the DNS address. Then find the {Adapter-Id} which has that certain DNS-address
  
- More Info <a href="https://www.bing.com/search?q=KB%20250663%20Q250663" rel="nofollow" title="Description of the TCP/IP Registry Entries in the NetTrans Subkey [Q250663]">MS KB250663</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+250663+Q250663" rel="nofollow" title="Description of the TCP/IP Registry Entries in the NetTrans Subkey [Q250663]">MS KB250663</a>  
   
  Note with <a href="https://www.bing.com/search?q=KB+285189+Q285189" title="Dial-Up Networking 1.4 Upgrade Is Available [Q285189]" rel="nofollow">DUN 1.3+</a> (Windows 98 and Windows Me has it installed by default) it is possible to set the MTU for a dialup adapter, without going into the registry. Control Panel -&gt; Network -&gt; Dial-Up Adapter -&gt; Advanced tab -&gt; IP Packet Size. - Automatic = 0 (576 bytes when below 128 kbps else 1500 bytes)
 - Large = 1500 bytes
@@ -39,6 +39,6 @@ To change the MTU for an adapter :
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\Class \\Net \\{Dialup-Adapter-Id} \\Ndi \\params \\IPMTU \\enum\]  
  >  "1492"="Automatic"
 
- More Info <a href="https://www.bing.com/search?q=KB%20183437%20Q183437" rel="nofollow" title="Description of the Internet Protocol Packet Size Setting [Q183437]">MS KB183437</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+183437+Q183437" rel="nofollow" title="Description of the Internet Protocol Packet Size Setting [Q183437]">MS KB183437</a>  
   
  Related [Finding the optimal TCPIP max transfer unit (MTU) size](/article/tcpip-mtu-size.html)  

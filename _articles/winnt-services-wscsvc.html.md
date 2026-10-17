@@ -16,7 +16,7 @@ tags:
 ---
 ##### Description:
 
- Monitors the health of the system by checking if proper firewall, antivirus, automatic-update policies are in place and working. More Info <a href="https://www.bing.com/search?q=KB%20883792%20Q883792" rel="nofollow" title="Frequently asked questions about Windows Security Center [Q883792]">MS KB883792</a>  
+ Monitors the health of the system by checking if proper firewall, antivirus, automatic-update policies are in place and working. More Info <a href="https://www.bing.com/search?q=KB+883792+Q883792" rel="nofollow" title="Frequently asked questions about Windows Security Center [Q883792]">MS KB883792</a>  
   
  Note the Security Center provides different security warnings using balloon tips, and they can be turned off through the Security Center interface. But one can also do it by setting these DWORD values:
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Security Center\]  

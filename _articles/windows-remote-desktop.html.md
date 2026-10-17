@@ -38,23 +38,23 @@ Remote Desktop Client (RDC) is installed by default on WinXP, but it will also r
  Note by default when disconnecting from a remote non-server system, then the user used for login is logged off. To keep the user logged in, then disconnect with this command (Make shortcut in Quick Launch):
 > %windir%\\System32\\tscon.exe 0 /dest:console  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20243202%20Q243202" rel="nofollow" title="Windows 2000 Terminal Services Session Management Tools [Q243202]">MS KB243202</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20302801%20Q302801" rel="nofollow" title="The Use of Tscon.exe Can Leave a Previously-Locked Console Unlocked [Q302801]">MS KB302801</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+243202+Q243202" rel="nofollow" title="Windows 2000 Terminal Services Session Management Tools [Q243202]">MS KB243202</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+302801+Q302801" rel="nofollow" title="The Use of Tscon.exe Can Leave a Previously-Locked Console Unlocked [Q302801]">MS KB302801</a>
 
  Note mouse and keyboard movement might seem jerky when doing remote desktop. This can be fixed by setting this registry key on the client-side:
 > \[HKEY\_CURENT\_USER \\Software \\Microsoft \\Terminal Server Client\]  
 >  Min Send Interval = 10 (Default 100 ms)  
 >  Min Send Interval 5 = 10 (Default 120 ms)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20196460%20Q196460" rel="nofollow" title="Improving Mouse Movements in Terminal Server Applications [Q196460]">MS KB196460</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20830209%20Q830209" rel="nofollow" title="Mouse Pointer Movement Is Not Smooth If You Use Microsoft Terminal Services Advanced Client 5.1 or Later [Q830209]">MS KB830209</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20831172%20Q831172" rel="nofollow" title="Mouse pointer movement is not smooth in Microsoft Remote Desktop Connection [Q831172]">MS KB831172</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+196460+Q196460" rel="nofollow" title="Improving Mouse Movements in Terminal Server Applications [Q196460]">MS KB196460</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+830209+Q830209" rel="nofollow" title="Mouse Pointer Movement Is Not Smooth If You Use Microsoft Terminal Services Advanced Client 5.1 or Later [Q830209]">MS KB830209</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+831172+Q831172" rel="nofollow" title="Mouse pointer movement is not smooth in Microsoft Remote Desktop Connection [Q831172]">MS KB831172</a>
 
  Note it is possible create a system console (session 0) connection to a WinXP/Win2k3 computer instead of a terminal services session. Older applications and services will only display their console window and popup message boxes to session 0. Requires an administrator rights on the computer, and only one is allowed to be logged on like this (Default when performing remote desktop to XP):
 > mstsc.exe /console  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20278666%20Q278666" rel="nofollow" title="Error Message When You Try to Connect to a Terminal Server Computer [Q278666]">MS KB278666</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20311926%20Q311926" rel="nofollow" title="You Cannot Use Mstsc.exe with the /CONSOLE Switch to Connect to a Console Session on a Windows 2000 Server-Based Computer [Q311926]">MS KB311926</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+278666+Q278666" rel="nofollow" title="Error Message When You Try to Connect to a Terminal Server Computer [Q278666]">MS KB278666</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+311926+Q311926" rel="nofollow" title="You Cannot Use Mstsc.exe with the /CONSOLE Switch to Connect to a Console Session on a Windows 2000 Server-Based Computer [Q311926]">MS KB311926</a>
 
  Note to start with multi-monitor support:
  > mstsc.exe /span
@@ -62,7 +62,7 @@ Remote Desktop Client (RDC) is installed by default on WinXP, but it will also r
  Note to see more options:
 > mstsc.exe /?  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20304304%20Q304304" rel="nofollow" title="Configuring the Remote Desktop Client to Connect to a Specific Port [Q304304]">MS KB304304</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+304304+Q304304" rel="nofollow" title="Configuring the Remote Desktop Client to Connect to a Specific Port [Q304304]">MS KB304304</a>
 
  Note it is possible to make a local printer available in a remote session:
 1. Click Start -&gt; Run..
@@ -72,10 +72,10 @@ Remote Desktop Client (RDC) is installed by default on WinXP, but it will also r
 4. Click **Printers** in the Local Devices box.
 5. Click **Connect**.
  
- More Info <a href="https://www.bing.com/search?q=KB%20243552%20Q243552" rel="nofollow" title="How To Manually Add a Redirected Client Printer Using Terminal Services [Q243552]">MS KB243552</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20264039%20Q264039" rel="nofollow" title="Windows 2000 Terminal Services does not redirect network printers [Q264039]">MS KB264039</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20317780%20Q317780" rel="nofollow" title="How To Make a Local Printer Available During a Connection to a Remote Desktop in Windows XP Professional [Q317780]">MS KB317780</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+243552+Q243552" rel="nofollow" title="How To Manually Add a Redirected Client Printer Using Terminal Services [Q243552]">MS KB243552</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+264039+Q264039" rel="nofollow" title="Windows 2000 Terminal Services does not redirect network printers [Q264039]">MS KB264039</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+317780+Q317780" rel="nofollow" title="How To Make a Local Printer Available During a Connection to a Remote Desktop in Windows XP Professional [Q317780]">MS KB317780</a>  
   
- Note one can save the settings used for the Remote Desktop Protocol (RDP) connection in a file (Ex. Default.rdp). To save the settings start **mstsc.exe** and in the **Remote Desktop Connection**-dialog select **Options**. More Info <a href="https://www.bing.com/search?q=KB%20885187%20Q885187" rel="nofollow" title="Remote Desktop Protocol settings in Windows Server 2003 and in Windows XP [Q885187]">MS KB885187</a>  
+ Note one can save the settings used for the Remote Desktop Protocol (RDP) connection in a file (Ex. Default.rdp). To save the settings start **mstsc.exe** and in the **Remote Desktop Connection**-dialog select **Options**. More Info <a href="https://www.bing.com/search?q=KB+885187+Q885187" rel="nofollow" title="Remote Desktop Protocol settings in Windows Server 2003 and in Windows XP [Q885187]">MS KB885187</a>  
   
  Related [Remote Desktop in Vista can be slow because of RWIN auto-tuning](/article/vista-tcpip-auto-rwin.html)

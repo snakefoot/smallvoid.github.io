@@ -18,4 +18,4 @@ The Registry Editor (regedit) has been extended with the ability to store favori
   
  The menu in the Registry Editor now contains a menu item called "Favorites", which allows one to save the location of the registry key currently being selected.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20267881%20Q267881" rel="nofollow" title="New Favorites Feature in Windows Millennium Registry Editor [Q267881]">MS KB267881</a>
+ More Info <a href="https://www.bing.com/search?q=KB+267881+Q267881" rel="nofollow" title="New Favorites Feature in Windows Millennium Registry Editor [Q267881]">MS KB267881</a>

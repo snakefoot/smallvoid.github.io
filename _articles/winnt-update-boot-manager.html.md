@@ -27,4 +27,4 @@ Windows XP has its bootup sequence optimized compared to Windows 2000. One can t
   - Scans hardware
   - Returns hardware list back to NTLDR
  
- More Info <a href="https://www.bing.com/search?q=KB%20100323%20Q100323" rel="nofollow" title="Intel x86-Based System Boot Sequence and Files [Q100323]">MS KB100323</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+100323+Q100323" rel="nofollow" title="Intel x86-Based System Boot Sequence and Files [Q100323]">MS KB100323</a>  

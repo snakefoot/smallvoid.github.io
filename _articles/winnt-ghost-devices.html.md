@@ -42,9 +42,9 @@ When one remove hardware or a service, then sometimes Windows thinks that the ha
 >  DEVMGR\_SHOW\_DETAILS = "1"  
 >  DEVMGR\_SHOW\_NONPRESENT\_DEVICES = "1"
 
- More Info <a href="https://www.bing.com/search?q=KB%20241257%20Q241257" rel="nofollow" title="Device Manager Does Not Display Devices Not Currently Present in Windows 2000 (MS KB241257) [Q241257]">MS KB241257</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20304514%20Q304514" rel="nofollow" title="How to Configure Device Manager to Display Detailed Information [Q304514]">MS KB304514</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20310126%20Q310126" rel="nofollow" title="Troubleshooting Device Conflicts with Device Manager [Q310126]">MS KB310126</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20315539%20Q315539" rel="nofollow" title="Device Manager Does Not Display Devices That Are Not Connected to the Windows XP-Based Computer [Q315539]">MS KB315539</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+241257+Q241257" rel="nofollow" title="Device Manager Does Not Display Devices Not Currently Present in Windows 2000 (MS KB241257) [Q241257]">MS KB241257</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+304514+Q304514" rel="nofollow" title="How to Configure Device Manager to Display Detailed Information [Q304514]">MS KB304514</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+310126+Q310126" rel="nofollow" title="Troubleshooting Device Conflicts with Device Manager [Q310126]">MS KB310126</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+315539+Q315539" rel="nofollow" title="Device Manager Does Not Display Devices That Are Not Connected to the Windows XP-Based Computer [Q315539]">MS KB315539</a>  
   
  Credits [regedit.com](http://www.regedit.com/)

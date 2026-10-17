@@ -31,6 +31,6 @@ The graphical Task Scheduler has its own event log, which can be viewed like thi
 >  MaxLogSizeKB = 32 (Default = 32 KBytes)  
 >  LogPath = "%windir%\\SchedLgU.Txt"  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20169443%20Q169443" rel="nofollow" title="How to Limit the Maximum Size of the Scheduled Tasks Log File [Q169443]">MS KB169443</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+169443+Q169443" rel="nofollow" title="How to Limit the Maximum Size of the Scheduled Tasks Log File [Q169443]">MS KB169443</a>
 
  Credits [Sanx.org](http://www.sanx.org/)

@@ -32,4 +32,4 @@ It is possible to have several user profiles in Win9x. This gives the possibilit
 >   
 >  Note requires that [username of the previous user is NOT cleared](/article/win9x-domain-login.html).
 
- More info <a href="https://www.bing.com/search?q=KB%20152104%20Q152104" rel="nofollow" title="How to Prevent a Windows 95, Windows 98, or Windows Me Logon Prompt at Startup [Q152104]">MS KB152104</a>
+ More info <a href="https://www.bing.com/search?q=KB+152104+Q152104" rel="nofollow" title="How to Prevent a Windows 95, Windows 98, or Windows Me Logon Prompt at Startup [Q152104]">MS KB152104</a>

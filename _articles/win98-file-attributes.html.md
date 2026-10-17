@@ -19,4 +19,4 @@ Windows 98 Second Edition (SE) doesn't include "Show File Attributes in Detail V
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Advanced\]  
 >  ShowAttribCol = 1
 
- More Info <a href="https://www.bing.com/search?q=KB%20241380%20Q241380" rel="nofollow" title="'Show File Attributes in Detail View' Option Not Available in Windows 98 Second Edition [Q241380]">MS KB241380</a>
+ More Info <a href="https://www.bing.com/search?q=KB+241380+Q241380" rel="nofollow" title="'Show File Attributes in Detail View' Option Not Available in Windows 98 Second Edition [Q241380]">MS KB241380</a>

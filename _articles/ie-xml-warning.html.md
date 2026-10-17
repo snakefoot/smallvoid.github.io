@@ -32,8 +32,8 @@ Internet Explorer 6 in Windows XP SP2 includes extra security, which blocks java
   > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Internet Explorer \\Main \\FeatureControl\]  
   >  FEATURE\_LOCALMACHINE\_LOCKDOWN = 0
  
- More info <a href="https://www.bing.com/search?q=KB%20878461%20Q878461" rel="nofollow" title="Pictures do not appear as expected, or you receive an error message when you open an HTML file on a Windows XP Service Pack 2-based computer [Q878461]">MS KB878461</a>  
- More info <a href="https://www.bing.com/search?q=KB%20883969%20Q883969" rel="nofollow" title="AutoShapes that were added to an HTML or an MHTML file in a Microsoft Office program do not appear when you open the file in Internet Explorer after you install Windows XP SP2 [Q883969]">MS KB883969</a>  
- More info <a href="https://www.bing.com/search?q=KB%20910878%20Q910878" rel="nofollow" title="You receive a security warning when you open a FrontPage 2003 Web page that uses JavaScript in Internet Explorer [Q910878]">MS KB910878</a>  
+ More info <a href="https://www.bing.com/search?q=KB+878461+Q878461" rel="nofollow" title="Pictures do not appear as expected, or you receive an error message when you open an HTML file on a Windows XP Service Pack 2-based computer [Q878461]">MS KB878461</a>  
+ More info <a href="https://www.bing.com/search?q=KB+883969+Q883969" rel="nofollow" title="AutoShapes that were added to an HTML or an MHTML file in a Microsoft Office program do not appear when you open the file in Internet Explorer after you install Windows XP SP2 [Q883969]">MS KB883969</a>  
+ More info <a href="https://www.bing.com/search?q=KB+910878+Q910878" rel="nofollow" title="You receive a security warning when you open a FrontPage 2003 Web page that uses JavaScript in Internet Explorer [Q910878]">MS KB910878</a>  
   
  Credits [phdcc.com](http://www.phdcc.com/xpsp2.htm)

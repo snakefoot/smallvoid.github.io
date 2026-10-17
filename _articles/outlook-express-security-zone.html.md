@@ -19,4 +19,4 @@ By standard Outlook Express(OE) allows for ActiveX and Javascripts which opens y
   
  To make sure that the security zone "Restricted Sites" is properly configured, go to the Control Panel and select "Internet Options" and select the fan "Security" there you can [configure the security zone](/article/ie-restrict-untrusted.html) "Restricted Sites".  
   
- More Info <a href="https://www.bing.com/search?q=KB%20192846%20Q192846" rel="nofollow" title="OLEXP: How to Disable Active Scripting in Outlook Express [Q192846]">MS KB192846</a>
+ More Info <a href="https://www.bing.com/search?q=KB+192846+Q192846" rel="nofollow" title="OLEXP: How to Disable Active Scripting in Outlook Express [Q192846]">MS KB192846</a>

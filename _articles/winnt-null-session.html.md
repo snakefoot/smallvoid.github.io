@@ -37,7 +37,7 @@ It is possible to access the [IPC$ share](/article/winnt-ipc-share.html) with a 
   
  Related [Restrict access to NULL sessions](/article/winnt-restrict-anonymous.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20132679%20Q132679" rel="nofollow" title="Local System Account and Null Sessions in Windows NT [Q132679]">MS KB132679</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20289655%20Q289655" rel="nofollow" title="HOW TO: Enable Null Session Shares on a Windows 2000-Based Computer [Q289655]">MS KB289655</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+132679+Q132679" rel="nofollow" title="Local System Account and Null Sessions in Windows NT [Q132679]">MS KB132679</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+289655+Q289655" rel="nofollow" title="HOW TO: Enable Null Session Shares on a Windows 2000-Based Computer [Q289655]">MS KB289655</a>  
   
  Credits [The Hack FAQ](http://www.nmrc.org/pub/faq/hackfaq/)

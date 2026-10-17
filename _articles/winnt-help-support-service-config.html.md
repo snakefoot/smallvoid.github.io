@@ -29,4 +29,4 @@ If having problems with the [Help and Support service](/article/winnt-services-h
       4. start /w %windir%\\pchealth\\helpctr\\binaries\\helpsvc /svchost netsvcs /regserver /install
       5. start /w %windir%\\pchealth\\helpctr\\binaries\\helpsvc /register
 - [Re-Install Internet Explorer in Windows XP](/article/winnt-reinstall-ie.html)
-- Delete the HTML Help database file (HH.DAT). More Info <a href="https://www.bing.com/search?q=KB%20192915%20Q192915" rel="nofollow" title="PRB: Cannot Start the MSDN Library [Q192915]">MS KB192915</a>
+- Delete the HTML Help database file (HH.DAT). More Info <a href="https://www.bing.com/search?q=KB+192915+Q192915" rel="nofollow" title="PRB: Cannot Start the MSDN Library [Q192915]">MS KB192915</a>

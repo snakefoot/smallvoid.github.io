@@ -16,7 +16,7 @@ tags: []
 
  Performs IEEE 802.1X authentication on Ethernet interfaces.  
   
- Note originally (WinXP SP2 and before) the [Wireless Zero Configuration](/article/winnt-services-wzcsvc.html) service handled the 802.1X authentication for both wireless and wired networks. Now this service handles the 802.1X authentication for wired networks, which requires that the client actively initiates the authentication (EAPOL) instead of just being passive listening. This change was done with the integration of Network Access Protection (NAP), and makes it compliant to the IEEE specifications. More Info <a href="https://www.bing.com/search?q=KB%20950725%20Q950725" rel="nofollow" title="The Authentication tab is missing in the properties dialog box of the wired network adapter after you install Windows XP SP3">MS KB950725</a>.  
+ Note originally (WinXP SP2 and before) the [Wireless Zero Configuration](/article/winnt-services-wzcsvc.html) service handled the 802.1X authentication for both wireless and wired networks. Now this service handles the 802.1X authentication for wired networks, which requires that the client actively initiates the authentication (EAPOL) instead of just being passive listening. This change was done with the integration of Network Access Protection (NAP), and makes it compliant to the IEEE specifications. More Info <a href="https://www.bing.com/search?q=KB+950725+Q950725" rel="nofollow" title="The Authentication tab is missing in the properties dialog box of the wired network adapter after you install Windows XP SP3">MS KB950725</a>.  
   
  More Info [CableGuy - IEEE 802.1X Wired Authentication](http://technet.microsoft.com/en-us/magazine/cc194418.aspx "The Cable Guy  IEEE 802.1X Wired Authentication (February 2008)")
  

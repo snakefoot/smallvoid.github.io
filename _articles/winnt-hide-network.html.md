@@ -30,5 +30,5 @@ Every 12 mins the [Server Service](/article/winnt-services-lanmanserver.html) wi
   
  Related [Make your network shares hidden](/article/hidden-file-shares.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20265284%20Q265284" rel="nofollow" title="How to Hide the Server's Computer Name from Other Computers in the Domain [Q265284]">MS KB265284</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20314498%20Q314498" rel="nofollow" title="Server Service Configuration and Tuning [Q314498]">MS KB314498</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+265284+Q265284" rel="nofollow" title="How to Hide the Server's Computer Name from Other Computers in the Domain [Q265284]">MS KB265284</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+314498+Q314498" rel="nofollow" title="Server Service Configuration and Tuning [Q314498]">MS KB314498</a>  

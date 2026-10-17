@@ -21,6 +21,6 @@ You can be notified of the following changes :
 > \[HKey\_Local\_Machine\\ Software\\ Microsoft\\ Windows\\ CurrentVersion\\ SystemFileProtection\]  
 >  ShowPopups = 1 (Default = 0)
 
- More Info <a href="https://www.bing.com/search?q=KB%20266077%20Q266077" rel="nofollow" title="How to Enable System File Protection Popup Notification [Q266077]">MS KB266077</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+266077+Q266077" rel="nofollow" title="How to Enable System File Protection Popup Notification [Q266077]">MS KB266077</a>  
   
  Credits [onecomputerguy.com](http://www.onecomputerguy.com/)

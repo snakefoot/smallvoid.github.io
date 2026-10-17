@@ -27,6 +27,6 @@ Microsoft have created several articles to share a single Internet Connection be
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\ICSharing \\Settings \\General\]  
 > **InternetMTU** = ?  
 >   
->  More info <a href="https://www.bing.com/search?q=KB%20230116%20Q230116" rel="nofollow" title="Slow Transfer Rates with ICS and High-Bandwidth Devices (MS KB230116) [Q230116]">MS KB230116</a>
+>  More info <a href="https://www.bing.com/search?q=KB+230116+Q230116" rel="nofollow" title="Slow Transfer Rates with ICS and High-Bandwidth Devices (MS KB230116) [Q230116]">MS KB230116</a>
 
  Note to setup a FTP- / Web- / Game-server while using Internet Connection Sharing, then one must create TCP/IP port forwards to the computer running the service. The utility [ICS Configuration](http://www.practicallynetworked.com/sharing/ics/icsconfiguration.htm) makes it easy to map ports to the right computer.  

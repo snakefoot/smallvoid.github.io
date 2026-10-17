@@ -33,7 +33,7 @@ It is quite important that the drive letter for the CD Drives remains static, as
 4. Select the tab **Settings**
 5. In the **Reserved Drive Letters** set **Start Drive Letter** and **End Drive Letter** to the letter you want.
  
- More Info <a href="https://www.bing.com/search?q=KB%20121244%20Q121244" rel="nofollow" title="How to Change the Drive Letter of a CD-ROM Drive [Q121244]">MS KB121244</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+121244+Q121244" rel="nofollow" title="How to Change the Drive Letter of a CD-ROM Drive [Q121244]">MS KB121244</a>  
   
  To change the drive letter for CD Drives in WinNT4:
 1. Go to the **Start** -&gt; **Programs** -&gt; **Administrative Tools (Common)** -&gt; **Disk Administrator**
@@ -41,7 +41,7 @@ It is quite important that the drive letter for the CD Drives remains static, as
 3. Change **Assign a drive letter** to the wanted drive letter and press **Ok**
 4. A popup will tell you that the drive letter will change just press **Ok**. (If an application is currently using the drive letter the change will take effect the next boot).
  
- More Info <a href="https://www.bing.com/search?q=KB%20142635%20Q142635" rel="nofollow" title="Cannot Change the Drive Letter of Removable Drives [Q142635]">MS KB142635</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+142635+Q142635" rel="nofollow" title="Cannot Change the Drive Letter of Removable Drives [Q142635]">MS KB142635</a>  
   
  To change the drive letter for CD Drives in Win2k/XP:
 1. Right click **My Computer** and select **Manage**
@@ -51,8 +51,8 @@ It is quite important that the drive letter for the CD Drives remains static, as
 5. Change **Assign a drive letter** to the wanted drive letter and press **Ok**
 6. A popup will tell you that the drive letter will change just press **Ok**. (If an application is currently using the drive letter the change will take effect the next boot).
  
- More Info <a href="https://www.bing.com/search?q=KB%20223188%20Q223188" rel="nofollow" title="How to restore the system/boot drive letter in Windows [Q223188]">MS KB223188</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20307844%20Q307844" rel="nofollow" title="HOW TO: Change Drive Letter Assignments in Windows XP [Q307844]">MS KB307844</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+223188+Q223188" rel="nofollow" title="How to restore the system/boot drive letter in Windows [Q223188]">MS KB223188</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+307844+Q307844" rel="nofollow" title="HOW TO: Change Drive Letter Assignments in Windows XP [Q307844]">MS KB307844</a>  
   
  Note the WinNT+ Disk Administration is also capable of changing the drive letter for HDD partitions. Just right click the HDD partition instead of the CDROM drive. It is also possible to remove the assignment of drive letter thus hiding the HDD partition, which can be useful in a dual boot environment.  
   

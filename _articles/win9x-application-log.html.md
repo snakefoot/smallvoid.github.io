@@ -31,9 +31,9 @@ Windows 98 introduced a new feature for optimizing the startup of applications c
  Note some recommend that only activating the TaskMonitor when a new application is installed, where one starts and stops the new application a few times, then disable the Task Monitor again. This will generate a lgc file for the new application so defrag will keep it optimized.  
   
  More Info [MS Technet](http://www.microsoft.com/technet/prodtechnol/win98/reskit/part2/wrkc10.asp "Microsoft Windows 98 Resource Kit - Chapter 10 - Disks and File Systems")  
- More Info <a href="https://www.bing.com/search?q=KB%20186020%20Q186020" rel="nofollow" title="How to Determine the Programs Disk Defragmenter Optimizes [Q186020]">MS KB186020</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20186171%20Q186171" rel="nofollow" title="Description of the Disk Defragmenter Tool in Windows 98/Me [Q186171]">MS KB186171</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20197791%20Q197791" rel="nofollow" title="Error Message: TASKMON Caused an Invalid Page Fault in Module... [Q197791]">MS KB197791</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+186020+Q186020" rel="nofollow" title="How to Determine the Programs Disk Defragmenter Optimizes [Q186020]">MS KB186020</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+186171+Q186171" rel="nofollow" title="Description of the Disk Defragmenter Tool in Windows 98/Me [Q186171]">MS KB186171</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+197791+Q197791" rel="nofollow" title="Error Message: TASKMON Caused an Invalid Page Fault in Module... [Q197791]">MS KB197791</a>  
   
  Related [Defrag partitions to speed up file access](/article/defrag-hard-disk-partition.html)  
  Related [Faster defrag in Windows 98 using defrag from WinMe](/article/winme-defrag.html)  

@@ -41,7 +41,7 @@ Internet Explorer (IE) remembers its position and size when being closed down. I
     
    Noticed that when playing with this value in the registry it reverted back to "no" when closing an IE in normal mode, but after setting it a few times it kept the value.  
     
-   More Info <a href="https://www.bing.com/search?q=KB%20197029%20Q197029" rel="nofollow" title="How to Configure Internet Explorer 5 for Full Screen Mode [Q197029]">MS KB197029</a>
+   More Info <a href="https://www.bing.com/search?q=KB+197029+Q197029" rel="nofollow" title="How to Configure Internet Explorer 5 for Full Screen Mode [Q197029]">MS KB197029</a>
 - Change shortcut properties for IE to start in Kiosk mode (Toolbars not allowed) 
   1. Right click the short cut used to start IE and select **Properties**
   2. Change **Target**-line by appending a **-k** to the end of the command
@@ -51,7 +51,7 @@ Internet Explorer (IE) remembers its position and size when being closed down. I
     
    Note one can use ALT+F4 to close down the Internet Explorer and CTRL+ESC or Windows-key to make the taskbar appear.  
     
-   More Info <a href="https://www.bing.com/search?q=KB%20154780%20Q154780" rel="nofollow" title="How to Use Kiosk Mode in Microsoft Internet Explorer [Q154780]">MS KB154780</a>
+   More Info <a href="https://www.bing.com/search?q=KB+154780+Q154780" rel="nofollow" title="How to Use Kiosk Mode in Microsoft Internet Explorer [Q154780]">MS KB154780</a>
 - Internet Explorer saves its position in this registry key, one can create a batch file that [sets this key](/article/windows-update-registry.html) and then starts IE (Use start /wait):
 
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Internet Explorer \\Main\]  

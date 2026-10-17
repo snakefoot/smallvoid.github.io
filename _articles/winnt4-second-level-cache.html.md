@@ -21,7 +21,7 @@ With older CPUs the HAL(Hardware Abstraction Layer) cannot detect the correct am
 
  Note newer processors like the AMD K6-2 and Pentium2 are using set-associative 2nd Level cache and are detected properly. Force setting the second level cache for such CPUs (And newer) will probably do more harm than good.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20183063%20Q183063" rel="nofollow" title="Detailed Explanation of SecondLevelDataCache [Q183063]">MS KB183063</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20228766%20Q228766" rel="nofollow" title="How to Change the Server Service Properties [Q228766]">MS KB228766</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+183063+Q183063" rel="nofollow" title="Detailed Explanation of SecondLevelDataCache [Q183063]">MS KB183063</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+228766+Q228766" rel="nofollow" title="How to Change the Server Service Properties [Q228766]">MS KB228766</a>  
   
  Credits [arstechnica.com](http://www.arstechnica.com/)

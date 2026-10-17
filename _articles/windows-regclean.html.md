@@ -21,4 +21,4 @@ Microsoft released [Regclean](http://www.download.com/3000-2094-881470.html) to 
   
  This story can be applied to any registry-cleaner that have been created, all of them will at some time delete registry keys which are vital to a certain application, and stop that application from working. The speed gain of using registry-cleaners is non-existing, and trouble caused by registy-cleaners is numerous.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20299958%20Q299958" rel="nofollow" title="Errors that the RegClean utility finds after you install Microsoft Office [Q299958]">MS KB299958</a>
+ More Info <a href="https://www.bing.com/search?q=KB+299958+Q299958" rel="nofollow" title="Errors that the RegClean utility finds after you install Microsoft Office [Q299958]">MS KB299958</a>

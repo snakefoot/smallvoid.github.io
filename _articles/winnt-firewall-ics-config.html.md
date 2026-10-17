@@ -33,7 +33,7 @@ When trying to configure the [Windows Firewall](/article/winnt-services-sharedac
 - [Remote Access Connection Manager](/article/winnt-services-rasman.html)
 - [Remote Procedure Call (RPC)](/article/winnt-services-rpcss.html)
 - [Telephony](/article/winnt-services-tapisrv.html)
-- More Info <a href="https://www.bing.com/search?q=KB%20827328%20Q827328" rel="nofollow" title="'Error 1068' Error Message When You Try to Turn On Internet Connection Sharing [Q827328]">MS KB827328</a>
+- More Info <a href="https://www.bing.com/search?q=KB+827328+Q827328" rel="nofollow" title="'Error 1068' Error Message When You Try to Turn On Internet Connection Sharing [Q827328]">MS KB827328</a>
  
  To repair the configuration of the Windows Firewall open a command prompt and run this command:
  > NETSH FIREWALL RESET
@@ -41,7 +41,7 @@ When trying to configure the [Windows Firewall](/article/winnt-services-sharedac
  If the Windows Firewall service still fails to start, then try to reinstall the Windows Firewall with this command (Followed by the command above to reset the configuration):
  > Rundll32 setupapi,InstallHinfSection Ndi-Steelhead 132 %windir%\\inf\\netrass.inf  
  >   
- >  More Info <a href="https://www.bing.com/search?q=KB%20920074%20Q920074" rel="nofollow" title="You cannot start the Windows Firewall service in Windows XP SP2 [Q920074]">MS KB920074</a>
+ >  More Info <a href="https://www.bing.com/search?q=KB+920074+Q920074" rel="nofollow" title="You cannot start the Windows Firewall service in Windows XP SP2 [Q920074]">MS KB920074</a>
 
  If the Windows Firewall service still fails to start, then try to [repair the TCP/IP and Winsock interface](/article/winnt-netsh.html) with these commands:
  > netsh int ip reset  
@@ -50,6 +50,6 @@ When trying to configure the [Windows Firewall](/article/winnt-services-sharedac
  If the Windows Firewall service still fails to start, then try to [repair the WMI Repository](/article/winnt-wmi-config.html) with this command:
  > rundll32 wbemupgd, UpgradeRepository
 
- More Info <a href="https://www.bing.com/search?q=KB%20892199%20Q892199" rel="nofollow" title="You cannot start the Windows Firewall service in Windows XP Service Pack 2 [Q892199]">MS KB892199</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+892199+Q892199" rel="nofollow" title="You cannot start the Windows Firewall service in Windows XP Service Pack 2 [Q892199]">MS KB892199</a>  
   
  Credits [WindowsXP.mvps.org](http://windowsxp.mvps.org/sharedaccess.htm)

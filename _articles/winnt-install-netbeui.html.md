@@ -28,6 +28,6 @@ Microsoft has stopped the support for the NetBEUI (NetBIOS Extended User Interfa
  
  Note some users has trouble with occasional "Network not available" when using the NetBEUI supplied with WinXP. They had better success using NETNBF.INF and NBF.SYS from a Win2k CD-ROM (Maybe the fact that they reinstalled the protocol is the clue).  
   
- More Info <a href="https://www.bing.com/search?q=KB%20301041%20Q301041" rel="nofollow" title="HOW TO: Install NetBEUI on Windows XP [Q301041]">MS KB301041</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+301041+Q301041" rel="nofollow" title="HOW TO: Install NetBEUI on Windows XP [Q301041]">MS KB301041</a>  
  More Info [MS Technet](http://www.microsoft.com/technet/archive/winntas/support/sur_nbf.mspx) - Using NetBEUI with Windows NT  
  More Info [MS Technet](http://www.microsoft.com/technet/prodtechnol/windows2000serv/reskit/intwork/inde_nbf_hlpj.mspx "NetBIOS Extended User Interface (NetBEUI) in Windows 2000") - Overview of Windows 2000 NetBEUI  

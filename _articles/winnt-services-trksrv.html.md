@@ -19,7 +19,7 @@ tags:
   
  Note if disabling this service on the domain controller then the "NtfsDisableDomainLinkTracking" policy should be enabled to stop [Distributed Link Tracking Clients](/article/winnt-services-trkwks.html) from trying to reach it.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20312403%20Q312403" rel="nofollow" title="Distributed Link Tracking on Windows-Based Domain Controllers [Q312403]">MS KB312403</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+312403+Q312403" rel="nofollow" title="Distributed Link Tracking on Windows-Based Domain Controllers [Q312403]">MS KB312403</a>  
   
 ##### Recommended State:
 

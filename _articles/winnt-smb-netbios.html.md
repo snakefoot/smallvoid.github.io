@@ -32,7 +32,7 @@ With Windows 2000 the first move away from Netbios was made. Instead DNS should 
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\NetBT \\Parameters\]  
 >  SMBDeviceEnabled = 0  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20940684%20Q940684" rel="nofollow" title="No network provider accepted the given network path">MS KB940684</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+940684+Q940684" rel="nofollow" title="No network provider accepted the given network path">MS KB940684</a>
 
  To disable SMB use of port 139 and 445 (Disables nbt.sys driver):
 1. Right-click **My Computer** on the desktop, and then click **Manage**.
@@ -51,7 +51,7 @@ With Windows 2000 the first move away from Netbios was made. Instead DNS should 
  
  Related [Configure SMB signing in WinNT+](/article/winnt-smb-signing.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20204279%20Q204279" rel="nofollow" title="Direct Hosting of SMB Over TCP/IP [Q204279]">MS KB204279</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20253959%20Q253959" rel="nofollow" title="Client for Microsoft Networks Functions When Unbound from Network Adapter [Q253959]">MS KB253959</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+204279+Q204279" rel="nofollow" title="Direct Hosting of SMB Over TCP/IP [Q204279]">MS KB204279</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+253959+Q253959" rel="nofollow" title="Client for Microsoft Networks Functions When Unbound from Network Adapter [Q253959]">MS KB253959</a>  
   
  Credits [ntsecurity.nu](http://ntsecurity.nu/papers/port445/)

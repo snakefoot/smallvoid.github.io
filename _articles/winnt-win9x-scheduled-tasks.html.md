@@ -27,6 +27,6 @@ Accessing Win9x/Me shares can be slow, this can be caused by remotely checking f
   
  Note a backup should be made of the registry keys before deleting them in case one need to restore it.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20245800%20Q245800" rel="nofollow" title="Delay Viewing Shares on a Microsoft Windows 98-Based Computer From a Windows 2000-Based Computer [Q245800]">MS KB245800</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+245800+Q245800" rel="nofollow" title="Delay Viewing Shares on a Microsoft Windows 98-Based Computer From a Windows 2000-Based Computer [Q245800]">MS KB245800</a>  
   
  Credits [jsifaq.com](http://www.jsifaq.com/)

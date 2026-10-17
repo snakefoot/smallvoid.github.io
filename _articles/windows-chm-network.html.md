@@ -30,7 +30,7 @@ Microsoft have released a patch to fix a vulnerability in HTML Help (<a href="ht
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\HTMLHelp \\1.x \\ItssRestrictions\]  
 >  MaxAllowedZone = 1  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20892675%20Q892675" rel="nofollow" title="Certain Web sites and HTML Help features may not work after you install security update 896358 or security update 890175 [Q892675]">MS KB892675</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20896054%20Q896054" rel="nofollow" title="You cannot open remote content by using the InfoTech protocol after you install security update 896358, security update 840315, or Windows Server 2003 Service Pack 1 [Q896054]">MS KB896054</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+892675+Q892675" rel="nofollow" title="Certain Web sites and HTML Help features may not work after you install security update 896358 or security update 890175 [Q892675]">MS KB892675</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+896054+Q896054" rel="nofollow" title="You cannot open remote content by using the InfoTech protocol after you install security update 896358, security update 840315, or Windows Server 2003 Service Pack 1 [Q896054]">MS KB896054</a>
 
  Credits [HelpScribble.com](http://www.helpscribble.com/)

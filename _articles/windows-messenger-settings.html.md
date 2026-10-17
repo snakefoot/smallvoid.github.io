@@ -50,9 +50,9 @@ tags:
   > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\MessengerService\]  
   >  DSBkgndMode = 01 00 00 00
  
- More Info <a href="https://www.bing.com/search?q=KB%20278887%20Q278887" rel="nofollow" title="MSN Messenger Service Cannot Perform File Transfers or Make Voice Connections Through NAT [Q278887]">MS KB278887</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20302089%20Q302089" rel="nofollow" title="How to Prevent Windows Messenger from Running on a Windows XP-Based Computer [Q302089]">MS KB302089</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20327390%20Q327390" rel="nofollow" title="Windows Messenger Starts When You Start Outlook Express After You Remove Access to Windows Messenger [Q327390]">MS KB327390</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20330117%20Q330117" rel="nofollow" title="Running both Windows Messenger and MSN Messenger 5.0 in Windows XP [Q330117]">MS KB330117</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+278887+Q278887" rel="nofollow" title="MSN Messenger Service Cannot Perform File Transfers or Make Voice Connections Through NAT [Q278887]">MS KB278887</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+302089+Q302089" rel="nofollow" title="How to Prevent Windows Messenger from Running on a Windows XP-Based Computer [Q302089]">MS KB302089</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+327390+Q327390" rel="nofollow" title="Windows Messenger Starts When You Start Outlook Express After You Remove Access to Windows Messenger [Q327390]">MS KB327390</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+330117+Q330117" rel="nofollow" title="Running both Windows Messenger and MSN Messenger 5.0 in Windows XP [Q330117]">MS KB330117</a>  
   
  Credits [kellys-korner-xp.com](http://www.kellys-korner-xp.com/)

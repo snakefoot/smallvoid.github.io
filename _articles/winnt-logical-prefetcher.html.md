@@ -27,7 +27,7 @@ Windows XP includes a new enhancement to the memory management. It is called the
 >   
 >  Note the Prefetcher is a service that runs in background and monitors disc and memory usage, and this monitoring requires CPU and RAM. If having less than 800 Mhz CPU and 512 MByte RAM, then one should consider only to enable the BootUp prefetcher.  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20307498%20Q307498" rel="nofollow" title="How to Disable the Prefetcher Component in Windows XP [Q307498]">MS KB307498</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+307498+Q307498" rel="nofollow" title="How to Disable the Prefetcher Component in Windows XP [Q307498]">MS KB307498</a>
 
  The [Task Scheduler](/article/winnt-services-schedule.html) notifies when a process has started, causing the prefectcher to start monitoring the first 10 secs of the process start, and then saves the recorded disk activity caused by the process in a \*.pf file in the Prefetch-directory:
 > C:\\WinNT\\Prefetch or C:\\Windows\\Prefetch  
@@ -51,7 +51,7 @@ Windows XP includes a new enhancement to the memory management. It is called the
 >   
 >  Note other processes also starts when the computer is registered as idle, so if having problems using the computer after it has been idle, then it is most likely caused by the [Indexing Service](/article/winnt-services-cisvc.html).  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20313300%20Q313300" rel="nofollow" title="Hard Disks Do Not Turn Off After Your Computer Has Been Idle [Q313300]">MS KB313300</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+313300+Q313300" rel="nofollow" title="Hard Disks Do Not Turn Off After Your Computer Has Been Idle [Q313300]">MS KB313300</a>
 
  More Info [MS WHDC - Benchmarking on Windows XP](http://www.microsoft.com/whdc/system/sysperf/benchmark.mspx "Benchmarking on Windows XP")  
  More Info [MS WHDC - Kernel Enhancements for Windows XP](http://www.microsoft.com/whdc/driver/kernel/XP_kernel.mspx "Kernel Enhancements for Windows XP")  

@@ -32,8 +32,8 @@ Internet Explorer supports several security zones, which allows one to restrict 
 
  Note before making any changes to the "My Computer" security zone, then one should make a backup of the registry settings, as the Internet Explorer is tightly integrated with Windows Explorer.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20182569%20Q182569" rel="nofollow" title="Description of Internet Explorer Security Zones Registry Entries [Q182569]">MS KB182569</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20315933%20Q315933" rel="nofollow" title="How to Enable the My Computer Security Zone in Internet Options [Q315933]">MS KB315933</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+182569+Q182569" rel="nofollow" title="Description of Internet Explorer Security Zones Registry Entries [Q182569]">MS KB182569</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+315933+Q315933" rel="nofollow" title="How to Enable the My Computer Security Zone in Internet Options [Q315933]">MS KB315933</a>  
   
  Related [Configure IE to avoid ActiveX and cookies for unknown sites](/article/ie-restrict-untrusted.html)  
   

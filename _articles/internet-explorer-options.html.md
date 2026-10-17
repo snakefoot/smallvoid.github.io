@@ -21,6 +21,6 @@ To configure Internet Options open Control Panel -&gt; Internet Options -&gt; Ad
 
  It uses the same syntax as when [Changing Folder Options to include your own tweaks](/article/windows-folder-options.html).  
   
- More info <a href="https://www.bing.com/search?q=KB%20175374%20Q175374" rel="nofollow" title="How to Cause the Internet Explorer Welcome Screen to Appear [Q175374]">MS KB175374</a>  
+ More info <a href="https://www.bing.com/search?q=KB+175374+Q175374" rel="nofollow" title="How to Cause the Internet Explorer Welcome Screen to Appear [Q175374]">MS KB175374</a>  
   
  Credits [jsifaq.com](http://jsifaq.com/)

@@ -25,9 +25,9 @@ tags:
   
  Note in Windows Vista/7 the service can be installed through the Control Panel -&gt; Programs -&gt; Programs and features -&gt; Turn Windows Features on or off.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20229827%20Q229827" rel="nofollow" title="Description of Event IDs for the Microsoft Fax Service [Q229827]">MS KB229827</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20231577%20Q231577" rel="nofollow" title="How to Set Permissions for the Fax Service in Windows 2000 [Q231577]">MS KB231577</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20306550%20Q306550" rel="nofollow" title="HOW TO: Enable and Configure the Fax Service [Q306550]">MS KB306550</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+229827+Q229827" rel="nofollow" title="Description of Event IDs for the Microsoft Fax Service [Q229827]">MS KB229827</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+231577+Q231577" rel="nofollow" title="How to Set Permissions for the Fax Service in Windows 2000 [Q231577]">MS KB231577</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+306550+Q306550" rel="nofollow" title="HOW TO: Enable and Configure the Fax Service [Q306550]">MS KB306550</a>  
   
 ##### Recommended State:
 

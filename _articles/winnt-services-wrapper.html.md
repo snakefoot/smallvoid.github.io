@@ -22,12 +22,12 @@ tags:
 
  Some of the common service wrappers, which can be seen in the Task Manager:
 - **Services.exe** : Services Control Manager for system services.
-- **Lsass.exe** : Local Security Authority SubSystem for security services. More Info <a href="https://www.bing.com/search?q=KB%20308356%20Q308356" rel="nofollow" title="Memory Usage by the Lsass.exe Process on Windows 2000-Based and Windows Server 2000-Based Domain Controllers [Q308356]">MS KB308356</a>
+- **Lsass.exe** : Local Security Authority SubSystem for security services. More Info <a href="https://www.bing.com/search?q=KB+308356+Q308356" rel="nofollow" title="Memory Usage by the Lsass.exe Process on Windows 2000-Based and Windows Server 2000-Based Domain Controllers [Q308356]">MS KB308356</a>
 - **Svchost.exe** : Service Host for loading dynamic-link libraries (DLL) as a services
 - **Dllhost.exe** : DCOM DLL Host Process (Aka. COM Surrogate)supports DLL based COM objects. (Replaces Mtx.exe)
 - **Svrany.exe** : Applications as Services Utility. Related [Install an application as a Windows service](/article/winnt-services-srvany.html).
  
- More Info <a href="https://www.bing.com/search?q=KB%20263201%20Q263201" rel="nofollow" title="Default Processes in Windows 2000 [Q263201]">MS KB263201</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+263201+Q263201" rel="nofollow" title="Default Processes in Windows 2000 [Q263201]">MS KB263201</a>  
  More Info [MSDN - Componentized Windows Services](http://msdn2.microsoft.com/en-us/library/ms912860.aspx)
  
 ##### Why does the service wrappers request access to the Internet ?
@@ -49,7 +49,7 @@ tags:
   > netstat -b
 - **CurrPorts** by [Nirsoft](http://nirsoft.mirrorz.com/) is a GUI version of netstat that works with WinNT/2k/XP
  
- More Info <a href="https://www.bing.com/search?q=KB%20832017%20Q832017" rel="nofollow" title="Port Requirements for the Microsoft Windows Server System [Q832017]">MS KB832017</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+832017+Q832017" rel="nofollow" title="Port Requirements for the Microsoft Windows Server System [Q832017]">MS KB832017</a>  
  More Info [MS Reskit: TCP and UDP Port Assignments](http://www.microsoft.com/technet/prodtechnol/windows2000serv/reskit/cnet/cnfc_por_gdqc.mspx "Windows Server 2000 Resource Kit : TCP and UDP Port Assignments")
  
 ##### How to see the services currently loaded by the wrapper ?
@@ -83,8 +83,8 @@ tags:
 4. Edit the REG\_MULTI\_SZ for the original group (ex. netsvcs) and remove the service (ex. wuauserv)
 5. Go to the [registry key for the service](/article/winnt-services-regedit.html) (ex. wuauserv) and change the ImagePath value to reflect the new group (ex. svchost.exe -k netsvcs2)
  
- More Info <a href="https://www.bing.com/search?q=KB%20250320%20Q250320" rel="nofollow" title="Description of Svchost.exe in Windows 2000 [Q250320]">MS KB250320</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20314056%20Q314056" rel="nofollow" title="A Description of Svchost.exe in Windows XP [Q314056]">MS KB314056</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+250320+Q250320" rel="nofollow" title="Description of Svchost.exe in Windows 2000 [Q250320]">MS KB250320</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+314056+Q314056" rel="nofollow" title="A Description of Svchost.exe in Windows XP [Q314056]">MS KB314056</a>  
 ##### What could cause a service wrapper to crash ?
 
  If a single service running within the service wrapper performs a faulty operation, then it is possible for that single service to take down the whole service wrapper along with all other services running within the service wrapper. This can be experienced when open to these exploits: - [Blaster RPC Exploit](/article/winnt-blaster-rpc-exploit.html) (Services.exe / Svchost.exe)

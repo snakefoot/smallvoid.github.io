@@ -42,18 +42,18 @@ Windows has a file caching mechanism which is tightly integrated with the memory
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control \\SessionManager \\MemoryManagement\]  
 >  SystemCacheDirtyPageThreshold = 100 (MByte; Default = 0; 0 = Half of physical memory)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20920739%20Q920739" rel="nofollow" title="You may experience a decrease in overall system performance when you are copying files that are larger than approximately 500 MB in Windows Server 2003 SP1">MS KB920739</a> (Doesn't limit the size of the read cache)
+>  More Info <a href="https://www.bing.com/search?q=KB+920739+Q920739" rel="nofollow" title="You may experience a decrease in overall system performance when you are copying files that are larger than approximately 500 MB in Windows Server 2003 SP1">MS KB920739</a> (Doesn't limit the size of the read cache)
 
  Note the LargeSystemCache is allocated from [kernel memory area](/article/winnt-kernel-memory.html), which is shared with the pagedpoolsize and systempages. So when limiting these from using max size, then it will allow the filesystem cache to reach its max size of 960 MByte (WinNT4 512 MByte), else it will be limited to 512 MByte.  
   
  Note not all applications will benefit from a large system cache. Many disk intensive applications (Like database systems) includes their own cache manager, and doesn't make use of the operating system controlled file cache. For MS SQL and Exhange the optimal value is to disable the large system cache.  
   
- Note enabling the large system cache can give stability issues, because it will configure the kernel area to allocate max memory for the file cache, while sacrificing the size of memory pools and number of page table entries. If using Unified Memory Architecture (UMA)-based video hardware or an Accelerated Graphics Port (AGP), then it will require page table entries to address the video memory. ATI [recommends](http://support.ati.com/ics/support/default.asp?deptID=894&task=knowledge&searchOption=id&questionID=986 "Data corruption may occur if the Large System Cache feature is enabled in Windows XP (Topic 737-986)") one doesn't enable large system cache to avoid data corruption. More Info <a href="https://www.bing.com/search?q=KB%20895932%20Q895932" rel="nofollow" title="Things to consider before you enable System cache mode in Windows XP [Q895932]">MS KB895932</a>  
+ Note enabling the large system cache can give stability issues, because it will configure the kernel area to allocate max memory for the file cache, while sacrificing the size of memory pools and number of page table entries. If using Unified Memory Architecture (UMA)-based video hardware or an Accelerated Graphics Port (AGP), then it will require page table entries to address the video memory. ATI [recommends](http://support.ati.com/ics/support/default.asp?deptID=894&task=knowledge&searchOption=id&questionID=986 "Data corruption may occur if the Large System Cache feature is enabled in Windows XP (Topic 737-986)") one doesn't enable large system cache to avoid data corruption. More Info <a href="https://www.bing.com/search?q=KB+895932+Q895932" rel="nofollow" title="Things to consider before you enable System cache mode in Windows XP [Q895932]">MS KB895932</a>  
   
  More Info [MS Technet - File Cache Performance and Tuning](http://www.microsoft.com/technet/prodtechnol/windows2000serv/maintain/optimize/wperfch7.mspx) (Good read)  
  More Info [MS Technet - Optimizing your memory configuration](http://www.microsoft.com/technet/prodtechnol/windows2000serv/reskit/core/fnec_evl_fhcj.mspx "Evaluating Memory and Cache Usage")  
- More Info <a href="https://www.bing.com/search?q=KB%20232271%20Q232271" rel="nofollow" title="How to Optimize Windows NT Server Using the Registry [Q232271]">MS KB232271</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20228766%20Q228766" rel="nofollow" title="How to Change the Server Service Properties [Q228766]">MS KB228766</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20837331%20Q837331" rel="nofollow" title="About Cache Manager in Windows Server 2003 [Q837331]">MS KB837331</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+232271+Q232271" rel="nofollow" title="How to Optimize Windows NT Server Using the Registry [Q232271]">MS KB232271</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+228766+Q228766" rel="nofollow" title="How to Change the Server Service Properties [Q228766]">MS KB228766</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+837331+Q837331" rel="nofollow" title="About Cache Manager in Windows Server 2003 [Q837331]">MS KB837331</a>  
   
  Credits [ArsTechnica.com](http://www.arstechnica.com/)

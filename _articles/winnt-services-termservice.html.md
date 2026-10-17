@@ -26,10 +26,10 @@ tags:
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control \\TerminalServer \\WinStations \\RDP-Tcp\]  
 >  PortNumber = 3389  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20187623%20Q187623" rel="nofollow" title="How to Change Terminal Server's Listening Port [Q187623]">MS KB187623</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20306759%20Q306759" rel="nofollow" title="How to Change the Listening Port for Remote Desktop [Q306759]">MS KB306759</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+187623+Q187623" rel="nofollow" title="How to Change Terminal Server's Listening Port [Q187623]">MS KB187623</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+306759+Q306759" rel="nofollow" title="How to Change the Listening Port for Remote Desktop [Q306759]">MS KB306759</a>
 
- Note when connecting to Windows 2000 with Remote Desktop then it will only display 256 colors. To get around this limitation then one has to upgrade to Windows XP/2003. More Info <a href="https://www.bing.com/search?q=KB%20273725%20Q273725" rel="nofollow" title="Cannot Increase the Screen Resolution to Greater Than 256 Colors in Terminal Services [Q273725]">MS KB273725</a>  
+ Note when connecting to Windows 2000 with Remote Desktop then it will only display 256 colors. To get around this limitation then one has to upgrade to Windows XP/2003. More Info <a href="https://www.bing.com/search?q=KB+273725+Q273725" rel="nofollow" title="Cannot Increase the Screen Resolution to Greater Than 256 Colors in Terminal Services [Q273725]">MS KB273725</a>  
   
  Note when connecting to Windows XP Pro with Remote Desktop then it will only allow to receive a single session. If using Windows XP Home then it is only possible to receive [Remote Assistance](/article/winnt-remote-assistance.html).  
   
@@ -41,11 +41,11 @@ tags:
  Related [Remote Desktop Client](/article/windows-remote-desktop.html)  
   
  More Info [MS Terminal Services FAQ (Win2k)](http://www.microsoft.com/windows2000/community/centers/terminal/terminal_faq.mspx "Windows Server Community - Terminal Services FAQ")  
- More Info <a href="https://www.bing.com/search?q=KB%20186566%20Q186566" rel="nofollow" title="Connection Configuration in Terminal Server [Q186566]">MS KB186566</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20186607%20Q186607" rel="nofollow" title="Understanding the Remote Desktop Protocol (RDP) [Q186607]">MS KB186607</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20278502%20Q278502" rel="nofollow" title="HOW TO: Connect to Terminal Services with Color Resolution That Is Greater Than 256 in Windows XP [Q278502]">MS KB278502</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20306561%20Q306561" rel="nofollow" title="HOW TO: Secure Communication Between a Client and Server with Terminal Services [Q306561]">MS KB306561</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20323353%20Q323353" rel="nofollow" title="HOW TO: Connect to Terminal Services with a Color Resolution of Greater Than 256 Colors in the Windows Server 2003 Family [Q323353]">MS KB323353</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+186566+Q186566" rel="nofollow" title="Connection Configuration in Terminal Server [Q186566]">MS KB186566</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+186607+Q186607" rel="nofollow" title="Understanding the Remote Desktop Protocol (RDP) [Q186607]">MS KB186607</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+278502+Q278502" rel="nofollow" title="HOW TO: Connect to Terminal Services with Color Resolution That Is Greater Than 256 in Windows XP [Q278502]">MS KB278502</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+306561+Q306561" rel="nofollow" title="HOW TO: Secure Communication Between a Client and Server with Terminal Services [Q306561]">MS KB306561</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+323353+Q323353" rel="nofollow" title="HOW TO: Connect to Terminal Services with a Color Resolution of Greater Than 256 Colors in the Windows Server 2003 Family [Q323353]">MS KB323353</a>  
   
 ##### Recommended State:
 

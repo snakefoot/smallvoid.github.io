@@ -18,8 +18,8 @@ tags:
  [Automatic Updates (AU)](/article/winnt-services-wuauserv.html) can become corrupted, so svchost.exe starts using 100% CPU when contacting Microsoft to check for updates. This can be tested by running this command:
   > wuauclt /detectnow
 
- To fix the high CPU usage apply the following updates to Automatic Updates. More Info <a href="https://www.bing.com/search?q=KB%20932494%20Q932494" rel="nofollow" title="When you use Automatic Updates to scan for updates or to apply updates to applications that use Windows Installer, you experience issues that involve the Svchost.exe process">MS KB932494</a>:
-- Download and apply <a href="https://www.bing.com/search?q=KB%20927891%20Q927891" rel="nofollow" title="You receive an access violation error and the system may appear to become unresponsive when you try to install an update from Windows Update or from Microsoft Update">MS KB927891</a> hotfix.
+ To fix the high CPU usage apply the following updates to Automatic Updates. More Info <a href="https://www.bing.com/search?q=KB+932494+Q932494" rel="nofollow" title="When you use Automatic Updates to scan for updates or to apply updates to applications that use Windows Installer, you experience issues that involve the Svchost.exe process">MS KB932494</a>:
+- Download and apply <a href="https://www.bing.com/search?q=KB+927891+Q927891" rel="nofollow" title="You receive an access violation error and the system may appear to become unresponsive when you try to install an update from Windows Update or from Microsoft Update">MS KB927891</a> hotfix.
 - Download and apply [WindowsUpdateAgent30-x86.exe](http://go.microsoft.com/fwlink/?LinkID=91237) client update for Windows Update Server 3.0 using the **/wuforce** command line switch.
 
 ##### Automatic Updates crashes when checking for updates
@@ -53,8 +53,8 @@ tags:
 6. Restart Windows
 7. Reinstall [Windows Update Client](http://go.microsoft.com/fwlink/?LinkID=91237) by launching the install with the parameter **/wuforce**
  
- More Info <a href="https://www.bing.com/search?q=KB%20916259%20Q916259" rel="nofollow" title="Windows Update Web site and the Microsoft Update Web site do not scan for updates when you repair a failed installation">MS KB916259</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20931852%20Q931852" rel="nofollow" title="Error messages when you start a Windows XP-based computer and then try to download Windows Updates">MS KB931852</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+916259+Q916259" rel="nofollow" title="Windows Update Web site and the Microsoft Update Web site do not scan for updates when you repair a failed installation">MS KB916259</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+931852+Q931852" rel="nofollow" title="Error messages when you start a Windows XP-based computer and then try to download Windows Updates">MS KB931852</a>  
 ##### Automatic Updates fails to start
 
  Automatic Updates might fail to start with the following error even if the service is not disabled:

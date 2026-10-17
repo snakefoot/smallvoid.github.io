@@ -20,5 +20,5 @@ Windows NT4 does not by default support plug and play (pnp) devices, but it is p
  
  Related [USB driver for Windows NT4](/article/winnt4-usb-driver.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20156344%20Q156344" rel="nofollow" title="Plug and Play Devices Not Detected or Installed [Q156344]">MS KB156344</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20249724%20Q249724" rel="nofollow" title="'Error -536870389' When Attempting to Install a SCSI Driver [Q249724]">MS KB249724</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+156344+Q156344" rel="nofollow" title="Plug and Play Devices Not Detected or Installed [Q156344]">MS KB156344</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+249724+Q249724" rel="nofollow" title="'Error -536870389' When Attempting to Install a SCSI Driver [Q249724]">MS KB249724</a>  

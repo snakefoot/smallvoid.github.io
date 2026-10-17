@@ -22,7 +22,7 @@ tags:
  Note if using the indexing service, then one should make sure that: - Index only NTFS partitions as the journal filesystem makes maintenance of the index quick. FAT partitions requires that the Indexing Service scans the entire partition every time to maintain the index.
 - Exclude Directories containing temporary files from the index (Like [TEMP](/article/temporary-directory.html) and [Temporary Internet Files](/article/ie-temporary-internet-files.html))
  
- More Info <a href="https://www.bing.com/search?q=KB%20317586%20Q317586" rel="nofollow" title="HOW TO: Optimize Indexing Service Performance in Windows 2000 [Q317586]">MS KB317586</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+317586+Q317586" rel="nofollow" title="HOW TO: Optimize Indexing Service Performance in Windows 2000 [Q317586]">MS KB317586</a>  
   
 ##### Recommended State:
 

@@ -44,7 +44,7 @@ Different ways to recover a forgotten / lost password:
             >  ScreenSaveTimeOut = 15 (Default = 900 secs)  
             >  ScreenSaveActive = 1 (Default = 0)  
             >   
-            >  More Info <a href="https://www.bing.com/search?q=KB%20185348%20Q185348" rel="nofollow" title="HOW TO: Change the Logon Screen Saver in Windows [Q185348]">MS KB185348</a>
+            >  More Info <a href="https://www.bing.com/search?q=KB+185348+Q185348" rel="nofollow" title="HOW TO: Change the Logon Screen Saver in Windows [Q185348]">MS KB185348</a>
   2. Boot WinNT/2k/Xp and wait for the login screensaver (Not touching keyboard / mouse).
   3. My Computer or Command Prompt will come up after 15 minutes.
   4. Change the password: 
@@ -69,4 +69,4 @@ Different ways to recover a forgotten / lost password:
 - If WinXP one can use the Win2k Install CD to login to the [Recovery Console](/article/winnt-recovery-console.html) without needing a password.
 - Take the HDD and put it into another machine running the same or higher version of Windows and access the files and the [offline registry](/article/winnt-offline-registry-edit.html) using that machine.
  
- More Info <a href="https://www.bing.com/search?q=KB%20321305%20Q321305" rel="nofollow" title="How to Log On to Windows XP If You Forget Your Password or Your Password Expires [Q321305]">MS KB321305</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+321305+Q321305" rel="nofollow" title="How to Log On to Windows XP If You Forget Your Password or Your Password Expires [Q321305]">MS KB321305</a>  

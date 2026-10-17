@@ -75,8 +75,8 @@ If a printer driver haven't been installed properly then it can keep the [Printe
 9. When Windows have loaded [verify](/article/winnt-services-config.html) that the Print Spooler has started
 10. Reconnect the printer-cable to the computer. Install the printer according to the instructions given by the manufacture.
  
- More Info <a href="https://www.bing.com/search?q=KB%20135406%20Q135406" rel="nofollow" title="Steps to Manually Remove and Reinstall a Printer Driver [Q135406]">MS KB135406</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20312052%20Q312052" rel="nofollow" title="Error Message: Spoolsv.exe Has Generated Errors and Will Be Closed by Windows [Q312052]">MS KB312052</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20314073%20Q314073" rel="nofollow" title="How to Troubleshoot Network Printing Problems in Windows XP [Q314073]">MS KB314073</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20324757%20Q324757" rel="nofollow" title="'Spooler subsystem app has encountered a problem and needs to close' and 'Operation could not be completed' error messages [Q324757]">MS KB324757</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20810894%20Q810894" rel="nofollow" title="Error message: Spooler subsystem app has encountered a problem and needs to close [Q810894]">MS KB810894</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+135406+Q135406" rel="nofollow" title="Steps to Manually Remove and Reinstall a Printer Driver [Q135406]">MS KB135406</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+312052+Q312052" rel="nofollow" title="Error Message: Spoolsv.exe Has Generated Errors and Will Be Closed by Windows [Q312052]">MS KB312052</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+314073+Q314073" rel="nofollow" title="How to Troubleshoot Network Printing Problems in Windows XP [Q314073]">MS KB314073</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+324757+Q324757" rel="nofollow" title="'Spooler subsystem app has encountered a problem and needs to close' and 'Operation could not be completed' error messages [Q324757]">MS KB324757</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+810894+Q810894" rel="nofollow" title="Error message: Spooler subsystem app has encountered a problem and needs to close [Q810894]">MS KB810894</a>  

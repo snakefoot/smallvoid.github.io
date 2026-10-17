@@ -26,7 +26,7 @@ The Windows NT Filesystem (NTFS) generates less [file fragmentation](/article/de
 - Cannot defragment NTFS system files like [MFT](/article/winnt-ntfs-mft.html). (Limitation removed with WinXP)
 - Cannot defragment directories (Limitation removed with Win2k)
 - Cannot move a single cluster at a time but 16 at a time (Limitation removed with WinXP)
-- More Info <a href="https://www.bing.com/search?q=KB%20227463%20Q227463" rel="nofollow" title="Disk Defragmenter Limitations in Windows 2000, Windows XP, and Windows Server 2003 [Q227463]">MS KB227463</a>, <a href="https://www.bing.com/search?q=KB%20942092%20Q942092" rel="nofollow" title="Features of the Windows Vista hard disk defragmentation utility">MS KB942092</a>
+- More Info <a href="https://www.bing.com/search?q=KB+227463+Q227463" rel="nofollow" title="Disk Defragmenter Limitations in Windows 2000, Windows XP, and Windows Server 2003 [Q227463]">MS KB227463</a>, <a href="https://www.bing.com/search?q=KB+942092+Q942092" rel="nofollow" title="Features of the Windows Vista hard disk defragmentation utility">MS KB942092</a>
  
  To get around these limitation the 3rd party tools has to perform an offline/boot-time defragmentation. Windows 2000/XP includes a lite edition of Execsoft DisKeeper, which can perform an online defragmentation.  
   

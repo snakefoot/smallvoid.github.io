@@ -29,5 +29,5 @@ The **User Accounts**-applet in the Control Panel for WinXP Home is rather limit
 >   
 >  The group membership for &lt;ComputerName\\UserName&gt; could not be updated : When updating an existing user, adding him to the 'Power Users group'.*
 
- More Info <a href="https://www.bing.com/search?q=KB%20279783%20Q279783" rel="nofollow" title="HOW TO: Create and Configure User Accounts in Windows XP [Q279783]">MS KB279783</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20817365%20Q817365" rel="nofollow" title="Creation of user in the 'Power Users' group with 'Control Userpasswords2' [Q817365]">MS KB817365</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+279783+Q279783" rel="nofollow" title="HOW TO: Create and Configure User Accounts in Windows XP [Q279783]">MS KB279783</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+817365+Q817365" rel="nofollow" title="Creation of user in the 'Power Users' group with 'Control Userpasswords2' [Q817365]">MS KB817365</a>  

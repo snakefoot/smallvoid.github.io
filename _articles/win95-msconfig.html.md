@@ -17,4 +17,4 @@ Microsoft created the utility Msconfig to monitor the [different locations](/art
  
  This Msconfig.exe comes from Windows 98 SE, and can be used without any trouble on Windows 95. Consider using [Startup CPL](/article/windows-startup-order.html#STARTUP_CPL) instead of Msconfig, as it is a lot better at showing the locations.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20281965%20Q281965" rel="nofollow" title="How to Troubleshoot Using the Msconfig Utility with Windows 98 [Q281965]">MS KB281965</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+281965+Q281965" rel="nofollow" title="How to Troubleshoot Using the Msconfig Utility with Windows 98 [Q281965]">MS KB281965</a>  

@@ -52,8 +52,8 @@ The IPC$ is a [hidden share](/article/hidden-file-shares.html) maintained by the
  
  Note if sure that the account is properly setup then one can configure an [audit](/article/winnt-security-audit.html) to see what account name is used to login to the machine.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20101150%20Q101150" rel="nofollow" title="Operating Characteristics and Restrictions of Named Pipes [Q101150]">MS KB101150</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20139592%20Q139592" rel="nofollow" title="Prompted for Password When Connecting to Windows NT [Q139592]">MS KB139592</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20162325%20Q162325" rel="nofollow" title="Err Msg: You Must Provide a Password to Make This Connection [Q162325]">MS KB162325</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20258717%20Q258717" rel="nofollow" title="Configuring Windows 2000 Professional to Work in a Peer-to-Peer Workgroup [Q258717]">MS KB258717</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20262916%20Q262916" rel="nofollow" title="Unable to Connect to Network Share When Netlogon Service Is Not Started [Q262916]">MS KB262916</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+101150+Q101150" rel="nofollow" title="Operating Characteristics and Restrictions of Named Pipes [Q101150]">MS KB101150</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+139592+Q139592" rel="nofollow" title="Prompted for Password When Connecting to Windows NT [Q139592]">MS KB139592</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+162325+Q162325" rel="nofollow" title="Err Msg: You Must Provide a Password to Make This Connection [Q162325]">MS KB162325</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+258717+Q258717" rel="nofollow" title="Configuring Windows 2000 Professional to Work in a Peer-to-Peer Workgroup [Q258717]">MS KB258717</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+262916+Q262916" rel="nofollow" title="Unable to Connect to Network Share When Netlogon Service Is Not Started [Q262916]">MS KB262916</a>  

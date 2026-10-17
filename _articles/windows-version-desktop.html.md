@@ -29,4 +29,4 @@ You can have the version number of your Windows shown on your desktop. This is d
   
  Note another solution is to use [BgInfo](/article/windows-bginfo.html) that changes the wallpaper so it includes the system information of the computer. Or use [Samurize](/article/windows-samurize-desktop.html) that can manipulate the desktop like it was a HTML page and can display the system information on the desktop.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20315420%20Q315420" rel="nofollow" title="HOW TO: Display the Build Number on the Desktop in Windows 2000 [Q315420]">MS KB315420</a>
+ More Info <a href="https://www.bing.com/search?q=KB+315420+Q315420" rel="nofollow" title="HOW TO: Display the Build Number on the Desktop in Windows 2000 [Q315420]">MS KB315420</a>

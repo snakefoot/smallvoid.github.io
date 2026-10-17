@@ -19,6 +19,6 @@ If Windows Me has experienced an improper/incorrect shutdown, then it will check
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control \\FileSystem\]  
 >  DisableScandiskOnBoot=01
 
- More Info <a href="https://www.bing.com/search?q=KB%20152404%20Q152404" rel="nofollow" title="ScanDisk Runs After Improper Shutdown or Hard Disk Error [Q152404]">MS KB152404</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+152404+Q152404" rel="nofollow" title="ScanDisk Runs After Improper Shutdown or Hard Disk Error [Q152404]">MS KB152404</a>  
   
  Credits [regedit.com](http://www.regedit.com/)

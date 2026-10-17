@@ -21,8 +21,8 @@ Windows XP started using balloon tips heavily, as an attempt to help the average
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Advanced\]  
 >  EnableBalloonTips = 0  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20279771%20Q279771" rel="nofollow" title="Description of Notification Area Settings [Q279771]">MS KB279771</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20307729%20Q307729" rel="nofollow" title="HOW TO: Disable Notification Area Balloon Tips in Windows XP [Q307729]">MS KB307729</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+279771+Q279771" rel="nofollow" title="Description of Notification Area Settings [Q279771]">MS KB279771</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+307729+Q307729" rel="nofollow" title="HOW TO: Disable Notification Area Balloon Tips in Windows XP [Q307729]">MS KB307729</a>
 
  To disable "Show popup description for folder and desktop items" (Folder Options):
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Advanced\]  
@@ -65,14 +65,14 @@ Windows XP started using balloon tips heavily, as an attempt to help the average
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Applets \\Tour\]  
 >  RunCount = 0 (Default = 3)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20311489%20Q311489" rel="nofollow" title="How to Suppress the Windows Tour Prompt in Windows XP [Q311489]">MS KB311489</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+311489+Q311489" rel="nofollow" title="How to Suppress the Windows Tour Prompt in Windows XP [Q311489]">MS KB311489</a>
 
  To disable the [printer spooler](/article/winnt-services-spooler.html) notification balloon tips:
 > \[HKEY\_CURRENT\_USER \\Printers \\Settings\]  
 >  EnableBalloonNotificationsLocal = 0  
 >  EnableBalloonNotificationsRemote = 0  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20831582%20Q831582" rel="nofollow" title="No network printer notifications appear even though the 'Show informational notifications for network printers' check box is selected in Windows XP [Q831582]">MS KB831582</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+831582+Q831582" rel="nofollow" title="No network printer notifications appear even though the 'Show informational notifications for network printers' check box is selected in Windows XP [Q831582]">MS KB831582</a>
 
  <a name="SECURITY_CENTER"></a> To disable the [Security Center](/article/winnt-services-wscsvc.html) notification balloon tips:
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Security Center\]  
@@ -91,7 +91,7 @@ Windows XP started using balloon tips heavily, as an attempt to help the average
 >  SuppressUI = 1 (Windows 2003/XP64 only)  
 >  SuppressNewHWUI = (Windows XP)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20311489%20Q311489" rel="nofollow" title="Hotfix adds new functionality to suppress Plug and Play-related UI messages in Windows Server 2003 or in Windows XP">MS KB311489</a> (Requires XP SP3 to recognize registry keys)
+>  More Info <a href="https://www.bing.com/search?q=KB+311489+Q311489" rel="nofollow" title="Hotfix adds new functionality to suppress Plug and Play-related UI messages in Windows Server 2003 or in Windows XP">MS KB311489</a> (Requires XP SP3 to recognize registry keys)
 
  To disable the "There are unused icons on your desktop":
 1. Open the Control Panel and go to Display Properties

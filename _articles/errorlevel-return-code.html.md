@@ -36,7 +36,7 @@ When running a command line program from a [batch file](/article/batch-file.html
   
  Related [Access selection from CHOICE using ERRORLEVEL](/article/choice-user-input.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%2069576%20Q69576" rel="nofollow" title="Testing for a Specific Error Level in Batch Files [Q69576]">MS KB69576</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+69576+Q69576" rel="nofollow" title="Testing for a Specific Error Level in Batch Files [Q69576]">MS KB69576</a>  
   
  Note one can also pipe the different types of errorlevel codes to a file:
  

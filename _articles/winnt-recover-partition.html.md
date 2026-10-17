@@ -39,7 +39,7 @@ When a dynamic volume is deleted, the OS clears the boot sector of the partition
 - After restoring the FAT32 boot sector quit Dskprobe.exe
 - In the Disk Management snapin go to the Action-menu and click Rescan Disks to mount the volume for immediate use.
  
- More Info <a href="https://www.bing.com/search?q=KB%20246146%20Q246146" rel="nofollow" title="Dskprobe.exe May Damage FAT32 Boot Sector [Q246146]">MS KB246146</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+246146+Q246146" rel="nofollow" title="Dskprobe.exe May Damage FAT32 Boot Sector [Q246146]">MS KB246146</a>  
  More Info [MS Technet](http://www.microsoft.com/technet/prodtechnol/Windows2000Pro/reskit/part7/proch32.mspx "Disk Concepts and Troubleshooting")  
   
  Related [TestDisk](/article/windows-undelete.html) (Tool for recovery deleted partitions)  

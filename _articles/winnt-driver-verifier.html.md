@@ -33,9 +33,9 @@ The Driver Verifier Manager is a tool created by Microsoft to diagnostic install
 - Turnoff the Driver Verifier with this command:
   > Verifier.exe /reset
  
- More Info <a href="https://www.bing.com/search?q=KB%20244617%20Q244617" rel="nofollow" title="How to Use Driver Verifier to Troubleshoot Windows Drivers [Q244617]">MS KB244617</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20251233%20Q251233" rel="nofollow" title="Things to consider before you enable Driver Verifier Manager on production servers [Q251233]">MS KB251233</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20325672%20Q325672" rel="nofollow" title="Fatal System Error: 0x000000C4 If Deadlock Detection in Driver Verifier Is Turned on and Norton Antivirus Is Installed [Q325672]">MS KB325672</a> (Careful with Norton Antivirus)  
+ More Info <a href="https://www.bing.com/search?q=KB+244617+Q244617" rel="nofollow" title="How to Use Driver Verifier to Troubleshoot Windows Drivers [Q244617]">MS KB244617</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+251233+Q251233" rel="nofollow" title="Things to consider before you enable Driver Verifier Manager on production servers [Q251233]">MS KB251233</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+325672+Q325672" rel="nofollow" title="Fatal System Error: 0x000000C4 If Deadlock Detection in Driver Verifier Is Turned on and Norton Antivirus Is Installed [Q325672]">MS KB325672</a> (Careful with Norton Antivirus)  
  More Info [Windows Hardware and Driver Central: Driver Verifier](http://www.microsoft.com/whdc/DevTools/tools/DrvVerifier.mspx)  
   
  Related [Analyze blue screen of death crash dumps to find faulty driver](/article/winnt-windbg.html)  

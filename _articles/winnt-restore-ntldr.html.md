@@ -27,15 +27,15 @@ The [NT Loader](/article/winnt-update-boot-manager.html) (NTLDR) is part of the 
 - Ntdetect.com
 - [Boot.ini](/article/winnt-boot-ini.html)
  
- If using Windows 2000/XP then one can restore the boot files using the [Recovery Console](/article/winnt-recovery-console.html), and copy the NtLdr and Ntdetect.com (NOT Boot.ini) from the Windows 2000/XP install CD to the boot partition. And if using Windows XP then one can try to rebuild the boot.ini file using the recovery console command "bootcfg /rebuild". More Info <a href="https://www.bing.com/search?q=KB%20318728%20Q318728" rel="nofollow" title="How to troubleshoot the 'NTLDR Is Missing' error message in Windows 2000 [Q318728]">MS KB318728</a>  
+ If using Windows 2000/XP then one can restore the boot files using the [Recovery Console](/article/winnt-recovery-console.html), and copy the NtLdr and Ntdetect.com (NOT Boot.ini) from the Windows 2000/XP install CD to the boot partition. And if using Windows XP then one can try to rebuild the boot.ini file using the recovery console command "bootcfg /rebuild". More Info <a href="https://www.bing.com/search?q=KB+318728+Q318728" rel="nofollow" title="How to troubleshoot the 'NTLDR Is Missing' error message in Windows 2000 [Q318728]">MS KB318728</a>  
   
- If using Windows NT4/2000/XP then one can create a custom bootable floppy containing the boot files. Where the Boot.ini points to the boot partition, so when booting from the floppy it will load Windows NT from the boot partition and allow one to repair the boot files within Windows NT. More Info <a href="https://www.bing.com/search?q=KB%20119467%20Q119467" rel="nofollow" title="How to Create a Bootable Disk for an NTFS or FAT Partition [Q119467]">MS KB119467</a>  
+ If using Windows NT4/2000/XP then one can create a custom bootable floppy containing the boot files. Where the Boot.ini points to the boot partition, so when booting from the floppy it will load Windows NT from the boot partition and allow one to repair the boot files within Windows NT. More Info <a href="https://www.bing.com/search?q=KB+119467+Q119467" rel="nofollow" title="How to Create a Bootable Disk for an NTFS or FAT Partition [Q119467]">MS KB119467</a>  
   
  Note the chance of damaged boot files is higher if the boot partition is using FAT16/FAT32, where the filesystem is easily damaged [compared to NTFS](/article/cluster-hard-disk-partition.html). If using NTFS, then it can be a sign that the hard disk is starting to fail, and one should take a backup of important files and acquire a disk diagnostic utility from the hard disk manufacture.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20100312%20Q100312" rel="nofollow" title="Error messages during boot Sequence on Intel x86 machines [Q100312]">MS KB100312</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20124550%20Q124550" rel="nofollow" title="'Windows NT Could Not Start...Ntoskrnl.exe' error message [Q124550]">MS KB124550</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20320397%20Q320397" rel="nofollow" title="You receive an 'NTLDR is missing' error message when you start your computer [Q320397]">MS KB320397</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+100312+Q100312" rel="nofollow" title="Error messages during boot Sequence on Intel x86 machines [Q100312]">MS KB100312</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+124550+Q124550" rel="nofollow" title="'Windows NT Could Not Start...Ntoskrnl.exe' error message [Q124550]">MS KB124550</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+320397+Q320397" rel="nofollow" title="You receive an 'NTLDR is missing' error message when you start your computer [Q320397]">MS KB320397</a>  
   
  Note if the NT Loader (Ntldr) have become compressed, then it will fail because all features of NTFS is not available during booting and give the error "NTLDR is compressed". To decompress the Ntldr use the [Recovery Console](/article/winnt-recovery-console.html) and execute these two commands:
  > CD \\

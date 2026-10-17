@@ -25,7 +25,7 @@ The System Event Log will display the following warning when less than 10% disk 
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\LanmanServer \\Parameters\]  
 >  DiskSpaceThreshold=0 (0-99 percent, Default = 10%)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20112509%20Q112509" rel="nofollow" title="Error 2013 - Disk Is At Or Near Capacity [Q112509]">MS KB112509</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+112509+Q112509" rel="nofollow" title="Error 2013 - Disk Is At Or Near Capacity [Q112509]">MS KB112509</a>
 
  Windows 2003 can also write an entry to the Eventlog when the free space on disk is below a certain treshold specified in megabytes:
  

@@ -26,7 +26,7 @@ A new feature of WinXP is being able to share documents between users through th
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Policies \\Explorer\]  
 >  NoSharedDocuments = 1 (No Folder = 1, Default = 0)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20286727%20Q286727" rel="nofollow" title="The My Computer Icon Displays the My Documents Folders of Another User [Q286727]">MS KB286727</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+286727+Q286727" rel="nofollow" title="The My Computer Icon Displays the My Documents Folders of Another User [Q286727]">MS KB286727</a>
 
  Another way to do this is going to this registry entry:  
 > \[HKEY\_LOCAL\_MACHINE \\SOFTWARE \\Microsoft \\Windows \\CurrentVersion \\Explorer \\My Computer \\NameSpace \\DelegateFolders\]

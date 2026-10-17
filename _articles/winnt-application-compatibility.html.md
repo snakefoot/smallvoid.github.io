@@ -21,7 +21,7 @@ Windows 2000 tries to ensure compatibility with applications written for older v
  To deactivate the Application Compatibility-Mode interface:
  > regsvr32 /u %systemroot%\\apppatch\\slayerui.dll
 
- More info <a href="https://www.bing.com/search?q=KB%20251062%20Q251062" rel="nofollow" title="Description of the Application Compatibility Tool [Q251062]">MS KB251062</a>  
- More info <a href="https://www.bing.com/search?q=KB%20279792%20Q279792" rel="nofollow" title="How to Enable Application Compatibility-Mode Technology in Windows 2000 Service Pack 2 [Q279792]">MS KB279792</a>  
+ More info <a href="https://www.bing.com/search?q=KB+251062+Q251062" rel="nofollow" title="Description of the Application Compatibility Tool [Q251062]">MS KB251062</a>  
+ More info <a href="https://www.bing.com/search?q=KB+279792+Q279792" rel="nofollow" title="How to Enable Application Compatibility-Mode Technology in Windows 2000 Service Pack 2 [Q279792]">MS KB279792</a>  
   
  Credits [ntcanuck.com/tq](http://ntcanuck.com/tq/)  

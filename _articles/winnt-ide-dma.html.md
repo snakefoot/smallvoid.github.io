@@ -33,7 +33,7 @@ To get the best performance of your IDE hard disk, then one should make sure tha
   
  Note that some ATAPI devices like CD-ROM, Tape-Drive, MO-Drive is set to PIO by default, so one manually has to enable DMA as described in the beginning.  
   
- Note if more than 6 transfer timeouts occurs then Windows tries to degrade the DMA mode to a lower level to prevent data errors (Independent of lifetime). If the transfer timeouts continues to occur then it will change to PIO mode for the IDE device. The only way to reenable DMA is to remove the device or controller in the Device Manager (It will redetect the device automatically). More Info <a href="https://www.bing.com/search?q=KB%20817472%20Q817472" rel="nofollow" title="IDE ATA and ATAPI disks use PIO mode after multiple time-out or CRC errors occur [Q817472]">MS KB817472</a>.  
+ Note if more than 6 transfer timeouts occurs then Windows tries to degrade the DMA mode to a lower level to prevent data errors (Independent of lifetime). If the transfer timeouts continues to occur then it will change to PIO mode for the IDE device. The only way to reenable DMA is to remove the device or controller in the Device Manager (It will redetect the device automatically). More Info <a href="https://www.bing.com/search?q=KB+817472+Q817472" rel="nofollow" title="IDE ATA and ATAPI disks use PIO mode after multiple time-out or CRC errors occur [Q817472]">MS KB817472</a>.  
   
  Note with Windows XP SP2 and Windows 2000 SP3 a less aggressive policy was introduced, so instead of remembering all DMA transfer timeouts throughout history, then it would reset the timeout counter if a succesful transfer was performed. This policy is not enabled by default, but can enabled with the following DWORD registry key:
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Control \\Class \\{4D36E96A-E325-11CE-BFC1-08002BE10318}\\000**X**\]  
@@ -45,7 +45,7 @@ To get the best performance of your IDE hard disk, then one should make sure tha
 > \[HKEY\_LOCAL\_MACHINE\\ System\\ CurrentControlSet\\ Control\\ Class\\ {4D36E96A-E325-11CE-BFC1-08002BE10318}\\ 0000\]  
 >  EnableUDMA66=1  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20247951%20Q247951" rel="nofollow" title="HOWTO: Enable UDMA66 Mode on Intel Chipsets [Q247951]">MS KB247951</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+247951+Q247951" rel="nofollow" title="HOWTO: Enable UDMA66 Mode on Intel Chipsets [Q247951]">MS KB247951</a>
 
  More Info [MS Technet](http://www.microsoft.com/whdc/hwdev/tech/storage/IDE-DMA.mspx "DMA Mode for ATA/ATAPI Devices in Windows XP")  
- More Info <a href="https://www.bing.com/search?q=KB%20260233%20Q260233" rel="nofollow" title="Support for ATA100 (Mode 5 ) in Windows 2000 [Q260233]">MS KB260233</a> (ATA 100 is supported in Win2k SP2)  
+ More Info <a href="https://www.bing.com/search?q=KB+260233+Q260233" rel="nofollow" title="Support for ATA100 (Mode 5 ) in Windows 2000 [Q260233]">MS KB260233</a> (ATA 100 is supported in Win2k SP2)  

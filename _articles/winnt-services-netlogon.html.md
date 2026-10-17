@@ -28,7 +28,7 @@ tags:
 > *You must supply a password to make this connection:  
 >  Resource: \\\\computername\\[IPC$](/article/winnt-ipc-share.html)*
 
- More Info <a href="https://www.bing.com/search?q=KB%20262916%20Q262916" rel="nofollow" title="Unable to Connect to Network Share When Netlogon Service Is Not Started [Q262916]">MS KB262916</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+262916+Q262916" rel="nofollow" title="Unable to Connect to Network Share When Netlogon Service Is Not Started [Q262916]">MS KB262916</a>  
   
 ##### Recommended State:
 

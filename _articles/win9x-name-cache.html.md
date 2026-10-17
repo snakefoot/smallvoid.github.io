@@ -17,7 +17,7 @@ tags:
 ---
 To avoid accessing the HDD to find a file. it caches the file name and location of the most recent used files and paths. To configure the size of this cache go to Control Panel -&gt; System -&gt; Performance -&gt; FileSystem and change the Role to "Network Server".  
   
-<a href="https://www.bing.com/search?q=KB%20138012%20Q138012" rel="nofollow" title="Incorrect Settings for File System Performance Profiles [Q138012]">MS KB138012</a> States that the original Win95 and with SP1 won't configure the cache properly. You can check this by opening REGEDIT and looking up the following registry key for the profile templates.
+<a href="https://www.bing.com/search?q=KB+138012+Q138012" rel="nofollow" title="Incorrect Settings for File System Performance Profiles [Q138012]">MS KB138012</a> States that the original Win95 and with SP1 won't configure the cache properly. You can check this by opening REGEDIT and looking up the following registry key for the profile templates.
 
 > \[HKEY\_LOCAL\_MACHINE\\ SOFTWARE\\ Microsoft\\ Windows\\ CurrentVersion\\ FS Templates\\ Server\]  
 >  NameCache = a9 0a 00 00 (Will store 2729 filenames)  

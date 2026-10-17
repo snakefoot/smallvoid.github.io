@@ -46,7 +46,7 @@ Set BPS for the modem:
   - 115200 if having a 56K modem
   - 57600 if having a 28.8K/33.6K modem
  
- More Info <a href="https://www.bing.com/search?q=KB%20308022%20Q308022" rel="nofollow" title="Resources for troubleshooting modem problems in Windows XP [Q308022]">MS KB308022</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+308022+Q308022" rel="nofollow" title="Resources for troubleshooting modem problems in Windows XP [Q308022]">MS KB308022</a>  
   
  Related [Optimize dialup modem connection](/article/winnt-dialup-connection.html)  
  Related [Configure maximum port speed for modem in Win2k](/article/win2k-dialup-bps.html)  

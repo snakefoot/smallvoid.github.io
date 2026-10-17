@@ -41,9 +41,9 @@ Windows NT has support for several subsystems, the most common ones are DOS and 
 4. Enter the %Windir%\\System32\\OS2 directory and rename/remove these files: 
   - All files except the DLL folder and its contents
  
- More Info <a href="https://www.bing.com/search?q=KB%20101270%20Q101270" rel="nofollow" title="Disabling the POSIX Subsystem [Q101270]">MS KB101270</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+101270+Q101270" rel="nofollow" title="Disabling the POSIX Subsystem [Q101270]">MS KB101270</a>  
   
- Note that with Windows XP the OS2 and POSIX subsystem is not installed, though the registry entries are still created. More Info <a href="https://www.bing.com/search?q=KB%20308259%20Q308259" rel="nofollow" title="OS/2 and POSIX Are Not Supported in Windows XP [Q308259]">MS KB308259</a>  
+ Note that with Windows XP the OS2 and POSIX subsystem is not installed, though the registry entries are still created. More Info <a href="https://www.bing.com/search?q=KB+308259+Q308259" rel="nofollow" title="OS/2 and POSIX Are Not Supported in Windows XP [Q308259]">MS KB308259</a>  
   
  Credits [NSA Win2k Security Guide](http://csrc.nist.gov/itsec/guidance_W2Kpro.html)  
  Credits [NSA WinXP Security Guide](http://csrc.nist.gov/itsec/guidance_WinXP.html)  

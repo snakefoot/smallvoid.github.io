@@ -23,7 +23,7 @@ Internet Explorer (IE) is able to upload files using the HTTP feature. By defaul
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Internet Settings\]  
 >  SocketSendBufferLength = 16384 (Max - 65536)  
 >   
->  More info <a href="https://www.bing.com/search?q=KB%20329781%20Q329781" rel="nofollow" title="HTTP File Upload Operation Takes a Long Time to Complete [Q329781]">MS KB329781</a>
+>  More info <a href="https://www.bing.com/search?q=KB+329781+Q329781" rel="nofollow" title="HTTP File Upload Operation Takes a Long Time to Complete [Q329781]">MS KB329781</a>
 
  Note IE 7 does a better job when uploading, and does not require this registry setting.  
   

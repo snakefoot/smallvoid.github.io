@@ -26,7 +26,7 @@ Windows 95 / 98 / Me has a limitation for how much memory they can handle, actua
   > \[386enh\]  
   >  MaxPhysPage=40000
  
- More Info <a href="https://www.bing.com/search?q=KB%20304943%20Q304943" rel="nofollow" title="Computer May Reboot Continuously with More Than 1.5 GB of RAM [Q304943]">MS KB304943</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20253912%20Q253912" rel="nofollow" title="'Out of Memory' Error Messages with Large Amounts of RAM Installed [Q253912]">MS KB253912</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20184447%20Q184447" rel="nofollow" title="Error Message: Insufficient Memory to Initialize Windows [Q184447]">MS KB184447</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20181862%20Q181862" rel="nofollow" title="Specifying Amount of RAM Available to Windows Using MaxPhysPage [Q181862]">MS KB181862</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+304943+Q304943" rel="nofollow" title="Computer May Reboot Continuously with More Than 1.5 GB of RAM [Q304943]">MS KB304943</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+253912+Q253912" rel="nofollow" title="'Out of Memory' Error Messages with Large Amounts of RAM Installed [Q253912]">MS KB253912</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+184447+Q184447" rel="nofollow" title="Error Message: Insufficient Memory to Initialize Windows [Q184447]">MS KB184447</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+181862+Q181862" rel="nofollow" title="Specifying Amount of RAM Available to Windows Using MaxPhysPage [Q181862]">MS KB181862</a>  

@@ -12,7 +12,7 @@ categories:
     - windows-xp_troubleshoot
 tags: []
 ---
-[Background Intelligent Transfer Service (BITS)](/article/winnt-services-bits.html) was extended in Ver. 2 (XP SP2 or <a href="https://www.bing.com/search?q=KB%20842773%20Q842773" rel="nofollow" title="An update package that includes BITS 2.0 and WinHTTP 5.1 is available for Windows Server 2003, for Windows XP, and for Windows 2000 [Q842773]">MS KB842773</a>) so it can throttle the use of bandwidth by using the following policies:
+[Background Intelligent Transfer Service (BITS)](/article/winnt-services-bits.html) was extended in Ver. 2 (XP SP2 or <a href="https://www.bing.com/search?q=KB+842773+Q842773" rel="nofollow" title="An update package that includes BITS 2.0 and WinHTTP 5.1 is available for Windows Server 2003, for Windows XP, and for Windows 2000 [Q842773]">MS KB842773</a>) so it can throttle the use of bandwidth by using the following policies:
 - **Enable/Disable throttling of network traffic:**
   > \[HKEY\_LOCAL\_MACHINE \\Software \\Policies \\Microsoft \\Windows \\BITS\]  
   >  EnableBITSMaxBandwidth = 0 (1 = Imposes limit, 0 = Uses no limit, Default = 0)

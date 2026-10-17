@@ -21,7 +21,7 @@ tags:
  Enables automatic detection, installation and activation of new PnP devices attached to the computer.  
   
  Note if this service is not running properly, then the Device Manager will be empty with no items listed:
-- Make sure the service is set to Automatic. More Info <a href="https://www.bing.com/search?q=KB%20311504%20Q311504" rel="nofollow" title="No Items Appear in the Device Manager List When You Open It [Q311504]">MS KB311504</a>
+- Make sure the service is set to Automatic. More Info <a href="https://www.bing.com/search?q=KB+311504+Q311504" rel="nofollow" title="No Items Appear in the Device Manager List When You Open It [Q311504]">MS KB311504</a>
 - Make sure that SYSTEM has Full Control over the following registry key (Use Regedt32.exe):
   > \[HKEY\_LOCAL\_MACHINE /SYSTEM /CurrenControlSet /Enum\]
 - Make sure that service is not hampered by malware/spyware/virus like [Apropos.C](http://securityresponse.symantec.com/avcenter/venc/data/spyware.apropos.c.html)

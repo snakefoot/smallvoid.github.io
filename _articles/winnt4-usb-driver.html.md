@@ -20,4 +20,4 @@ Windows NT 4.0 doesn't have native USB support, but with these free [USB drivers
   
  Note there exists hardware that can convert USB to PS/2, so if the problem is attaching an USB keyboard or mouse to a computer running NT4, then it can be solved by using a hardware converter instead of trying to enable USB on Windows NT.  
   
- Note these drivers are unsupported, so be careful when applying them to a mission critical system. More Info <a href="https://www.bing.com/search?q=KB%20196661%20Q196661" rel="nofollow" title="Windows NT 4.0 does not support Universal Serial Bus [Q196661]">MS KB196661</a>
+ Note these drivers are unsupported, so be careful when applying them to a mission critical system. More Info <a href="https://www.bing.com/search?q=KB+196661+Q196661" rel="nofollow" title="Windows NT 4.0 does not support Universal Serial Bus [Q196661]">MS KB196661</a>

@@ -39,7 +39,7 @@ It can be a daunting task to [Setup a home network](/article/troubleshooting-net
 
  Related [Faster boot times by using static IP instead of DHCP](/article/dhcp-static-ip.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20188480%20Q188480" rel="nofollow" title="Windows 98 Mtsutil.txt File [Q188480]">MS KB188480</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20220874%20Q220874" rel="nofollow" title="How to Use Automatic TCP/IP Addressing Without a DHCP Server [Q220874]">MS KB220874</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20255836%20Q255836" rel="nofollow" title="Change in DHCP Client Behavior in Windows 2000 [Q255836]">MS KB255836</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20244268%20Q244268" rel="nofollow" title="Routing Does Not Work When Multiple Adapters Use Automatic Private IP Addressing Simultaneously [Q244268]">MS KB244268</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+188480+Q188480" rel="nofollow" title="Windows 98 Mtsutil.txt File [Q188480]">MS KB188480</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+220874+Q220874" rel="nofollow" title="How to Use Automatic TCP/IP Addressing Without a DHCP Server [Q220874]">MS KB220874</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+255836+Q255836" rel="nofollow" title="Change in DHCP Client Behavior in Windows 2000 [Q255836]">MS KB255836</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+244268+Q244268" rel="nofollow" title="Routing Does Not Work When Multiple Adapters Use Automatic Private IP Addressing Simultaneously [Q244268]">MS KB244268</a>  

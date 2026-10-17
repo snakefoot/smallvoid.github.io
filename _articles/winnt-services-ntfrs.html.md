@@ -18,11 +18,11 @@ tags:
 
  Directory Replicator or File Replication Service (FRS) provides control replication / synchronization of directories and files among multiple servers. It is used by the [Distributed File System (DFS)](/article/winnt-services-dfs.html) to automatically synchronize file catalogs. It is used by the Active Directory to automatically synchronize Domain Controllers.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20221111%20Q221111" rel="nofollow" title="Description of FRS Entries in the Registry [Q221111]">MS KB221111</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20264822%20Q264822" rel="nofollow" title="File Replication Service Stops Responding When Staging Area is Full [Q264822]">MS KB264822</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20272279%20Q272279" rel="nofollow" title="How to Troubleshoot the File Replication Service and the Distributed File System (MS KB272279) [Q272279]">MS KB272279</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20272567%20Q272567" rel="nofollow" title="File Replication Service Improvements in Windows 2000 Service Pack 2 [Q272567]">MS KB272567</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20308406%20Q308406" rel="nofollow" title="FRS Event Log Error Codes [Q308406]">MS KB308406</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+221111+Q221111" rel="nofollow" title="Description of FRS Entries in the Registry [Q221111]">MS KB221111</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+264822+Q264822" rel="nofollow" title="File Replication Service Stops Responding When Staging Area is Full [Q264822]">MS KB264822</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+272279+Q272279" rel="nofollow" title="How to Troubleshoot the File Replication Service and the Distributed File System (MS KB272279) [Q272279]">MS KB272279</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+272567+Q272567" rel="nofollow" title="File Replication Service Improvements in Windows 2000 Service Pack 2 [Q272567]">MS KB272567</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+308406+Q308406" rel="nofollow" title="FRS Event Log Error Codes [Q308406]">MS KB308406</a>  
   
 ##### Recommended State:
 

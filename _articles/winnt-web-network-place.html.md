@@ -24,7 +24,7 @@ Windows Explorer has the same FTP and HTTP capabilities as [Internet Explorer](/
 
 ##### To add a Web Folder as a network place in Win98/WinNT4
 
- If using Win98 or WinNT4 and doesn't see a "Web Folders" icon in "My Computer", then one need to install the "Web Folders component" of Internet Explorer 5.x first. More Info <a href="https://www.bing.com/search?q=KB%20298637%20Q298637" rel="nofollow" title="No option to install Web Folders when you install Internet Explorer 6">MS KB298637</a>.
+ If using Win98 or WinNT4 and doesn't see a "Web Folders" icon in "My Computer", then one need to install the "Web Folders component" of Internet Explorer 5.x first. More Info <a href="https://www.bing.com/search?q=KB+298637+Q298637" rel="nofollow" title="No option to install Web Folders when you install Internet Explorer 6">MS KB298637</a>.
 1. Open **My Computer** and double click **Web Folders** and double-click **Add Web Folder**.
 2. Enter the address of the remote server and click **Next**. 
   - If using WebDAV over SSL then use https instead of http
@@ -43,13 +43,13 @@ Windows Explorer has the same FTP and HTTP capabilities as [Internet Explorer](/
 
 ##### To add a Web Folder as a network place in WinXP/Win2k3
 
- Win2k3 doesn't have the Web Extender Client component by default, and has to use the installer package Webfldrs.msi from a Windows 2000 or XP installation. More Info <a href="https://www.bing.com/search?q=KB%20888123%20Q888123" rel="nofollow" title="You cannot connect to a Web folder from a Windows Server 2003 or Windows XP x64 machine">MS KB888123</a>1. Open the **Control Panel** and click **Network and Internet Connections**.
+ Win2k3 doesn't have the Web Extender Client component by default, and has to use the installer package Webfldrs.msi from a Windows 2000 or XP installation. More Info <a href="https://www.bing.com/search?q=KB+888123+Q888123" rel="nofollow" title="You cannot connect to a Web folder from a Windows Server 2003 or Windows XP x64 machine">MS KB888123</a>1. Open the **Control Panel** and click **Network and Internet Connections**.
 2. Under **See Also**, click **My Network Places**.
 3. Click **Add a network place**. The Add Network Place Wizard starts. Click **Next** to continue.
 4. Click **Choose another network location**, and then click **Next**.
 5. Enter the address of the remote server (See the examples of how the paths should be entered) and click **Next**
   - If using WebDAV over SSL then use https instead of http
-6. Click **Next** and give the network place a name and click **Next** again and then **Finish**. More Info <a href="https://www.bing.com/search?q=KB%20308416%20Q308416" rel="nofollow" title="HOW TO: Create a Shortcut to a Network Location in Windows XP [Q308416]">MS KB308416</a>
+6. Click **Next** and give the network place a name and click **Next** again and then **Finish**. More Info <a href="https://www.bing.com/search?q=KB+308416+Q308416" rel="nofollow" title="HOW TO: Create a Shortcut to a Network Location in Windows XP [Q308416]">MS KB308416</a>
 
 ##### To add a Web Folder as a network place in Vista
 
@@ -67,9 +67,9 @@ Windows Explorer has the same FTP and HTTP capabilities as [Internet Explorer](/
 
  Microsoft have released an update to the Web Folders component, which fixes several issues with WebDAV folders. More Info [MS KB907306](http://www.microsoft.com/downloads/details.aspx?FamilyId=17C36612-632E-4C04-9382-987622ED1D64).
  - The latest version of the Web Folders update (2.0) doesn't support Windows 98, Me or 2000. Instead one should use version 11.0.6715.15 [Download Webfldrs-KB892211-ENU.exe](http://smallvoid.orgfree.com/?file=Webfldrs-KB892211-ENU.exe.zip).
- - Windows Vista SP1 (and older) has a known bug where it cannot access sub-folder unless it has read-access to the parent folders. More Info <a href="https://www.bing.com/search?q=KB%20942392%20Q942392" rel="nofollow" title="On a Windows Vista-based computer, you cannot access certain directories on a WebDAV server">MS KB942392</a>
+ - Windows Vista SP1 (and older) has a known bug where it cannot access sub-folder unless it has read-access to the parent folders. More Info <a href="https://www.bing.com/search?q=KB+942392+Q942392" rel="nofollow" title="On a Windows Vista-based computer, you cannot access certain directories on a WebDAV server">MS KB942392</a>
  
- More Info <a href="https://www.bing.com/search?q=KB%20287402%20Q287402" rel="nofollow" title="Troubleshooting Web Folders">MS KB287402</a> (Troubleshooting Web Folders)  
+ More Info <a href="https://www.bing.com/search?q=KB+287402+Q287402" rel="nofollow" title="Troubleshooting Web Folders">MS KB287402</a> (Troubleshooting Web Folders)  
  More Info [Lists WebDAV clients in MS Office (and their bugs)](http://greenbytes.de/tech/webdav/webfolder-client-list.html "Web Folder Client (MSDAIPP.DLL) Versions and Issues List")  
  More Info [Lists WebDAV clients in Windows (and their bugs)](http://greenbytes.de/tech/webdav/webdav-redirector-list.html "WebDAV Mini-Redirector (MRXDAV.SYS) Versions and Issues List")  
   

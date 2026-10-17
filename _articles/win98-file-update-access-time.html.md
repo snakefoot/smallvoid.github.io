@@ -23,6 +23,6 @@ When a file is opened then the last access timestamp for the file is updated. Th
   
  You can find this tip in your CONFIG.TXT in the WINDOWS directory [MS Info](http://support.microsoft.com/support/windows/readme/Win98se/W98seconfigtxt.asp#ACCDATE "Windows 98 Second Edition Config.txt File")  
   
- Doesn't work for Win95 <a href="https://www.bing.com/search?q=KB%20182465%20Q182465" rel="nofollow" title="ACCDATE Command Line Does Not Work with Windows 95 [Q182465]">MS KB182465</a>  
+ Doesn't work for Win95 <a href="https://www.bing.com/search?q=KB+182465+Q182465" rel="nofollow" title="ACCDATE Command Line Does Not Work with Windows 95 [Q182465]">MS KB182465</a>  
   
- Doesn't work for WinMe <a href="https://www.bing.com/search?q=KB%20274646%20Q274646" rel="nofollow" title="Understanding the Settings in the Windows Millennium Edition Config.sys File [Q274646]">MS KB274646</a>  
+ Doesn't work for WinMe <a href="https://www.bing.com/search?q=KB+274646+Q274646" rel="nofollow" title="Understanding the Settings in the Windows Millennium Edition Config.sys File [Q274646]">MS KB274646</a>  

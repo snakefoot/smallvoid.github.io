@@ -39,12 +39,12 @@ System Restore makes it possible to go back to a previous known good configurati
   
  Note one can only use restore points inside Windows, if in the situation where Windows won't even start in safe mode, then one have to use the [Scanreg](/article/win9x-registry-checker.html) tool to restore a previous version of the registry.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20261716%20Q261716" rel="nofollow" title="System Restore Removes Files During a Restore Procedure [Q261716]">MS KB261716</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20263455%20Q263455" rel="nofollow" title="Antivirus Tools Cannot Clean Infected Files in the _Restore Folder [Q263455]">MS KB263455</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20264152%20Q264152" rel="nofollow" title="Deleting the _Restore Folder from a Non-Windows Me Partition Resets the Data Store [Q264152]">MS KB264152</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20267176%20Q267176" rel="nofollow" title="Unable to Access the System Restore Buttons If Screen Resolution Is 800x600 or Less [Q267176]">MS KB267176</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20267698%20Q267698" rel="nofollow" title="Computer May Not Start Properly After You Use a System Restore Point [Q267698]">MS KB267698</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20267951%20Q267951" rel="nofollow" title="Description of the System Restore Utility in Windows Millennium Edition [Q267951]">MS KB267951</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20279736%20Q279736" rel="nofollow" title="How to Start the System Restore Tool from a Command Prompt [Q279736]">MS KB279736</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20303354%20Q303354" rel="nofollow" title="Error Message: System Restore Was Unable to Create a Restore Point [Q303354]">MS KB303354</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+261716+Q261716" rel="nofollow" title="System Restore Removes Files During a Restore Procedure [Q261716]">MS KB261716</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+263455+Q263455" rel="nofollow" title="Antivirus Tools Cannot Clean Infected Files in the _Restore Folder [Q263455]">MS KB263455</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+264152+Q264152" rel="nofollow" title="Deleting the _Restore Folder from a Non-Windows Me Partition Resets the Data Store [Q264152]">MS KB264152</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+267176+Q267176" rel="nofollow" title="Unable to Access the System Restore Buttons If Screen Resolution Is 800x600 or Less [Q267176]">MS KB267176</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+267698+Q267698" rel="nofollow" title="Computer May Not Start Properly After You Use a System Restore Point [Q267698]">MS KB267698</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+267951+Q267951" rel="nofollow" title="Description of the System Restore Utility in Windows Millennium Edition [Q267951]">MS KB267951</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+279736+Q279736" rel="nofollow" title="How to Start the System Restore Tool from a Command Prompt [Q279736]">MS KB279736</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+303354+Q303354" rel="nofollow" title="Error Message: System Restore Was Unable to Create a Restore Point [Q303354]">MS KB303354</a>  
  More Info [MSDN: Windows System Restore](http://msdn.microsoft.com/library/en-us/dnsetup/html/winmesr.asp)  

@@ -25,5 +25,5 @@ MS DOS 6.0 introduced the ability to bypass the Config.sys and Autoexec.bat, and
 
 > switches=/n
 
- More Info <a href="https://www.bing.com/search?q=KB%2093602%20Q93602" rel="nofollow" title="How to Disable F5 and F8 During Startup in MS-DOS [Q93602]">MS KB93602</a>  
- More Info <a href="https://www.bing.com/search?q=KB%2096332%20Q96332" rel="nofollow" title="F5 and F8 Keys Do Not Seem to Affect Startup Files [Q96332]">MS KB96332</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+93602+Q93602" rel="nofollow" title="How to Disable F5 and F8 During Startup in MS-DOS [Q93602]">MS KB93602</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+96332+Q96332" rel="nofollow" title="F5 and F8 Keys Do Not Seem to Affect Startup Files [Q96332]">MS KB96332</a>  

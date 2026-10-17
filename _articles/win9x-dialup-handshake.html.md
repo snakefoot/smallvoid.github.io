@@ -25,4 +25,4 @@ By standard when creating a modem connection in Win9x it is configured to log on
 5. Uncheck **Log on to Network**
 6. Uncheck **NetBEUI** and **IPX**, but leave **TCPIP** checked.
  
- More Info <a href="https://www.bing.com/search?q=KB%20130073%20Q130073" rel="nofollow" title="How to Decrease Logon Time to Internet Providers [Q130073]">MS KB130073</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+130073+Q130073" rel="nofollow" title="How to Decrease Logon Time to Internet Providers [Q130073]">MS KB130073</a>  

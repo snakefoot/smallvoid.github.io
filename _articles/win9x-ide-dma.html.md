@@ -26,7 +26,7 @@ To get the best performance of your IDE hard disk, then one should make sure tha
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\Class \\hdc \\XXXX\]  
 >  IDEDMADRIVEx=01  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20258757%20Q258757" rel="nofollow" title="How to Enable Direct Memory Access (DMA) [Q258757]">MS KB258757</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+258757+Q258757" rel="nofollow" title="How to Enable Direct Memory Access (DMA) [Q258757]">MS KB258757</a>
 
  In Win95b+ and Win98 a small fix can be applied to the builtin IDE drivers, so DMA is automatically enabled for new IDE-Device. Edit the file Windows\\Inf\\Mshdc.inf and add the lines in **bold** if they are not already there:
 > \[ESDI\_AddReg\]  
@@ -43,8 +43,8 @@ To get the best performance of your IDE hard disk, then one should make sure tha
  Note that the above settings is only valid if using the builtin IDE drivers supplied with Win9x. If using 3rd party drivers for the IDE Controller, then DMA should be enabled automatically, and the drivers will not react to the changes made for the builtin IDE drivers.  
   
  More Info [MS HWDEV: Enabling IDE DMA on Windows-based Systems](http://www.microsoft.com/whdc/archive/idedma.mspx)  
- More Info <a href="https://www.bing.com/search?q=KB%20159560%20Q159560" rel="nofollow" title="DMA Check Box Does Not Remain Checked [Q159560]">MS KB159560</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20171353%20Q171353" rel="nofollow" title="Computer with Ultra DMA IDE Controller May Hang [Q171353]">MS KB171353</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20193473%20Q193473" rel="nofollow" title="Computer with IDE DMA Hard Disk Hangs When Resumed [Q193473]">MS KB193473</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20229085%20Q229085" rel="nofollow" title="Drive Does Not Have a DMA Check Box [Q229085]">MS KB229085</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20235859%20Q235859" rel="nofollow" title="DMA CD-ROM Drive Icon Does Not Appear in Windows Explorer [Q235859]">MS KB235859</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+159560+Q159560" rel="nofollow" title="DMA Check Box Does Not Remain Checked [Q159560]">MS KB159560</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+171353+Q171353" rel="nofollow" title="Computer with Ultra DMA IDE Controller May Hang [Q171353]">MS KB171353</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+193473+Q193473" rel="nofollow" title="Computer with IDE DMA Hard Disk Hangs When Resumed [Q193473]">MS KB193473</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+229085+Q229085" rel="nofollow" title="Drive Does Not Have a DMA Check Box [Q229085]">MS KB229085</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+235859+Q235859" rel="nofollow" title="DMA CD-ROM Drive Icon Does Not Appear in Windows Explorer [Q235859]">MS KB235859</a>  

@@ -28,4 +28,4 @@ When a file is opened then the last access timestamp for the file is updated. Th
  Note the utility fsutil can also be used to change this value:
  > fsutil behavior set disablelastaccess 1
 
- More Info <a href="https://www.bing.com/search?q=KB%20150355%20Q150355" rel="nofollow" title="Windows NT Nonresponsive during NTFS Directory Traversal [Q150355]">MS KB150355</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+150355+Q150355" rel="nofollow" title="Windows NT Nonresponsive during NTFS Directory Traversal [Q150355]">MS KB150355</a>  

@@ -28,7 +28,7 @@ A low Password Encryption level is used by default to give a higher level of com
 >  Level 0 = Client uses LM and NTLM  
 >  Level 3 = Client only uses NTML2  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20239869%20Q239869" rel="nofollow" title="How to enable NTLM 2 authentication [Q239869]">MS KB239869</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+239869+Q239869" rel="nofollow" title="How to enable NTLM 2 authentication [Q239869]">MS KB239869</a>
 
  Configure the LanManager Security Support Provider (SSP):
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\control \\LSA \\MSV1\_0\]  
@@ -38,20 +38,20 @@ A low Password Encryption level is used by default to give a higher level of com
  >   
  >  Note to reach 128 bit encryption one have to install the Internet Explorer with 128 encryption before installing the Directoy Services Client.  
  >   
- >  More Info <a href="https://www.bing.com/search?q=KB%20239869%20Q239869" rel="nofollow" title="How to enable NTLM 2 authentication [Q239869]">MS KB239869</a>
+ >  More Info <a href="https://www.bing.com/search?q=KB+239869+Q239869" rel="nofollow" title="How to enable NTLM 2 authentication [Q239869]">MS KB239869</a>
 
  The LanManager can be configured not to require Challenge/Response(CHAP), but also allow Password Authentication Protocol(PAP):
  
  > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\VxD \\VNETSUP\]  
  >  EnablePlainTextPassword = 1 (Default = 0 and the most secure)  
  >   
- >  More Info <a href="https://www.bing.com/search?q=KB%20185612%20Q185612" rel="nofollow" title="Invalid Password Error Message After You Upgrade to Windows 98 [Q185612]">MS KB185612</a>  
- >  More Info <a href="https://www.bing.com/search?q=KB%20187228%20Q187228" rel="nofollow" title="Unable to Connect to a Samba Server with Windows 98 [Q187228]">MS KB187228</a>
+ >  More Info <a href="https://www.bing.com/search?q=KB+185612+Q185612" rel="nofollow" title="Invalid Password Error Message After You Upgrade to Windows 98 [Q185612]">MS KB185612</a>  
+ >  More Info <a href="https://www.bing.com/search?q=KB+187228+Q187228" rel="nofollow" title="Unable to Connect to a Samba Server with Windows 98 [Q187228]">MS KB187228</a>
 
- More Info <a href="https://www.bing.com/search?q=KB%20249841%20Q249841" rel="nofollow" title="INFO: How Windows 95 and Windows 98 Directory Services Client Uses Active Directory Site Information [Q249841]">MS KB249841</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20288358%20Q288358" rel="nofollow" title="How to install the Active Directory client extension">MS KB288358</a> (Download original DsClient.exe)  
- More Info <a href="https://www.bing.com/search?q=KB%20283261%20Q283261" rel="nofollow" title="Version Conflicts with the Directory Service Client Version of Windows 95 and Windows 98 System Files [Q283261]">MS KB283261</a> (Flaw in DsClient.exe)  
- More Info <a href="https://www.bing.com/search?q=KB%20323455%20Q323455" rel="nofollow" title="Availability of the Directory Services Client Update for Windows 98 [Q323455]">MS KB323455</a> (Description of [Hotfix](ftp://ftp.catalyst.com/pub/cstools/support/dsclient.exe "Mirror of 5.0.2920.5") for DsClient.exe) (Replaces MS KB323466)  
- More Info <a href="https://www.bing.com/search?q=KB%20555038%20Q555038" rel="nofollow" title="How to enable Windows 98/ME/NT clients to logon to Windows 2003 based Domains [Q555038]">MS KB555038</a> (Using DsClient.exe)  
+ More Info <a href="https://www.bing.com/search?q=KB+249841+Q249841" rel="nofollow" title="INFO: How Windows 95 and Windows 98 Directory Services Client Uses Active Directory Site Information [Q249841]">MS KB249841</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+288358+Q288358" rel="nofollow" title="How to install the Active Directory client extension">MS KB288358</a> (Download original DsClient.exe)  
+ More Info <a href="https://www.bing.com/search?q=KB+283261+Q283261" rel="nofollow" title="Version Conflicts with the Directory Service Client Version of Windows 95 and Windows 98 System Files [Q283261]">MS KB283261</a> (Flaw in DsClient.exe)  
+ More Info <a href="https://www.bing.com/search?q=KB+323455+Q323455" rel="nofollow" title="Availability of the Directory Services Client Update for Windows 98 [Q323455]">MS KB323455</a> (Description of [Hotfix](ftp://ftp.catalyst.com/pub/cstools/support/dsclient.exe "Mirror of 5.0.2920.5") for DsClient.exe) (Replaces MS KB323466)  
+ More Info <a href="https://www.bing.com/search?q=KB+555038+Q555038" rel="nofollow" title="How to enable Windows 98/ME/NT clients to logon to Windows 2003 based Domains [Q555038]">MS KB555038</a> (Using DsClient.exe)  
   
  Related [Description of password encryption level over network](/article/windows-password-encryption.html)

@@ -56,9 +56,9 @@ The Registry Checker Tool arrived with Win98/Me, and makes it easy to backup or 
 </table>
 
   
- More Info <a href="https://www.bing.com/search?q=KB%20184023%20Q184023" rel="nofollow" title="Command-Line Switches for the Registry Checker Tool [Q184023]">MS KB184023</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20183603%20Q183603" rel="nofollow" title="How to Customize Registry Checker Tool Settings [Q183603]">MS KB183603</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20183887%20Q183887" rel="nofollow" title="Description of the Windows Registry Checker Tool (Scanreg.exe) [Q183887]">MS KB183887</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20198864%20Q198864" rel="nofollow" title="Registry Is Not Backed Up Automatically at Startup [Q198864]">MS KB198864</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20201655%20Q201655" rel="nofollow" title="Error Message: You Have Restored a Good Registry... [Q201655]">MS KB201655</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20245147%20Q245147" rel="nofollow" title="Scanreg.exe Does Not Back Up User.dat Files When Using User Profiles [Q245147]">MS KB245147</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+184023+Q184023" rel="nofollow" title="Command-Line Switches for the Registry Checker Tool [Q184023]">MS KB184023</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+183603+Q183603" rel="nofollow" title="How to Customize Registry Checker Tool Settings [Q183603]">MS KB183603</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+183887+Q183887" rel="nofollow" title="Description of the Windows Registry Checker Tool (Scanreg.exe) [Q183887]">MS KB183887</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+198864+Q198864" rel="nofollow" title="Registry Is Not Backed Up Automatically at Startup [Q198864]">MS KB198864</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+201655+Q201655" rel="nofollow" title="Error Message: You Have Restored a Good Registry... [Q201655]">MS KB201655</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+245147+Q245147" rel="nofollow" title="Scanreg.exe Does Not Back Up User.dat Files When Using User Profiles [Q245147]">MS KB245147</a>  

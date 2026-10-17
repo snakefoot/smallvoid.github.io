@@ -30,6 +30,6 @@ When wanting to print from old DOS programs, then one is required to attach a pr
   
  Note if the DOS program is able to print, but nothing comes out of the printer, then you might have to change the printer properties to TEXT mode.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20163551%20Q163551" rel="nofollow" title="Troubleshooting Printing Problems in Windows 2000 and Windows NT 4.0 [Q163551]">MS KB163551</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+163551+Q163551" rel="nofollow" title="Troubleshooting Printing Problems in Windows 2000 and Windows NT 4.0 [Q163551]">MS KB163551</a>  
   
  Credits [GeeksWithBlogs.net](http://geekswithblogs.net/dtotzke/articles/26204.aspx)

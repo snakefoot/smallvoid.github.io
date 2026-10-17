@@ -56,9 +56,9 @@ Microsoft Windows 2000/XP are able to run for a long time without starting to ge
             - Inspect Startup Environment (Similar to Recovery Console command Bootcfg)
             - Verify Windows System Files (Similar to [SFC](/article/winnt-sfc.html))
             - Inspect Boot Sector (Similar to Recovery Console command chkdsk and fixboot)
-            - More Info <a href="https://www.bing.com/search?q=KB%20238359%20Q238359" rel="nofollow" title="Differences Between Manual and Fast Repair in Windows [Q238359]">MS KB238359</a>
+            - More Info <a href="https://www.bing.com/search?q=KB+238359+Q238359" rel="nofollow" title="Differences Between Manual and Fast Repair in Windows [Q238359]">MS KB238359</a>
              
-             \*Important\* if it is a Domain Controller then these options will overwrite \\WinNT\\NTDS\\ntds.dit. More Info <a href="https://www.bing.com/search?q=KB%20238359%20Q238359" rel="nofollow" title="HOW TO: Use the Backup Program to Back Up and Restore the System State in Windows 2000 [Q238359]">MS KB238359</a>
+             \*Important\* if it is a Domain Controller then these options will overwrite \\WinNT\\NTDS\\ntds.dit. More Info <a href="https://www.bing.com/search?q=KB+238359+Q238359" rel="nofollow" title="HOW TO: Use the Backup Program to Back Up and Restore the System State in Windows 2000 [Q238359]">MS KB238359</a>
 - **Automatic System Recovery**: (WinXP only) 
   - It requires that one have created a ASR Floppy Disk and BKF-file(image) using NTBackup
   - Boot from the Install-CD
@@ -85,16 +85,16 @@ Microsoft Windows 2000/XP are able to run for a long time without starting to ge
   - Before the inplace upgrade then make sure to delete the following file (Only OEM install of WinXP):
     > %windir%\\system32\\undo\_guimode.txt
       
-       More Info <a href="https://www.bing.com/search?q=KB%20312369%20Q312369" rel="nofollow" title="You May Lose Data or Program Settings After Reinstalling, Repairing, or Upgrading Windows XP [Q312369]">MS KB312369</a>
+       More Info <a href="https://www.bing.com/search?q=KB+312369+Q312369" rel="nofollow" title="You May Lose Data or Program Settings After Reinstalling, Repairing, or Upgrading Windows XP [Q312369]">MS KB312369</a>
   - After the inplace upgrade then make sure to reinstall all updates, and reapply all Windows registry tweaks.  
         
-       More Info <a href="https://www.bing.com/search?q=KB%20306952%20Q306952" rel="nofollow" title="What an in-place Windows 2000 upgrade changes and what it does not change [Q306952]">MS KB306952</a>
+       More Info <a href="https://www.bing.com/search?q=KB+306952+Q306952" rel="nofollow" title="What an in-place Windows 2000 upgrade changes and what it does not change [Q306952]">MS KB306952</a>
    
-   More Info <a href="https://www.bing.com/search?q=KB%20292175%20Q292175" rel="nofollow" title="How to Perform an In-Place Upgrade of Windows 2000 [Q292175]">MS KB292175</a> (Previous MS KB287043)  
-   More Info <a href="https://www.bing.com/search?q=KB%20315341%20Q315341" rel="nofollow" title="How to perform an in-place upgrade (reinstallation) of Windows XP [Q315341]">MS KB315341</a>  
-   More Info <a href="https://www.bing.com/search?q=KB%20316941%20Q316941" rel="nofollow" title="HOW TO: Install Windows XP [Q316941]">MS KB316941</a>
+   More Info <a href="https://www.bing.com/search?q=KB+292175+Q292175" rel="nofollow" title="How to Perform an In-Place Upgrade of Windows 2000 [Q292175]">MS KB292175</a> (Previous MS KB287043)  
+   More Info <a href="https://www.bing.com/search?q=KB+315341+Q315341" rel="nofollow" title="How to perform an in-place upgrade (reinstallation) of Windows XP [Q315341]">MS KB315341</a>  
+   More Info <a href="https://www.bing.com/search?q=KB+316941+Q316941" rel="nofollow" title="HOW TO: Install Windows XP [Q316941]">MS KB316941</a>
  
- More Info <a href="https://www.bing.com/search?q=KB%20315396%20Q315396" rel="nofollow" title="HOW TO: Troubleshoot Startup Problems in Windows 2000 [Q315396]">MS KB315396</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20316434%20Q316434" rel="nofollow" title="How to perform advanced clean-boot troubleshooting in Windows XP [Q316434]">MS KB316434</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20325375%20Q325375" rel="nofollow" title="HOW TO: Troubleshoot Startup Problems in Windows Server 2003 [Q325375]">MS KB325375</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+315396+Q315396" rel="nofollow" title="HOW TO: Troubleshoot Startup Problems in Windows 2000 [Q315396]">MS KB315396</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+316434+Q316434" rel="nofollow" title="How to perform advanced clean-boot troubleshooting in Windows XP [Q316434]">MS KB316434</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+325375+Q325375" rel="nofollow" title="HOW TO: Troubleshoot Startup Problems in Windows Server 2003 [Q325375]">MS KB325375</a>  
  More Info [WinXP Reskit: Troubleshooting Startup](http://www.microsoft.com/mspress/books/sampchap/6795.asp "Microsoft® Windows® XP Professional Resource Kit, Second Edition")  

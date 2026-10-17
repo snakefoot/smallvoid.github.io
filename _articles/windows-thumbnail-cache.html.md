@@ -36,7 +36,7 @@ The Thumbnail view was introduced with Windows 98 and allows one to easily overv
  > regsvr32 /u shimgvw.dll  
  > regsvr32 /u thumbvw.dll  
  >   
- >  More Info <a href="https://www.bing.com/search?q=KB%20272969%20Q272969" rel="nofollow" title="A Description of the Image Preview Feature [Q272969]">MS KB272969</a>
+ >  More Info <a href="https://www.bing.com/search?q=KB+272969+Q272969" rel="nofollow" title="A Description of the Image Preview Feature [Q272969]">MS KB272969</a>
 
  Note in Windows XP the thumbnail cache can be disabled completely with this DWORD registry key:
  > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Advanced\]  
@@ -46,11 +46,11 @@ The Thumbnail view was introduced with Windows 98 and allows one to easily overv
  > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Policies\]  
  >  NoDetailsThumbnailOnNetwork = 1  
  >   
- >  More Info <a href="https://www.bing.com/search?q=KB%20830903%20Q830903" rel="nofollow" title="A file in a network folder opens as read-only or returns an error message that the file type cannot be recognized">MS KB830903</a>
+ >  More Info <a href="https://www.bing.com/search?q=KB+830903+Q830903" rel="nofollow" title="A file in a network folder opens as read-only or returns an error message that the file type cannot be recognized">MS KB830903</a>
 
  Note in Windows XP when holding down the SHIFT key while opening a folder in thumbnail view, then the picture titles and filenames will not be displayed and will give more room for the thumb nails.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20176882%20Q176882" rel="nofollow" title="How to Enable the Thumbnail View for Folders in Windows Explorer [Q176882]">MS KB176882</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20192573%20Q192573" rel="nofollow" title="Image Previews Not Displayed in Windows Explorer [Q192573]">MS KB192573</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+176882+Q176882" rel="nofollow" title="How to Enable the Thumbnail View for Folders in Windows Explorer [Q176882]">MS KB176882</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+192573+Q192573" rel="nofollow" title="Image Previews Not Displayed in Windows Explorer [Q192573]">MS KB192573</a>  
   
  Credits [Tlab404.com](http://tlab404.com/)

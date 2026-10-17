@@ -44,7 +44,7 @@ Microsoft loves to makes sure everything is easy for the end user, and they love
       - Allow META REFRESH - Enable
       - Display mixed content - **Enable**
       - Don't prompt for client certificate selection when no certificates or only one certificate exists - Disable
-      - Drag and drop or copy and paste files - **Prompt** (<a href="https://www.bing.com/search?q=KB%20888534%20Q888534" rel="nofollow" title="How to help protect against the Internet Explorer Click and Scroll security issue [Q888534]">MS KB888534</a>)
+      - Drag and drop or copy and paste files - **Prompt** (<a href="https://www.bing.com/search?q=KB+888534+Q888534" rel="nofollow" title="How to help protect against the Internet Explorer Click and Scroll security issue [Q888534]">MS KB888534</a>)
       - Installation of desktop items - **Disable**
       - Launching programs and files in an IFRAME - Prompt
       - Navigate sub-frames across different domains - Enable
@@ -53,7 +53,7 @@ Microsoft loves to makes sure everything is easy for the end user, and they love
       - Userdata persistence - Enable (Required by Windows Update)
   - Scripting 
       - Active scripting - Enable (Javascript/VBScript)
-      - Allow paste operations via script - **Disable** (<a href="https://www.bing.com/search?q=KB%20224993%20Q224993" rel="nofollow" title="How to Prevent Web Sites From Obtaining Access to the Contents of Your Windows Clipboard [Q224993]">MS KB224993</a>)
+      - Allow paste operations via script - **Disable** (<a href="https://www.bing.com/search?q=KB+224993+Q224993" rel="nofollow" title="How to Prevent Web Sites From Obtaining Access to the Contents of Your Windows Clipboard [Q224993]">MS KB224993</a>)
       - Scripting of Java applets - Enable
   - User Authentication 
       - Logon - Automatic logon only in Intranet zone
@@ -78,7 +78,7 @@ Microsoft loves to makes sure everything is easy for the end user, and they love
   
   - Internet Explorer 6 users must also go to the **Privacy**-tab and press **Edit...** to allow cookies for the trusted site.
  
- More Info <a href="https://www.bing.com/search?q=KB%20182569%20Q182569" rel="nofollow" title="Description of Internet Explorer security zones registry entries [Q182569]">MS KB182569</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+182569+Q182569" rel="nofollow" title="Description of Internet Explorer security zones registry entries [Q182569]">MS KB182569</a>  
   
  Note if accessing your Hotmail from Outlook Express then you need to add "services.msn.com" to trusted sites or else it will ask for password and will not allow you to view your email.  
   

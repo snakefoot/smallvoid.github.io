@@ -29,4 +29,4 @@ Usually it is possible to use ones favorite compression utility to treat a Micro
 
  Note this can also be useful in case an MSI package has been configured to block install, when used on certain versions of Microsoft Windows.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20227091%20Q227091" rel="nofollow" title="Command-Line Switches for the Microsoft Windows Installer Tool [Q227091]">MS KB227091</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+227091+Q227091" rel="nofollow" title="Command-Line Switches for the Microsoft Windows Installer Tool [Q227091]">MS KB227091</a>  

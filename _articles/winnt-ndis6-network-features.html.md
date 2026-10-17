@@ -19,7 +19,7 @@ tags:
 ---
 Windows 2003 / Vista / 2008 / 7 will detect if the network hardware has capabilities that allows it to offload the CPU.  
   
- Note Windows 2003 SP1 requires the <a href="https://www.bing.com/search?q=KB+912222+Q912222" rel="nofollow">Scalable Networking Pack</a> to make use of these hardware features (Win2k3 R2 / SP2 has them by default). More Info <a href="https://www.bing.com/search?q=KB%20936594%20Q936594" rel="nofollow" title="You may experience network-related problems after you install Windows Server 2003 SP2 or the Scalable Networking Pack on a Windows Small Business Server 2003-based computer">MS KB936594</a>  
+ Note Windows 2003 SP1 requires the <a href="https://www.bing.com/search?q=KB+912222+Q912222" rel="nofollow">Scalable Networking Pack</a> to make use of these hardware features (Win2k3 R2 / SP2 has them by default). More Info <a href="https://www.bing.com/search?q=KB+936594+Q936594" rel="nofollow" title="You may experience network-related problems after you install Windows Server 2003 SP2 or the Scalable Networking Pack on a Windows Small Business Server 2003-based computer">MS KB936594</a>  
   
  To see what features currently enabled on the computer:
 
@@ -50,7 +50,7 @@ Windows 2003 / Vista / 2008 / 7 will detect if the network hardware has capabili
 
  More Info [WHDC - Scalable Networking with TCP Chimney](http://www.microsoft.com/whdc/device/network/tcp_chimney.mspx "Scalable Networking: Network Protocol Offload - Introducing TCP Chimney")  
  More Info [Set chimney state for a particular application.](http://technet.microsoft.com/en-us/library/cc731258(WS.10).aspx "Netsh commands for Interface Transmission Control Protocol")  
- More Info <a href="https://www.bing.com/search?q=KB%20951037%20Q951037" rel="nofollow" title="Information about the TCP Chimney Offload, Receive Side Scaling, and Network Direct Memory Access features in Windows Server 2008">MS KB951037</a>
+ More Info <a href="https://www.bing.com/search?q=KB+951037+Q951037" rel="nofollow" title="Information about the TCP Chimney Offload, Receive Side Scaling, and Network Direct Memory Access features in Windows Server 2008">MS KB951037</a>
  
 ##### Receive-side Scaling
 
@@ -61,7 +61,7 @@ Windows 2003 / Vista / 2008 / 7 will detect if the network hardware has capabili
  Note older CPU's like the Intel Pentium 4 and Itanium doesn't support that the DPC is handled by another CPU than the one receiving the interrupt.  
   
  RSS should not be activated if one of the following features are turned on:
-- Internet Connection Sharing. More Info <a href="https://www.bing.com/search?q=KB%20927695%20Q927695" rel="nofollow" title="You cannot host TCP connections when Receive Side Scaling is enabled in Windows Server 2003 with Service Pack 2">MS KB927695</a>, <a href="https://www.bing.com/search?q=KB%20927168%20Q927168" rel="nofollow" title="TCP traffic stops after you enable both receive-side scaling and Internet Connection Sharing in Windows Vista or in Windows Server 2003 with Service Pack 1">MS KB927168</a>
+- Internet Connection Sharing. More Info <a href="https://www.bing.com/search?q=KB+927695+Q927695" rel="nofollow" title="You cannot host TCP connections when Receive Side Scaling is enabled in Windows Server 2003 with Service Pack 2">MS KB927695</a>, <a href="https://www.bing.com/search?q=KB+927168+Q927168" rel="nofollow" title="TCP traffic stops after you enable both receive-side scaling and Internet Connection Sharing in Windows Vista or in Windows Server 2003 with Service Pack 1">MS KB927168</a>
 - ISA Server
  
  Note to disable Receive-side Scaling (RSS):
@@ -88,8 +88,8 @@ Windows 2003 / Vista / 2008 / 7 will detect if the network hardware has capabili
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\Tcpip \\Parameters\]  
 >  EnableTCPA = 0  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20947773%20Q947773" rel="nofollow" title="A Windows Server 2003-based computer responds slowly to RDP connections or to SMB connections that are made from a Windows Vista-based computer">MS KB947773</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20951037%20Q951037" rel="nofollow" title="Information about the TCP Chimney Offload, Receive Side Scaling, and Network Direct Memory Access features in Windows Server 2008">MS KB951037</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+947773+Q947773" rel="nofollow" title="A Windows Server 2003-based computer responds slowly to RDP connections or to SMB connections that are made from a Windows Vista-based computer">MS KB947773</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+951037+Q951037" rel="nofollow" title="Information about the TCP Chimney Offload, Receive Side Scaling, and Network Direct Memory Access features in Windows Server 2008">MS KB951037</a>
 
 ##### Direct Cache Access
 

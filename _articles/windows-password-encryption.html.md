@@ -85,9 +85,9 @@ Note NTLMv2 was introduced with WinNT4 SP4 (Made it work with SP6a) and is there
  Related [Configure Password Encryption level in WinNT+](/article/winnt-password-encryption.html)  
   
  More Info [MS Technet - Most Misunderstood Windows Security Setting](http://technet.microsoft.com/en-us/magazine/cc160954.aspx "Security Watch - The Most Misunderstood Windows Security Setting of All Time (August 2006)")  
- More Info <a href="https://www.bing.com/search?q=KB%20147706%20Q147706" rel="nofollow" title="How to Disable LM Authentication on Windows NT [Q147706]">MS KB147706</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20175641%20Q175641" rel="nofollow" title="LMCompatibilityLevel and Its Effects [Q175641]">MS KB175641</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20239869%20Q239869" rel="nofollow" title="How to Enable NTLM 2 Authentication [Q239869]">MS KB239869</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+147706+Q147706" rel="nofollow" title="How to Disable LM Authentication on Windows NT [Q147706]">MS KB147706</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+175641+Q175641" rel="nofollow" title="LMCompatibilityLevel and Its Effects [Q175641]">MS KB175641</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+239869+Q239869" rel="nofollow" title="How to Enable NTLM 2 Authentication [Q239869]">MS KB239869</a>  
   
  Related [Description of SMB packet signing](/article/windows-smb-signing.html)  
   

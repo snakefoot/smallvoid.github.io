@@ -26,5 +26,5 @@ When using the command prompt console in Linux/Unix, then one quickly gets used 
  Another way to get completion is to start Cmd.exe like this, where you will use CTRL+D(ASCII value 4) to complete pathname and CTRL+F(ASCII value 6) to complete filename:
  > cmd /f:on
 
- More Info <a href="https://www.bing.com/search?q=KB%20244407%20Q244407" rel="nofollow" title="How to Enable Automatic Complete for the Command Prompt (Cmd.exe) [Q244407]">MS KB244407</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20310530%20Q310530" rel="nofollow" title="HOW TO: Use Automatic Completion with a Command Prompt in Windows XP [Q310530]">MS KB310530</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+244407+Q244407" rel="nofollow" title="How to Enable Automatic Complete for the Command Prompt (Cmd.exe) [Q244407]">MS KB244407</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+310530+Q310530" rel="nofollow" title="HOW TO: Use Automatic Completion with a Command Prompt in Windows XP [Q310530]">MS KB310530</a>  

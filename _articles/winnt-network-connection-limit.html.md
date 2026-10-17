@@ -28,17 +28,17 @@ Microsoft have created several limitations in the Workstation, Professional and 
   > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Services \\LanManServer \\Parameters\]  
   >  Users = 0xffffff  
   >   
-  >  More Info <a href="https://www.bing.com/search?q=KB%20122925%20Q122925" rel="nofollow" title="Upgrading From Workstation to Server Limited to 10 Connections [Q122925]">MS KB122925</a>  
-  >  More Info <a href="https://www.bing.com/search?q=KB%20179483%20Q179483" rel="nofollow" title="Error Msg: No More Connections Can Be Made At This Time [Q179483]">MS KB179483</a>
+  >  More Info <a href="https://www.bing.com/search?q=KB+122925+Q122925" rel="nofollow" title="Upgrading From Workstation to Server Limited to 10 Connections [Q122925]">MS KB122925</a>  
+  >  More Info <a href="https://www.bing.com/search?q=KB+179483+Q179483" rel="nofollow" title="Error Msg: No More Connections Can Be Made At This Time [Q179483]">MS KB179483</a>
 - Use Linux with Samba (Some external hard disk storage devices include a small linux distribution with Samba installed).
 - Use several computers to share the files/printers
 - Decrease the timeout period for user connections, to close unused connections faster (Default 15 minutes):
   > net config server /autodisconnect:1  
   >   
-  >  More Info <a href="https://www.bing.com/search?q=KB%20122920%20Q122920" rel="nofollow" title="Inbound Connections Limit in Windows [Q122920]">MS KB122920</a>  
-  >  More Info <a href="https://www.bing.com/search?q=KB%20138365%20Q138365" rel="nofollow" title="How Autodisconnect Works in Windows NT and Windows 2000 [Q138365]">MS KB138365</a>  
-  >  More Info <a href="https://www.bing.com/search?q=KB%20314882%20Q314882" rel="nofollow" title="Inbound Connections Limit in Windows XP [Q314882]">MS KB314882</a>
-- [Restrict anonymous access to file and printer shares](/article/winnt-restrict-anonymous.html) (To avoid wasting sessions on anonymous access). More info <a href="https://www.bing.com/search?q=KB%20328459%20Q328459" rel="nofollow" title="Troubleshooting Server Message Block Inbound Connection Limit in Windows Peer-to-Peer Workgroup [Q328459]">MS KB328459</a>
+  >  More Info <a href="https://www.bing.com/search?q=KB+122920+Q122920" rel="nofollow" title="Inbound Connections Limit in Windows [Q122920]">MS KB122920</a>  
+  >  More Info <a href="https://www.bing.com/search?q=KB+138365+Q138365" rel="nofollow" title="How Autodisconnect Works in Windows NT and Windows 2000 [Q138365]">MS KB138365</a>  
+  >  More Info <a href="https://www.bing.com/search?q=KB+314882+Q314882" rel="nofollow" title="Inbound Connections Limit in Windows XP [Q314882]">MS KB314882</a>
+- [Restrict anonymous access to file and printer shares](/article/winnt-restrict-anonymous.html) (To avoid wasting sessions on anonymous access). More info <a href="https://www.bing.com/search?q=KB+328459+Q328459" rel="nofollow" title="Troubleshooting Server Message Block Inbound Connection Limit in Windows Peer-to-Peer Workgroup [Q328459]">MS KB328459</a>
 - Increase the limit of concurrent incoming SMB commands (different from concurrent SMB sessions), so long-term SMB commands (Like the [Change Notification request](/article/winnt-network-notification.html)) will not block for new SMB commands without having reached the max number of inbound SMB sessions.  
     
   Update the following DWORD registry settings to [optimize the network performance](/article/winnt-smb-settings.html) of Windows XP:
@@ -47,7 +47,7 @@ Microsoft have created several limitations in the Workstation, Professional and 
   >  MaxWorkItems = 256 (Default = 64)  
   >  Size = 2 (Default = 1)  
   >   
-  >  More Info <a href="https://www.bing.com/search?q=KB%20926646%20Q926646" rel="nofollow" title="You cannot increase the limit concurrent SMB command in the Windows XP Professional Server service">MS KB926646</a> (Hotfix required for these settings)
+  >  More Info <a href="https://www.bing.com/search?q=KB+926646+Q926646" rel="nofollow" title="You cannot increase the limit concurrent SMB command in the Windows XP Professional Server service">MS KB926646</a> (Hotfix required for these settings)
 - Don't use persistent connections like mapped network drives to the remote computer.
 - Use a different protocol than Microsoft Network, to share your files (FTP/WebDAV/P2P) 
   - [Mapping WebDAV folder as a network drive letter](/article/winnt-webdav-network-drive.html)

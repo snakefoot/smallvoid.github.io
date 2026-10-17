@@ -32,8 +32,8 @@ The Content Advisor allows one to block certain sites from being viewed, mostly 
 
  After deleting the file then go to Control Panel -&gt; Internet Options -&gt; Content-tab -&gt; press Ok-button. Now the Content Advisor should be disabled. This also seem to work if unable to disable Content Advisor even if one knows the password.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20242037%20Q242037" rel="nofollow" title="Error Message: Please Check Your Content Advisor Settings for Missing Information [Q242037]">MS KB242037</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20310401%20Q310401" rel="nofollow" title="HOW TO: Use the Internet Explorer 6 Content Advisor to Control Access to Web Sites in Internet Explorer">MS KB310401</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+242037+Q242037" rel="nofollow" title="Error Message: Please Check Your Content Advisor Settings for Missing Information [Q242037]">MS KB242037</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+310401+Q310401" rel="nofollow" title="HOW TO: Use the Internet Explorer 6 Content Advisor to Control Access to Web Sites in Internet Explorer">MS KB310401</a>  
  More Info [Browse the Web with Content Advisor](http://www.microsoft.com/windows/ie/ie6/using/howto/security/contentadv/config.mspx)  
  More Info [Description of Content Advisor](http://technet.microsoft.com/en-us/library/dd361897.aspx "Microsoft Internet Explorer 6 Resource Kit - Chapter 5")  
  More Info [Content Advisor in Windows Vista](http://technet.microsoft.com/en-us/library/cc749121.aspx "Using Windows Vista: Controlling Communication with the Internet - Appendix J")  

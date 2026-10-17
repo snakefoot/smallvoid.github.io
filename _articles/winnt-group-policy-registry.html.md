@@ -31,7 +31,7 @@ The Group Policies have been created to enable administrators of corporate netwo
 6. When finished press Ok and one can now fiddle with the custom GPE.
 7. To save the custom GPE select the "Console"-menu and click "Save As..."
  
- More Info <a href="https://www.bing.com/search?q=KB%20271135%20Q271135" rel="nofollow" title="Windows 2000 Microsoft Management Console and Snap-in Restrictions [Q271135]">MS KB271135</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+271135+Q271135" rel="nofollow" title="Windows 2000 Microsoft Management Console and Snap-in Restrictions [Q271135]">MS KB271135</a>  
   
  Note it is possible to add extra ADM templates to the GPE, which allows one to configure even more options:
 1. Start **GpEdit.msc** (WinXP Home doesn't have this)
@@ -41,7 +41,7 @@ The Group Policies have been created to enable administrators of corporate netwo
 5. Expand **Local Computer Policy** -&gt; **Computer Policy** -&gt; **Administrative Templates** -&gt; **Windows Components**
 6. The new **Windows Update** node should now be seen (Contains options for configuring AU policies)
  
- Note it is possible to create custom ADM templates with own registry settings, that can be used by the GPE. The ADM template is a simple text file that can be edited with a text editor like Notepad <a href="https://www.bing.com/search?q=KB%20323639%20Q323639" rel="nofollow" title="HOW TO: Create Custom Administrative Templates in Windows 2000 [Q323639]">MS KB323639</a>. There also exists tools like [PolicyMaker Registry Extension](/article/policymaker-registry-extension.html) that makes it a little easier to create custom ADM files.  
+ Note it is possible to create custom ADM templates with own registry settings, that can be used by the GPE. The ADM template is a simple text file that can be edited with a text editor like Notepad <a href="https://www.bing.com/search?q=KB+323639+Q323639" rel="nofollow" title="HOW TO: Create Custom Administrative Templates in Windows 2000 [Q323639]">MS KB323639</a>. There also exists tools like [PolicyMaker Registry Extension](/article/policymaker-registry-extension.html) that makes it a little easier to create custom ADM files.  
   
  Note the GPE shows by default only policies, and not preferences that are located in non-policy areas of the registry. The difference between policies and preferences is when a link to a policy .ADM file is removed then policies are removed but preferences stays.To also see preferences start GPE, select View, Filtering and clear the "Only show policy settings that can be fully managed".  
   
@@ -53,4 +53,4 @@ The Group Policies have been created to enable administrators of corporate netwo
 5. Tick **Disable User Configuration settings**
 6. Press **Ok**-button
  
- More Info <a href="https://www.bing.com/search?q=KB%20816662%20Q816662" rel="nofollow" title="Recommendations for Managing Group Policy Administrative Template (.adm) Files [Q816662]">MS KB816662</a>
+ More Info <a href="https://www.bing.com/search?q=KB+816662+Q816662" rel="nofollow" title="Recommendations for Managing Group Policy Administrative Template (.adm) Files [Q816662]">MS KB816662</a>

@@ -44,7 +44,7 @@ One can extend the context menu when right-clicking a folder in Windows Explorer
  
 ##### Manual add option using Registry Editor
 
- Note one can also extend the context menu by applying the following registry settings. More Info <a href="https://www.bing.com/search?q=KB%20320148%20Q320148" rel="nofollow" title="How to start a command prompt in a folder in Windows Server 2003, Windows XP, and Windows 2000">MS KB320148</a>:
+ Note one can also extend the context menu by applying the following registry settings. More Info <a href="https://www.bing.com/search?q=KB+320148+Q320148" rel="nofollow" title="How to start a command prompt in a folder in Windows Server 2003, Windows XP, and Windows 2000">MS KB320148</a>:
 > REGEDIT4  
 >   
 >  \[HKEY\_CLASSES\_ROOT\\Directory\\shell\\cmd\]  

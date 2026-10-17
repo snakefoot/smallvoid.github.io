@@ -27,5 +27,5 @@ The prompt is usually specified in AUTOEXEC.BAT and the standard prompt "c:\\&gt
  If one loads ANSI.SYS in the CONFIG.SYS then the prompt is also capable of changing colors by using escape sequences "$e\[" (Here Bright Red and Green).
 > prompt $e\[1;31;40m$p$g$e\[1;32;40m  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%2083064%20Q83064" rel="nofollow" title="Using ANSI.SYS /X to Remap Extended Keys [Q83064]">MS KB83064</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20135484%20Q135484" rel="nofollow" title="Windows 95 CD-ROM Msdosdrv.txt File (1 of 2) [Q135484]">MS KB135484</a> (Escape Sequences &amp; Color Codes etc.)
+>  More Info <a href="https://www.bing.com/search?q=KB+83064+Q83064" rel="nofollow" title="Using ANSI.SYS /X to Remap Extended Keys [Q83064]">MS KB83064</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+135484+Q135484" rel="nofollow" title="Windows 95 CD-ROM Msdosdrv.txt File (1 of 2) [Q135484]">MS KB135484</a> (Escape Sequences &amp; Color Codes etc.)

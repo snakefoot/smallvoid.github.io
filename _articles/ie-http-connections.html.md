@@ -24,4 +24,4 @@ In Internet Explorer 7 and earlier, the maximum number of concurrent connections
 >  iexplore.exe = 10
 
  More Info [AJAX - Connectivity Enhancements in Internet Explorer 8](http://msdn.microsoft.com/en-us/library/cc304129.aspx)  
- More Info <a href="https://www.bing.com/search?q=KB%20282402%20Q282402" rel="nofollow" title="How do I configure Internet Explorer to download more than two files at one time?">MS KB282402</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+282402+Q282402" rel="nofollow" title="How do I configure Internet Explorer to download more than two files at one time?">MS KB282402</a>  

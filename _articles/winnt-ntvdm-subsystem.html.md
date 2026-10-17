@@ -21,7 +21,7 @@ A great advantage of Microsoft Windows is that old software usually continue to 
   
  All 32 bit versions of Microsoft Windows includes a [16 bit emulator subsystem](/article/winnt-autoexec-config.html), which allows one to run standard DOS and Win16 application like one could in [Windows 3.1](http://en.wikipedia.org/wiki/Windows_3.1x). **64 bit versions of Windows no longer includes the 16 bit emulator subsystem.**
 
-> Microsoft Windows also once included a [OS/2 and a POSIX emulator](/article/winnt-subsystem.html), but they were removed with Windows XP/2003. More Info <a href="https://www.bing.com/search?q=KB%20308259%20Q308259" rel="nofollow" title="POSIX and OS/2 are not supported in Windows XP or in Windows Server 2003 [Q308259]">MS KB308259</a>
+> Microsoft Windows also once included a [OS/2 and a POSIX emulator](/article/winnt-subsystem.html), but they were removed with Windows XP/2003. More Info <a href="https://www.bing.com/search?q=KB+308259+Q308259" rel="nofollow" title="POSIX and OS/2 are not supported in Windows XP or in Windows Server 2003 [Q308259]">MS KB308259</a>
 
  Many regards these subsystems as possible security holes, and prefere to disable them to avoid any surprises. On Windows XP / 2003 and newer the ntvdm.exe can be stopped from running with this Group Policy:
 > Computer Configuration\\Administrative Templates\\Windows Components\\Application Compatibility  
@@ -37,7 +37,7 @@ A great advantage of Microsoft Windows is that old software usually continue to 
 >  CmdLine = "..."  
 >  WowCmdLine = "..."  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20220159%20Q220159" rel="nofollow" title="Disabling the MSDOS and WOWEXEC Subsystems on Terminal Server">MS KB220159</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+220159+Q220159" rel="nofollow" title="Disabling the MSDOS and WOWEXEC Subsystems on Terminal Server">MS KB220159</a>
 
  Note if disabling the DOS subsystem then any batch scripts with the .BAT file extension, should be renamed to use the .CMD file extension.  
   

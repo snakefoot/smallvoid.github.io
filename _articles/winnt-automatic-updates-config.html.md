@@ -32,7 +32,7 @@ tags:
   > - 7 = Disabled (AUOptions will also be set to a value of 0x1)
   > - 8 = Reboot pending (Waiting for reboot required by installed patches)
   > 
-  >  More Info <a href="https://www.bing.com/search?q=KB%20326693%20Q326693" rel="nofollow" title="How to Force Automatic Updates 2.2 to Perform a Detection Cycle [Q326693]">MS KB326693</a>
+  >  More Info <a href="https://www.bing.com/search?q=KB+326693+Q326693" rel="nofollow" title="How to Force Automatic Updates 2.2 to Perform a Detection Cycle [Q326693]">MS KB326693</a>
 - **Enable/Disable Automatic Updates:**
   > \[HKEY\_LOCAL\_MACHINE \\Software \\**Policies** \\Microsoft \\Windows \\WindowsUpdate \\AU\]  
   >  NoAutoUpdate = 0 (1 = Disables AU and any controls to configure it)
@@ -82,4 +82,4 @@ tags:
   >  WUServer = "http://intranetsus"  
   >  WUStatusServer = "http://intranetsus"
  
- More Info <a href="https://www.bing.com/search?q=KB%20328010%20Q328010" rel="nofollow" title="How to configure automatic updates by using Group Policy or registry settings [Q328010]">MS KB328010</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+328010+Q328010" rel="nofollow" title="How to configure automatic updates by using Group Policy or registry settings [Q328010]">MS KB328010</a>  

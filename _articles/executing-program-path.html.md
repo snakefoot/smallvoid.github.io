@@ -27,4 +27,4 @@ When starting a program from the command line, then one is required to either ch
   
  Note the PATH variable is also used in Windows and makes it possible to launch programs from the Start Menu -&gt; Run... without specifying path to the program.  
   
- More Info <a href="https://www.bing.com/search?q=KB%2097595%20Q97595" rel="nofollow" title="MS-DOS 6.0 and 6.2: PATH Not Limited to 128 Characters [Q97595]">MS KB97595</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+97595+Q97595" rel="nofollow" title="MS-DOS 6.0 and 6.2: PATH Not Limited to 128 Characters [Q97595]">MS KB97595</a>  

@@ -57,4 +57,4 @@ When creating the folder remember to use the whole string, both the name and the
 >   
 >  Related [Access special folders easily using the shell command](/article/winnt-shell-keyword.html)
 
- More Info <a href="https://www.bing.com/search?q=KB%20134849%20Q134849" rel="nofollow" title="How to Create a Cascading Menu on the Start Menu [Q134849]">MS KB134849</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+134849+Q134849" rel="nofollow" title="How to Create a Cascading Menu on the Start Menu [Q134849]">MS KB134849</a>  

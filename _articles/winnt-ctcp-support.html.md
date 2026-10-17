@@ -35,7 +35,7 @@ Microsoft have implemented their own homemade congestion provider as an alternat
  More Info [Wiki - Compound TCP](http://en.wikipedia.org/wiki/Compound_TCP)  
  More Info [Microsoft Research - Document about CTCP](http://research.microsoft.com/apps/pubs/default.aspx?id=70189 "A Compound TCP Approach for High-speed and Long Distance Networks")  
  More Info [Cable Guy - Compound TCP](http://technet.microsoft.com/en-us/library/bb878127.aspx "The Cable Guy - November 2005 - Performance Enhancements in the Next Generation TCP/IP Stack")  
- More Info <a href="https://www.bing.com/search?q=KB%20949316%20Q949316" rel="nofollow" title="Description of a hotfix that adds Compound TCP (CTCP) support to computers that are running Windows Server 2003 or a 64-bit version of Windows XP">MS KB949316</a> (Hotfix for Win2k3 enables CTCP)  
+ More Info <a href="https://www.bing.com/search?q=KB+949316+Q949316" rel="nofollow" title="Description of a hotfix that adds Compound TCP (CTCP) support to computers that are running Windows Server 2003 or a 64-bit version of Windows XP">MS KB949316</a> (Hotfix for Win2k3 enables CTCP)  
   
  Related [Configure initial congestion window to speed up TCP slow start](/article/winnt-tcp-slow-start.html)  
  Related [TCP/IP RWIN Auto-Tuning](/article/vista-tcpip-auto-rwin.html)  

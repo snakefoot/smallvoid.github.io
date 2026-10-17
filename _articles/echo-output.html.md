@@ -54,5 +54,5 @@ The ECHO command can be used to output status messages during the execution of a
 >  REM \*\*\* AT = Attention, H0 = Hook off the modem  
 >  ECHO ATH0 &gt; COMx  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%2084279%20Q84279" rel="nofollow" title="Testing Communications from MS-DOS [Q84279]">MS KB84279</a>  
->  More Info <a href="https://www.bing.com/search?q=KB%20105940%20Q105940" rel="nofollow" title="Troubleshooting Serial Port Problems in Windows [Q105940]">MS KB105940</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+84279+Q84279" rel="nofollow" title="Testing Communications from MS-DOS [Q84279]">MS KB84279</a>  
+>  More Info <a href="https://www.bing.com/search?q=KB+105940+Q105940" rel="nofollow" title="Troubleshooting Serial Port Problems in Windows [Q105940]">MS KB105940</a>

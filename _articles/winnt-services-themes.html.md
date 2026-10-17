@@ -21,7 +21,7 @@ tags: []
   
  Note if disabled then it will only be possible to select **Windows Classic**-theme, and the **Windows Classic style**-Windows and buttons.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20307855%20Q307855" rel="nofollow" title="HOW TO: Configure Desktop Themes in Windows XP [Q307855]">MS KB307855</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+307855+Q307855" rel="nofollow" title="HOW TO: Configure Desktop Themes in Windows XP [Q307855]">MS KB307855</a>  
   
 ##### Recommended State:
 

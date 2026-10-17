@@ -32,5 +32,5 @@ System Policies is an easy way to hide / lock options to keep the users from ren
   
  Note there is an urban legend that setting the value to 0 will make your explorer refresh the folder contents more often. But setting the value to 0 won't do much harm, so it is a pretty harmless legend.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20168231%20Q168231" rel="nofollow" title="System Policies Are Not Applied in Windows NT [Q168231]">MS KB168231</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20274478%20Q274478" rel="nofollow" title="Group Policies for Windows 2000 Professional Clients in Windows NT 4.0 Domain or Workgroups [Q274478]">MS KB274478</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+168231+Q168231" rel="nofollow" title="System Policies Are Not Applied in Windows NT [Q168231]">MS KB168231</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+274478+Q274478" rel="nofollow" title="Group Policies for Windows 2000 Professional Clients in Windows NT 4.0 Domain or Workgroups [Q274478]">MS KB274478</a>  

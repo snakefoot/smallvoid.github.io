@@ -38,7 +38,7 @@ There is a builtin scanner that crawls/scans/searches the network and any shares
 > \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Windows \\CurrentVersion \\Explorer \\Advanced\]  
 >  NoNetCrawling = 1
 
- More Info <a href="https://www.bing.com/search?q=KB%20276322%20Q276322" rel="nofollow" title="How to Disable Net Crawl Functionality [Q276322]">MS KB276322</a> (WinMe)  
- More Info <a href="https://www.bing.com/search?q=KB%20320138%20Q320138" rel="nofollow" title="HOW TO: Disable Automatic Search for Network Printers and Folders in Windows XP [Q320138]">MS KB320138</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+276322+Q276322" rel="nofollow" title="How to Disable Net Crawl Functionality [Q276322]">MS KB276322</a> (WinMe)  
+ More Info <a href="https://www.bing.com/search?q=KB+320138+Q320138" rel="nofollow" title="HOW TO: Disable Automatic Search for Network Printers and Folders in Windows XP [Q320138]">MS KB320138</a>  
   
  Related [Prevent share listing in My Network places](/article/winnt-recent-shares.html)  

@@ -20,8 +20,8 @@ tags:
   
  Note if this service is stopped, then dynamic disk status and configuration information might become outdated. Therefore if one is considering to change this service state to Manual, then make sure that none of the disks in the system are configured as dynamic disks.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20314343%20Q314343" rel="nofollow" title="Basic Storage Versus Dynamic Storage in Windows XP [Q314343]">MS KB314343</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20329707%20Q329707" rel="nofollow" title="Best Practices for Using Dynamic Disks on Windows 2000-Based Computers [Q329707]">MS KB329707</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+314343+Q314343" rel="nofollow" title="Basic Storage Versus Dynamic Storage in Windows XP [Q314343]">MS KB314343</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+329707+Q329707" rel="nofollow" title="Best Practices for Using Dynamic Disks on Windows 2000-Based Computers [Q329707]">MS KB329707</a>  
   
 ##### Recommended State:
 

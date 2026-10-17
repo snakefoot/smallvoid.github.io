@@ -26,11 +26,11 @@ tags: []
 - If the service detects another computer with the same name, can be caused by not being registered properly in the WINS, DNS server
 - If there is a mismatch between binaries, can be fixed by reinstalling the service pack
  
- More Info <a href="https://www.bing.com/search?q=KB%20101355%20Q101355" rel="nofollow" title="Service Control Manager Event 7024 (2270) [Q101355]">MS KB101355</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20137143%20Q137143" rel="nofollow" title="WinPopup Utility Not Supported In Windows NT [Q137143]">MS KB137143</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20168893%20Q168893" rel="nofollow" title="Messenger Service of Windows [Q168893]">MS KB168893</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20330117%20Q330117" rel="nofollow" title="Running Both Windows Messenger and MSN Messenger 5.0 in Windows XP [Q330117]">MS KB330117</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20330904%20Q330904" rel="nofollow" title="Messenger Service Window That Contains an Internet Advertisement Appears [Q330904]">MS KB330904</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+101355+Q101355" rel="nofollow" title="Service Control Manager Event 7024 (2270) [Q101355]">MS KB101355</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+137143+Q137143" rel="nofollow" title="WinPopup Utility Not Supported In Windows NT [Q137143]">MS KB137143</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+168893+Q168893" rel="nofollow" title="Messenger Service of Windows [Q168893]">MS KB168893</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+330117+Q330117" rel="nofollow" title="Running Both Windows Messenger and MSN Messenger 5.0 in Windows XP [Q330117]">MS KB330117</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+330904+Q330904" rel="nofollow" title="Messenger Service Window That Contains an Internet Advertisement Appears [Q330904]">MS KB330904</a>  
   
 ##### Recommended State:
 

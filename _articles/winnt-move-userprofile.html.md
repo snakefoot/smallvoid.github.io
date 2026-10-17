@@ -63,7 +63,7 @@ By default WinNT places all user profiles on the %SYSTEMDRIVE%, which makes sure
   
  Note for optimal security one shouldn't give Administrator group rights to your account for daily use, as all programs you run will get Administrator rights including trojans. Instead use the group "PowerUsers". And if you need to do something which requires Administrator rights then logoff and logon as Administrator or use [RunAs](/article/winnt-services-seclogon.html).  
   
- More Info <a href="https://www.bing.com/search?q=KB%20162001%20Q162001" rel="nofollow" title="Do Not Disk Duplicate Installed Versions of Windows [Q162001]">MS KB162001</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20214470%20Q214470" rel="nofollow" title="How to Move the Location of a Locally Cached Profile [Q214470]">MS KB214470</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20236621%20Q236621" rel="nofollow" title="Cannot Move or Rename the Documents and Settings Folder [Q236621]">MS KB236621</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20811151%20Q811151" rel="nofollow" title="How to Copy User Data to a New User Profile [Q811151]">MS KB811151</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+162001+Q162001" rel="nofollow" title="Do Not Disk Duplicate Installed Versions of Windows [Q162001]">MS KB162001</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+214470+Q214470" rel="nofollow" title="How to Move the Location of a Locally Cached Profile [Q214470]">MS KB214470</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+236621+Q236621" rel="nofollow" title="Cannot Move or Rename the Documents and Settings Folder [Q236621]">MS KB236621</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+811151+Q811151" rel="nofollow" title="How to Copy User Data to a New User Profile [Q811151]">MS KB811151</a>  

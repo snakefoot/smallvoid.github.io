@@ -36,6 +36,6 @@ MS DOS 6.0 introduced the program CHOICE, which can display a set of options and
 >   
 >  :EXIT
 
- More Info <a href="https://www.bing.com/search?q=KB%2077457%20Q77457" rel="nofollow" title="Accepting Keyboard Input in Batch Files [Q77457]">MS KB77457</a>  
- More Info <a href="https://www.bing.com/search?q=KB%2096697%20Q96697" rel="nofollow" title="Using ANSI Characters with the CHOICE Command [Q96697]">MS KB96697</a>  
- More Info <a href="https://www.bing.com/search?q=KB%2097504%20Q97504" rel="nofollow" title="MS-DOS: No Interactive Boot Option for the AUTOEXEC.BAT File [Q97504]">MS KB97504</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+77457+Q77457" rel="nofollow" title="Accepting Keyboard Input in Batch Files [Q77457]">MS KB77457</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+96697+Q96697" rel="nofollow" title="Using ANSI Characters with the CHOICE Command [Q96697]">MS KB96697</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+97504+Q97504" rel="nofollow" title="MS-DOS: No Interactive Boot Option for the AUTOEXEC.BAT File [Q97504]">MS KB97504</a>  

@@ -31,9 +31,9 @@ Internet Procotol ver. 6 (IPv6) contains many new improvements:
 1. Open **Control Panel** -&gt; **Network Connection**
 2. Right Click the network interface card, and select **Properties**.
 3. Select IPv6 and press **Uninstall**
-  - Vista/Win7 cannot uninstall IPv6 but clearing the checkbox for IPv6 will disable it for the network connection. More Info <a href="https://www.bing.com/search?q=KB%20929852%20Q929852" rel="nofollow" title="How to disable certain Internet Protocol version 6 (IPv6) components">MS KB929852</a>
+  - Vista/Win7 cannot uninstall IPv6 but clearing the checkbox for IPv6 will disable it for the network connection. More Info <a href="https://www.bing.com/search?q=KB+929852+Q929852" rel="nofollow" title="How to disable certain Internet Protocol version 6 (IPv6) components">MS KB929852</a>
 4. Restart
  
- More Info <a href="https://www.bing.com/search?q=KB%20325449%20Q325449" rel="nofollow" title="How to install and configure IP version 6 in Windows Server 2003 Enterprise Server [Q325449]">MS KB325449</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20815768%20Q815768" rel="nofollow" title="Application Cannot Resolve Some Domain Names">MS KB815768</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20817778%20Q817778" rel="nofollow" title="Overview of the Advanced Networking Pack for Windows XP">MS KB817778</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+325449+Q325449" rel="nofollow" title="How to install and configure IP version 6 in Windows Server 2003 Enterprise Server [Q325449]">MS KB325449</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+815768+Q815768" rel="nofollow" title="Application Cannot Resolve Some Domain Names">MS KB815768</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+817778+Q817778" rel="nofollow" title="Overview of the Advanced Networking Pack for Windows XP">MS KB817778</a>  

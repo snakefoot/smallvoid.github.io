@@ -36,5 +36,5 @@ To avoid accessing the HDD every time to read a file, it caches the most used fi
  <tr><td>256+ Mbyte</td> <td>32768</td> <td>4096</td> <td>1024</td></tr>
  </table>
 
- More Info <a href="https://www.bing.com/search?q=KB%20108079%20Q108079" rel="nofollow" title="32-Bit File Access Maximum Cache Size [Q108079]">MS KB108079</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20225497%20Q225497" rel="nofollow" title="PRB: Windows 95 May Fail to Boot Due to I/O Subsystem Failure [Q225497]">MS KB225497</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+108079+Q108079" rel="nofollow" title="32-Bit File Access Maximum Cache Size [Q108079]">MS KB108079</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+225497+Q225497" rel="nofollow" title="PRB: Windows 95 May Fail to Boot Due to I/O Subsystem Failure [Q225497]">MS KB225497</a>  

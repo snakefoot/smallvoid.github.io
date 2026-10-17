@@ -31,6 +31,6 @@ DOS 7.0 (Released with Windows 95) and later versions are able to load the follo
  The FCBS (File Control BlockS) setting specifies the number of FCBS(1-255) available to a DOS program, but most DOS programs uses filehandles - Default value 4,0.
  > FCBSHIGH=1,0
 
- More Info <a href="https://www.bing.com/search?q=KB%2082318%20Q82318" rel="nofollow" title="Stack Overflow Can Cause Windows to Hang [Q82318]">MS KB82318</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20145799%20Q145799" rel="nofollow" title="How to Troubleshoot Windows Internal Stack Overflow Error Messages [Q145799]">MS KB145799</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20274646%20Q274646" rel="nofollow" title="Understanding the Settings in the Windows Millennium Edition Config.sys File [Q274646]">MS KB274646</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+82318+Q82318" rel="nofollow" title="Stack Overflow Can Cause Windows to Hang [Q82318]">MS KB82318</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+145799+Q145799" rel="nofollow" title="How to Troubleshoot Windows Internal Stack Overflow Error Messages [Q145799]">MS KB145799</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+274646+Q274646" rel="nofollow" title="Understanding the Settings in the Windows Millennium Edition Config.sys File [Q274646]">MS KB274646</a>  

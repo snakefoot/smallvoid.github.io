@@ -23,4 +23,4 @@ Windows Vista enables [TCP Receive Window Auto-Tuning](/article/vista-tcpip-auto
 > \[HKEY\_LOCAL\_MACHINE \\Software \\Microsoft \\Windows \\CurrentVersion \\InternetSettings\]  
 >  TcpAutotuning = 1
 
- More Info <a href="https://www.bing.com/search?q=KB%20947239%20Q947239" rel="nofollow" title="Description of the Receive Window Auto-Tuning feature for HTTP traffic on Windows Vista-based computers">MS KB947239</a>
+ More Info <a href="https://www.bing.com/search?q=KB+947239+Q947239" rel="nofollow" title="Description of the Receive Window Auto-Tuning feature for HTTP traffic on Windows Vista-based computers">MS KB947239</a>

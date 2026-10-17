@@ -23,11 +23,11 @@ tags: []
 > \[HKEY\_LOCAL\_MACHINE \\Software \\Microsoft \\DirectPlayNATHelp \\DPNHUPnP\]  
 >  UPnPMode = 2  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20317843%20Q317843" rel="nofollow" title="Traffic Is Sent After You Turn Off the SSDP Discover Service and Universal Plug and Play Device Host [Q317843]">MS KB317843</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+317843+Q317843" rel="nofollow" title="Traffic Is Sent After You Turn Off the SSDP Discover Service and Universal Plug and Play Device Host [Q317843]">MS KB317843</a>
 
- More Info <a href="https://www.bing.com/search?q=KB%20315056%20Q315056" rel="nofollow" title="Preventing Distributed Denial-of-Service Attacks that Use the Universal Plug-and-Play Service [Q315056]">MS KB315056</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20821371%20Q821371" rel="nofollow" title="Capabilities of the Internet Gateway Device Discovery and Control Client and of Universal Plug and Play">MS KB821371</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20821980%20Q821980" rel="nofollow" title="The Internet Gateway Device Discovery and Control Client Is an Optional Networking Component in Windows XP Professional Service Pack 1a (SP1a)">MS KB821980</a> (How to uninstall gateway discovery)  
+ More Info <a href="https://www.bing.com/search?q=KB+315056+Q315056" rel="nofollow" title="Preventing Distributed Denial-of-Service Attacks that Use the Universal Plug-and-Play Service [Q315056]">MS KB315056</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+821371+Q821371" rel="nofollow" title="Capabilities of the Internet Gateway Device Discovery and Control Client and of Universal Plug and Play">MS KB821371</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+821980+Q821980" rel="nofollow" title="The Internet Gateway Device Discovery and Control Client Is an Optional Networking Component in Windows XP Professional Service Pack 1a (SP1a)">MS KB821980</a> (How to uninstall gateway discovery)  
   
 ##### Recommended State:
 

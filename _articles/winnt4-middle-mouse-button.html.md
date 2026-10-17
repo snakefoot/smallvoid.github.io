@@ -20,6 +20,6 @@ By default it only recognizes the left and the right mouse button, but one can a
 >   
 >  PORT-TYPE-X should be exchanged with the type of mouse connection: "BUSMOUSE", "SERMOUSE", or "i8042PRT" (PS/2).
 
- More info <a href="https://www.bing.com/search?q=KB%20102988%20Q102988" rel="nofollow" title="REG: Device Driver Entries, PART 1 [Q102988]">MS KB102988</a>  
- More info <a href="https://www.bing.com/search?q=KB%20102989%20Q102989" rel="nofollow" title="Device Driver Entries, PART 2--Mouse/Keyboard Driver [Q102989]">MS KB102989</a>  
- More info <a href="https://www.bing.com/search?q=KB%20102990%20Q102990" rel="nofollow" title="Device Driver Entries, PART 3--Mouse/Keyboard Driver [Q102990]">MS KB102990</a>  
+ More info <a href="https://www.bing.com/search?q=KB+102988+Q102988" rel="nofollow" title="REG: Device Driver Entries, PART 1 [Q102988]">MS KB102988</a>  
+ More info <a href="https://www.bing.com/search?q=KB+102989+Q102989" rel="nofollow" title="Device Driver Entries, PART 2--Mouse/Keyboard Driver [Q102989]">MS KB102989</a>  
+ More info <a href="https://www.bing.com/search?q=KB+102990+Q102990" rel="nofollow" title="Device Driver Entries, PART 3--Mouse/Keyboard Driver [Q102990]">MS KB102990</a>  

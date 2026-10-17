@@ -30,4 +30,4 @@ Motherboards with onboard SATA controllers are by default configured to run in S
   
  Note enabling AHCI might stop [SMART](http://en.wikipedia.org/wiki/S.M.A.R.T.) data from working. This is apparently a driver issue, and doesn't happen if using Microsoft Windows default driver.  
   
- More Info <a href="https://www.bing.com/search?q=KB%20922976%20Q922976" rel="nofollow" title="Error message when you change the SATA mode of the boot drive: 'STOP 0x0000007B INACCESSABLE_BOOT_DEVICE'">MS KB922976</a>
+ More Info <a href="https://www.bing.com/search?q=KB+922976+Q922976" rel="nofollow" title="Error message when you change the SATA mode of the boot drive: 'STOP 0x0000007B INACCESSABLE_BOOT_DEVICE'">MS KB922976</a>

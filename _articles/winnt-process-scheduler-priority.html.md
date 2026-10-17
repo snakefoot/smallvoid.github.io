@@ -33,7 +33,7 @@ When running several applications/processes simultaneously then a coordinator/sc
 - 1 - Medium priority to foreground application
 - 2 - High priority to foreground application  
     
-   More Info <a href="https://www.bing.com/search?q=KB%20232271%20Q232271" rel="nofollow" title="How to Optimize Windows NT Server Using the Registry [Q232271]">MS KB232271</a>
+   More Info <a href="https://www.bing.com/search?q=KB+232271+Q232271" rel="nofollow" title="How to Optimize Windows NT Server Using the Registry [Q232271]">MS KB232271</a>
  
  For the Win2k/WinXP the value set have been extended by using three 2 bits values:
  

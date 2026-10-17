@@ -26,5 +26,5 @@ Windows 95 didn't include all DOS utilties in the default installation. Instead 
  
  Note the MS Backup utility has been placed in its own package [msback.exe](http://download.microsoft.com/download/win95upg/bkup_b/1.0/W95/EN-US/msback.exe).  
   
- More Info <a href="https://www.bing.com/search?q=KB%20135315%20Q135315" rel="nofollow" title="CD-ROM Extras for Microsoft Windows 95 Upgrade [Q135315]">MS KB135315</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20147831%20Q147831" rel="nofollow" title="How to Install Old MS-DOS Tools in Windows 95 [Q147831]">MS KB147831</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+135315+Q135315" rel="nofollow" title="CD-ROM Extras for Microsoft Windows 95 Upgrade [Q135315]">MS KB135315</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+147831+Q147831" rel="nofollow" title="How to Install Old MS-DOS Tools in Windows 95 [Q147831]">MS KB147831</a>  

@@ -25,6 +25,6 @@ The Expanded Memory Manager EMM386.EXE can be configured to allocate the memory 
 
  Note that the parameter "RAM" will of course not work together with the "NOEMS" parameter. When using the "RAM" parameter 64 KByte of the [Upper Memory Block (UMB)](/article/upper-memory-block-umb.html) will be taken.  
   
- More Info <a href="https://www.bing.com/search?q=KB%2076916%20Q76916" rel="nofollow" title="Size of Expanded Memory Pool Adjusted [Q76916]">MS KB76916</a>  
- More Info <a href="https://www.bing.com/search?q=KB%2096759%20Q96759" rel="nofollow" title="No Expanded Memory Available After Installing EMM386.EXE [Q96759]">MS KB96759</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20275423%20Q275423" rel="nofollow" title="Cannot Configure Expanded Memory Support for an MS-DOS-Based Program [Q275423]">MS KB275423</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+76916+Q76916" rel="nofollow" title="Size of Expanded Memory Pool Adjusted [Q76916]">MS KB76916</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+96759+Q96759" rel="nofollow" title="No Expanded Memory Available After Installing EMM386.EXE [Q96759]">MS KB96759</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+275423+Q275423" rel="nofollow" title="Cannot Configure Expanded Memory Support for an MS-DOS-Based Program [Q275423]">MS KB275423</a>  

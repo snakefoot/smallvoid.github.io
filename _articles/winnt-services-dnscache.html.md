@@ -38,20 +38,20 @@ tags:
  Note if having disabled this service, and then try to repair a network connection, one will get the following error message:
 > *The following steps of the repair operation failed: Purging the DNS Resolver Cache. Please contact your network administrator or ISP.*   
 >   
-> More Info <a href="https://www.bing.com/search?q=KB%20913631%20Q913631" rel="nofollow" title="Error message that is similar to the following when you use the Repair option for a local area connection in Windows XP: 'The following steps of the repair operation failed' [Q913631]">MS KB913631</a>
+> More Info <a href="https://www.bing.com/search?q=KB+913631+Q913631" rel="nofollow" title="Error message that is similar to the following when you use the Repair option for a local area connection in Windows XP: 'The following steps of the repair operation failed' [Q913631]">MS KB913631</a>
 
  Related [Configure how long to cache negative DNS replies](/article/winnt-dns-negative-reply.html)  
  Related [Microsoft TCP/IP Version 6 (IPv6) can cause slow DNS](/article/winnt-ipv6-dns-error.html)  
  Related [Configure the host name resolution order](/article/winnt-host-name-resolution.html)  
  Related [Use HOSTS file to ban ads and speedup DNS lookups](/article/windows-hosts-file.html)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20286834%20Q286834" rel="nofollow" title="The DNS Client Service Does Not Revert to Using the First Server in the List [Q286834]">MS KB286834</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20264539%20Q264539" rel="nofollow" title="Dynamic DNS Updates Do Not Work if the DHCP Client Service Stops [Q264539]">MS KB264539</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20268674%20Q268674" rel="nofollow" title="No DNS Name Resolution If DHCP Client Service Is Not Running [Q268674]">MS KB268674</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20245437%20Q245437" rel="nofollow" title="How to Disable Client-Side DNS Caching in Windows [Q245437]">MS KB245437</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20246804%20Q246804" rel="nofollow" title="How to Enable/Disable Windows 2000 Dynamic DNS Registrations [Q246804]">MS KB246804</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20294832%20Q294832" rel="nofollow" title="How to Disable Windows 2000 Dynamic Domain Name System Registrations with Group Policy [Q294832]">MS KB294832</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20320760%20Q320760" rel="nofollow" title="The DNS Client Service Does Not Revert to Using the First Server in the List in Windows XP [Q320760]">MS KB320760</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+286834+Q286834" rel="nofollow" title="The DNS Client Service Does Not Revert to Using the First Server in the List [Q286834]">MS KB286834</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+264539+Q264539" rel="nofollow" title="Dynamic DNS Updates Do Not Work if the DHCP Client Service Stops [Q264539]">MS KB264539</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+268674+Q268674" rel="nofollow" title="No DNS Name Resolution If DHCP Client Service Is Not Running [Q268674]">MS KB268674</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+245437+Q245437" rel="nofollow" title="How to Disable Client-Side DNS Caching in Windows [Q245437]">MS KB245437</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+246804+Q246804" rel="nofollow" title="How to Enable/Disable Windows 2000 Dynamic DNS Registrations [Q246804]">MS KB246804</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+294832+Q294832" rel="nofollow" title="How to Disable Windows 2000 Dynamic Domain Name System Registrations with Group Policy [Q294832]">MS KB294832</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+320760+Q320760" rel="nofollow" title="The DNS Client Service Does Not Revert to Using the First Server in the List in Windows XP [Q320760]">MS KB320760</a>  
   
 ##### Recommended State:
 

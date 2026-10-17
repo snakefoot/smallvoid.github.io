@@ -22,7 +22,7 @@ tags:
 - TweakUI to configure your desktop ([Updated Tweak UI ver. 1.33](/article/windows-tweakui.html))
 - CAB-View to access CAB files like [compressed folders](/article/windows-compressed-folders.html).
 - SendTo X which adds a "Send to any folder"- and a "Send path to clipboard"-shortcut in the [SendTo folder](/article/sendto-shortcut.html) (very handy) 
-  - Tried installing SendToX on Win2k and it works great. More Info <a href="https://www.bing.com/search?q=KB%20168113%20Q168113" rel="nofollow" title="Using Windows 95 PowerToys with Windows NT 4.0 [Q168113]">MS KB168113</a>
+  - Tried installing SendToX on Win2k and it works great. More Info <a href="https://www.bing.com/search?q=KB+168113+Q168113" rel="nofollow" title="Using Windows 95 PowerToys with Windows NT 4.0 [Q168113]">MS KB168113</a>
 - Command Prompt Here that extends the context menu for file folders, so one can open a command prompt in the specified folder.
  
  To install the utilities one have to extract the contents of the file, and right click the different INF-files and select "Install".  

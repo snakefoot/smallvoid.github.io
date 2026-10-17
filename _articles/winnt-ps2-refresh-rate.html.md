@@ -34,7 +34,7 @@ The computer mouse have a certain DPI(Dot Per Inch)/CPI(Count Per Inch), which d
 > \[HKEY\_LOCAL\_MACHINE \\SYSTEM \\CurrentControlSet \\Services \\i8042prt \\Parameters\]  
   >  SampleRate=200 (A value from 1-200 Hz and 60 Hz is the default)  
   >   
-  >  More Info <a href="https://www.bing.com/search?q=KB%20102989%20Q102989" rel="nofollow" title="REG: Device Driver Entries, PART 2--Mouse/Keyboard Driver [Q102989]">MS KB102989</a>
+  >  More Info <a href="https://www.bing.com/search?q=KB+102989+Q102989" rel="nofollow" title="REG: Device Driver Entries, PART 2--Mouse/Keyboard Driver [Q102989]">MS KB102989</a>
 - Win2k: Change the PS/2 refresh rate using the Mouse applet in the Control Panel.
 - WinXP: Change the PS/2 refresh rate at Control Panel -&gt; Mouse -&gt; Hardware-tab -&gt; Select "PS/2 Compatible Mouse" -&gt; Properties-button -&gt; Advanced Settings-tab -&gt; Sample Rate.
  
@@ -44,6 +44,6 @@ The computer mouse have a certain DPI(Dot Per Inch)/CPI(Count Per Inch), which d
 > \[HKEY\_LOCAL\_MACHINE \\System \\CurrentControlSet \\Control \\Class \\{36FC9E60-C465-11CF-8056-444553540000} \\0000\]  
 >  IdleEnable = 1 (0 = 1000 Hz, 1 = 200 Hz, Default = 0)  
 >   
->  More Info <a href="https://www.bing.com/search?q=KB%20297045%20Q297045" rel="nofollow" title="The Laptop Computer May Be Unable to Enter the C3 Processor Power-Saving State [Q297045]">MS KB297045</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+297045+Q297045" rel="nofollow" title="The Laptop Computer May Be Unable to Enter the C3 Processor Power-Saving State [Q297045]">MS KB297045</a>
 
  Related [MouseRate](http://www.tscherwitschke.de/ "Mouse Rate Checker by Oliver Tscherwitschke ") (Will display the current refresh-rate of the mouse)

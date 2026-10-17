@@ -16,4 +16,4 @@ Windows 2003 Service Pack 1 includes a new feature called Access-based Enumerati
   
  Download [Access-based Enumeration](http://go.microsoft.com/fwlink/?LinkId=46228)  
   
- More Info <a href="https://www.bing.com/search?q=KB%20303758%20Q303758" rel="nofollow" title="You cannot configure NTFS permissions to hide files or folders from unauthorized users [Q303758]">MS KB303758</a>
+ More Info <a href="https://www.bing.com/search?q=KB+303758+Q303758" rel="nofollow" title="You cannot configure NTFS permissions to hide files or folders from unauthorized users [Q303758]">MS KB303758</a>

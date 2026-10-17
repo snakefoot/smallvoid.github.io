@@ -25,5 +25,5 @@ tags:
    > **Probably caused by :**  ....
 5. Use your favorite search engine to find out what device uses the driver, or do a file search on your computer for the filename and view the file properties.
  
- More Info <a href="https://www.bing.com/search?q=KB%20307973%20Q307973" rel="nofollow" title="How to configure system failure and recovery options in Windows [Q307973]">MS KB307973</a>  
- More Info <a href="https://www.bing.com/search?q=KB%20315263%20Q315263" rel="nofollow" title="How to read the small memory dump files that Windows creates for debugging [Q315263]">MS KB315263</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+307973+Q307973" rel="nofollow" title="How to configure system failure and recovery options in Windows [Q307973]">MS KB307973</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+315263+Q315263" rel="nofollow" title="How to read the small memory dump files that Windows creates for debugging [Q315263]">MS KB315263</a>  

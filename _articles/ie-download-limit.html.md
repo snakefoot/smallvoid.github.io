@@ -25,4 +25,4 @@ When doing downloads with IE and you want to download several files it is a pain
   
  If you don't want to play with your registry then you can also break the limit by launching several IE's (not with CTRL-N(new) ) but with running iexplore several times. For each iexplore you are allowed to do 2 downloads simultaneously.  
   
- More info <a href="https://www.bing.com/search?q=KB%20183110%20Q183110" rel="nofollow" title="INFO: WinInet Limits Connections Per Server [Q183110]">MS KB183110</a>
+ More info <a href="https://www.bing.com/search?q=KB+183110+Q183110" rel="nofollow" title="INFO: WinInet Limits Connections Per Server [Q183110]">MS KB183110</a>

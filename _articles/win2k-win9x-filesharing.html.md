@@ -12,7 +12,7 @@ tags:
     - guest-account
     - microsoft-network
 ---
-It is advised to create an account with a secure password for each user, who should have access to a share <a href="https://www.bing.com/search?q=KB%20258717%20Q258717" rel="nofollow" title="Configuring Windows 2000 Professional to Work in a Peer-to-Peer Workgroup [Q258717]">MS KB258717</a>. But some times it is just too cumbersome, even if one creates a group containing all the users which should have access.  
+It is advised to create an account with a secure password for each user, who should have access to a share <a href="https://www.bing.com/search?q=KB+258717+Q258717" rel="nofollow" title="Configuring Windows 2000 Professional to Work in a Peer-to-Peer Workgroup [Q258717]">MS KB258717</a>. But some times it is just too cumbersome, even if one creates a group containing all the users which should have access.  
   
  Enable the guest account, so everyone will use that to access your shares:
 
@@ -37,6 +37,6 @@ It is advised to create an account with a secure password for each user, who sho
   
  Note the above settings only opens the policies for allowing guests to access the computer. When making a share one have to allow guests to access the share, and if the folder being shared is placed on a NTFS drive, then one have to [Set NTFS permissions to allow guest access](/article/ntfs-access-control.html).  
   
- If one continue to have problems with security policies, then try to import default policies "basicwk.inf" and "compatws.inf" <a href="https://www.bing.com/search?q=KB%20234926%20Q234926" rel="nofollow" title="Windows 2000 Security Templates Are Incremental [Q234926]">MS KB234926</a>  
+ If one continue to have problems with security policies, then try to import default policies "basicwk.inf" and "compatws.inf" <a href="https://www.bing.com/search?q=KB+234926+Q234926" rel="nofollow" title="Windows 2000 Security Templates Are Incremental [Q234926]">MS KB234926</a>  
   
  Related [Creating a Local Area Network and troubleshooting](/article/troubleshooting-network.html)

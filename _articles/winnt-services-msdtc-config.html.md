@@ -29,9 +29,9 @@ tags:
   - Msdtc -resetlog
   - Net start msdtc
    
-   More Info <a href="https://www.bing.com/search?q=KB%20240038%20Q240038" rel="nofollow" title="INFO: The 'msdtc -remove' Command Shows Errors [Q240038]">MS KB240038</a>  
-   More Info <a href="https://www.bing.com/search?q=KB%20279786%20Q279786" rel="nofollow" title="HOWTO: Reinstall MS DTC for a Nonclustered Windows 2000 Server [Q279786]">MS KB279786</a>  
-   More Info <a href="https://www.bing.com/search?q=KB%20873160%20Q873160" rel="nofollow" title="You may receive a 7391 error message in SQLOLEDB when you run a distributed transaction against a linked server after you install Windows XP Service Pack 2 or Windows XP Tablet PC Edition 2005 [Q873160]">MS KB873160</a>
+   More Info <a href="https://www.bing.com/search?q=KB+240038+Q240038" rel="nofollow" title="INFO: The 'msdtc -remove' Command Shows Errors [Q240038]">MS KB240038</a>  
+   More Info <a href="https://www.bing.com/search?q=KB+279786+Q279786" rel="nofollow" title="HOWTO: Reinstall MS DTC for a Nonclustered Windows 2000 Server [Q279786]">MS KB279786</a>  
+   More Info <a href="https://www.bing.com/search?q=KB+873160+Q873160" rel="nofollow" title="You may receive a 7391 error message in SQLOLEDB when you run a distributed transaction against a linked server after you install Windows XP Service Pack 2 or Windows XP Tablet PC Edition 2005 [Q873160]">MS KB873160</a>
 
 ##### Reset Recovery Log
 
@@ -46,7 +46,7 @@ tags:
 >  Event ID : 4163  
 >  Source : MSDTC  
 >  Description: MS DTC log file not found. After ensuring that all Resource Managers coordinated by MS DTC have no indoubt transactions, please run msdtc -resetlog to create the log file.*    
->  More Info <a href="https://www.bing.com/search?q=KB%20205069%20Q205069" rel="nofollow" title="The Microsoft Distributed Transaction Service Does Not Start and Error 3221229584 Is Logged [Q205069]">MS KB205069</a>
+>  More Info <a href="https://www.bing.com/search?q=KB+205069+Q205069" rel="nofollow" title="The Microsoft Distributed Transaction Service Does Not Start and Error 3221229584 Is Logged [Q205069]">MS KB205069</a>
 
  To reset the log-file :
 1. If possible start the computer in safemode

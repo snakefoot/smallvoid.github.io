@@ -24,7 +24,7 @@ Microsoft Exchange Server uses UDP to broadcast notifications about the arrival 
   >  \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Office \\11.0 \\Outlook \\RPC\]  
   >  FixedUDPPort = ? (Outlook 2003)
   
-   More Info <a href="https://www.bing.com/search?q=KB%20839226%20Q839226" rel="nofollow" title="The Outlook Find feature and the new mail notifications do not work after you apply Windows XP Service Pack 2">MS KB839226</a>
+   More Info <a href="https://www.bing.com/search?q=KB+839226+Q839226" rel="nofollow" title="The Outlook Find feature and the new mail notifications do not work after you apply Windows XP Service Pack 2">MS KB839226</a>
 - Configure Outlook to poll the exchange server instead of using UDP, by creating the following registry keys:
   > \[HKEY\_CURRENT\_USER \\Software \\Policies \\Microsoft \\Office \\&lt;ver&gt; \\Outlook \\RPC\]  
   >  \[HKEY\_CURRENT\_USER \\Software \\Microsoft \\Office \\&lt;ver&gt; \\Outlook \\RPC\]  
@@ -34,8 +34,8 @@ Microsoft Exchange Server uses UDP to broadcast notifications about the arrival 
   >  Outlook 2002 (&lt;ver&gt; = 10.0), requires Microsoft Office XP Service Pack 1  
   >  Outlook 2003 (&lt;ver&gt; = 11.0)  
   >   
-  >  More info <a href="https://www.bing.com/search?q=KB%20304849%20Q304849" rel="nofollow" title="You cannot receive a new e-mail notifications in Outlook 2000 when you use the Network Address Translation [Q304849]">MS KB304849</a>  
-  >  More info <a href="https://www.bing.com/search?q=KB%20305572%20Q305572" rel="nofollow" title="You cannot receive new e-mail notifications in environments that use the Network Address Translation in Outlook 2002 [Q305572]">MS KB305572</a>  
-  >  More info <a href="https://www.bing.com/search?q=KB%20311506%20Q311506" rel="nofollow" title="OL2000: You Cannot Receive New E-mail Notifications [Q311506]">MS KB311506</a>
+  >  More info <a href="https://www.bing.com/search?q=KB+304849+Q304849" rel="nofollow" title="You cannot receive a new e-mail notifications in Outlook 2000 when you use the Network Address Translation [Q304849]">MS KB304849</a>  
+  >  More info <a href="https://www.bing.com/search?q=KB+305572+Q305572" rel="nofollow" title="You cannot receive new e-mail notifications in environments that use the Network Address Translation in Outlook 2002 [Q305572]">MS KB305572</a>  
+  >  More info <a href="https://www.bing.com/search?q=KB+311506+Q311506" rel="nofollow" title="OL2000: You Cannot Receive New E-mail Notifications [Q311506]">MS KB311506</a>
   
    Note the default interval between each RPC poll is 60 seconds, and is controlled by the Exchange Server. Therefore users who are using polling will not experience instant delivery, even when sending messages within the organisation.

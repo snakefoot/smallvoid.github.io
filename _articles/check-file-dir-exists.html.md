@@ -23,4 +23,4 @@ It can be useful in [batch files](/article/batch-file.html) to know whether a fi
  Note if working with long directory names with spaces, then one needs to put quotes around the directory-/file-path (Notice that nul should not be included):
  > IF EXIST "C:\\Program Files\\" ECHO Directory exists!
 
- More Info <a href="https://www.bing.com/search?q=KB%2065994%20Q65994" rel="nofollow" title="Testing If a Drive or Directory Exists from a Batch File">MS KB65994</a>  
+ More Info <a href="https://www.bing.com/search?q=KB+65994+Q65994" rel="nofollow" title="Testing If a Drive or Directory Exists from a Batch File">MS KB65994</a>  
