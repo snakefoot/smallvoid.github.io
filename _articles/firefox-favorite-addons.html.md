@@ -7,8 +7,9 @@ excerpt: 'Plugins and setting tweaks for Mozilla Firefox.'
 type: post
 id: 761
 categories:
-    - web-browser_firefox
-tags: []
+    - uncategorized
+tags:
+    - firefox
 ---
 The force of Firefox has always been the vast library of available plugins and themes, which allows one to customize almost everything.  
   
